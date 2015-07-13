@@ -1,0 +1,86 @@
+2015-07-08 17:32:59 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-08 17:32:59 : Executable running on WIN_81  X64
+2015-07-08 17:32:59 : =================== Bot Start ====================
+2015-07-08 17:32:59 : Trying to locate Main Screen
+2015-07-08 17:32:59 : Main Screen Located
+2015-07-08 17:33:00 : Detecting your Buildings..
+2015-07-08 17:33:01 : Town Hall Position: 430, 237
+2015-07-08 17:33:02 : Taking snapshot for later review
+2015-07-08 17:33:07 : Read building Name String = Town Hall (Level 6)
+2015-07-08 17:33:07 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-08 17:33:07 : 2nd $aString = 2, Level 6, 
+2015-07-08 17:33:07 : 3rd $aString = 2, Level, 6
+2015-07-08 17:33:07 : Your Town Hall is Level: 6
+2015-07-08 17:33:08 : Language setting is English: Correct.
+2015-07-08 17:33:09 : Trying to locate Main Screen
+2015-07-08 17:33:09 : Main Screen Located
+2015-07-08 17:33:11 : Profile Report
+2015-07-08 17:33:11 : Opening Profile page to read atk, def, donated ad received...
+2015-07-08 17:33:13 :  [ATKW]: 26 [DEFW]: 0 [TDON]: 200 [TREC]: 171
+2015-07-08 17:33:17 : Checking if Village needs Rearming..
+2015-07-08 17:33:19 : Taking snapshot for later review
+2015-07-08 17:33:28 : Village Report
+2015-07-08 17:33:28 : No. of Free/Total Builders: 0/3
+2015-07-08 17:33:28 :  [T]: 987
+2015-07-08 17:33:29 :  [G]: 77 437 [E]: 700 010 [GEM]: 632
+2015-07-08 17:33:33 : Func Train 
+2015-07-08 17:33:33 : Checking Army Camp...
+2015-07-08 17:33:35 : $sArmyInfo = 135#135
+2015-07-08 17:33:35 : $CurCamp = 135
+2015-07-08 17:33:35 : $TotalCamp = 135
+2015-07-08 17:33:35 : Total Army Camp capacity: 135/135
+2015-07-08 17:33:35 : Training Troops...
+2015-07-08 17:33:37 : This is not a Barrack
+2015-07-08 17:33:38 : Barrack1 selected
+2015-07-08 17:33:38 : Barrack1 selected
+2015-07-08 17:33:38 : Train: need to make normal troops: True
+2015-07-08 17:33:38 : Train: need to make dark troops: False
+2015-07-08 17:33:38 : Barrack1 selected
+2015-07-08 17:33:39 : Barrack2 selected
+2015-07-08 17:33:39 : Barrack2 selected
+2015-07-08 17:33:39 : Barrack3 selected
+2015-07-08 17:33:39 : Barrack3 selected
+2015-07-08 17:33:40 : This is not a Barrack
+2015-07-08 17:33:40 : This is not a Barrack
+2015-07-08 17:33:40 : This is not a Barrack
+2015-07-08 17:33:41 : This is not a Barrack
+2015-07-08 17:33:41 : This is not a Barrack
+2015-07-08 17:33:42 : Your Army Camps are now Full
+2015-07-08 17:33:42 : RESET AT 0 CurArch
+2015-07-08 17:33:42 : RESET AT 0 CurGiant
+2015-07-08 17:33:42 : RESET AT 0 CurWall
+2015-07-08 17:33:42 : RESET AT 0 CurBarb
+2015-07-08 17:33:42 : RESET AT 0 CurGobl
+2015-07-08 17:33:42 : RESET AT 0 CurHeal
+2015-07-08 17:33:42 : RESET AT 0 CurPekk
+2015-07-08 17:33:42 : RESET AT 0 CurBall
+2015-07-08 17:33:42 : RESET AT 0 CurWiza
+2015-07-08 17:33:42 : RESET AT 0 CurDrag
+2015-07-08 17:33:42 : RESET AT 0 CurMini
+2015-07-08 17:33:42 : RESET AT 0 CurHogs
+2015-07-08 17:33:42 : RESET AT 0 CurValk
+2015-07-08 17:33:42 : RESET AT 0 CurGole
+2015-07-08 17:33:42 : RESET AT 0 CurWitc
+2015-07-08 17:33:42 : RESET AT 0 CurLava
+2015-07-08 17:33:42 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-08 17:33:42 : -- Compute AnotherTroops to train
+2015-07-08 17:33:42 : Need to train ASSIGN.... CurGiant:9
+2015-07-08 17:33:42 : -- AnotherTroops to train:0 + 9*5
+2015-07-08 17:33:42 : --------------AnotherTroops TOTAL to train:45
+2015-07-08 17:33:42 : Need to train (height) GOBL:0 BARB: 36 ARCH: 54 AND 45 other troops space
+2015-07-08 17:33:42 : BARRACKNUM: 3
+2015-07-08 17:33:42 : ArchEBarrack: 18
+2015-07-08 17:33:42 : GiantEBarrack: 3
+2015-07-08 17:33:42 : BarbEBarrack: 12
+2015-07-08 17:33:42 : DARKBARRACKNUM: 1
+2015-07-08 17:33:42 : Barrack3 selected
+2015-07-08 17:33:46 : Barrack2 selected
+2015-07-08 17:33:49 : Barrack1 selected
+2015-07-08 17:33:52 : This is not a Barrack
+2015-07-08 17:33:52 : ---================================================================---
+2015-07-08 17:33:57 : Requesting Clan Castle Troops
+2015-07-08 17:34:04 : No free builder, Upgrade Walls skipped..
+2015-07-08 17:34:06 : Profile Report
+2015-07-08 17:34:06 : Opening Profile page to read atk, def, donated ad received...
+2015-07-08 17:34:08 :  [ATKW]: 26 [DEFW]: 0 [TDON]: 200 [TREC]: 177
+2015-07-08 17:34:09 : Going to Attack...

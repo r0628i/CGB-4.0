@@ -1,0 +1,60 @@
+2015-07-09 22:21:25 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 22:21:25 : Au3 Script running on WIN_81  X64
+2015-07-09 22:21:25 : =================== Bot Start ====================
+2015-07-09 22:21:26 : Trying to locate Main Screen
+2015-07-09 22:21:26 : Main Screen Located
+2015-07-09 22:21:27 : Detecting your Buildings..
+2015-07-09 22:21:27 : Town Hall Position: 430, 237
+2015-07-09 22:21:29 : Taking snapshot for later review
+2015-07-09 22:21:34 : Read building Name String = Town Hall (Level 6)
+2015-07-09 22:21:34 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-09 22:21:34 : 2nd $aString = 2, Level 6, 
+2015-07-09 22:21:34 : 3rd $aString = 2, Level, 6
+2015-07-09 22:21:34 : Your Town Hall is Level: 6
+2015-07-09 22:21:35 : Language setting is English: Correct.
+2015-07-09 22:21:36 : Trying to locate Main Screen
+2015-07-09 22:21:36 : Main Screen Located
+2015-07-09 22:21:38 : Profile Report
+2015-07-09 22:21:38 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 22:21:39 :  [ATKW]: 38 [DEFW]: 2 [TDON]: 302 [TREC]: 326
+2015-07-09 22:21:46 : Village Report
+2015-07-09 22:21:46 : No. of Free/Total Builders: 0/3
+2015-07-09 22:21:46 :  [T]: 1 013
+2015-07-09 22:21:47 :  [G]: 1 343 866 [E]: 1 174 715 [GEM]: 632
+2015-07-09 22:21:49 : Donation not Planned, Skipped..
+2015-07-09 22:21:50 : Func Train 
+2015-07-09 22:21:50 : Checking Army Camp...
+2015-07-09 22:21:51 : $sArmyInfo = 135#135
+2015-07-09 22:21:51 : $CurCamp = 135
+2015-07-09 22:21:51 : $TotalCamp = 135
+2015-07-09 22:21:52 : Total Army Camp capacity: 135/135
+2015-07-09 22:21:52 : Training Troops...
+2015-07-09 22:21:54 : This is not a Barrack
+2015-07-09 22:21:54 : Barrack1 selected
+2015-07-09 22:21:54 : Barrack1 selected
+2015-07-09 22:21:54 : Train: need to make normal troops: True
+2015-07-09 22:21:54 : Train: need to make dark troops: False
+2015-07-09 22:21:54 : Barrack1 selected
+2015-07-09 22:21:55 : Barrack2 selected
+2015-07-09 22:21:55 : Barrack2 selected
+2015-07-09 22:21:56 : Barrack3 selected
+2015-07-09 22:21:56 : Barrack3 selected
+2015-07-09 22:21:56 : This is not a Barrack
+2015-07-09 22:21:56 : This is not a Barrack
+2015-07-09 22:21:57 : This is not a Barrack
+2015-07-09 22:21:57 : This is not a Barrack
+2015-07-09 22:21:57 : ClashGameBot was Paused!
+2015-07-09 22:22:21 : ClashGameBot was Resumed.
+2015-07-09 22:22:22 : This is not a Barrack
+2015-07-09 22:22:23 : ClashGameBot was Paused!
+2015-07-09 22:22:26 : ClashGameBot was Resumed.
+2015-07-09 22:22:27 : Train: need to make normal troops: True
+2015-07-09 22:22:27 : Train: need to make dark troops: False
+2015-07-09 22:22:27 : Barrack3 selected
+2015-07-09 22:22:27 : This is not a Barrack
+2015-07-09 22:22:28 : This is not a Barrack
+2015-07-09 22:22:28 : This is not a Barrack
+2015-07-09 22:22:28 : This is not a Barrack
+2015-07-09 22:22:28 : This is not a Barrack
+2015-07-09 22:22:28 : This is not a Barrack
+2015-07-09 22:22:28 : ClashGameBot was Paused!

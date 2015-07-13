@@ -1,0 +1,87 @@
+2015-07-09 17:01:10 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 17:01:10 : Executable running on WIN_81  X64
+2015-07-09 17:01:10 : =================== Bot Start ====================
+2015-07-09 17:01:10 : Trying to locate Main Screen
+2015-07-09 17:01:10 : Main Screen Located
+2015-07-09 17:01:11 : Detecting your Buildings..
+2015-07-09 17:01:12 : Town Hall Position: 430, 237
+2015-07-09 17:01:14 : Taking snapshot for later review
+2015-07-09 17:01:19 : Read building Name String = Town Hall (Level 6)
+2015-07-09 17:01:19 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-09 17:01:19 : 2nd $aString = 2, Level 6, 
+2015-07-09 17:01:19 : 3rd $aString = 2, Level, 6
+2015-07-09 17:01:19 : Your Town Hall is Level: 6
+2015-07-09 17:01:20 : Language setting is English: Correct.
+2015-07-09 17:01:21 : Trying to locate Main Screen
+2015-07-09 17:01:21 : Main Screen Located
+2015-07-09 17:01:23 : Profile Report
+2015-07-09 17:01:23 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 17:01:24 :  [ATKW]: 29 [DEFW]: 2 [TDON]: 250 [TREC]: 211
+2015-07-09 17:01:32 : Village Report
+2015-07-09 17:01:32 : No. of Free/Total Builders: 0/3
+2015-07-09 17:01:32 :  [T]: 1 048
+2015-07-09 17:01:33 :  [G]: 254 888 [E]: 404 049 [GEM]: 632
+2015-07-09 17:01:37 : Chat Request: def
+2015-07-09 17:01:39 : Unable to read Chat Request!
+2015-07-09 17:01:40 : Chat Request: 3 orabove dragon
+2015-07-09 17:01:43 : Chat Request: 3 orabove dragon
+2015-07-09 17:01:45 : Chat Request: balloon
+2015-07-09 17:01:47 : Func Train 
+2015-07-09 17:01:47 : Checking Army Camp...
+2015-07-09 17:01:48 : $sArmyInfo = 88#135
+2015-07-09 17:01:48 : $CurCamp = 88
+2015-07-09 17:01:48 : $TotalCamp = 135
+2015-07-09 17:01:49 : Total Army Camp capacity: 88/135
+2015-07-09 17:01:49 : $hBitmapFirst made
+2015-07-09 17:01:49 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 17:01:52 : Dll return $FullTemp :Barbarian|9-20|21#Archer|70-22|27#Giant|134-23|8
+2015-07-09 17:01:52 : $Trooptype split # : 3
+2015-07-09 17:01:52 : Start the Loop
+2015-07-09 17:01:52 : $TroopTypeT[$i] split : 1
+2015-07-09 17:01:52 :  - No. of Barbarians: 21
+2015-07-09 17:01:52 : $TroopTypeT[$i] split : 2
+2015-07-09 17:01:52 :  - No. of Archers: 27
+2015-07-09 17:01:52 : $TroopTypeT[$i] split : 3
+2015-07-09 17:01:52 :  - No. of Giants: 8
+2015-07-09 17:01:52 : Training Troops...
+2015-07-09 17:01:54 : This is not a Barrack
+2015-07-09 17:01:54 : Barrack1 selected
+2015-07-09 17:01:55 : Barrack1 selected
+2015-07-09 17:01:55 : Train: need to make normal troops: True
+2015-07-09 17:01:55 : Train: need to make dark troops: False
+2015-07-09 17:01:55 : Barrack1 selected
+2015-07-09 17:01:56 : Barrack2 selected
+2015-07-09 17:01:56 : Barrack2 selected
+2015-07-09 17:01:56 : Barrack3 selected
+2015-07-09 17:01:57 : Barrack3 selected
+2015-07-09 17:01:57 : This is not a Barrack
+2015-07-09 17:01:57 : This is not a Barrack
+2015-07-09 17:01:58 : This is not a Barrack
+2015-07-09 17:01:58 : This is not a Barrack
+2015-07-09 17:01:58 : This is not a Barrack
+2015-07-09 17:01:59 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-09 17:01:59 : -- AnotherTroops to train:0 + 9*5
+2015-07-09 17:01:59 : Need to train Giant:9
+2015-07-09 17:01:59 : -- AnotherTroops to train:45 + 0*2
+2015-07-09 17:01:59 : -- AnotherTroops to train:45 + 0*14
+2015-07-09 17:01:59 : -- AnotherTroops to train:45 + 0*25
+2015-07-09 17:01:59 : -- AnotherTroops to train:45 + 0*5
+2015-07-09 17:01:59 : -- AnotherTroops to train:45 + 0*4
+2015-07-09 17:01:59 : -- AnotherTroops to train:45 + 0*20
+2015-07-09 17:01:59 : -- AnotherTroops dark to train:45 + 0*2
+2015-07-09 17:01:59 : -- AnotherTroops dark to train:45 + 0*5
+2015-07-09 17:01:59 : -- AnotherTroops dark to train:45 + 0*8
+2015-07-09 17:01:59 : -- AnotherTroops dark to train:45 + 0*30
+2015-07-09 17:01:59 : -- AnotherTroops dark to train:45 + 0*12
+2015-07-09 17:01:59 : -- AnotherTroops dark to train:45 + 0*30
+2015-07-09 17:01:59 : --------------AnotherTroops TOTAL to train:45
+2015-07-09 17:01:59 : Need to train (height) GOBL:0 BARB: 15 ARCH: 27 AND 45 other troops space
+2015-07-09 17:01:59 : BARRACKNUM: 3
+2015-07-09 17:01:59 : ArchEBarrack: 9
+2015-07-09 17:01:59 : BarbEBarrack: 5
+2015-07-09 17:01:59 : DARKBARRACKNUM: 1
+2015-07-09 17:01:59 : Barrack3 selected
+2015-07-09 17:02:00 : AfterAttack:True
+2015-07-09 17:02:06 : Barrack2 selected
+2015-07-09 17:02:06 : AfterAttack:True
+2015-07-09 17:02:10 : ClashGameBot was Paused!

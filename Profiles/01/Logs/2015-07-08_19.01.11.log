@@ -1,0 +1,55 @@
+2015-07-08 19:01:12 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-08 19:01:12 : Executable running on WIN_81  X64
+2015-07-08 19:01:12 : =================== Bot Start ====================
+2015-07-08 19:01:12 : Trying to locate Main Screen
+2015-07-08 19:01:13 : Waiting for Main Screen
+2015-07-08 19:01:16 : Zooming Out
+2015-07-08 19:01:18 : Main Screen Located
+2015-07-08 19:01:19 : Detecting your Buildings..
+2015-07-08 19:01:20 : Town Hall Position: 430, 237
+2015-07-08 19:01:21 : Taking snapshot for later review
+2015-07-08 19:01:24 : Read building Name String = Town Hall (Level 6)
+2015-07-08 19:01:24 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-08 19:01:24 : 2nd $aString = 2, Level 6, 
+2015-07-08 19:01:24 : 3rd $aString = 2, Level, 6
+2015-07-08 19:01:24 : Your Town Hall is Level: 6
+2015-07-08 19:01:25 : Language setting is English: Correct.
+2015-07-08 19:01:26 : Trying to locate Main Screen
+2015-07-08 19:01:26 : Main Screen Located
+2015-07-08 19:01:28 : Profile Report
+2015-07-08 19:01:28 : Opening Profile page to read atk, def, donated ad received...
+2015-07-08 19:01:30 :  [ATKW]: 26 [DEFW]: 0 [TDON]: 200 [TREC]: 189
+2015-07-08 19:01:34 : Checking if Village needs Rearming..
+2015-07-08 19:01:36 : Taking snapshot for later review
+2015-07-08 19:01:45 : Village Report
+2015-07-08 19:01:45 : No. of Free/Total Builders: 0/3
+2015-07-08 19:01:46 :  [T]: 987
+2015-07-08 19:01:46 :  [G]: 77 437 [E]: 696 770 [GEM]: 632
+2015-07-08 19:01:50 : Chat Request: any
+2015-07-08 19:01:50 : Archers Keyword found: any
+2015-07-08 19:01:50 : Donating Archers
+2015-07-08 19:01:53 : Chat Request: anything
+2015-07-08 19:01:53 : Archers Keyword found: anything
+2015-07-08 19:01:53 : Donating Archers
+2015-07-08 19:01:56 : Chat Request: any
+2015-07-08 19:01:56 : Archers Keyword found: any
+2015-07-08 19:01:57 : Donating Archers
+2015-07-08 19:02:00 : Func Train 
+2015-07-08 19:02:00 : Checking Army Camp...
+2015-07-08 19:02:02 : $sArmyInfo = 124#135
+2015-07-08 19:02:02 : $CurCamp = 124
+2015-07-08 19:02:02 : $TotalCamp = 135
+2015-07-08 19:02:02 : Total Army Camp capacity: 124/135
+2015-07-08 19:02:02 : $hBitmapFirst made
+2015-07-08 19:02:03 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-08 19:02:05 : Dll return $FullTemp :Barbarian|9-20|34#Archer|70-22|25#Giant|134-23|13
+2015-07-08 19:02:05 : $Trooptype split # : 3
+2015-07-08 19:02:05 : Start the Loop
+2015-07-08 19:02:06 : $TroopTypeT[$i] split : 1
+2015-07-08 19:02:06 :  - No. of Barbarians: 34
+2015-07-08 19:02:06 : $TroopTypeT[$i] split : 2
+2015-07-08 19:02:06 :  - No. of Archers: 25
+2015-07-08 19:02:06 : $TroopTypeT[$i] split : 3
+2015-07-08 19:02:06 :  - No. of Giants: 13
+2015-07-08 19:02:06 : Training Troops...
+2015-07-08 19:02:07 : ClashGameBot was Paused!

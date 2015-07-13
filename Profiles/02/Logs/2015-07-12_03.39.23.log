@@ -1,0 +1,156 @@
+2015-07-12 03:39:25 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 03:39:25 : Au3 Script running on WIN_81  X64
+2015-07-12 03:39:25 : =================== Bot Start ====================
+2015-07-12 03:39:25 : Trying to locate Main Screen
+2015-07-12 03:39:27 : PureClick 1,1,1,0 #0133 | Away
+2015-07-12 03:39:27 : Waiting for Main Screen
+2015-07-12 03:39:29 : Main Screen Located
+2015-07-12 03:39:29 : Click 1,1,1,0 #0166 | Away
+2015-07-12 03:39:30 : Detecting your Buildings..
+2015-07-12 03:39:30 : Click 1,1,2,200 
+2015-07-12 03:39:30 : Town Hall Position: 433, 308
+2015-07-12 03:39:30 : Click 433,313,1,0 
+2015-07-12 03:39:32 : Taking snapshot for later review
+2015-07-12 03:39:35 : Read building Name String = Town Hall (Level 8)
+2015-07-12 03:39:35 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-12 03:39:35 : 2nd $aString = 2, Level 8, 
+2015-07-12 03:39:35 : 3rd $aString = 2, Level, 8
+2015-07-12 03:39:35 : Your Town Hall is Level: 8
+2015-07-12 03:39:35 : Click 1,1,2,200 
+2015-07-12 03:39:36 : Language setting is English: Correct.
+2015-07-12 03:39:37 : Trying to locate Main Screen
+2015-07-12 03:39:37 : Main Screen Located
+2015-07-12 03:39:38 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 03:39:41 : Click 1,1,1,0 #0332 | Away
+2015-07-12 03:39:43 : Checking if Village needs Rearming..
+2015-07-12 03:39:43 : Click 1,1,1,0 #0224 | Away
+2015-07-12 03:39:43 : Click 433,313,1,0 #0225 | Rearm - Click Town Hall
+2015-07-12 03:39:45 : Taking snapshot for later review
+2015-07-12 03:39:51 : Click 1,1,1,0 #0234 | Away
+2015-07-12 03:39:53 : PureClick 1,1,1,0 #0319 | Away
+2015-07-12 03:39:54 : Village Report
+2015-07-12 03:39:54 : No. of Free/Total Builders: 0/5
+2015-07-12 03:39:54 :  [T]: 3 144
+2015-07-12 03:39:54 :  [G]: 292 636 [E]: 5 585 600 [D]: 77 544 [GEM]: 2 027
+2015-07-12 03:39:57 : Donation not Planned, Skipped..
+2015-07-12 03:39:58 : Func Train 
+2015-07-12 03:39:59 : Checking Army Camp...
+2015-07-12 03:39:59 : Click 1,1,1,0 #0292 | Away
+2015-07-12 03:39:59 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-12 03:40:00 : $sArmyInfo = 200#200
+2015-07-12 03:40:00 : $CurCamp = 200
+2015-07-12 03:40:00 : $TotalCamp = 200
+2015-07-12 03:40:01 : Total Army Camp capacity: 200/200
+2015-07-12 03:40:01 : Click 1,1,1,0 #0295 | Away
+2015-07-12 03:40:01 : Training Troops...
+2015-07-12 03:40:01 : Click 1,1,1,0 #0268 | Away
+2015-07-12 03:40:01 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-12 03:40:03 : Barrack #1 is available
+2015-07-12 03:40:03 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:40:03 : Barrack #1selected
+2015-07-12 03:40:03 : Barrack #1selected
+2015-07-12 03:40:04 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:40:05 : Barrack #2 is available
+2015-07-12 03:40:05 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:40:05 : Barrack #2selected
+2015-07-12 03:40:05 : Barrack #2selected
+2015-07-12 03:40:06 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:40:07 : Barrack #3 is available
+2015-07-12 03:40:07 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:40:08 : Barrack #3selected
+2015-07-12 03:40:08 : Barrack #3selected
+2015-07-12 03:40:08 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-12 03:40:08 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-12 03:40:08 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-12 03:40:09 : Click 331,320,15,10 #0275 | Train - Train Archer
+2015-07-12 03:40:10 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:40:11 : Barrack #4 is available
+2015-07-12 03:40:11 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:40:12 : Barrack #4selected
+2015-07-12 03:40:12 : Barrack #4selected
+2015-07-12 03:40:12 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:40:13 : Dark Barrack #1 is upgrading
+2015-07-12 03:40:13 : Dark Barrack #2 is available
+2015-07-12 03:40:13 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:40:14 : Dark Barrack #2selected
+2015-07-12 03:40:14 : Dark Barrack #2selected
+2015-07-12 03:40:14 : Click 496,197,10,0 #0287 | Train - Remove Troops
+2015-07-12 03:40:14 : Click 496,197,10,0 #0287 | Train - Remove Troops
+2015-07-12 03:40:15 : Click 546,320,99,100 #0277 | Train - Train Goblin
+2015-07-12 03:40:16 : Click 220,320,10,100 #0274 | Train - Train Barbarian
+2015-07-12 03:40:17 : ---================================================================---
+2015-07-12 03:40:18 : Click 1,1,2,250 #0291 | Away
+2015-07-12 03:40:21 : Request CC not Planned, Skipped..
+2015-07-12 03:40:25 : No free builder, Upgrade Walls skipped..
+2015-07-12 03:40:28 : Trying to locate Main Screen
+2015-07-12 03:40:28 : Main Screen Located
+2015-07-12 03:40:29 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 03:40:31 : Click 1,1,1,0 #0332 | Away
+2015-07-12 03:40:34 : Checking if Village needs Rearming..
+2015-07-12 03:40:34 : Click 1,1,1,0 #0224 | Away
+2015-07-12 03:40:34 : Click 433,313,1,0 #0225 | Rearm - Click Town Hall
+2015-07-12 03:40:36 : Taking snapshot for later review
+2015-07-12 03:40:42 : Click 1,1,1,0 #0234 | Away
+2015-07-12 03:40:44 : PureClick 1,1,1,0 #0319 | Away
+2015-07-12 03:40:45 : Village Report
+2015-07-12 03:40:45 : No. of Free/Total Builders: 0/5
+2015-07-12 03:40:45 :  [T]: 3 144
+2015-07-12 03:40:45 :  [G]: 292 636 [E]: 5 585 200 [D]: 77 337 [GEM]: 2 027
+2015-07-12 03:40:47 : Donation not Planned, Skipped..
+2015-07-12 03:40:48 : Func Train 
+2015-07-12 03:40:48 : Checking Army Camp...
+2015-07-12 03:40:49 : Click 1,1,1,0 #0292 | Away
+2015-07-12 03:40:49 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-12 03:40:50 : $sArmyInfo = 200#200
+2015-07-12 03:40:50 : $CurCamp = 200
+2015-07-12 03:40:50 : $TotalCamp = 200
+2015-07-12 03:40:50 : Total Army Camp capacity: 200/200
+2015-07-12 03:40:50 : Click 1,1,1,0 #0295 | Away
+2015-07-12 03:40:50 : Training Troops...
+2015-07-12 03:40:51 : Click 1,1,1,0 #0268 | Away
+2015-07-12 03:40:51 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-12 03:40:52 : Barrack #1 is available
+2015-07-12 03:40:52 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:40:53 : Barrack #1selected
+2015-07-12 03:40:53 : Barrack #1selected
+2015-07-12 03:40:54 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:40:55 : Barrack #2 is available
+2015-07-12 03:40:55 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:40:56 : Barrack #2selected
+2015-07-12 03:40:56 : Barrack #2selected
+2015-07-12 03:40:56 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:40:58 : Barrack #3 is available
+2015-07-12 03:40:58 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:40:58 : Barrack #3selected
+2015-07-12 03:40:58 : Barrack #3selected
+2015-07-12 03:40:58 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-12 03:40:58 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-12 03:40:59 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-12 03:40:59 : Click 331,320,15,10 #0275 | Train - Train Archer
+2015-07-12 03:41:00 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:41:02 : Barrack #4 is available
+2015-07-12 03:41:02 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:41:02 : Barrack #4selected
+2015-07-12 03:41:02 : Barrack #4selected
+2015-07-12 03:41:03 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:41:04 : Dark Barrack #1 is upgrading
+2015-07-12 03:41:04 : Dark Barrack #2 is available
+2015-07-12 03:41:04 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:41:04 : Dark Barrack #2selected
+2015-07-12 03:41:04 : Dark Barrack #2selected
+2015-07-12 03:41:04 : Click 496,197,10,0 #0287 | Train - Remove Troops
+2015-07-12 03:41:05 : Click 496,197,10,0 #0287 | Train - Remove Troops
+2015-07-12 03:41:05 : Click 546,320,99,100 #0277 | Train - Train Goblin
+2015-07-12 03:41:06 : Click 220,320,10,100 #0274 | Train - Train Barbarian
+2015-07-12 03:41:09 : ---================================================================---
+2015-07-12 03:41:09 : Click 1,1,2,250 #0291 | Away
+2015-07-12 03:41:13 : Request CC not Planned, Skipped..
+2015-07-12 03:41:16 : No free builder, Upgrade Walls skipped..
+2015-07-12 03:41:19 : Trying to locate Main Screen
+2015-07-12 03:41:19 : Main Screen Located
+2015-07-12 03:41:20 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 03:41:23 : Click 1,1,1,0 #0332 | Away
+2015-07-12 03:41:25 : Checking if Village needs Rearming..
+2015-07-12 03:41:25 : Click 1,1,1,0 #0224 | Away
+2015-07-12 03:41:25 : Click 433,313,1,0 #0225 | Rearm - Click Town Hall
+2015-07-12 03:41:27 : Taking snapshot for later review

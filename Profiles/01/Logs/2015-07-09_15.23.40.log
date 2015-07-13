@@ -1,0 +1,147 @@
+2015-07-09 15:23:41 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 15:23:41 : Executable running on WIN_81  X64
+2015-07-09 15:23:41 : =================== Bot Start ====================
+2015-07-09 15:23:41 : Trying to locate Main Screen
+2015-07-09 15:23:41 : Main Screen Located
+2015-07-09 15:23:42 : Detecting your Buildings..
+2015-07-09 15:23:43 : Town Hall Position: 430, 237
+2015-07-09 15:23:45 : Taking snapshot for later review
+2015-07-09 15:23:48 : Read building Name String = Town Hall (Level 6)
+2015-07-09 15:23:48 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-09 15:23:48 : 2nd $aString = 2, Level 6, 
+2015-07-09 15:23:48 : 3rd $aString = 2, Level, 6
+2015-07-09 15:23:48 : Your Town Hall is Level: 6
+2015-07-09 15:23:49 : Language setting is English: Correct.
+2015-07-09 15:23:50 : Trying to locate Main Screen
+2015-07-09 15:23:50 : Main Screen Located
+2015-07-09 15:23:52 : Profile Report
+2015-07-09 15:23:52 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 15:23:53 :  [ATKW]: 26 [DEFW]: 2 [TDON]: 230 [TREC]: 211
+2015-07-09 15:24:01 : Village Report
+2015-07-09 15:24:01 : No. of Free/Total Builders: 0/3
+2015-07-09 15:24:01 :  [T]: 1 017
+2015-07-09 15:24:01 :  [G]: 105 030 [E]: 295 309 [GEM]: 632
+2015-07-09 15:24:06 : Unable to read Chat Request!
+2015-07-09 15:24:08 : Chat Request: 3 orabove dragon
+2015-07-09 15:24:10 : Chat Request: balloon
+2015-07-09 15:24:12 : Func Train 
+2015-07-09 15:24:12 : Checking Army Camp...
+2015-07-09 15:24:13 : $sArmyInfo = 135#135
+2015-07-09 15:24:13 : $CurCamp = 135
+2015-07-09 15:24:13 : $TotalCamp = 135
+2015-07-09 15:24:14 : Total Army Camp capacity: 135/135
+2015-07-09 15:24:14 : Training Troops...
+2015-07-09 15:24:16 : This is not a Barrack
+2015-07-09 15:24:16 : Barrack1 selected
+2015-07-09 15:24:17 : Barrack1 selected
+2015-07-09 15:24:17 : Train: need to make normal troops: True
+2015-07-09 15:24:17 : Train: need to make dark troops: False
+2015-07-09 15:24:17 : Barrack1 selected
+2015-07-09 15:24:17 : Barrack2 selected
+2015-07-09 15:24:17 : Barrack2 selected
+2015-07-09 15:24:18 : Barrack3 selected
+2015-07-09 15:24:18 : Barrack3 selected
+2015-07-09 15:24:19 : This is not a Barrack
+2015-07-09 15:24:19 : This is not a Barrack
+2015-07-09 15:24:19 : This is not a Barrack
+2015-07-09 15:24:20 : This is not a Barrack
+2015-07-09 15:24:20 : This is not a Barrack
+2015-07-09 15:24:21 : Your Army Camps are now Full
+2015-07-09 15:24:21 : RESET AT 0 CurArch
+2015-07-09 15:24:21 : RESET AT 0 CurGiant
+2015-07-09 15:24:21 : RESET AT 0 CurWall
+2015-07-09 15:24:21 : RESET AT 0 CurBarb
+2015-07-09 15:24:21 : RESET AT 0 CurGobl
+2015-07-09 15:24:21 : RESET AT 0 CurHeal
+2015-07-09 15:24:21 : RESET AT 0 CurPekk
+2015-07-09 15:24:21 : RESET AT 0 CurBall
+2015-07-09 15:24:21 : RESET AT 0 CurWiza
+2015-07-09 15:24:21 : RESET AT 0 CurDrag
+2015-07-09 15:24:21 : RESET AT 0 CurMini
+2015-07-09 15:24:21 : RESET AT 0 CurHogs
+2015-07-09 15:24:21 : RESET AT 0 CurValk
+2015-07-09 15:24:21 : RESET AT 0 CurGole
+2015-07-09 15:24:21 : RESET AT 0 CurWitc
+2015-07-09 15:24:21 : RESET AT 0 CurLava
+2015-07-09 15:24:21 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-09 15:24:21 : -- Compute AnotherTroops to train
+2015-07-09 15:24:21 : Need to train (height) GOBL:0 BARB: 68 ARCH: 68 AND 0 other troops space
+2015-07-09 15:24:21 : BARRACKNUM: 3
+2015-07-09 15:24:21 : ArchEBarrack: 22
+2015-07-09 15:24:21 : BarbEBarrack: 22
+2015-07-09 15:24:21 : DARKBARRACKNUM: 1
+2015-07-09 15:24:21 : Barrack3 selected
+2015-07-09 15:24:28 : Barrack2 selected
+2015-07-09 15:24:33 : Barrack1 selected
+2015-07-09 15:24:38 : This is not a Barrack
+2015-07-09 15:24:38 : ---================================================================---
+2015-07-09 15:24:39 : ClashGameBot was Paused!
+2015-07-09 15:25:30 : ClashGameBot was Resumed.
+2015-07-09 15:25:32 : Waiting for Main Screen
+2015-07-09 15:25:36 : Trying to locate Main Screen
+2015-07-09 15:25:36 : Main Screen Located
+2015-07-09 15:25:38 : Profile Report
+2015-07-09 15:25:38 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 15:25:39 :  [ATKW]: 26 [DEFW]: 2 [TDON]: 230 [TREC]: 211
+2015-07-09 15:25:47 : Village Report
+2015-07-09 15:25:47 : No. of Free/Total Builders: 0/3
+2015-07-09 15:25:47 :  [T]: 1 017
+2015-07-09 15:25:47 :  [G]: 105 030 [E]: 285 289 [GEM]: 632
+2015-07-09 15:25:51 : Chat Request: any
+2015-07-09 15:25:51 : Archers Keyword found: any
+2015-07-09 15:25:52 : Donating Archers
+2015-07-09 15:25:54 : Unable to read Chat Request!
+2015-07-09 15:25:56 : Chat Request: 3 orabove dragon
+2015-07-09 15:25:58 : Chat Request: balloon
+2015-07-09 15:26:00 : Chat Request: balloon
+2015-07-09 15:26:02 : Func Train 
+2015-07-09 15:26:02 : Checking Army Camp...
+2015-07-09 15:26:04 : $sArmyInfo = 135#135
+2015-07-09 15:26:04 : $CurCamp = 135
+2015-07-09 15:26:04 : $TotalCamp = 135
+2015-07-09 15:26:04 : Total Army Camp capacity: 135/135
+2015-07-09 15:26:04 : Training Troops...
+2015-07-09 15:26:07 : This is not a Barrack
+2015-07-09 15:26:08 : Barrack1 selected
+2015-07-09 15:26:08 : Barrack1 selected
+2015-07-09 15:26:08 : Train: need to make normal troops: True
+2015-07-09 15:26:08 : Train: need to make dark troops: False
+2015-07-09 15:26:08 : Barrack1 selected
+2015-07-09 15:26:09 : Barrack2 selected
+2015-07-09 15:26:09 : Barrack2 selected
+2015-07-09 15:26:09 : Barrack3 selected
+2015-07-09 15:26:09 : Barrack3 selected
+2015-07-09 15:26:10 : This is not a Barrack
+2015-07-09 15:26:10 : This is not a Barrack
+2015-07-09 15:26:10 : This is not a Barrack
+2015-07-09 15:26:11 : This is not a Barrack
+2015-07-09 15:26:11 : This is not a Barrack
+2015-07-09 15:26:12 : Your Army Camps are now Full
+2015-07-09 15:26:12 : RESET AT 0 CurArch
+2015-07-09 15:26:12 : RESET AT 0 CurGiant
+2015-07-09 15:26:12 : RESET AT 0 CurWall
+2015-07-09 15:26:12 : RESET AT 0 CurBarb
+2015-07-09 15:26:12 : RESET AT 0 CurGobl
+2015-07-09 15:26:12 : RESET AT 0 CurHeal
+2015-07-09 15:26:12 : RESET AT 0 CurPekk
+2015-07-09 15:26:12 : RESET AT 0 CurBall
+2015-07-09 15:26:12 : RESET AT 0 CurWiza
+2015-07-09 15:26:12 : RESET AT 0 CurDrag
+2015-07-09 15:26:12 : RESET AT 0 CurMini
+2015-07-09 15:26:12 : RESET AT 0 CurHogs
+2015-07-09 15:26:12 : RESET AT 0 CurValk
+2015-07-09 15:26:12 : RESET AT 0 CurGole
+2015-07-09 15:26:12 : RESET AT 0 CurWitc
+2015-07-09 15:26:12 : RESET AT 0 CurLava
+2015-07-09 15:26:12 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-09 15:26:12 : -- Compute AnotherTroops to train
+2015-07-09 15:26:12 : Need to train (height) GOBL:0 BARB: 68 ARCH: 68 AND 0 other troops space
+2015-07-09 15:26:12 : BARRACKNUM: 3
+2015-07-09 15:26:12 : ArchEBarrack: 22
+2015-07-09 15:26:12 : BarbEBarrack: 22
+2015-07-09 15:26:12 : DARKBARRACKNUM: 1
+2015-07-09 15:26:13 : Barrack3 selected
+2015-07-09 15:26:15 : Barrack2 selected
+2015-07-09 15:26:18 : Barrack1 selected
+2015-07-09 15:26:20 : This is not a Barrack
+2015-07-09 15:26:20 : ---================================================================---

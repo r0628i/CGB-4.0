@@ -1,0 +1,2560 @@
+2015-07-09 19:43:21 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 19:43:21 : Executable running on WIN_81  X64
+2015-07-09 19:43:21 : =================== Bot Start ====================
+2015-07-09 19:43:21 : Trying to locate Main Screen
+2015-07-09 19:43:21 : Main Screen Located
+2015-07-09 19:43:22 : Detecting your Buildings..
+2015-07-09 19:43:23 : Town Hall Position: 430, 237
+2015-07-09 19:43:24 : Taking snapshot for later review
+2015-07-09 19:43:29 : Read building Name String = Town Hall (Level 6)
+2015-07-09 19:43:29 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-09 19:43:29 : 2nd $aString = 2, Level 6, 
+2015-07-09 19:43:29 : 3rd $aString = 2, Level, 6
+2015-07-09 19:43:29 : Your Town Hall is Level: 6
+2015-07-09 19:43:30 : Language setting is English: Correct.
+2015-07-09 19:43:31 : Trying to locate Main Screen
+2015-07-09 19:43:31 : Main Screen Located
+2015-07-09 19:43:33 : Profile Report
+2015-07-09 19:43:33 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 19:43:35 :  [ATKW]: 33 [DEFW]: 2 [TDON]: 275 [TREC]: 266
+2015-07-09 19:43:42 : Village Report
+2015-07-09 19:43:42 : No. of Free/Total Builders: 0/3
+2015-07-09 19:43:42 :  [T]: 1 044
+2015-07-09 19:43:42 :  [G]: 808 883 [E]: 786 075 [GEM]: 632
+2015-07-09 19:43:47 : Chat Request: 3 orabove dragon
+2015-07-09 19:43:49 : Chat Request: balloon
+2015-07-09 19:43:51 : Chat Request: balloon
+2015-07-09 19:43:53 : Func Train 
+2015-07-09 19:43:53 : Checking Army Camp...
+2015-07-09 19:43:54 : $sArmyInfo = 134#135
+2015-07-09 19:43:54 : $CurCamp = 134
+2015-07-09 19:43:54 : $TotalCamp = 135
+2015-07-09 19:43:55 : Total Army Camp capacity: 134/135
+2015-07-09 19:43:55 : Training Troops...
+2015-07-09 19:43:57 : This is not a Barrack
+2015-07-09 19:43:57 : Barrack1 selected
+2015-07-09 19:43:58 : Barrack1 selected
+2015-07-09 19:43:58 : Train: need to make normal troops: True
+2015-07-09 19:43:58 : Train: need to make dark troops: False
+2015-07-09 19:43:58 : Barrack1 selected
+2015-07-09 19:43:58 : Barrack2 selected
+2015-07-09 19:43:58 : Barrack2 selected
+2015-07-09 19:43:59 : Barrack3 selected
+2015-07-09 19:43:59 : Barrack3 selected
+2015-07-09 19:44:00 : This is not a Barrack
+2015-07-09 19:44:00 : This is not a Barrack
+2015-07-09 19:44:00 : This is not a Barrack
+2015-07-09 19:44:00 : This is not a Barrack
+2015-07-09 19:44:00 : This is not a Barrack
+2015-07-09 19:44:02 : Barrack3 selected
+2015-07-09 19:44:02 : AfterAttack: True
+2015-07-09 19:44:06 : Barrack2 selected
+2015-07-09 19:44:06 : AfterAttack: True
+2015-07-09 19:44:13 : Barrack1 selected
+2015-07-09 19:44:13 : AfterAttack: True
+2015-07-09 19:44:19 : This is not a Barrack
+2015-07-09 19:44:19 : ---================================================================---
+2015-07-09 19:44:23 : Requesting Clan Castle Troops
+2015-07-09 19:44:24 : Request has already been made
+2015-07-09 19:44:28 : No free builder, Upgrade Walls skipped..
+2015-07-09 19:44:31 : Profile Report
+2015-07-09 19:44:31 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 19:44:32 :  [ATKW]: 33 [DEFW]: 2 [TDON]: 275 [TREC]: 266
+2015-07-09 19:44:33 : Going to Attack...
+2015-07-09 19:44:38 : Shield btn clr chk-#1: 282820, #2: 131010, #3: CDC852, #4: BDB949
+2015-07-09 19:44:39 : ============== Searching For Dead Base ===============
+2015-07-09 19:44:39 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-09 19:44:39 : Meet: Gold + Elixir, Max TH 7
+2015-07-09 19:44:39 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-09 19:44:39 : Aim:           [G+E]: 160000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 19:44:39 : ============== Searching For Live Base ===============
+2015-07-09 19:44:39 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-09 19:44:39 : Meet: Gold and Elixir, Max TH 4-6, TH Outside, Weak Base(Mortar: 2, WizTower: 2)
+2015-07-09 19:44:40 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-09 19:44:40 : Aim: [G]: 100000 [E]:  60000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 19:44:40 : ==================================================
+2015-07-09 19:44:42 :   1> [G]:  20506 [E]:  45164 [D]:  N/A [T]:25 [TH]: -, -
+2015-07-09 19:44:45 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:44:46 :   2> [G]:   4275 [E]:   1350 [D]:  N/A [T]:34 [TH]:4-6, In
+2015-07-09 19:44:50 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:44:50 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:44:52 :   3> [G]:  12228 [E]:  24726 [D]:  N/A [T]:30 [TH]: -, -
+2015-07-09 19:44:59 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:45:13 :   4> [G]:  51884 [E]:  55722 [D]:  N/A [T]:34 [TH]: -, -
+2015-07-09 19:45:19 :   5> [G]:        [E]:        [D]:  N/A [T]:   [TH]: -, -
+2015-07-09 19:45:25 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:45:26 :   6> [G]:  21494 [E]:  48385 [D]:  N/A [T]:30 [TH]:4-6, In
+2015-07-09 19:45:32 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:45:33 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:45:35 :   7> [G]:  99103 [E]:  78028 [D]:  N/A [T]:24 [TH]: -, -
+2015-07-09 19:45:41 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:45:42 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:45:43 :   8> [G]:  19670 [E]:   5572 [D]:  195 [T]:31 [TH]: 7, In
+2015-07-09 19:45:48 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:45:49 :   9> [G]:  68179 [E]:  63139 [D]:  N/A [T]:18 [TH]:4-6, In
+2015-07-09 19:45:53 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:45:54 :  10> [G]:  19816 [E]:  16499 [D]:  N/A [T]:27 [TH]:4-6, In
+2015-07-09 19:45:59 : Aim:           [G+E]: 156000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 19:45:59 : Aim: [G]:  98000 [E]:  58000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 19:46:01 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:46:02 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:46:03 :  11> [G]:  53947 [E]:  20785 [D]:  N/A [T]:30 [TH]: -, -
+2015-07-09 19:46:14 :  12> [G]:  24247 [E]:  20970 [D]:  N/A [T]:22 [TH]: -, -
+2015-07-09 19:46:22 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:46:23 :  13> [G]:  16291 [E]:  19037 [D]:  N/A [T]:22 [TH]: 7, In
+2015-07-09 19:46:29 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:46:29 :  14> [G]:  49700 [E]:   9574 [D]:  N/A [T]:33 [TH]:4-6, In
+2015-07-09 19:46:34 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:46:36 :  15> [G]:   3789 [E]:   2045 [D]:  N/A [T]:20 [TH]: -, -
+2015-07-09 19:46:40 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:46:41 :  16> [G]:  45539 [E]:  38386 [D]:  N/A [T]:16 [TH]:4-6, In
+2015-07-09 19:46:47 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:46:48 :  17> [G]:  28896 [E]:  41110 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 19:46:52 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:46:53 :  18> [G]:  33030 [E]:   4851 [D]:  N/A [T]:22 [TH]:4-6, In
+2015-07-09 19:46:59 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:47:00 :  19> [G]:   7060 [E]:  18925 [D]:  N/A [T]:17 [TH]:4-6, Out
+2015-07-09 19:47:07 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:47:08 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:47:08 : Loop to clean screen without Clouds , n?:3
+2015-07-09 19:47:10 :  20> [G]:  12919 [E]:   3259 [D]:  N/A [T]:13 [TH]: -, -
+2015-07-09 19:47:16 : Aim:           [G+E]: 152000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 19:47:16 : Aim: [G]:  96000 [E]:  56000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 19:47:18 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:47:18 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:47:19 :  21> [G]:  53486 [E]:   7231 [D]:   31 [T]:31 [TH]: 7, In
+2015-07-09 19:47:24 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:47:26 :  22> [G]:   4274 [E]:   4622 [D]:  N/A [T]:13 [TH]: -, -
+2015-07-09 19:47:34 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:47:35 :  23> [G]:  15127 [E]:  41721 [D]:  N/A [T]:27 [TH]:4-6, In
+2015-07-09 19:47:40 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:47:41 :  24> [G]:  27952 [E]:  38990 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 19:47:48 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:47:50 :  25> [G]:   3603 [E]:   3979 [D]:  N/A [T]:14 [TH]: -, -
+2015-07-09 19:47:58 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:47:58 :  26> [G]:  11725 [E]:  15604 [D]:  N/A [T]:14 [TH]:4-6, In
+2015-07-09 19:48:06 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:48:07 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:48:09 :  27> [G]:  33934 [E]:  14546 [D]:  N/A [T]:26 [TH]: -, -
+2015-07-09 19:48:17 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:48:18 :  28> [G]:  23527 [E]:  37636 [D]:  N/A [T]:17 [TH]:4-6, In
+2015-07-09 19:48:23 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:48:24 :  29> [G]:  46084 [E]:  50721 [D]:  N/A [T]:16 [TH]: -, -
+2015-07-09 19:48:31 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:48:32 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:48:32 : Loop to clean screen without Clouds , n?:3
+2015-07-09 19:48:33 : Loop to clean screen without Clouds , n?:4
+2015-07-09 19:48:34 :  30> [G]:  38256 [E]:  52360 [D]:   72 [T]:30 [TH]: 7, In
+2015-07-09 19:48:39 : Aim:           [G+E]: 148000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 19:48:39 : Aim: [G]:  94000 [E]:  54000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 19:48:41 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:48:41 :  31> [G]: 112075 [E]:  45415 [D]:  N/A [T]:30 [TH]: 7, In
+2015-07-09 19:48:45 : $ZSExclude :0
+2015-07-09 19:48:48 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:48:49 :  32> [G]:  85922 [E]:  28734 [D]:   50 [T]:23 [TH]: 7, Out
+2015-07-09 19:48:55 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:48:57 :  33> [G]:   3150 [E]:   6075 [D]:  N/A [T]:15 [TH]: -, -
+2015-07-09 19:49:05 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:49:06 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:49:08 :  34> [G]:  18162 [E]:  37307 [D]:  N/A [T]:32 [TH]: -, -
+2015-07-09 19:49:14 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:49:17 :  35> [G]:   4500 [E]:  19373 [D]:   10 [T]:26 [TH]: -, -
+2015-07-09 19:49:24 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:49:25 :  36> [G]:  58859 [E]:  98483 [D]:  N/A [T]:25 [TH]:4-6, Out
+2015-07-09 19:49:29 : $ZSExclude :0
+2015-07-09 19:49:32 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:49:33 :  37> [G]:   7163 [E]:  36271 [D]:  N/A [T]:17 [TH]:4-6, In
+2015-07-09 19:49:38 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:49:38 :  38> [G]:  13619 [E]:  12773 [D]:  N/A [T]:24 [TH]:4-6, In
+2015-07-09 19:49:45 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:49:46 :  39> [G]:  45581 [E]:  79036 [D]:    0 [T]:33 [TH]: 7, In
+2015-07-09 19:49:50 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:49:52 :  40> [G]:   7607 [E]:  14817 [D]:   58 [T]:29 [TH]: -, -
+2015-07-09 19:49:56 : Aim:           [G+E]: 144000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 19:49:56 : Aim: [G]:  92000 [E]:  52000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 19:49:58 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:50:00 :  41> [G]:  61229 [E]:  60978 [D]:  N/A [T]:29 [TH]: -, -
+2015-07-09 19:50:06 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:50:07 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:50:08 :  42> [G]: 148709 [E]: 141686 [D]:  N/A [T]:34 [TH]:4-6, In
+2015-07-09 19:50:13 : $ZSExclude :0
+2015-07-09 19:50:16 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:50:17 :  43> [G]:  20502 [E]:   6521 [D]:  N/A [T]:24 [TH]:4-6, In
+2015-07-09 19:50:24 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:50:25 :  44> [G]:  17059 [E]:  27842 [D]:   71 [T]:26 [TH]: -, -
+2015-07-09 19:50:29 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:50:30 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:50:31 :  45> [G]:  16313 [E]:  38997 [D]:  N/A [T]:25 [TH]:4-6, In
+2015-07-09 19:50:35 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:50:36 :  46> [G]:  33625 [E]:  23359 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-09 19:50:42 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:50:43 :  47> [G]:  30737 [E]:  51553 [D]:  N/A [T]:33 [TH]:4-6, In
+2015-07-09 19:50:46 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:50:47 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:50:48 :  48> [G]: 176157 [E]:  52360 [D]:  265 [T]:28 [TH]: 7, Out
+2015-07-09 19:50:50 : $ZSExclude :0
+2015-07-09 19:50:52 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:50:53 :  49> [G]:   9803 [E]:   7440 [D]:  N/A [T]:16 [TH]:4-6, In
+2015-07-09 19:51:00 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:51:00 : Loop to clean screen without Clouds , n?:2
+2015-07-09 19:51:02 :  50> [G]:  31376 [E]:  19678 [D]:  N/A [T]:26 [TH]: -, -
+2015-07-09 19:51:07 : Aim:           [G+E]: 140000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 19:51:07 : Aim: [G]:  90000 [E]:  50000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 19:51:09 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:51:10 :  51> [G]:  92098 [E]:  34386 [D]:    0 [T]:31 [TH]: 7, In
+2015-07-09 19:51:13 : Loop to clean screen without Clouds , n?:1
+2015-07-09 19:51:14 :  52> [G]:  73262 [E]: 135725 [D]:  N/A [T]:25 [TH]:4-6, In
+2015-07-09 19:51:20 : $ZSExclude :0
+2015-07-09 19:51:21 : ~~~~~~~~~~~~~~~~ Dead Base Found! ~~~~~~~~~~~~~~~~
+2015-07-09 19:51:22 : ================ Search Complete =================
+2015-07-09 19:51:22 : Initiating attack for: Dead Base
+2015-07-09 19:51:28 : -Barbarians 25
+2015-07-09 19:51:28 : -Archers 50
+2015-07-09 19:51:28 : -Giants 12
+2015-07-09 19:51:28 : -Clan Castle 
+2015-07-09 19:51:28 : -Rage Spells 2
+2015-07-09 19:51:28 : -Heal Spells 2
+2015-07-09 19:51:28 :  ====== Start Attack ====== 
+2015-07-09 19:51:30 : Calculating Smart Attack Strategy
+2015-07-09 19:51:31 : Calculated  (in 1.21 seconds) :
+2015-07-09 19:51:31 : Locating Village Pump & Mines
+2015-07-09 19:51:43 : Located  (in 12.19 seconds) :
+2015-07-09 19:51:43 : [3] Gold Mines
+2015-07-09 19:51:43 : [3] Elixir Collectors
+2015-07-09 19:51:43 : [0] Dark Elixir Drill/s
+2015-07-09 19:51:43 : Attacking on all sides
+2015-07-09 19:51:45 : Dropping 2  of Giants => on each side (side : 1)
+2015-07-09 19:51:47 : Dropping 2  of Barbarians => on each side (side : 1)
+2015-07-09 19:51:47 : Dropping 4  of Archers => on each side (side : 1)
+2015-07-09 19:51:48 : Dropping 2  of Giants => on each side (side : 2)
+2015-07-09 19:51:49 : Dropping 2  of Barbarians => on each side (side : 2)
+2015-07-09 19:51:50 : Dropping 4  of Archers => on each side (side : 2)
+2015-07-09 19:51:51 : Dropping 2  of Giants => on each side (side : 3)
+2015-07-09 19:51:52 : Dropping 2  of Barbarians => on each side (side : 3)
+2015-07-09 19:51:53 : Dropping 4  of Archers => on each side (side : 3)
+2015-07-09 19:51:54 : Dropping 2  of Giants => on each side (side : 4)
+2015-07-09 19:51:55 : Dropping 2  of Barbarians => on each side (side : 4)
+2015-07-09 19:51:56 : Dropping 4  of Archers => on each side (side : 4)
+2015-07-09 19:51:57 : Dropping 2  of Giants => on each side (side : 5)
+2015-07-09 19:51:58 : Dropping 2  of Barbarians => on each side (side : 5)
+2015-07-09 19:51:59 : Dropping 4  of Archers => on each side (side : 5)
+2015-07-09 19:51:59 : Dropping 2  of Giants => on each side (side : 6)
+2015-07-09 19:52:01 : Dropping 2  of Barbarians => on each side (side : 6)
+2015-07-09 19:52:02 : Dropping 4  of Archers => on each side (side : 6)
+2015-07-09 19:52:03 : Dropping 2  of Barbarians => on each side (side : 1)
+2015-07-09 19:52:04 : Dropping 4  of Archers => on each side (side : 1)
+2015-07-09 19:52:05 : Dropping 2  of Barbarians => on each side (side : 2)
+2015-07-09 19:52:06 : Dropping 4  of Archers => on each side (side : 2)
+2015-07-09 19:52:06 : Dropping 2  of Barbarians => on each side (side : 3)
+2015-07-09 19:52:07 : Dropping 4  of Archers => on each side (side : 3)
+2015-07-09 19:52:08 : Dropping 2  of Barbarians => on each side (side : 4)
+2015-07-09 19:52:08 : Dropping 4  of Archers => on each side (side : 4)
+2015-07-09 19:52:09 : Dropping 2  of Barbarians => on each side (side : 5)
+2015-07-09 19:52:10 : Dropping 4  of Archers => on each side (side : 5)
+2015-07-09 19:52:11 : Dropping 2  of Barbarians => on each side (side : 6)
+2015-07-09 19:52:12 : Dropping 4  of Archers => on each side (side : 6)
+2015-07-09 19:52:12 :  CheckHeroesHealth started 
+2015-07-09 19:52:13 : Dropping last 1  of Barbarians
+2015-07-09 19:52:14 : Dropping last 2  of Archers
+2015-07-09 19:52:15 : Dropping left over troops
+2015-07-09 19:52:15 : Checking remaining unused troops for: Dead Base
+2015-07-09 19:52:19 : -Archers 0
+2015-07-09 19:52:19 : -Clan Castle 
+2015-07-09 19:52:19 : -Rage Spells 2
+2015-07-09 19:52:19 : -Heal Spells 2
+2015-07-09 19:52:19 :  CheckHeroesHealth started 
+2015-07-09 19:52:20 :  CheckHeroesHealth started 
+2015-07-09 19:52:20 :  CheckHeroesHealth started 
+2015-07-09 19:52:21 :  CheckHeroesHealth started 
+2015-07-09 19:52:22 :  CheckHeroesHealth started 
+2015-07-09 19:52:22 :  CheckHeroesHealth started 
+2015-07-09 19:52:23 :  CheckHeroesHealth started 
+2015-07-09 19:52:23 :  CheckHeroesHealth started 
+2015-07-09 19:52:24 :  CheckHeroesHealth started 
+2015-07-09 19:52:25 :  CheckHeroesHealth started 
+2015-07-09 19:52:25 :  CheckHeroesHealth started 
+2015-07-09 19:52:26 :  CheckHeroesHealth started 
+2015-07-09 19:52:26 :  CheckHeroesHealth started 
+2015-07-09 19:52:27 :  CheckHeroesHealth started 
+2015-07-09 19:52:28 :  CheckHeroesHealth started 
+2015-07-09 19:52:28 :  CheckHeroesHealth started 
+2015-07-09 19:52:29 : Checking remaining unused troops for: Dead Base
+2015-07-09 19:52:32 : -Archers 0
+2015-07-09 19:52:32 : -Clan Castle 
+2015-07-09 19:52:32 : -Rage Spells 2
+2015-07-09 19:52:32 : -Heal Spells 2
+2015-07-09 19:52:32 :  CheckHeroesHealth started 
+2015-07-09 19:52:33 :  CheckHeroesHealth started 
+2015-07-09 19:52:33 :  CheckHeroesHealth started 
+2015-07-09 19:52:34 :  CheckHeroesHealth started 
+2015-07-09 19:52:34 :  CheckHeroesHealth started 
+2015-07-09 19:52:35 :  CheckHeroesHealth started 
+2015-07-09 19:52:36 :  CheckHeroesHealth started 
+2015-07-09 19:52:36 :  CheckHeroesHealth started 
+2015-07-09 19:52:37 :  CheckHeroesHealth started 
+2015-07-09 19:52:37 :  CheckHeroesHealth started 
+2015-07-09 19:52:38 :  CheckHeroesHealth started 
+2015-07-09 19:52:38 :  CheckHeroesHealth started 
+2015-07-09 19:52:39 :  CheckHeroesHealth started 
+2015-07-09 19:52:40 :  CheckHeroesHealth started 
+2015-07-09 19:52:40 :  CheckHeroesHealth started 
+2015-07-09 19:52:41 :  CheckHeroesHealth started 
+2015-07-09 19:52:41 : Finished Attacking, waiting for the battle to end
+2015-07-09 19:52:41 : Checking if the battle has finished
+2015-07-09 19:52:42 :  CheckHeroesHealth started 
+2015-07-09 19:52:43 : detected [G]: 67238 [E]: 83263 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 19:52:43 :  CheckHeroesHealth started 
+2015-07-09 19:52:44 : detected [G]: 67238 [E]: 83263 [DE]:  |  Exit in 17.3 sec.
+2015-07-09 19:52:44 :  CheckHeroesHealth started 
+2015-07-09 19:52:46 : detected [G]: 67123 [E]: 83263 [DE]:  |  Exit in 15.9 sec.
+2015-07-09 19:52:46 : Gold1: 67238  Gold2: 67123
+2015-07-09 19:52:46 : Elixir1: 83263  Elixir2: 83263
+2015-07-09 19:52:46 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 19:52:46 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 19:52:47 :  CheckHeroesHealth started 
+2015-07-09 19:52:48 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 19:52:49 : Gold1: 66985  Gold2: 66962
+2015-07-09 19:52:49 : Elixir1: 83263  Elixir2: 83263
+2015-07-09 19:52:49 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 19:52:49 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 19:52:50 :  CheckHeroesHealth started 
+2015-07-09 19:52:51 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 19:52:51 :  CheckHeroesHealth started 
+2015-07-09 19:52:53 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 17.3 sec.
+2015-07-09 19:52:53 :  CheckHeroesHealth started 
+2015-07-09 19:52:54 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 15.9 sec.
+2015-07-09 19:52:54 :  CheckHeroesHealth started 
+2015-07-09 19:52:55 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 14.5 sec.
+2015-07-09 19:52:55 :  CheckHeroesHealth started 
+2015-07-09 19:52:57 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 13.2 sec.
+2015-07-09 19:52:57 :  CheckHeroesHealth started 
+2015-07-09 19:52:58 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 11.8 sec.
+2015-07-09 19:52:58 :  CheckHeroesHealth started 
+2015-07-09 19:53:00 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 10.4 sec.
+2015-07-09 19:53:00 :  CheckHeroesHealth started 
+2015-07-09 19:53:01 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 9.0 sec.
+2015-07-09 19:53:01 :  CheckHeroesHealth started 
+2015-07-09 19:53:02 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 7.6 sec.
+2015-07-09 19:53:02 :  CheckHeroesHealth started 
+2015-07-09 19:53:04 : detected [G]: 66962 [E]: 83263 [DE]:  |  Exit in 6.2 sec.
+2015-07-09 19:53:04 :  CheckHeroesHealth started 
+2015-07-09 19:53:05 : detected [G]: 66928 [E]: 83229 [DE]:  |  Exit in 4.9 sec.
+2015-07-09 19:53:05 : Gold1: 66962  Gold2: 66928
+2015-07-09 19:53:05 : Elixir1: 83263  Elixir2: 83229
+2015-07-09 19:53:05 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 19:53:05 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 19:53:06 :  CheckHeroesHealth started 
+2015-07-09 19:53:08 : detected [G]: 66928 [E]: 83229 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 19:53:08 :  CheckHeroesHealth started 
+2015-07-09 19:53:09 : detected [G]: 62146 [E]: 83229 [DE]:  |  Exit in 17.3 sec.
+2015-07-09 19:53:09 : Gold1: 66928  Gold2: 62146
+2015-07-09 19:53:09 : Elixir1: 83229  Elixir2: 83229
+2015-07-09 19:53:09 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 19:53:09 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 19:53:11 :  CheckHeroesHealth started 
+2015-07-09 19:53:12 : detected [G]: 56986 [E]: 83229 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 19:53:12 : Gold1: 57221  Gold2: 56986
+2015-07-09 19:53:12 : Elixir1: 83229  Elixir2: 83229
+2015-07-09 19:53:12 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 19:53:12 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 19:53:13 :  CheckHeroesHealth started 
+2015-07-09 19:53:15 : detected [G]: 56986 [E]: 83229 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 19:53:15 :  CheckHeroesHealth started 
+2015-07-09 19:53:16 : detected [G]: 56986 [E]: 83229 [DE]:  |  Exit in 17.3 sec.
+2015-07-09 19:53:16 :  CheckHeroesHealth started 
+2015-07-09 19:53:17 : detected [G]: 56986 [E]: 83229 [DE]:  |  Exit in 15.9 sec.
+2015-07-09 19:53:18 :  CheckHeroesHealth started 
+2015-07-09 19:53:20 : detected [G]:  [E]:  [DE]:  |  Exit in 13.2 sec.
+2015-07-09 19:53:20 : Battle has finished
+2015-07-09 19:53:20 : Returning Home
+2015-07-09 19:53:25 : Loot: [G]: 16 276 [E]: 52 496 [DE]: 52 496 [T]: 0
+2015-07-09 19:53:26 : Bonus [G]: 3 000 [E]: 3 000
+2015-07-09 19:53:27 : Your league level is: Silver II
+2015-07-09 19:53:27 : Stars earned: 1
+2015-07-09 19:53:27 : Taking snapshot of your loot
+2015-07-09 19:53:27 : Pushbullet: Last Raid screenshot has been sent!
+2015-07-09 19:53:39 : Trying to locate Main Screen
+2015-07-09 19:53:39 : Main Screen Located
+2015-07-09 19:53:41 : Profile Report
+2015-07-09 19:53:41 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 19:53:42 :  [ATKW]: 34 [DEFW]: 2 [TDON]: 275 [TREC]: 271
+2015-07-09 19:53:49 : Village Report
+2015-07-09 19:53:49 : No. of Free/Total Builders: 0/3
+2015-07-09 19:53:49 :  [T]: 1 052
+2015-07-09 19:53:50 :  [G]: 815 159 [E]: 825 821 [GEM]: 632
+2015-07-09 19:53:54 : Chat Request: 3 orabove dragon
+2015-07-09 19:53:56 : Chat Request: balloon
+2015-07-09 19:53:58 : Func Train 
+2015-07-09 19:53:58 : Checking Army Camp...
+2015-07-09 19:53:59 : $sArmyInfo = 72#135
+2015-07-09 19:53:59 : $CurCamp = 72
+2015-07-09 19:53:59 : $TotalCamp = 135
+2015-07-09 19:54:00 : Total Army Camp capacity: 72/135
+2015-07-09 19:54:00 : $hBitmapFirst made
+2015-07-09 19:54:00 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 19:54:01 : Dll return $FullTemp :Barbarian|9-20|11#Archer|70-22|31#Giant|134-23|6
+2015-07-09 19:54:01 : $Trooptype split # : 3
+2015-07-09 19:54:01 : Start the Loop
+2015-07-09 19:54:01 : $TroopTypeT[$i] split : 1
+2015-07-09 19:54:01 :  - No. of Barbarians: 11
+2015-07-09 19:54:01 : $TroopTypeT[$i] split : 2
+2015-07-09 19:54:01 :  - No. of Archers: 31
+2015-07-09 19:54:01 : $TroopTypeT[$i] split : 3
+2015-07-09 19:54:01 :  - No. of Giants: 6
+2015-07-09 19:54:01 : Training Troops...
+2015-07-09 19:54:03 : This is not a Barrack
+2015-07-09 19:54:03 : Barrack1 selected
+2015-07-09 19:54:04 : Barrack1 selected
+2015-07-09 19:54:04 : Train: need to make normal troops: True
+2015-07-09 19:54:04 : Train: need to make dark troops: False
+2015-07-09 19:54:04 : Barrack1 selected
+2015-07-09 19:54:05 : Barrack2 selected
+2015-07-09 19:54:05 : Barrack2 selected
+2015-07-09 19:54:05 : Barrack3 selected
+2015-07-09 19:54:06 : Barrack3 selected
+2015-07-09 19:54:06 : This is not a Barrack
+2015-07-09 19:54:06 : This is not a Barrack
+2015-07-09 19:54:07 : This is not a Barrack
+2015-07-09 19:54:07 : This is not a Barrack
+2015-07-09 19:54:07 : This is not a Barrack
+2015-07-09 19:54:08 : Barrack3 selected
+2015-07-09 19:54:08 : AfterAttack: True
+2015-07-09 19:54:13 : Barrack2 selected
+2015-07-09 19:54:13 : AfterAttack: True
+2015-07-09 19:54:19 : Barrack1 selected
+2015-07-09 19:54:19 : AfterAttack: True
+2015-07-09 19:54:25 : This is not a Barrack
+2015-07-09 19:54:25 : ---================================================================---
+2015-07-09 19:54:29 : Requesting Clan Castle Troops
+2015-07-09 19:54:35 : No free builder, Upgrade Walls skipped..
+2015-07-09 19:54:37 : ====== Waiting for full army ======
+2015-07-09 19:54:57 : Func Train 
+2015-07-09 19:54:57 : Checking Army Camp...
+2015-07-09 19:54:58 : $sArmyInfo = 76#135
+2015-07-09 19:54:58 : $CurCamp = 76
+2015-07-09 19:54:58 : $TotalCamp = 135
+2015-07-09 19:54:59 : Total Army Camp capacity: 76/135
+2015-07-09 19:54:59 : $hBitmapFirst made
+2015-07-09 19:54:59 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 19:55:00 : Dll return $FullTemp :Barbarian|9-20|12#Archer|70-22|34#Giant|134-23|6
+2015-07-09 19:55:00 : $Trooptype split # : 3
+2015-07-09 19:55:00 : Start the Loop
+2015-07-09 19:55:00 : $TroopTypeT[$i] split : 1
+2015-07-09 19:55:00 :  - No. of Barbarians: 12
+2015-07-09 19:55:00 : $TroopTypeT[$i] split : 2
+2015-07-09 19:55:00 :  - No. of Archers: 34
+2015-07-09 19:55:00 : $TroopTypeT[$i] split : 3
+2015-07-09 19:55:00 :  - No. of Giants: 6
+2015-07-09 19:55:00 : Training Troops...
+2015-07-09 19:55:02 : This is not a Barrack
+2015-07-09 19:55:02 : Barrack1 selected
+2015-07-09 19:55:03 : Barrack1 selected
+2015-07-09 19:55:03 : Train: need to make normal troops: True
+2015-07-09 19:55:03 : Train: need to make dark troops: False
+2015-07-09 19:55:03 : Barrack1 selected
+2015-07-09 19:55:04 : Barrack2 selected
+2015-07-09 19:55:04 : Barrack2 selected
+2015-07-09 19:55:04 : Barrack3 selected
+2015-07-09 19:55:05 : Barrack3 selected
+2015-07-09 19:55:05 : This is not a Barrack
+2015-07-09 19:55:05 : This is not a Barrack
+2015-07-09 19:55:06 : This is not a Barrack
+2015-07-09 19:55:06 : This is not a Barrack
+2015-07-09 19:55:06 : This is not a Barrack
+2015-07-09 19:55:07 : Barrack3 selected
+2015-07-09 19:55:07 : AfterAttack: False
+2015-07-09 19:55:09 : Barrack2 selected
+2015-07-09 19:55:09 : AfterAttack: False
+2015-07-09 19:55:12 : Barrack1 selected
+2015-07-09 19:55:12 : AfterAttack: False
+2015-07-09 19:55:14 : This is not a Barrack
+2015-07-09 19:55:14 : ---================================================================---
+2015-07-09 19:55:17 : Time Idle: 00:00:40
+2015-07-09 19:55:17 : ====== Waiting for full army ======
+2015-07-09 19:55:37 : Func Train 
+2015-07-09 19:55:37 : Checking Army Camp...
+2015-07-09 19:55:38 : $sArmyInfo = 77#135
+2015-07-09 19:55:38 : $CurCamp = 77
+2015-07-09 19:55:38 : $TotalCamp = 135
+2015-07-09 19:55:39 : Total Army Camp capacity: 77/135
+2015-07-09 19:55:39 : $hBitmapFirst made
+2015-07-09 19:55:39 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 19:55:40 : Dll return $FullTemp :Barbarian|9-20|12#Archer|70-22|35#Giant|134-23|6
+2015-07-09 19:55:40 : $Trooptype split # : 3
+2015-07-09 19:55:40 : Start the Loop
+2015-07-09 19:55:40 : $TroopTypeT[$i] split : 1
+2015-07-09 19:55:40 :  - No. of Barbarians: 12
+2015-07-09 19:55:40 : $TroopTypeT[$i] split : 2
+2015-07-09 19:55:40 :  - No. of Archers: 35
+2015-07-09 19:55:40 : $TroopTypeT[$i] split : 3
+2015-07-09 19:55:40 :  - No. of Giants: 6
+2015-07-09 19:55:40 : Training Troops...
+2015-07-09 19:55:43 : This is not a Barrack
+2015-07-09 19:55:43 : Barrack1 selected
+2015-07-09 19:55:43 : Barrack1 selected
+2015-07-09 19:55:43 : Train: need to make normal troops: True
+2015-07-09 19:55:43 : Train: need to make dark troops: False
+2015-07-09 19:55:43 : Barrack1 selected
+2015-07-09 19:55:44 : Barrack2 selected
+2015-07-09 19:55:44 : Barrack2 selected
+2015-07-09 19:55:45 : Barrack3 selected
+2015-07-09 19:55:45 : Barrack3 selected
+2015-07-09 19:55:45 : This is not a Barrack
+2015-07-09 19:55:46 : This is not a Barrack
+2015-07-09 19:55:46 : This is not a Barrack
+2015-07-09 19:55:46 : This is not a Barrack
+2015-07-09 19:55:46 : This is not a Barrack
+2015-07-09 19:55:48 : Barrack3 selected
+2015-07-09 19:55:48 : AfterAttack: False
+2015-07-09 19:55:50 : Barrack2 selected
+2015-07-09 19:55:50 : AfterAttack: False
+2015-07-09 19:55:52 : Barrack1 selected
+2015-07-09 19:55:52 : AfterAttack: False
+2015-07-09 19:55:54 : This is not a Barrack
+2015-07-09 19:55:54 : ---================================================================---
+2015-07-09 19:55:57 : Time Idle: 00:01:20
+2015-07-09 19:55:57 : ====== Waiting for full army ======
+2015-07-09 19:56:17 : Func Train 
+2015-07-09 19:56:17 : Checking Army Camp...
+2015-07-09 19:56:19 : $sArmyInfo = 84#135
+2015-07-09 19:56:19 : $CurCamp = 84
+2015-07-09 19:56:19 : $TotalCamp = 135
+2015-07-09 19:56:20 : Total Army Camp capacity: 84/135
+2015-07-09 19:56:20 : $hBitmapFirst made
+2015-07-09 19:56:20 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 19:56:21 : Dll return $FullTemp :Barbarian|9-20|12#Archer|70-22|37#Giant|134-23|7
+2015-07-09 19:56:21 : $Trooptype split # : 3
+2015-07-09 19:56:21 : Start the Loop
+2015-07-09 19:56:21 : $TroopTypeT[$i] split : 1
+2015-07-09 19:56:21 :  - No. of Barbarians: 12
+2015-07-09 19:56:21 : $TroopTypeT[$i] split : 2
+2015-07-09 19:56:21 :  - No. of Archers: 37
+2015-07-09 19:56:21 : $TroopTypeT[$i] split : 3
+2015-07-09 19:56:21 :  - No. of Giants: 7
+2015-07-09 19:56:22 : Training Troops...
+2015-07-09 19:56:24 : This is not a Barrack
+2015-07-09 19:56:24 : Barrack1 selected
+2015-07-09 19:56:24 : Barrack1 selected
+2015-07-09 19:56:25 : Train: need to make normal troops: True
+2015-07-09 19:56:25 : Train: need to make dark troops: False
+2015-07-09 19:56:25 : Barrack1 selected
+2015-07-09 19:56:25 : Barrack2 selected
+2015-07-09 19:56:25 : Barrack2 selected
+2015-07-09 19:56:26 : Barrack3 selected
+2015-07-09 19:56:26 : Barrack3 selected
+2015-07-09 19:56:27 : This is not a Barrack
+2015-07-09 19:56:27 : This is not a Barrack
+2015-07-09 19:56:27 : This is not a Barrack
+2015-07-09 19:56:27 : This is not a Barrack
+2015-07-09 19:56:27 : This is not a Barrack
+2015-07-09 19:56:29 : Barrack3 selected
+2015-07-09 19:56:29 : AfterAttack: False
+2015-07-09 19:56:31 : Barrack2 selected
+2015-07-09 19:56:31 : AfterAttack: False
+2015-07-09 19:56:33 : Barrack1 selected
+2015-07-09 19:56:33 : AfterAttack: False
+2015-07-09 19:56:35 : This is not a Barrack
+2015-07-09 19:56:35 : ---================================================================---
+2015-07-09 19:56:38 : Time Idle: 00:02:01
+2015-07-09 19:56:38 : ====== Waiting for full army ======
+2015-07-09 19:56:58 : Func Train 
+2015-07-09 19:56:58 : Checking Army Camp...
+2015-07-09 19:57:00 : $sArmyInfo = 91#135
+2015-07-09 19:57:00 : $CurCamp = 91
+2015-07-09 19:57:00 : $TotalCamp = 135
+2015-07-09 19:57:00 : Total Army Camp capacity: 91/135
+2015-07-09 19:57:00 : $hBitmapFirst made
+2015-07-09 19:57:01 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 19:57:01 : Dll return $FullTemp :Barbarian|9-20|12#Archer|70-22|39#Giant|134-23|8
+2015-07-09 19:57:01 : $Trooptype split # : 3
+2015-07-09 19:57:01 : Start the Loop
+2015-07-09 19:57:02 : $TroopTypeT[$i] split : 1
+2015-07-09 19:57:02 :  - No. of Barbarians: 12
+2015-07-09 19:57:02 : $TroopTypeT[$i] split : 2
+2015-07-09 19:57:02 :  - No. of Archers: 39
+2015-07-09 19:57:02 : $TroopTypeT[$i] split : 3
+2015-07-09 19:57:02 :  - No. of Giants: 8
+2015-07-09 19:57:02 : Training Troops...
+2015-07-09 19:57:04 : This is not a Barrack
+2015-07-09 19:57:04 : Barrack1 selected
+2015-07-09 19:57:05 : Barrack1 selected
+2015-07-09 19:57:05 : Train: need to make normal troops: True
+2015-07-09 19:57:05 : Train: need to make dark troops: False
+2015-07-09 19:57:05 : Barrack1 selected
+2015-07-09 19:57:06 : Barrack2 selected
+2015-07-09 19:57:06 : Barrack2 selected
+2015-07-09 19:57:06 : Barrack3 selected
+2015-07-09 19:57:06 : Barrack3 selected
+2015-07-09 19:57:07 : This is not a Barrack
+2015-07-09 19:57:07 : This is not a Barrack
+2015-07-09 19:57:07 : This is not a Barrack
+2015-07-09 19:57:08 : This is not a Barrack
+2015-07-09 19:57:08 : This is not a Barrack
+2015-07-09 19:57:09 : Barrack3 selected
+2015-07-09 19:57:09 : AfterAttack: False
+2015-07-09 19:57:11 : Barrack2 selected
+2015-07-09 19:57:11 : AfterAttack: False
+2015-07-09 19:57:14 : Barrack1 selected
+2015-07-09 19:57:14 : AfterAttack: False
+2015-07-09 19:57:16 : This is not a Barrack
+2015-07-09 19:57:16 : ---================================================================---
+2015-07-09 19:57:19 : Time Idle: 00:02:42
+2015-07-09 19:57:19 : ====== Waiting for full army ======
+2015-07-09 19:57:39 : Func Train 
+2015-07-09 19:57:39 : Checking Army Camp...
+2015-07-09 19:57:40 : $sArmyInfo = 92#135
+2015-07-09 19:57:40 : $CurCamp = 92
+2015-07-09 19:57:40 : $TotalCamp = 135
+2015-07-09 19:57:41 : Total Army Camp capacity: 92/135
+2015-07-09 19:57:41 : $hBitmapFirst made
+2015-07-09 19:57:41 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 19:57:42 : Dll return $FullTemp :Barbarian|9-20|12#Archer|70-22|40#Giant|134-23|8
+2015-07-09 19:57:42 : $Trooptype split # : 3
+2015-07-09 19:57:42 : Start the Loop
+2015-07-09 19:57:42 : $TroopTypeT[$i] split : 1
+2015-07-09 19:57:42 :  - No. of Barbarians: 12
+2015-07-09 19:57:42 : $TroopTypeT[$i] split : 2
+2015-07-09 19:57:42 :  - No. of Archers: 40
+2015-07-09 19:57:42 : $TroopTypeT[$i] split : 3
+2015-07-09 19:57:42 :  - No. of Giants: 8
+2015-07-09 19:57:42 : Training Troops...
+2015-07-09 19:57:45 : This is not a Barrack
+2015-07-09 19:57:45 : Barrack1 selected
+2015-07-09 19:57:45 : Barrack1 selected
+2015-07-09 19:57:45 : Train: need to make normal troops: True
+2015-07-09 19:57:45 : Train: need to make dark troops: False
+2015-07-09 19:57:45 : Barrack1 selected
+2015-07-09 19:57:46 : Barrack2 selected
+2015-07-09 19:57:46 : Barrack2 selected
+2015-07-09 19:57:47 : Barrack3 selected
+2015-07-09 19:57:47 : Barrack3 selected
+2015-07-09 19:57:48 : This is not a Barrack
+2015-07-09 19:57:48 : This is not a Barrack
+2015-07-09 19:57:48 : This is not a Barrack
+2015-07-09 19:57:48 : This is not a Barrack
+2015-07-09 19:57:48 : This is not a Barrack
+2015-07-09 19:57:50 : Barrack3 selected
+2015-07-09 19:57:50 : AfterAttack: False
+2015-07-09 19:57:52 : Barrack2 selected
+2015-07-09 19:57:52 : AfterAttack: False
+2015-07-09 19:57:54 : Barrack1 selected
+2015-07-09 19:57:54 : AfterAttack: False
+2015-07-09 19:57:56 : This is not a Barrack
+2015-07-09 19:57:56 : ---================================================================---
+2015-07-09 19:57:59 : Time Idle: 00:03:22
+2015-07-09 19:57:59 : ====== Waiting for full army ======
+2015-07-09 19:58:20 : Func Train 
+2015-07-09 19:58:20 : Checking Army Camp...
+2015-07-09 19:58:21 : $sArmyInfo = 99#135
+2015-07-09 19:58:21 : $CurCamp = 99
+2015-07-09 19:58:21 : $TotalCamp = 135
+2015-07-09 19:58:22 : Total Army Camp capacity: 99/135
+2015-07-09 19:58:22 : $hBitmapFirst made
+2015-07-09 19:58:22 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 19:58:23 : Dll return $FullTemp :Barbarian|9-20|12#Archer|70-22|42#Giant|134-23|10
+2015-07-09 19:58:23 : $Trooptype split # : 3
+2015-07-09 19:58:23 : Start the Loop
+2015-07-09 19:58:23 : $TroopTypeT[$i] split : 1
+2015-07-09 19:58:23 :  - No. of Barbarians: 12
+2015-07-09 19:58:23 : $TroopTypeT[$i] split : 2
+2015-07-09 19:58:23 :  - No. of Archers: 42
+2015-07-09 19:58:23 : $TroopTypeT[$i] split : 3
+2015-07-09 19:58:23 :  - No. of Giants: 10
+2015-07-09 19:58:24 : Training Troops...
+2015-07-09 19:58:26 : This is not a Barrack
+2015-07-09 19:58:26 : Barrack1 selected
+2015-07-09 19:58:26 : Barrack1 selected
+2015-07-09 19:58:27 : Train: need to make normal troops: True
+2015-07-09 19:58:27 : Train: need to make dark troops: False
+2015-07-09 19:58:27 : Barrack1 selected
+2015-07-09 19:58:27 : Barrack2 selected
+2015-07-09 19:58:27 : Barrack2 selected
+2015-07-09 19:58:28 : Barrack3 selected
+2015-07-09 19:58:28 : Barrack3 selected
+2015-07-09 19:58:29 : This is not a Barrack
+2015-07-09 19:58:29 : This is not a Barrack
+2015-07-09 19:58:29 : This is not a Barrack
+2015-07-09 19:58:29 : This is not a Barrack
+2015-07-09 19:58:29 : This is not a Barrack
+2015-07-09 19:58:31 : Barrack3 selected
+2015-07-09 19:58:31 : AfterAttack: False
+2015-07-09 19:58:33 : Barrack2 selected
+2015-07-09 19:58:33 : AfterAttack: False
+2015-07-09 19:58:35 : Barrack1 selected
+2015-07-09 19:58:35 : AfterAttack: False
+2015-07-09 19:58:37 : This is not a Barrack
+2015-07-09 19:58:37 : ---================================================================---
+2015-07-09 19:58:40 : Time Idle: 00:04:03
+2015-07-09 19:58:40 : ====== Waiting for full army ======
+2015-07-09 19:59:00 : Func Train 
+2015-07-09 19:59:00 : Checking Army Camp...
+2015-07-09 19:59:02 : $sArmyInfo = 105#135
+2015-07-09 19:59:02 : $CurCamp = 105
+2015-07-09 19:59:02 : $TotalCamp = 135
+2015-07-09 19:59:02 : Total Army Camp capacity: 105/135
+2015-07-09 19:59:02 : $hBitmapFirst made
+2015-07-09 19:59:03 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 19:59:03 : Dll return $FullTemp :Barbarian|9-20|12#Archer|70-22|43#Giant|134-23|10
+2015-07-09 19:59:03 : $Trooptype split # : 3
+2015-07-09 19:59:03 : Start the Loop
+2015-07-09 19:59:04 : $TroopTypeT[$i] split : 1
+2015-07-09 19:59:04 :  - No. of Barbarians: 12
+2015-07-09 19:59:04 : $TroopTypeT[$i] split : 2
+2015-07-09 19:59:04 :  - No. of Archers: 43
+2015-07-09 19:59:04 : $TroopTypeT[$i] split : 3
+2015-07-09 19:59:04 :  - No. of Giants: 10
+2015-07-09 19:59:04 : Training Troops...
+2015-07-09 19:59:06 : This is not a Barrack
+2015-07-09 19:59:06 : Barrack1 selected
+2015-07-09 19:59:06 : Barrack1 selected
+2015-07-09 19:59:07 : Train: need to make normal troops: True
+2015-07-09 19:59:07 : Train: need to make dark troops: False
+2015-07-09 19:59:07 : Barrack1 selected
+2015-07-09 19:59:08 : Barrack2 selected
+2015-07-09 19:59:08 : Barrack2 selected
+2015-07-09 19:59:08 : Barrack3 selected
+2015-07-09 19:59:08 : Barrack3 selected
+2015-07-09 19:59:09 : This is not a Barrack
+2015-07-09 19:59:09 : This is not a Barrack
+2015-07-09 19:59:09 : This is not a Barrack
+2015-07-09 19:59:10 : This is not a Barrack
+2015-07-09 19:59:10 : This is not a Barrack
+2015-07-09 19:59:11 : Barrack3 selected
+2015-07-09 19:59:11 : AfterAttack: False
+2015-07-09 19:59:13 : Barrack2 selected
+2015-07-09 19:59:13 : AfterAttack: False
+2015-07-09 19:59:15 : Barrack1 selected
+2015-07-09 19:59:16 : AfterAttack: False
+2015-07-09 19:59:18 : This is not a Barrack
+2015-07-09 19:59:18 : ---================================================================---
+2015-07-09 19:59:21 : Time Idle: 00:04:44
+2015-07-09 19:59:21 : ====== Waiting for full army ======
+2015-07-09 19:59:41 : Func Train 
+2015-07-09 19:59:41 : Checking Army Camp...
+2015-07-09 19:59:43 : $sArmyInfo = 107#135
+2015-07-09 19:59:43 : $CurCamp = 107
+2015-07-09 19:59:43 : $TotalCamp = 135
+2015-07-09 19:59:43 : Total Army Camp capacity: 107/135
+2015-07-09 19:59:43 : $hBitmapFirst made
+2015-07-09 19:59:43 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 19:59:44 : Dll return $FullTemp :Barbarian|9-20|12#Archer|70-22|45#Giant|134-23|10
+2015-07-09 19:59:44 : $Trooptype split # : 3
+2015-07-09 19:59:44 : Start the Loop
+2015-07-09 19:59:44 : $TroopTypeT[$i] split : 1
+2015-07-09 19:59:44 :  - No. of Barbarians: 12
+2015-07-09 19:59:44 : $TroopTypeT[$i] split : 2
+2015-07-09 19:59:44 :  - No. of Archers: 45
+2015-07-09 19:59:45 : $TroopTypeT[$i] split : 3
+2015-07-09 19:59:45 :  - No. of Giants: 10
+2015-07-09 19:59:45 : Training Troops...
+2015-07-09 19:59:47 : This is not a Barrack
+2015-07-09 19:59:47 : Barrack1 selected
+2015-07-09 19:59:47 : Barrack1 selected
+2015-07-09 19:59:48 : Train: need to make normal troops: True
+2015-07-09 19:59:48 : Train: need to make dark troops: False
+2015-07-09 19:59:48 : Barrack1 selected
+2015-07-09 19:59:48 : Barrack2 selected
+2015-07-09 19:59:48 : Barrack2 selected
+2015-07-09 19:59:49 : Barrack3 selected
+2015-07-09 19:59:49 : Barrack3 selected
+2015-07-09 19:59:50 : This is not a Barrack
+2015-07-09 19:59:50 : This is not a Barrack
+2015-07-09 19:59:50 : This is not a Barrack
+2015-07-09 19:59:50 : This is not a Barrack
+2015-07-09 19:59:51 : This is not a Barrack
+2015-07-09 19:59:52 : Barrack3 selected
+2015-07-09 19:59:52 : AfterAttack: False
+2015-07-09 19:59:54 : Barrack2 selected
+2015-07-09 19:59:54 : AfterAttack: False
+2015-07-09 19:59:56 : Barrack1 selected
+2015-07-09 19:59:56 : AfterAttack: False
+2015-07-09 19:59:58 : This is not a Barrack
+2015-07-09 19:59:58 : ---================================================================---
+2015-07-09 20:00:01 : Time Idle: 00:05:24
+2015-07-09 20:00:02 : ====== Waiting for full army ======
+2015-07-09 20:00:22 : Func Train 
+2015-07-09 20:00:22 : Checking Army Camp...
+2015-07-09 20:00:23 : $sArmyInfo = 119#135
+2015-07-09 20:00:23 : $CurCamp = 119
+2015-07-09 20:00:23 : $TotalCamp = 135
+2015-07-09 20:00:24 : Total Army Camp capacity: 119/135
+2015-07-09 20:00:24 : $hBitmapFirst made
+2015-07-09 20:00:24 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:00:25 : Dll return $FullTemp :Barbarian|9-20|12#Archer|70-22|47#Giant|134-23|12
+2015-07-09 20:00:25 : $Trooptype split # : 3
+2015-07-09 20:00:25 : Start the Loop
+2015-07-09 20:00:25 : $TroopTypeT[$i] split : 1
+2015-07-09 20:00:25 :  - No. of Barbarians: 12
+2015-07-09 20:00:25 : $TroopTypeT[$i] split : 2
+2015-07-09 20:00:25 :  - No. of Archers: 47
+2015-07-09 20:00:25 : $TroopTypeT[$i] split : 3
+2015-07-09 20:00:25 :  - No. of Giants: 12
+2015-07-09 20:00:25 : Training Troops...
+2015-07-09 20:00:27 : This is not a Barrack
+2015-07-09 20:00:27 : Barrack1 selected
+2015-07-09 20:00:28 : Barrack1 selected
+2015-07-09 20:00:28 : Train: need to make normal troops: True
+2015-07-09 20:00:28 : Train: need to make dark troops: False
+2015-07-09 20:00:28 : Barrack1 selected
+2015-07-09 20:00:29 : Barrack2 selected
+2015-07-09 20:00:29 : Barrack2 selected
+2015-07-09 20:00:30 : Barrack3 selected
+2015-07-09 20:00:30 : Barrack3 selected
+2015-07-09 20:00:30 : This is not a Barrack
+2015-07-09 20:00:30 : This is not a Barrack
+2015-07-09 20:00:31 : This is not a Barrack
+2015-07-09 20:00:31 : This is not a Barrack
+2015-07-09 20:00:31 : This is not a Barrack
+2015-07-09 20:00:32 : Barrack3 selected
+2015-07-09 20:00:32 : AfterAttack: False
+2015-07-09 20:00:35 : Barrack2 selected
+2015-07-09 20:00:35 : AfterAttack: False
+2015-07-09 20:00:37 : Barrack1 selected
+2015-07-09 20:00:37 : AfterAttack: False
+2015-07-09 20:00:39 : This is not a Barrack
+2015-07-09 20:00:39 : ---================================================================---
+2015-07-09 20:00:42 : Time Idle: 00:06:05
+2015-07-09 20:00:42 : ====== Waiting for full army ======
+2015-07-09 20:01:03 : Func Train 
+2015-07-09 20:01:03 : Checking Army Camp...
+2015-07-09 20:01:05 : $sArmyInfo = 123#135
+2015-07-09 20:01:05 : $CurCamp = 123
+2015-07-09 20:01:05 : $TotalCamp = 135
+2015-07-09 20:01:05 : Total Army Camp capacity: 123/135
+2015-07-09 20:01:05 : $hBitmapFirst made
+2015-07-09 20:01:06 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:01:06 : Dll return $FullTemp :Barbarian|9-20|14#Archer|70-22|50#Giant|134-23|12
+2015-07-09 20:01:06 : $Trooptype split # : 3
+2015-07-09 20:01:06 : Start the Loop
+2015-07-09 20:01:06 : $TroopTypeT[$i] split : 1
+2015-07-09 20:01:06 :  - No. of Barbarians: 14
+2015-07-09 20:01:07 : $TroopTypeT[$i] split : 2
+2015-07-09 20:01:07 :  - No. of Archers: 50
+2015-07-09 20:01:07 : $TroopTypeT[$i] split : 3
+2015-07-09 20:01:07 :  - No. of Giants: 12
+2015-07-09 20:01:07 : Training Troops...
+2015-07-09 20:01:09 : This is not a Barrack
+2015-07-09 20:01:09 : Barrack1 selected
+2015-07-09 20:01:09 : Barrack1 selected
+2015-07-09 20:01:10 : Train: need to make normal troops: True
+2015-07-09 20:01:10 : Train: need to make dark troops: False
+2015-07-09 20:01:10 : Barrack1 selected
+2015-07-09 20:01:11 : Barrack2 selected
+2015-07-09 20:01:11 : Barrack2 selected
+2015-07-09 20:01:11 : Barrack3 selected
+2015-07-09 20:01:11 : Barrack3 selected
+2015-07-09 20:01:12 : This is not a Barrack
+2015-07-09 20:01:12 : This is not a Barrack
+2015-07-09 20:01:12 : This is not a Barrack
+2015-07-09 20:01:12 : This is not a Barrack
+2015-07-09 20:01:13 : This is not a Barrack
+2015-07-09 20:01:14 : Barrack3 selected
+2015-07-09 20:01:14 : AfterAttack: False
+2015-07-09 20:01:16 : Barrack2 selected
+2015-07-09 20:01:16 : AfterAttack: False
+2015-07-09 20:01:18 : Barrack1 selected
+2015-07-09 20:01:18 : AfterAttack: False
+2015-07-09 20:01:21 : This is not a Barrack
+2015-07-09 20:01:21 : ---================================================================---
+2015-07-09 20:01:28 : Func Train 
+2015-07-09 20:01:28 : Checking Army Camp...
+2015-07-09 20:01:30 : $sArmyInfo = 126#135
+2015-07-09 20:01:30 : $CurCamp = 126
+2015-07-09 20:01:30 : $TotalCamp = 135
+2015-07-09 20:01:30 : Total Army Camp capacity: 126/135
+2015-07-09 20:01:30 : $hBitmapFirst made
+2015-07-09 20:01:30 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:01:31 : Dll return $FullTemp :Barbarian|9-20|15#Archer|70-22|51#Giant|134-23|12
+2015-07-09 20:01:31 : $Trooptype split # : 3
+2015-07-09 20:01:31 : Start the Loop
+2015-07-09 20:01:31 : $TroopTypeT[$i] split : 1
+2015-07-09 20:01:31 :  - No. of Barbarians: 15
+2015-07-09 20:01:31 : $TroopTypeT[$i] split : 2
+2015-07-09 20:01:31 :  - No. of Archers: 51
+2015-07-09 20:01:32 : $TroopTypeT[$i] split : 3
+2015-07-09 20:01:32 :  - No. of Giants: 12
+2015-07-09 20:01:32 : Training Troops...
+2015-07-09 20:01:34 : This is not a Barrack
+2015-07-09 20:01:34 : Barrack1 selected
+2015-07-09 20:01:34 : Barrack1 selected
+2015-07-09 20:01:35 : Train: need to make normal troops: True
+2015-07-09 20:01:35 : Train: need to make dark troops: False
+2015-07-09 20:01:35 : Barrack1 selected
+2015-07-09 20:01:35 : Barrack2 selected
+2015-07-09 20:01:35 : Barrack2 selected
+2015-07-09 20:01:36 : Barrack3 selected
+2015-07-09 20:01:36 : Barrack3 selected
+2015-07-09 20:01:37 : This is not a Barrack
+2015-07-09 20:01:37 : This is not a Barrack
+2015-07-09 20:01:37 : This is not a Barrack
+2015-07-09 20:01:37 : This is not a Barrack
+2015-07-09 20:01:37 : This is not a Barrack
+2015-07-09 20:01:39 : Barrack3 selected
+2015-07-09 20:01:39 : AfterAttack: False
+2015-07-09 20:01:41 : Barrack2 selected
+2015-07-09 20:01:41 : AfterAttack: False
+2015-07-09 20:01:43 : Barrack1 selected
+2015-07-09 20:01:43 : AfterAttack: False
+2015-07-09 20:01:46 : This is not a Barrack
+2015-07-09 20:01:46 : ---================================================================---
+2015-07-09 20:01:51 : Func Train 
+2015-07-09 20:01:51 : Checking Army Camp...
+2015-07-09 20:01:53 : $sArmyInfo = 129#135
+2015-07-09 20:01:53 : $CurCamp = 129
+2015-07-09 20:01:53 : $TotalCamp = 135
+2015-07-09 20:01:53 : Total Army Camp capacity: 129/135
+2015-07-09 20:01:53 : $hBitmapFirst made
+2015-07-09 20:01:54 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:01:54 : Dll return $FullTemp :Barbarian|9-20|16#Archer|70-22|53#Giant|134-23|12
+2015-07-09 20:01:54 : $Trooptype split # : 3
+2015-07-09 20:01:54 : Start the Loop
+2015-07-09 20:01:55 : $TroopTypeT[$i] split : 1
+2015-07-09 20:01:55 :  - No. of Barbarians: 16
+2015-07-09 20:01:55 : $TroopTypeT[$i] split : 2
+2015-07-09 20:01:55 :  - No. of Archers: 53
+2015-07-09 20:01:55 : $TroopTypeT[$i] split : 3
+2015-07-09 20:01:55 :  - No. of Giants: 12
+2015-07-09 20:01:55 : Training Troops...
+2015-07-09 20:01:57 : This is not a Barrack
+2015-07-09 20:01:57 : Barrack1 selected
+2015-07-09 20:01:58 : Barrack1 selected
+2015-07-09 20:01:58 : Train: need to make normal troops: True
+2015-07-09 20:01:58 : Train: need to make dark troops: False
+2015-07-09 20:01:58 : Barrack1 selected
+2015-07-09 20:01:59 : Barrack2 selected
+2015-07-09 20:01:59 : Barrack2 selected
+2015-07-09 20:01:59 : Barrack3 selected
+2015-07-09 20:01:59 : Barrack3 selected
+2015-07-09 20:02:00 : This is not a Barrack
+2015-07-09 20:02:00 : This is not a Barrack
+2015-07-09 20:02:00 : This is not a Barrack
+2015-07-09 20:02:01 : This is not a Barrack
+2015-07-09 20:02:01 : This is not a Barrack
+2015-07-09 20:02:02 : Barrack3 selected
+2015-07-09 20:02:02 : AfterAttack: False
+2015-07-09 20:02:04 : Barrack2 selected
+2015-07-09 20:02:04 : AfterAttack: False
+2015-07-09 20:02:06 : Barrack1 selected
+2015-07-09 20:02:07 : AfterAttack: False
+2015-07-09 20:02:09 : This is not a Barrack
+2015-07-09 20:02:09 : ---================================================================---
+2015-07-09 20:02:15 : Func Train 
+2015-07-09 20:02:15 : Checking Army Camp...
+2015-07-09 20:02:16 : $sArmyInfo = 132#135
+2015-07-09 20:02:16 : $CurCamp = 132
+2015-07-09 20:02:16 : $TotalCamp = 135
+2015-07-09 20:02:17 : Total Army Camp capacity: 132/135
+2015-07-09 20:02:17 : $hBitmapFirst made
+2015-07-09 20:02:17 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:02:18 : Dll return $FullTemp :Barbarian|9-20|17#Archer|70-22|55#Giant|134-23|12
+2015-07-09 20:02:18 : $Trooptype split # : 3
+2015-07-09 20:02:18 : Start the Loop
+2015-07-09 20:02:18 : $TroopTypeT[$i] split : 1
+2015-07-09 20:02:18 :  - No. of Barbarians: 17
+2015-07-09 20:02:18 : $TroopTypeT[$i] split : 2
+2015-07-09 20:02:18 :  - No. of Archers: 55
+2015-07-09 20:02:18 : $TroopTypeT[$i] split : 3
+2015-07-09 20:02:18 :  - No. of Giants: 12
+2015-07-09 20:02:18 : Training Troops...
+2015-07-09 20:02:21 : This is not a Barrack
+2015-07-09 20:02:21 : Barrack1 selected
+2015-07-09 20:02:22 : Barrack1 selected
+2015-07-09 20:02:22 : Train: need to make normal troops: True
+2015-07-09 20:02:22 : Train: need to make dark troops: False
+2015-07-09 20:02:22 : Barrack1 selected
+2015-07-09 20:02:23 : Barrack2 selected
+2015-07-09 20:02:23 : Barrack2 selected
+2015-07-09 20:02:24 : Barrack3 selected
+2015-07-09 20:02:24 : Barrack3 selected
+2015-07-09 20:02:24 : This is not a Barrack
+2015-07-09 20:02:24 : This is not a Barrack
+2015-07-09 20:02:25 : This is not a Barrack
+2015-07-09 20:02:25 : This is not a Barrack
+2015-07-09 20:02:25 : This is not a Barrack
+2015-07-09 20:02:26 : Barrack3 selected
+2015-07-09 20:02:26 : AfterAttack: False
+2015-07-09 20:02:28 : Barrack2 selected
+2015-07-09 20:02:29 : AfterAttack: False
+2015-07-09 20:02:31 : Barrack1 selected
+2015-07-09 20:02:31 : AfterAttack: False
+2015-07-09 20:02:33 : This is not a Barrack
+2015-07-09 20:02:33 : ---================================================================---
+2015-07-09 20:02:39 : Func Train 
+2015-07-09 20:02:39 : Checking Army Camp...
+2015-07-09 20:02:40 : $sArmyInfo = 135#135
+2015-07-09 20:02:40 : $CurCamp = 135
+2015-07-09 20:02:40 : $TotalCamp = 135
+2015-07-09 20:02:41 : Total Army Camp capacity: 135/135
+2015-07-09 20:02:41 : Training Troops...
+2015-07-09 20:02:43 : This is not a Barrack
+2015-07-09 20:02:43 : Barrack1 selected
+2015-07-09 20:02:44 : Barrack1 selected
+2015-07-09 20:02:44 : Train: need to make normal troops: True
+2015-07-09 20:02:44 : Train: need to make dark troops: False
+2015-07-09 20:02:44 : Barrack1 selected
+2015-07-09 20:02:44 : Barrack2 selected
+2015-07-09 20:02:44 : Barrack2 selected
+2015-07-09 20:02:45 : Barrack3 selected
+2015-07-09 20:02:45 : Barrack3 selected
+2015-07-09 20:02:46 : This is not a Barrack
+2015-07-09 20:02:46 : This is not a Barrack
+2015-07-09 20:02:46 : This is not a Barrack
+2015-07-09 20:02:46 : This is not a Barrack
+2015-07-09 20:02:47 : This is not a Barrack
+2015-07-09 20:02:48 : Barrack3 selected
+2015-07-09 20:02:48 : AfterAttack: False
+2015-07-09 20:02:52 : Barrack2 selected
+2015-07-09 20:02:52 : AfterAttack: False
+2015-07-09 20:02:58 : Barrack1 selected
+2015-07-09 20:02:58 : AfterAttack: False
+2015-07-09 20:03:03 : This is not a Barrack
+2015-07-09 20:03:03 : ---================================================================---
+2015-07-09 20:03:06 : Profile Report
+2015-07-09 20:03:06 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 20:03:07 :  [ATKW]: 34 [DEFW]: 2 [TDON]: 275 [TREC]: 286
+2015-07-09 20:03:08 : Going to Attack...
+2015-07-09 20:03:13 : Shield btn clr chk-#1: DA63F2, #2: 684D33, #3: 9E907F, #4: 24241C
+2015-07-09 20:03:14 : ============== Searching For Dead Base ===============
+2015-07-09 20:03:14 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-09 20:03:14 : Meet: Gold + Elixir, Max TH 7
+2015-07-09 20:03:14 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-09 20:03:14 : Aim:           [G+E]: 160000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:03:14 : ============== Searching For Live Base ===============
+2015-07-09 20:03:14 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-09 20:03:14 : Meet: Gold and Elixir, Max TH 4-6, TH Outside, Weak Base(Mortar: 2, WizTower: 2)
+2015-07-09 20:03:14 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-09 20:03:14 : Aim: [G]: 100000 [E]:  60000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:03:14 : ==================================================
+2015-07-09 20:03:15 :   1> [G]:  11903 [E]:  60224 [D]:  N/A [T]:26 [TH]:4-6, In
+2015-07-09 20:03:20 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:03:21 :   2> [G]:  68061 [E]:  20321 [D]:  N/A [T]:33 [TH]:4-6, In
+2015-07-09 20:03:28 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:03:28 :   3> [G]:  29099 [E]:  19125 [D]:  N/A [T]:30 [TH]:4-6, In
+2015-07-09 20:03:35 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:03:37 :   4> [G]:   4793 [E]:  38499 [D]:  N/A [T]:15 [TH]: -, -
+2015-07-09 20:03:44 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:03:46 :   5> [G]:  28927 [E]:  18356 [D]:  N/A [T]:17 [TH]: -, -
+2015-07-09 20:03:52 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:03:53 :   6> [G]:  21359 [E]:   3392 [D]:  N/A [T]:15 [TH]:4-6, In
+2015-07-09 20:04:00 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:04:01 :   7> [G]:  95108 [E]:  42247 [D]:  N/A [T]:24 [TH]: 7, In
+2015-07-09 20:04:07 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:04:08 :   8> [G]:    964 [E]:  54528 [D]:  N/A [T]:18 [TH]:4-6, In
+2015-07-09 20:04:15 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:04:16 :   9> [G]: 104590 [E]:  73479 [D]:    7 [T]:26 [TH]: 7, In
+2015-07-09 20:04:18 : $ZSExclude :0
+2015-07-09 20:04:22 :  10> [G]:  53862 [E]:   6500 [D]:  N/A [T]:22 [TH]: -, -
+2015-07-09 20:04:27 : Aim:           [G+E]: 156000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:04:27 : Aim: [G]:  98000 [E]:  58000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:04:29 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:04:30 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:04:31 :  11> [G]: 131278 [E]:  14341 [D]:  N/A [T]:23 [TH]: 7, Out
+2015-07-09 20:04:34 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:04:36 :  12> [G]:  38133 [E]:  23856 [D]:  N/A [T]:28 [TH]: -, -
+2015-07-09 20:04:43 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:04:44 :  13> [G]:   5013 [E]:   4249 [D]:  N/A [T]:15 [TH]:4-6, In
+2015-07-09 20:04:50 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:04:51 :  14> [G]: 155811 [E]:  54973 [D]:  N/A [T]:19 [TH]:4-6, In
+2015-07-09 20:04:56 : $ZSExclude :0
+2015-07-09 20:04:59 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:05:01 :  15> [G]:   8068 [E]:   8654 [D]:  N/A [T]:18 [TH]: -, -
+2015-07-09 20:05:07 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:05:08 :  16> [G]:   3581 [E]:   3593 [D]:  N/A [T]:22 [TH]: 7, In
+2015-07-09 20:05:15 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:05:16 :  17> [G]:  15446 [E]:   9546 [D]:  N/A [T]:15 [TH]:4-6, In
+2015-07-09 20:05:25 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:05:26 :  18> [G]:  16227 [E]:  16200 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-09 20:05:34 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:05:35 :  19> [G]:  27091 [E]:  54276 [D]:  N/A [T]:26 [TH]: -, -
+2015-07-09 20:05:41 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:05:43 :  20> [G]: 106532 [E]:  12310 [D]:    6 [T]:25 [TH]: -, -
+2015-07-09 20:05:45 : Aim:           [G+E]: 152000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:05:45 : Aim: [G]:  96000 [E]:  56000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:05:47 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:05:47 :  21> [G]:  19690 [E]:  13592 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 20:05:54 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:05:55 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:05:57 :  22> [G]: 296244 [E]: 180109 [D]: 2121 [T]:33 [TH]: -, -
+2015-07-09 20:06:01 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:06:03 :  23> [G]:  15732 [E]:  16127 [D]:  N/A [T]:17 [TH]: -, -
+2015-07-09 20:06:09 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:06:10 :  24> [G]:  13221 [E]:   3213 [D]:  N/A [T]:26 [TH]:4-6, In
+2015-07-09 20:06:15 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:06:17 :  25> [G]:   4253 [E]:   5122 [D]:  N/A [T]:23 [TH]: -, -
+2015-07-09 20:06:26 :  26> [G]:  44048 [E]:  19585 [D]:  N/A [T]:30 [TH]: -, -
+2015-07-09 20:06:30 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:06:31 :  27> [G]:   8780 [E]:   8730 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-09 20:06:38 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:06:39 :  28> [G]:  43496 [E]:  40140 [D]:   53 [T]:34 [TH]: 7, In
+2015-07-09 20:06:45 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:06:47 :  29> [G]:  13212 [E]:  14980 [D]:  N/A [T]:21 [TH]: -, -
+2015-07-09 20:06:53 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:06:53 :  30> [G]:  31714 [E]:   5519 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 20:06:57 : Aim:           [G+E]: 148000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:06:57 : Aim: [G]:  94000 [E]:  54000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:06:58 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:06:59 :  31> [G]:  29109 [E]:  45867 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-09 20:07:06 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:07:06 :  32> [G]:   9032 [E]:   4131 [D]:  N/A [T]:19 [TH]:4-6, In
+2015-07-09 20:07:13 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:07:15 :  33> [G]: 169632 [E]:  20417 [D]:  418 [T]:34 [TH]: -, -
+2015-07-09 20:07:19 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:07:19 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:07:20 :  34> [G]:  24079 [E]:  17352 [D]:  N/A [T]:17 [TH]:4-6, In
+2015-07-09 20:07:29 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:07:30 :  35> [G]:  11033 [E]:  39146 [D]:  N/A [T]:26 [TH]:4-6, In
+2015-07-09 20:07:34 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:07:35 :  36> [G]:  38904 [E]:  30680 [D]:   63 [T]:28 [TH]: 7, In
+2015-07-09 20:07:39 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:07:39 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:07:40 :  37> [G]:  54599 [E]:   9368 [D]:  189 [T]:30 [TH]: 7, In
+2015-07-09 20:07:44 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:07:44 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:07:45 :  38> [G]:  45547 [E]:   9811 [D]:  N/A [T]:22 [TH]: 7, In
+2015-07-09 20:07:52 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:07:53 :  39> [G]:  12960 [E]:  50760 [D]:  N/A [T]:28 [TH]: 7, In
+2015-07-09 20:07:56 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:07:57 :  40> [G]:  63837 [E]:  82370 [D]:  120 [T]:12 [TH]: 7, Out
+2015-07-09 20:08:02 : Aim:           [G+E]: 144000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:08:02 : Aim: [G]:  92000 [E]:  52000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:08:02 : $ZSExclude :0
+2015-07-09 20:08:04 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:08:05 :  41> [G]:  71723 [E]:  55811 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-09 20:08:10 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:08:12 :  42> [G]:   6291 [E]:   3864 [D]:  N/A [T]:15 [TH]: -, -
+2015-07-09 20:08:20 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:08:21 :  43> [G]:  53307 [E]:  44368 [D]:   38 [T]:27 [TH]: -, -
+2015-07-09 20:08:25 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:08:26 :  44> [G]:  25498 [E]:  56559 [D]:  N/A [T]:21 [TH]: 7, In
+2015-07-09 20:08:34 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:08:35 :  45> [G]:  39194 [E]:  39311 [D]:  N/A [T]:34 [TH]: 7, In
+2015-07-09 20:08:40 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:08:42 :  46> [G]:   4427 [E]:   5866 [D]:  N/A [T]:27 [TH]: -, -
+2015-07-09 20:08:48 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:08:50 :  47> [G]:  44656 [E]:  25133 [D]:  N/A [T]:21 [TH]: -, -
+2015-07-09 20:08:55 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:08:56 :  48> [G]:  16459 [E]:  37095 [D]:  N/A [T]:18 [TH]:4-6, In
+2015-07-09 20:09:01 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:09:01 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:09:02 :  49> [G]:  36506 [E]:  49209 [D]:  456 [T]:32 [TH]: 7, In
+2015-07-09 20:09:08 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:09:09 :  50> [G]:  60256 [E]:  80630 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-09 20:09:13 : Aim:           [G+E]: 140000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:09:13 : Aim: [G]:  90000 [E]:  50000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:09:13 : $ZSExclude :0
+2015-07-09 20:09:16 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:09:17 :  51> [G]:  11017 [E]:   7905 [D]:  N/A [T]:25 [TH]:4-6, In
+2015-07-09 20:09:21 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:09:22 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:09:23 :  52> [G]:  59063 [E]:  27108 [D]:  N/A [T]:30 [TH]: 7, In
+2015-07-09 20:09:28 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:09:28 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:09:29 :  53> [G]: 106936 [E]:  90664 [D]:  N/A [T]:34 [TH]:4-6, In
+2015-07-09 20:09:34 : $ZSExclude :0
+2015-07-09 20:09:36 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:09:38 :  54> [G]:  54491 [E]:  45987 [D]:  N/A [T]:23 [TH]: -, -
+2015-07-09 20:09:45 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:09:45 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:09:46 :  55> [G]:  94408 [E]:  12723 [D]:  N/A [T]:24 [TH]:4-6, In
+2015-07-09 20:09:52 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:09:53 :  56> [G]:   4500 [E]:   4500 [D]:  N/A [T]:14 [TH]:4-6, In
+2015-07-09 20:10:01 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:10:02 :  57> [G]:  65110 [E]:  50811 [D]:  N/A [T]:30 [TH]:4-6, In
+2015-07-09 20:10:08 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:10:09 :  58> [G]:   7019 [E]:   7379 [D]:  N/A [T]:22 [TH]:4-6, In
+2015-07-09 20:10:17 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:10:18 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:10:19 :  59> [G]: 249416 [E]: 167777 [D]:  259 [T]:29 [TH]: 7, Out
+2015-07-09 20:10:23 : $ZSExclude :0
+2015-07-09 20:10:26 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:10:27 :  60> [G]:   4139 [E]:  23571 [D]:  N/A [T]:22 [TH]:4-6, In
+2015-07-09 20:10:29 : Aim:           [G+E]: 136000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:10:29 : Aim: [G]:  88000 [E]:  48000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:10:30 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:10:31 :  61> [G]:  87331 [E]:  17557 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-09 20:10:39 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:10:40 :  62> [G]:  25629 [E]:  45734 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-09 20:10:47 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:10:47 :  63> [G]:   7947 [E]:  40832 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-09 20:10:54 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:10:55 :  64> [G]:  29021 [E]:  36260 [D]:  N/A [T]:32 [TH]:4-6, In
+2015-07-09 20:11:02 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:11:02 :  65> [G]:   9539 [E]:  18360 [D]:  N/A [T]:14 [TH]:4-6, In
+2015-07-09 20:11:10 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:11:11 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:11:11 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:11:12 : Loop to clean screen without Clouds , n?:4
+2015-07-09 20:11:12 : Loop to clean screen without Clouds , n?:5
+2015-07-09 20:11:13 : Loop to clean screen without Clouds , n?:6
+2015-07-09 20:11:14 :  66> [G]:  33489 [E]:  10850 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-09 20:11:21 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:11:22 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:11:23 :  67> [G]:  13398 [E]:  24481 [D]:  N/A [T]:32 [TH]:4-6, In
+2015-07-09 20:11:26 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:11:27 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:11:28 :  68> [G]:   4272 [E]:  52655 [D]:    0 [T]:31 [TH]: 7, In
+2015-07-09 20:11:31 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:11:32 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:11:34 :  69> [G]:  92639 [E]: 135245 [D]:  N/A [T]:33 [TH]: -, -
+2015-07-09 20:11:41 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:11:42 :  70> [G]:  28700 [E]:  31673 [D]:  N/A [T]:34 [TH]:4-6, In
+2015-07-09 20:11:44 : Aim:           [G+E]: 132000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:11:44 : Aim: [G]:  86000 [E]:  46000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:11:46 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:11:48 :  71> [G]:  23966 [E]:  23237 [D]:  N/A [T]:33 [TH]: -, -
+2015-07-09 20:11:54 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:11:55 :  72> [G]:   3317 [E]:  13658 [D]:  N/A [T]:27 [TH]:4-6, In
+2015-07-09 20:12:02 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:12:03 :  73> [G]:  81147 [E]:  67378 [D]:  N/A [T]:19 [TH]:4-6, In
+2015-07-09 20:12:08 : $ZSExclude :0
+2015-07-09 20:12:10 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:12:12 :  74> [G]:  52255 [E]:  21009 [D]:  N/A [T]:25 [TH]: -, -
+2015-07-09 20:12:19 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:12:19 :  75> [G]:  35136 [E]:   9903 [D]:  N/A [T]:27 [TH]:4-6, In
+2015-07-09 20:12:26 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:12:27 :  76> [G]:  30760 [E]:  30384 [D]:  N/A [T]:17 [TH]:4-6, In
+2015-07-09 20:12:34 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:12:35 :  77> [G]:  29039 [E]:  29944 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 20:12:42 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:12:43 :  78> [G]:  85500 [E]:  18000 [D]:  N/A [T]:17 [TH]: -, -
+2015-07-09 20:12:50 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:12:51 :  79> [G]:  28489 [E]:  11331 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-09 20:12:56 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:12:56 :  80> [G]:  92637 [E]:  58221 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 20:12:58 : Aim:           [G+E]: 128000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:12:58 : Aim: [G]:  84000 [E]:  44000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:12:58 : $ZSExclude :0
+2015-07-09 20:13:01 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:13:02 :  81> [G]:  64255 [E]:  35190 [D]:  N/A [T]:24 [TH]: -, -
+2015-07-09 20:13:09 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:13:09 :  82> [G]:  13633 [E]:  21945 [D]:  N/A [T]:27 [TH]:4-6, In
+2015-07-09 20:13:16 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:13:17 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:13:18 :  83> [G]:  36509 [E]:  31939 [D]:   57 [T]:33 [TH]: 8, In
+2015-07-09 20:13:21 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:13:22 :  84> [G]:   8419 [E]:  10108 [D]:  N/A [T]:32 [TH]:4-6, In
+2015-07-09 20:13:27 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:13:28 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:13:30 :  85> [G]:  38512 [E]:  39928 [D]:  N/A [T]:29 [TH]: -, -
+2015-07-09 20:13:36 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:13:38 :  86> [G]:  75827 [E]:  30488 [D]:  N/A [T]:28 [TH]: -, -
+2015-07-09 20:13:46 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:13:48 :  87> [G]:   5341 [E]:   7590 [D]:  N/A [T]:17 [TH]: -, -
+2015-07-09 20:13:54 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:13:55 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:13:56 :  88> [G]:   2866 [E]:   2062 [D]:  N/A [T]:13 [TH]:4-6, In
+2015-07-09 20:14:04 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:14:04 :  89> [G]:  72223 [E]:  34290 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-09 20:14:11 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:14:11 :  90> [G]:  29051 [E]:  95681 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-09 20:14:14 : Aim:           [G+E]: 124000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:14:14 : Aim: [G]:  82000 [E]:  42000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:14:14 : $ZSExclude :0
+2015-07-09 20:14:17 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:14:19 :  91> [G]:  12935 [E]:  26664 [D]:  N/A [T]:29 [TH]: -, -
+2015-07-09 20:14:25 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:14:26 :  92> [G]:   7665 [E]:  87745 [D]:  N/A [T]:23 [TH]:4-6, In
+2015-07-09 20:14:30 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:14:31 :  93> [G]:   8948 [E]:   4179 [D]:  N/A [T]:22 [TH]: -, -
+2015-07-09 20:14:38 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:14:40 :  94> [G]:   8572 [E]:   8472 [D]:  N/A [T]:13 [TH]: -, -
+2015-07-09 20:14:49 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:14:50 :  95> [G]:  49475 [E]:  74471 [D]:  N/A [T]:26 [TH]: -, -
+2015-07-09 20:14:55 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:14:56 :  96> [G]:  75018 [E]:  55458 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-09 20:14:58 : $ZSExclude :0
+2015-07-09 20:15:00 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:15:01 :  97> [G]:  53726 [E]:  22392 [D]:  338 [T]:29 [TH]: 7, In
+2015-07-09 20:15:05 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:15:07 :  98> [G]:  83429 [E]:  67720 [D]:  N/A [T]:24 [TH]: -, -
+2015-07-09 20:15:12 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:15:13 :  99> [G]:  29754 [E]:  24581 [D]:  N/A [T]:20 [TH]:4-6, In
+2015-07-09 20:15:20 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:15:20 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:15:21 : 100> [G]:  75850 [E]:  24772 [D]:  402 [T]:34 [TH]: 7, In
+2015-07-09 20:15:27 : Aim:           [G+E]: 120000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:15:27 : Aim: [G]:  80000 [E]:  40000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:15:29 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:15:29 : 101> [G]:   5103 [E]:  22814 [D]:  N/A [T]:17 [TH]:4-6, In
+2015-07-09 20:15:36 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:15:38 : 102> [G]:   5957 [E]:  21002 [D]:  N/A [T]:23 [TH]: -, -
+2015-07-09 20:15:45 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:15:45 : 103> [G]:  27063 [E]:  51667 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-09 20:15:51 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:15:53 : 104> [G]: 159024 [E]:  36208 [D]:  N/A [T]:26 [TH]: -, -
+2015-07-09 20:15:58 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:15:59 : 105> [G]:  28806 [E]:  66975 [D]:  N/A [T]:33 [TH]:4-6, In
+2015-07-09 20:16:04 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:16:05 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:16:06 : 106> [G]:  30017 [E]:  57154 [D]:  N/A [T]:33 [TH]:4-6, In
+2015-07-09 20:16:09 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:16:10 : 107> [G]:  79708 [E]:  93534 [D]:  N/A [T]:27 [TH]:4-6, In
+2015-07-09 20:16:15 : $ZSExclude :0
+2015-07-09 20:16:17 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:16:19 : 108> [G]:  91252 [E]: 119592 [D]:  215 [T]:30 [TH]: -, -
+2015-07-09 20:16:23 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:16:24 : 109> [G]:  40234 [E]:  11165 [D]:  N/A [T]:32 [TH]: 7, In
+2015-07-09 20:16:27 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:16:29 : 110> [G]:  18141 [E]:  47806 [D]:  N/A [T]:32 [TH]: -, -
+2015-07-09 20:16:32 : Aim:           [G+E]: 116000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:16:32 : Aim: [G]:  78000 [E]:  38000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:16:34 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:16:35 : 111> [G]:  16243 [E]:  36905 [D]:  N/A [T]:23 [TH]:4-6, In
+2015-07-09 20:16:41 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:16:42 : 112> [G]:  27621 [E]:  10796 [D]:  N/A [T]:23 [TH]:4-6, In
+2015-07-09 20:16:50 : 113> [G]:   7642 [E]:   4580 [D]:  N/A [T]:29 [TH]: 7, In
+2015-07-09 20:16:54 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:16:56 : 114> [G]:  26992 [E]:   8281 [D]:  N/A [T]:27 [TH]: -, -
+2015-07-09 20:17:04 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:17:04 : 115> [G]:  30551 [E]:  59246 [D]:  N/A [T]:32 [TH]:4-6, In
+2015-07-09 20:17:11 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:17:13 : 116> [G]:   7312 [E]:  19686 [D]:  N/A [T]:13 [TH]: -, -
+2015-07-09 20:17:19 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:17:20 : 117> [G]:  17377 [E]:  20793 [D]:  N/A [T]:34 [TH]:4-6, In
+2015-07-09 20:17:24 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:17:24 : 118> [G]:   4150 [E]:  15602 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-09 20:17:28 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:17:30 : 119> [G]:   5315 [E]:  15987 [D]:  N/A [T]:27 [TH]: -, -
+2015-07-09 20:17:37 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:17:38 : 120> [G]:  65866 [E]:  90703 [D]:  N/A [T]:26 [TH]: -, -
+2015-07-09 20:17:40 : Aim:           [G+E]: 112000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:17:40 : Aim: [G]:  76000 [E]:  36000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:17:42 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:17:43 : 121> [G]:  10024 [E]:  47863 [D]:  279 [T]:28 [TH]: 7, In
+2015-07-09 20:17:47 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:17:48 : 122> [G]:  14649 [E]:  11256 [D]:  N/A [T]:24 [TH]:4-6, In
+2015-07-09 20:17:56 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:17:58 : 123> [G]: 160107 [E]:  27415 [D]:  N/A [T]:23 [TH]: -, -
+2015-07-09 20:18:01 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:18:03 : 124> [G]:  31455 [E]:  67835 [D]:    9 [T]:34 [TH]: -, -
+2015-07-09 20:18:08 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:18:10 : 125> [G]:  44122 [E]:  37856 [D]:  N/A [T]:28 [TH]: -, -
+2015-07-09 20:18:14 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:18:14 : 126> [G]:   7754 [E]:   3829 [D]:  N/A [T]:15 [TH]:4-6, In
+2015-07-09 20:18:22 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:18:24 : 127> [G]:  30684 [E]:  32703 [D]:  N/A [T]:18 [TH]: -, -
+2015-07-09 20:18:27 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:18:28 : 128> [G]:  38197 [E]:  18191 [D]:  N/A [T]:13 [TH]:4-6, In
+2015-07-09 20:18:36 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:18:37 : 129> [G]:   9080 [E]:  82158 [D]:   61 [T]:31 [TH]: 7, In
+2015-07-09 20:18:43 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:18:44 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:18:45 : 130> [G]:  36010 [E]:  44281 [D]:   25 [T]:29 [TH]: 7, In
+2015-07-09 20:18:50 : Aim:           [G+E]: 108000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:18:50 : Aim: [G]:  74000 [E]:  34000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:18:52 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:18:52 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:18:55 : 131> [G]:  10315 [E]:   9109 [D]:  N/A [T]:15 [TH]: -, -
+2015-07-09 20:19:02 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:19:02 : 132> [G]:  36922 [E]:  16222 [D]:  N/A [T]:30 [TH]:4-6, In
+2015-07-09 20:19:09 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:19:09 : 133> [G]:  39791 [E]: 140359 [D]:  N/A [T]:23 [TH]:4-6, In
+2015-07-09 20:19:14 : $ZSExclude :0
+2015-07-09 20:19:16 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:19:18 : 134> [G]:  85500 [E]: 191636 [D]:  N/A [T]:22 [TH]: -, -
+2015-07-09 20:19:25 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:19:27 : 135> [G]:  21591 [E]:  26907 [D]:  N/A [T]:29 [TH]: -, -
+2015-07-09 20:19:32 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:19:34 : 136> [G]:  22766 [E]:  47532 [D]:  N/A [T]:33 [TH]: -, -
+2015-07-09 20:19:38 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:19:39 : 137> [G]:  15551 [E]:  35194 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-09 20:19:45 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:19:46 : 138> [G]: 117358 [E]:  88321 [D]:  N/A [T]:26 [TH]:4-6, In
+2015-07-09 20:19:51 : $ZSExclude :0
+2015-07-09 20:19:54 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:19:56 : 139> [G]:  52830 [E]:  49241 [D]:  N/A [T]:28 [TH]: -, -
+2015-07-09 20:20:01 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:20:01 : 140> [G]:  19355 [E]:  21103 [D]:  N/A [T]:33 [TH]:4-6, In
+2015-07-09 20:20:03 : Aim:           [G+E]: 104000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:20:03 : Aim: [G]:  72000 [E]:  32000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:20:05 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:20:07 : 141> [G]:  16330 [E]:  24932 [D]:  N/A [T]:17 [TH]: -, -
+2015-07-09 20:20:10 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:20:11 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:20:12 : 142> [G]:  39128 [E]:  19452 [D]:   71 [T]:31 [TH]: 7, Out
+2015-07-09 20:20:18 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:20:19 : 143> [G]:  47480 [E]:  32902 [D]:  N/A [T]:28 [TH]: -, -
+2015-07-09 20:20:26 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:20:28 : 144> [G]:  24936 [E]:  28122 [D]:  N/A [T]:14 [TH]: -, -
+2015-07-09 20:20:36 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:20:36 : 145> [G]:  86878 [E]:  28292 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-09 20:20:39 : $ZSExclude :0
+2015-07-09 20:20:40 : ~~~~~~~~~~~~~~~~ Dead Base Found! ~~~~~~~~~~~~~~~~
+2015-07-09 20:20:41 : ================ Search Complete =================
+2015-07-09 20:20:41 : Initiating attack for: Dead Base
+2015-07-09 20:20:45 : -Barbarians 18
+2015-07-09 20:20:45 : -Archers 57
+2015-07-09 20:20:45 : -Giants 12
+2015-07-09 20:20:45 : -Clan Castle 
+2015-07-09 20:20:45 : -Rage Spells 2
+2015-07-09 20:20:45 : -Heal Spells 2
+2015-07-09 20:20:45 :  ====== Start Attack ====== 
+2015-07-09 20:20:47 : Calculating Smart Attack Strategy
+2015-07-09 20:20:48 : Calculated  (in 1.04 seconds) :
+2015-07-09 20:20:48 : Locating Village Pump & Mines
+2015-07-09 20:21:01 : Located  (in 13.1 seconds) :
+2015-07-09 20:21:01 : [5] Gold Mines
+2015-07-09 20:21:01 : [5] Elixir Collectors
+2015-07-09 20:21:01 : [0] Dark Elixir Drill/s
+2015-07-09 20:21:01 : Attacking on all sides
+2015-07-09 20:21:03 : Dropping 1  of Giants => on each side (side : 1)
+2015-07-09 20:21:04 : Dropping 1  of Barbarians => on each side (side : 1)
+2015-07-09 20:21:05 : Dropping 3  of Archers => on each side (side : 1)
+2015-07-09 20:21:05 : Dropping 1  of Giants => on each side (side : 2)
+2015-07-09 20:21:06 : Dropping 1  of Barbarians => on each side (side : 2)
+2015-07-09 20:21:07 : Dropping 3  of Archers => on each side (side : 2)
+2015-07-09 20:21:07 : Dropping 1  of Giants => on each side (side : 3)
+2015-07-09 20:21:08 : Dropping 1  of Barbarians => on each side (side : 3)
+2015-07-09 20:21:09 : Dropping 3  of Archers => on each side (side : 3)
+2015-07-09 20:21:09 : Dropping 1  of Giants => on each side (side : 4)
+2015-07-09 20:21:10 : Dropping 1  of Barbarians => on each side (side : 4)
+2015-07-09 20:21:11 : Dropping 3  of Archers => on each side (side : 4)
+2015-07-09 20:21:11 : Dropping 1  of Giants => on each side (side : 5)
+2015-07-09 20:21:12 : Dropping 1  of Barbarians => on each side (side : 5)
+2015-07-09 20:21:13 : Dropping 3  of Archers => on each side (side : 5)
+2015-07-09 20:21:14 : Dropping 1  of Giants => on each side (side : 6)
+2015-07-09 20:21:14 : Dropping 1  of Barbarians => on each side (side : 6)
+2015-07-09 20:21:15 : Dropping 3  of Archers => on each side (side : 6)
+2015-07-09 20:21:15 : Dropping 1  of Giants => on each side (side : 7)
+2015-07-09 20:21:16 : Dropping 1  of Barbarians => on each side (side : 7)
+2015-07-09 20:21:17 : Dropping 3  of Archers => on each side (side : 7)
+2015-07-09 20:21:17 : Dropping 1  of Giants => on each side (side : 8)
+2015-07-09 20:21:18 : Dropping 1  of Barbarians => on each side (side : 8)
+2015-07-09 20:21:19 : Dropping 3  of Archers => on each side (side : 8)
+2015-07-09 20:21:20 : Dropping 1  of Giants => on each side (side : 9)
+2015-07-09 20:21:20 : Dropping 1  of Barbarians => on each side (side : 9)
+2015-07-09 20:21:21 : Dropping 3  of Archers => on each side (side : 9)
+2015-07-09 20:21:22 : Dropping 1  of Giants => on each side (side : 10)
+2015-07-09 20:21:22 : Dropping 1  of Barbarians => on each side (side : 10)
+2015-07-09 20:21:23 : Dropping 3  of Archers => on each side (side : 10)
+2015-07-09 20:21:25 : Dropping 1  of Barbarians => on each side (side : 1)
+2015-07-09 20:21:25 : Dropping 3  of Archers => on each side (side : 1)
+2015-07-09 20:21:26 : Dropping 1  of Barbarians => on each side (side : 2)
+2015-07-09 20:21:27 : Dropping 3  of Archers => on each side (side : 2)
+2015-07-09 20:21:27 : Dropping 1  of Barbarians => on each side (side : 3)
+2015-07-09 20:21:28 : Dropping 3  of Archers => on each side (side : 3)
+2015-07-09 20:21:29 : Dropping 1  of Barbarians => on each side (side : 4)
+2015-07-09 20:21:29 : Dropping 3  of Archers => on each side (side : 4)
+2015-07-09 20:21:30 : Dropping 1  of Barbarians => on each side (side : 5)
+2015-07-09 20:21:31 : Dropping 3  of Archers => on each side (side : 5)
+2015-07-09 20:21:32 : Dropping 1  of Barbarians => on each side (side : 6)
+2015-07-09 20:21:32 : Dropping 3  of Archers => on each side (side : 6)
+2015-07-09 20:21:33 : Dropping 1  of Barbarians => on each side (side : 7)
+2015-07-09 20:21:34 : Dropping 3  of Archers => on each side (side : 7)
+2015-07-09 20:21:35 : Dropping 1  of Barbarians => on each side (side : 8)
+2015-07-09 20:21:35 : Dropping 3  of Archers => on each side (side : 8)
+2015-07-09 20:21:36 : Dropping 1  of Barbarians => on each side (side : 9)
+2015-07-09 20:21:37 : Dropping 3  of Archers => on each side (side : 9)
+2015-07-09 20:21:38 : Dropping 1  of Barbarians => on each side (side : 10)
+2015-07-09 20:21:38 : Dropping 3  of Archers => on each side (side : 10)
+2015-07-09 20:21:39 :  CheckHeroesHealth started 
+2015-07-09 20:21:40 : Dropping last 2  of Giants
+2015-07-09 20:21:42 : Dropping left over troops
+2015-07-09 20:21:42 : Checking remaining unused troops for: Dead Base
+2015-07-09 20:21:45 : -Archers 0
+2015-07-09 20:21:45 : -Clan Castle 
+2015-07-09 20:21:45 : -Rage Spells 2
+2015-07-09 20:21:45 : -Heal Spells 2
+2015-07-09 20:21:45 :  CheckHeroesHealth started 
+2015-07-09 20:21:46 :  CheckHeroesHealth started 
+2015-07-09 20:21:46 :  CheckHeroesHealth started 
+2015-07-09 20:21:47 :  CheckHeroesHealth started 
+2015-07-09 20:21:47 :  CheckHeroesHealth started 
+2015-07-09 20:21:48 :  CheckHeroesHealth started 
+2015-07-09 20:21:49 :  CheckHeroesHealth started 
+2015-07-09 20:21:49 :  CheckHeroesHealth started 
+2015-07-09 20:21:50 :  CheckHeroesHealth started 
+2015-07-09 20:21:50 :  CheckHeroesHealth started 
+2015-07-09 20:21:51 :  CheckHeroesHealth started 
+2015-07-09 20:21:52 :  CheckHeroesHealth started 
+2015-07-09 20:21:52 :  CheckHeroesHealth started 
+2015-07-09 20:21:53 :  CheckHeroesHealth started 
+2015-07-09 20:21:53 :  CheckHeroesHealth started 
+2015-07-09 20:21:54 :  CheckHeroesHealth started 
+2015-07-09 20:21:55 : Checking remaining unused troops for: Dead Base
+2015-07-09 20:21:58 : -Archers 0
+2015-07-09 20:21:58 : -Clan Castle 
+2015-07-09 20:21:58 : -Rage Spells 2
+2015-07-09 20:21:58 : -Heal Spells 2
+2015-07-09 20:21:58 :  CheckHeroesHealth started 
+2015-07-09 20:21:59 :  CheckHeroesHealth started 
+2015-07-09 20:22:00 :  CheckHeroesHealth started 
+2015-07-09 20:22:00 :  CheckHeroesHealth started 
+2015-07-09 20:22:01 :  CheckHeroesHealth started 
+2015-07-09 20:22:01 :  CheckHeroesHealth started 
+2015-07-09 20:22:02 :  CheckHeroesHealth started 
+2015-07-09 20:22:02 :  CheckHeroesHealth started 
+2015-07-09 20:22:03 :  CheckHeroesHealth started 
+2015-07-09 20:22:04 :  CheckHeroesHealth started 
+2015-07-09 20:22:04 :  CheckHeroesHealth started 
+2015-07-09 20:22:05 :  CheckHeroesHealth started 
+2015-07-09 20:22:05 :  CheckHeroesHealth started 
+2015-07-09 20:22:06 :  CheckHeroesHealth started 
+2015-07-09 20:22:07 :  CheckHeroesHealth started 
+2015-07-09 20:22:07 :  CheckHeroesHealth started 
+2015-07-09 20:22:08 : Finished Attacking, waiting for the battle to end
+2015-07-09 20:22:08 : Checking if the battle has finished
+2015-07-09 20:22:08 :  CheckHeroesHealth started 
+2015-07-09 20:22:09 : detected [G]: 900 [E]: 11282 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:09 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:09 : Elixir1: 11462  Elixir2: 11282
+2015-07-09 20:22:10 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:10 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:11 :  CheckHeroesHealth started 
+2015-07-09 20:22:12 : detected [G]: 900 [E]: 10742 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:12 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:12 : Elixir1: 10922  Elixir2: 10742
+2015-07-09 20:22:12 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:12 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:13 :  CheckHeroesHealth started 
+2015-07-09 20:22:15 : detected [G]: 900 [E]: 10382 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:15 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:15 : Elixir1: 10562  Elixir2: 10382
+2015-07-09 20:22:15 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:15 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:16 :  CheckHeroesHealth started 
+2015-07-09 20:22:18 : detected [G]: 900 [E]: 9842 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:18 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:18 : Elixir1: 10022  Elixir2: 9842
+2015-07-09 20:22:18 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:18 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:19 :  CheckHeroesHealth started 
+2015-07-09 20:22:20 : detected [G]: 900 [E]: 9302 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:20 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:20 : Elixir1: 9662  Elixir2: 9302
+2015-07-09 20:22:20 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:20 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:22 :  CheckHeroesHealth started 
+2015-07-09 20:22:23 : detected [G]: 900 [E]: 8942 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:23 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:23 : Elixir1: 9122  Elixir2: 8942
+2015-07-09 20:22:23 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:23 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:24 :  CheckHeroesHealth started 
+2015-07-09 20:22:26 : detected [G]: 900 [E]: 8402 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:26 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:26 : Elixir1: 8582  Elixir2: 8402
+2015-07-09 20:22:26 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:26 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:27 :  CheckHeroesHealth started 
+2015-07-09 20:22:28 : detected [G]: 900 [E]: 8042 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:28 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:28 : Elixir1: 8222  Elixir2: 8042
+2015-07-09 20:22:28 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:28 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:30 :  CheckHeroesHealth started 
+2015-07-09 20:22:31 : detected [G]: 900 [E]: 7502 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:31 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:31 : Elixir1: 7682  Elixir2: 7502
+2015-07-09 20:22:31 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:31 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:32 :  CheckHeroesHealth started 
+2015-07-09 20:22:34 : detected [G]: 900 [E]: 6962 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:34 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:34 : Elixir1: 7322  Elixir2: 6962
+2015-07-09 20:22:34 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:34 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:35 :  CheckHeroesHealth started 
+2015-07-09 20:22:36 : detected [G]: 900 [E]: 6602 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:37 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:37 : Elixir1: 6782  Elixir2: 6602
+2015-07-09 20:22:37 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:37 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:38 :  CheckHeroesHealth started 
+2015-07-09 20:22:39 : detected [G]: 900 [E]: 6062 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:39 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:39 : Elixir1: 6242  Elixir2: 6062
+2015-07-09 20:22:39 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:39 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:41 :  CheckHeroesHealth started 
+2015-07-09 20:22:42 : detected [G]: 900 [E]: 5702 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:42 : Gold1: 900  Gold2: 900
+2015-07-09 20:22:42 : Elixir1: 5882  Elixir2: 5702
+2015-07-09 20:22:42 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:42 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:43 :  CheckHeroesHealth started 
+2015-07-09 20:22:45 : detected [G]: 900 [E]: 5342 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:45 :  CheckHeroesHealth started 
+2015-07-09 20:22:46 : detected [G]: 900 [E]: 5342 [DE]:  |  Exit in 17.3 sec.
+2015-07-09 20:22:46 :  CheckHeroesHealth started 
+2015-07-09 20:22:47 : detected [G]: 900 [E]: 5342 [DE]:  |  Exit in 15.9 sec.
+2015-07-09 20:22:47 :  CheckHeroesHealth started 
+2015-07-09 20:22:49 : detected [G]: 900 [E]: 5342 [DE]:  |  Exit in 14.6 sec.
+2015-07-09 20:22:49 :  CheckHeroesHealth started 
+2015-07-09 20:22:50 : detected [G]: 900 [E]: 5342 [DE]:  |  Exit in 13.2 sec.
+2015-07-09 20:22:50 :  CheckHeroesHealth started 
+2015-07-09 20:22:51 : detected [G]: 895 [E]: 5337 [DE]:  |  Exit in 11.8 sec.
+2015-07-09 20:22:51 : Gold1: 900  Gold2: 895
+2015-07-09 20:22:51 : Elixir1: 5342  Elixir2: 5337
+2015-07-09 20:22:51 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:52 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:53 :  CheckHeroesHealth started 
+2015-07-09 20:22:55 : detected [G]: 895 [E]: 5337 [DE]:  |  Exit in 17.6 sec.
+2015-07-09 20:22:55 :  CheckHeroesHealth started 
+2015-07-09 20:22:57 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 16.2 sec.
+2015-07-09 20:22:57 : Gold1: 895  Gold2: 890
+2015-07-09 20:22:57 : Elixir1: 5337  Elixir2: 5332
+2015-07-09 20:22:57 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:22:57 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:22:58 :  CheckHeroesHealth started 
+2015-07-09 20:22:59 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:22:59 :  CheckHeroesHealth started 
+2015-07-09 20:23:01 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 17.4 sec.
+2015-07-09 20:23:01 :  CheckHeroesHealth started 
+2015-07-09 20:23:02 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 16.0 sec.
+2015-07-09 20:23:02 :  CheckHeroesHealth started 
+2015-07-09 20:23:03 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 14.6 sec.
+2015-07-09 20:23:03 :  CheckHeroesHealth started 
+2015-07-09 20:23:05 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 13.3 sec.
+2015-07-09 20:23:05 :  CheckHeroesHealth started 
+2015-07-09 20:23:06 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 11.9 sec.
+2015-07-09 20:23:06 :  CheckHeroesHealth started 
+2015-07-09 20:23:07 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 10.5 sec.
+2015-07-09 20:23:07 :  CheckHeroesHealth started 
+2015-07-09 20:23:09 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 9.2 sec.
+2015-07-09 20:23:09 :  CheckHeroesHealth started 
+2015-07-09 20:23:10 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 7.8 sec.
+2015-07-09 20:23:10 :  CheckHeroesHealth started 
+2015-07-09 20:23:11 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 6.4 sec.
+2015-07-09 20:23:12 :  CheckHeroesHealth started 
+2015-07-09 20:23:13 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 5.1 sec.
+2015-07-09 20:23:13 :  CheckHeroesHealth started 
+2015-07-09 20:23:14 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 3.7 sec.
+2015-07-09 20:23:14 :  CheckHeroesHealth started 
+2015-07-09 20:23:16 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 2.3 sec.
+2015-07-09 20:23:16 :  CheckHeroesHealth started 
+2015-07-09 20:23:17 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 0.9 sec.
+2015-07-09 20:23:17 :  CheckHeroesHealth started 
+2015-07-09 20:23:18 : detected [G]: 890 [E]: 5332 [DE]:  |  Exit in 0.0 sec.
+2015-07-09 20:23:18 : Gold & Elixir & DE no change detected, exit
+2015-07-09 20:23:19 : Returning Home
+2015-07-09 20:23:24 : Loot: [G]: 85 988 [E]: 22 960 [DE]: 22 960 [T]: 0
+2015-07-09 20:23:24 : Bonus [G]: 3 000 [E]: 3 000
+2015-07-09 20:23:25 : Your league level is: Silver II
+2015-07-09 20:23:25 : Stars earned: 1
+2015-07-09 20:23:25 : Taking snapshot of your loot
+2015-07-09 20:23:25 : Pushbullet: Last Raid screenshot has been sent!
+2015-07-09 20:23:37 : Trying to locate Main Screen
+2015-07-09 20:23:37 : Main Screen Located
+2015-07-09 20:23:39 : Profile Report
+2015-07-09 20:23:39 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 20:23:40 :  [ATKW]: 35 [DEFW]: 2 [TDON]: 275 [TREC]: 286
+2015-07-09 20:23:48 : Village Report
+2015-07-09 20:23:48 : No. of Free/Total Builders: 0/3
+2015-07-09 20:23:48 :  [T]: 1 061
+2015-07-09 20:23:48 :  [G]: 867 897 [E]: 834 141 [GEM]: 632
+2015-07-09 20:23:52 : Chat Request: any
+2015-07-09 20:23:52 : Archers Keyword found: any
+2015-07-09 20:23:52 : Donating Archers
+2015-07-09 20:23:56 : Chat Request: 3 orabove dragon
+2015-07-09 20:23:58 : Chat Request: balloon
+2015-07-09 20:24:00 : Chat Request: balloon
+2015-07-09 20:24:02 : Func Train 
+2015-07-09 20:24:02 : Checking Army Camp...
+2015-07-09 20:24:04 : $sArmyInfo = 134#135
+2015-07-09 20:24:04 : $CurCamp = 134
+2015-07-09 20:24:04 : $TotalCamp = 135
+2015-07-09 20:24:04 : Total Army Camp capacity: 134/135
+2015-07-09 20:24:04 : Training Troops...
+2015-07-09 20:24:07 : This is not a Barrack
+2015-07-09 20:24:07 : Barrack1 selected
+2015-07-09 20:24:07 : Barrack1 selected
+2015-07-09 20:24:07 : Train: need to make normal troops: True
+2015-07-09 20:24:07 : Train: need to make dark troops: False
+2015-07-09 20:24:07 : Barrack1 selected
+2015-07-09 20:24:08 : Barrack2 selected
+2015-07-09 20:24:08 : Barrack2 selected
+2015-07-09 20:24:09 : Barrack3 selected
+2015-07-09 20:24:09 : Barrack3 selected
+2015-07-09 20:24:09 : This is not a Barrack
+2015-07-09 20:24:09 : This is not a Barrack
+2015-07-09 20:24:10 : This is not a Barrack
+2015-07-09 20:24:10 : This is not a Barrack
+2015-07-09 20:24:10 : This is not a Barrack
+2015-07-09 20:24:11 : Barrack3 selected
+2015-07-09 20:24:11 : AfterAttack: True
+2015-07-09 20:24:16 : Barrack2 selected
+2015-07-09 20:24:16 : AfterAttack: True
+2015-07-09 20:24:21 : Barrack1 selected
+2015-07-09 20:24:21 : AfterAttack: True
+2015-07-09 20:24:26 : This is not a Barrack
+2015-07-09 20:24:26 : ---================================================================---
+2015-07-09 20:24:30 : Requesting Clan Castle Troops
+2015-07-09 20:24:30 : Your Clan Castle is already full or you are not in a clan.
+2015-07-09 20:24:33 : No free builder, Upgrade Walls skipped..
+2015-07-09 20:24:36 : Profile Report
+2015-07-09 20:24:36 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 20:24:37 :  [ATKW]: 35 [DEFW]: 2 [TDON]: 281 [TREC]: 286
+2015-07-09 20:24:38 : Going to Attack...
+2015-07-09 20:24:43 : Shield btn clr chk-#1: 815130, #2: 665038, #3: 9E907F, #4: 4C4030
+2015-07-09 20:24:44 : ============== Searching For Dead Base ===============
+2015-07-09 20:24:44 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-09 20:24:44 : Meet: Gold + Elixir, Max TH 7
+2015-07-09 20:24:44 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-09 20:24:44 : Aim:           [G+E]: 160000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:24:44 : ============== Searching For Live Base ===============
+2015-07-09 20:24:44 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-09 20:24:44 : Meet: Gold and Elixir, Max TH 4-6, TH Outside, Weak Base(Mortar: 2, WizTower: 2)
+2015-07-09 20:24:44 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-09 20:24:44 : Aim: [G]: 100000 [E]:  60000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:24:44 : ==================================================
+2015-07-09 20:24:46 :   1> [G]:  11212 [E]:   9303 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-09 20:24:52 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:24:54 :   2> [G]:  24438 [E]:  12876 [D]:  N/A [T]:13 [TH]: -, -
+2015-07-09 20:25:03 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:25:04 :   3> [G]:  77309 [E]:   3413 [D]:  179 [T]:31 [TH]: 7, In
+2015-07-09 20:25:10 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:25:10 :   4> [G]:  77725 [E]:  52926 [D]:    0 [T]:24 [TH]: 7, In
+2015-07-09 20:25:16 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:25:17 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:25:17 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:25:18 : Loop to clean screen without Clouds , n?:4
+2015-07-09 20:25:19 : Loop to clean screen without Clouds , n?:5
+2015-07-09 20:25:19 : Loop to clean screen without Clouds , n?:6
+2015-07-09 20:25:21 :   5> [G]:  22305 [E]:  28195 [D]:  N/A [T]:20 [TH]: -, -
+2015-07-09 20:25:28 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:25:28 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:25:29 :   6> [G]:  86149 [E]:  65081 [D]:  111 [T]:34 [TH]: 7, In
+2015-07-09 20:25:33 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:25:33 :   7> [G]:   2700 [E]:   2701 [D]:  N/A [T]:32 [TH]:4-6, In
+2015-07-09 20:25:37 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:25:38 :   8> [G]:  45561 [E]:  33440 [D]:  N/A [T]:30 [TH]:4-6, In
+2015-07-09 20:25:44 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:25:45 :   9> [G]:  35531 [E]:  43791 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 20:25:49 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:25:51 :  10> [G]:  43146 [E]:  68463 [D]:  N/A [T]:29 [TH]: -, -
+2015-07-09 20:25:52 : Aim:           [G+E]: 156000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:25:52 : Aim: [G]:  98000 [E]:  58000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:25:54 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:25:56 :  11> [G]:  21451 [E]:  39205 [D]:  N/A [T]:17 [TH]: -, -
+2015-07-09 20:26:00 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:26:02 :  12> [G]:  99542 [E]:  53881 [D]:  N/A [T]:33 [TH]: -, -
+2015-07-09 20:26:09 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:26:09 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:26:10 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:26:10 : Loop to clean screen without Clouds , n?:4
+2015-07-09 20:26:11 : Loop to clean screen without Clouds , n?:5
+2015-07-09 20:26:12 : Loop to clean screen without Clouds , n?:6
+2015-07-09 20:26:12 : Loop to clean screen without Clouds , n?:7
+2015-07-09 20:26:13 : Loop to clean screen without Clouds , n?:8
+2015-07-09 20:26:13 : Loop to clean screen without Clouds , n?:9
+2015-07-09 20:26:14 : Loop to clean screen without Clouds , n?:10
+2015-07-09 20:26:15 :  13> [G]:  78040 [E]:  53471 [D]:   11 [T]:19 [TH]: 7, Out
+2015-07-09 20:26:21 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:26:21 :  14> [G]:  34736 [E]:  11896 [D]:  N/A [T]:27 [TH]:4-6, In
+2015-07-09 20:26:28 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:26:30 :  15> [G]:  95000 [E]:  95000 [D]:  N/A [T]:24 [TH]: -, -
+2015-07-09 20:26:37 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:26:37 :  16> [G]:  33080 [E]:  27219 [D]:  N/A [T]:34 [TH]: 7, In
+2015-07-09 20:26:42 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:26:43 :  17> [G]:   2589 [E]:   1164 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 20:26:50 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:26:51 :  18> [G]:   2259 [E]:   3601 [D]:  N/A [T]:34 [TH]:4-6, In
+2015-07-09 20:26:57 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:26:57 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:26:58 :  19> [G]:  21730 [E]:   2420 [D]:  N/A [T]:33 [TH]:4-6, In
+2015-07-09 20:27:06 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:27:07 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:27:07 :  20> [G]:   5564 [E]:   5861 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 20:27:13 : Aim:           [G+E]: 152000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:27:13 : Aim: [G]:  96000 [E]:  56000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:27:15 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:27:16 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:27:16 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:27:17 : Loop to clean screen without Clouds , n?:4
+2015-07-09 20:27:18 : Loop to clean screen without Clouds , n?:5
+2015-07-09 20:27:18 : Loop to clean screen without Clouds , n?:6
+2015-07-09 20:27:19 : Loop to clean screen without Clouds , n?:7
+2015-07-09 20:27:21 :  21> [G]:  44544 [E]:  79609 [D]:  N/A [T]:19 [TH]: -, -
+2015-07-09 20:27:27 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:27:28 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:27:29 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:27:29 : Loop to clean screen without Clouds , n?:4
+2015-07-09 20:27:30 : Loop to clean screen without Clouds , n?:5
+2015-07-09 20:27:31 :  22> [G]:  11508 [E]:  15777 [D]:  N/A [T]:13 [TH]:4-6, In
+2015-07-09 20:27:38 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:27:39 :  23> [G]:   2142 [E]:   1992 [D]:  N/A [T]:18 [TH]:4-6, In
+2015-07-09 20:27:47 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:27:48 :  24> [G]:  83818 [E]:  54089 [D]:  N/A [T]:27 [TH]:4-6, In
+2015-07-09 20:27:52 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:27:53 :  25> [G]: 129455 [E]:  34287 [D]:   33 [T]:28 [TH]: 7, In
+2015-07-09 20:27:58 : $ZSExclude :0
+2015-07-09 20:28:01 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:28:02 :  26> [G]:  82010 [E]:  19428 [D]:    0 [T]:30 [TH]: -, -
+2015-07-09 20:28:10 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:28:10 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:28:12 :  27> [G]:  29325 [E]:  21051 [D]:  N/A [T]:18 [TH]: -, -
+2015-07-09 20:28:20 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:28:22 :  28> [G]:  68661 [E]:  62583 [D]:  N/A [T]:33 [TH]: -, -
+2015-07-09 20:28:28 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:28:28 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:28:29 :  29> [G]: 107805 [E]:  61801 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 20:28:33 : $ZSExclude :0
+2015-07-09 20:28:33 : ~~~~~~~~~~~~~~~~ Dead Base Found! ~~~~~~~~~~~~~~~~
+2015-07-09 20:28:35 : ================ Search Complete =================
+2015-07-09 20:28:35 : Initiating attack for: Dead Base
+2015-07-09 20:28:38 : -Barbarians 30
+2015-07-09 20:28:38 : -Archers 60
+2015-07-09 20:28:38 : -Giants 9
+2015-07-09 20:28:38 : -Clan Castle 
+2015-07-09 20:28:38 : -Rage Spells 2
+2015-07-09 20:28:38 : -Heal Spells 2
+2015-07-09 20:28:38 :  ====== Start Attack ====== 
+2015-07-09 20:28:40 : Calculating Smart Attack Strategy
+2015-07-09 20:28:42 : Calculated  (in 1.21 seconds) :
+2015-07-09 20:28:42 : Locating Village Pump & Mines
+2015-07-09 20:28:51 : Located  (in 9.22 seconds) :
+2015-07-09 20:28:51 : [6] Gold Mines
+2015-07-09 20:28:51 : [5] Elixir Collectors
+2015-07-09 20:28:51 : [0] Dark Elixir Drill/s
+2015-07-09 20:28:51 : Attacking on all sides
+2015-07-09 20:28:53 : Dropping 1  of Giants => on each side (side : 1)
+2015-07-09 20:28:54 : Dropping 1  of Barbarians => on each side (side : 1)
+2015-07-09 20:28:55 : Dropping 3  of Archers => on each side (side : 1)
+2015-07-09 20:28:55 : Dropping 1  of Giants => on each side (side : 2)
+2015-07-09 20:28:56 : Dropping 1  of Barbarians => on each side (side : 2)
+2015-07-09 20:28:57 : Dropping 3  of Archers => on each side (side : 2)
+2015-07-09 20:28:57 : Dropping 1  of Giants => on each side (side : 3)
+2015-07-09 20:28:58 : Dropping 1  of Barbarians => on each side (side : 3)
+2015-07-09 20:28:59 : Dropping 3  of Archers => on each side (side : 3)
+2015-07-09 20:28:59 : Dropping 1  of Giants => on each side (side : 4)
+2015-07-09 20:29:00 : Dropping 1  of Barbarians => on each side (side : 4)
+2015-07-09 20:29:01 : Dropping 3  of Archers => on each side (side : 4)
+2015-07-09 20:29:01 : Dropping 1  of Giants => on each side (side : 5)
+2015-07-09 20:29:02 : Dropping 1  of Barbarians => on each side (side : 5)
+2015-07-09 20:29:03 : Dropping 3  of Archers => on each side (side : 5)
+2015-07-09 20:29:03 : Dropping 1  of Giants => on each side (side : 6)
+2015-07-09 20:29:04 : Dropping 1  of Barbarians => on each side (side : 6)
+2015-07-09 20:29:05 : Dropping 3  of Archers => on each side (side : 6)
+2015-07-09 20:29:05 : Dropping 1  of Giants => on each side (side : 7)
+2015-07-09 20:29:06 : Dropping 1  of Barbarians => on each side (side : 7)
+2015-07-09 20:29:07 : Dropping 3  of Archers => on each side (side : 7)
+2015-07-09 20:29:08 : Dropping 1  of Giants => on each side (side : 8)
+2015-07-09 20:29:09 : Dropping 1  of Barbarians => on each side (side : 8)
+2015-07-09 20:29:10 : Dropping 3  of Archers => on each side (side : 8)
+2015-07-09 20:29:10 : Dropping 1  of Giants => on each side (side : 9)
+2015-07-09 20:29:11 : Dropping 1  of Barbarians => on each side (side : 9)
+2015-07-09 20:29:12 : Dropping 3  of Archers => on each side (side : 9)
+2015-07-09 20:29:13 : Dropping 1  of Giants => on each side (side : 10)
+2015-07-09 20:29:13 : Dropping 1  of Barbarians => on each side (side : 10)
+2015-07-09 20:29:14 : Dropping 3  of Archers => on each side (side : 10)
+2015-07-09 20:29:15 : Dropping 1  of Giants => on each side (side : 11)
+2015-07-09 20:29:15 : Dropping 1  of Barbarians => on each side (side : 11)
+2015-07-09 20:29:16 : Dropping 3  of Archers => on each side (side : 11)
+2015-07-09 20:29:17 : Dropping 1  of Barbarians => on each side (side : 1)
+2015-07-09 20:29:17 : Dropping 3  of Archers => on each side (side : 1)
+2015-07-09 20:29:18 : Dropping 1  of Barbarians => on each side (side : 2)
+2015-07-09 20:29:19 : Dropping 3  of Archers => on each side (side : 2)
+2015-07-09 20:29:20 : Dropping 1  of Barbarians => on each side (side : 3)
+2015-07-09 20:29:20 : Dropping 3  of Archers => on each side (side : 3)
+2015-07-09 20:29:21 : Dropping 1  of Barbarians => on each side (side : 4)
+2015-07-09 20:29:22 : Dropping 3  of Archers => on each side (side : 4)
+2015-07-09 20:29:23 : Dropping 1  of Barbarians => on each side (side : 5)
+2015-07-09 20:29:23 : Dropping 3  of Archers => on each side (side : 5)
+2015-07-09 20:29:24 : Dropping 1  of Barbarians => on each side (side : 6)
+2015-07-09 20:29:25 : Dropping 3  of Archers => on each side (side : 6)
+2015-07-09 20:29:25 : Dropping 1  of Barbarians => on each side (side : 7)
+2015-07-09 20:29:26 : Dropping 3  of Archers => on each side (side : 7)
+2015-07-09 20:29:27 : Dropping 1  of Barbarians => on each side (side : 8)
+2015-07-09 20:29:27 : Dropping 3  of Archers => on each side (side : 8)
+2015-07-09 20:29:28 : Dropping 1  of Barbarians => on each side (side : 9)
+2015-07-09 20:29:29 : Dropping 3  of Archers => on each side (side : 9)
+2015-07-09 20:29:30 : Dropping 1  of Barbarians => on each side (side : 10)
+2015-07-09 20:29:30 : Dropping 3  of Archers => on each side (side : 10)
+2015-07-09 20:29:31 : Dropping 1  of Barbarians => on each side (side : 11)
+2015-07-09 20:29:32 : Dropping 3  of Archers => on each side (side : 11)
+2015-07-09 20:29:33 :  CheckHeroesHealth started 
+2015-07-09 20:29:34 : Dropping last 10  of Barbarians
+2015-07-09 20:29:35 : Dropping left over troops
+2015-07-09 20:29:35 : Checking remaining unused troops for: Dead Base
+2015-07-09 20:29:38 : -Archers 0
+2015-07-09 20:29:38 : -Clan Castle 
+2015-07-09 20:29:38 : -Rage Spells 2
+2015-07-09 20:29:38 : -Heal Spells 2
+2015-07-09 20:29:38 :  CheckHeroesHealth started 
+2015-07-09 20:29:39 :  CheckHeroesHealth started 
+2015-07-09 20:29:40 :  CheckHeroesHealth started 
+2015-07-09 20:29:40 :  CheckHeroesHealth started 
+2015-07-09 20:29:41 :  CheckHeroesHealth started 
+2015-07-09 20:29:41 :  CheckHeroesHealth started 
+2015-07-09 20:29:42 :  CheckHeroesHealth started 
+2015-07-09 20:29:43 :  CheckHeroesHealth started 
+2015-07-09 20:29:43 :  CheckHeroesHealth started 
+2015-07-09 20:29:44 :  CheckHeroesHealth started 
+2015-07-09 20:29:44 :  CheckHeroesHealth started 
+2015-07-09 20:29:45 :  CheckHeroesHealth started 
+2015-07-09 20:29:46 :  CheckHeroesHealth started 
+2015-07-09 20:29:46 :  CheckHeroesHealth started 
+2015-07-09 20:29:47 :  CheckHeroesHealth started 
+2015-07-09 20:29:47 :  CheckHeroesHealth started 
+2015-07-09 20:29:48 : Checking remaining unused troops for: Dead Base
+2015-07-09 20:29:51 : -Archers 0
+2015-07-09 20:29:51 : -Clan Castle 
+2015-07-09 20:29:51 : -Rage Spells 2
+2015-07-09 20:29:51 : -Heal Spells 2
+2015-07-09 20:29:51 :  CheckHeroesHealth started 
+2015-07-09 20:29:52 :  CheckHeroesHealth started 
+2015-07-09 20:29:52 :  CheckHeroesHealth started 
+2015-07-09 20:29:53 :  CheckHeroesHealth started 
+2015-07-09 20:29:54 :  CheckHeroesHealth started 
+2015-07-09 20:29:54 :  CheckHeroesHealth started 
+2015-07-09 20:29:55 :  CheckHeroesHealth started 
+2015-07-09 20:29:55 :  CheckHeroesHealth started 
+2015-07-09 20:29:56 :  CheckHeroesHealth started 
+2015-07-09 20:29:57 :  CheckHeroesHealth started 
+2015-07-09 20:29:57 :  CheckHeroesHealth started 
+2015-07-09 20:29:58 :  CheckHeroesHealth started 
+2015-07-09 20:29:58 :  CheckHeroesHealth started 
+2015-07-09 20:29:59 :  CheckHeroesHealth started 
+2015-07-09 20:29:59 :  CheckHeroesHealth started 
+2015-07-09 20:30:00 :  CheckHeroesHealth started 
+2015-07-09 20:30:01 : Finished Attacking, waiting for the battle to end
+2015-07-09 20:30:01 : Checking if the battle has finished
+2015-07-09 20:30:01 :  CheckHeroesHealth started 
+2015-07-09 20:30:02 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:30:02 :  CheckHeroesHealth started 
+2015-07-09 20:30:04 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 17.3 sec.
+2015-07-09 20:30:04 :  CheckHeroesHealth started 
+2015-07-09 20:30:05 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 16.0 sec.
+2015-07-09 20:30:05 :  CheckHeroesHealth started 
+2015-07-09 20:30:06 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 14.6 sec.
+2015-07-09 20:30:06 :  CheckHeroesHealth started 
+2015-07-09 20:30:08 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 13.1 sec.
+2015-07-09 20:30:08 :  CheckHeroesHealth started 
+2015-07-09 20:30:09 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 11.7 sec.
+2015-07-09 20:30:09 :  CheckHeroesHealth started 
+2015-07-09 20:30:11 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 10.3 sec.
+2015-07-09 20:30:11 :  CheckHeroesHealth started 
+2015-07-09 20:30:12 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 9.0 sec.
+2015-07-09 20:30:12 :  CheckHeroesHealth started 
+2015-07-09 20:30:13 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 7.6 sec.
+2015-07-09 20:30:13 :  CheckHeroesHealth started 
+2015-07-09 20:30:15 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 6.2 sec.
+2015-07-09 20:30:15 :  CheckHeroesHealth started 
+2015-07-09 20:30:16 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 4.9 sec.
+2015-07-09 20:30:16 :  CheckHeroesHealth started 
+2015-07-09 20:30:17 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 3.5 sec.
+2015-07-09 20:30:18 :  CheckHeroesHealth started 
+2015-07-09 20:30:19 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 2.1 sec.
+2015-07-09 20:30:19 :  CheckHeroesHealth started 
+2015-07-09 20:30:20 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 0.7 sec.
+2015-07-09 20:30:20 :  CheckHeroesHealth started 
+2015-07-09 20:30:22 : detected [G]: 17353 [E]: 0 [DE]:  |  Exit in 0.0 sec.
+2015-07-09 20:30:22 : Gold & Elixir & DE no change detected, exit
+2015-07-09 20:30:22 : Returning Home
+2015-07-09 20:30:27 : Loot: [G]: 90 452 [E]: 61 801 [DE]: 61 801 [T]: 0
+2015-07-09 20:30:27 : Bonus [G]: 3 000 [E]: 3 000
+2015-07-09 20:30:28 : Your league level is: Silver II
+2015-07-09 20:30:28 : Stars earned: 1
+2015-07-09 20:30:28 : Taking snapshot of your loot
+2015-07-09 20:30:28 : Pushbullet: Last Raid screenshot has been sent!
+2015-07-09 20:30:40 : Trying to locate Main Screen
+2015-07-09 20:30:40 : Main Screen Located
+2015-07-09 20:30:42 : Profile Report
+2015-07-09 20:30:42 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 20:30:43 :  [ATKW]: 36 [DEFW]: 2 [TDON]: 281 [TREC]: 286
+2015-07-09 20:30:51 : Village Report
+2015-07-09 20:30:51 : No. of Free/Total Builders: 0/3
+2015-07-09 20:30:51 :  [T]: 1 070
+2015-07-09 20:30:51 :  [G]: 954 099 [E]: 883 336 [GEM]: 632
+2015-07-09 20:30:55 : Chat Request: any
+2015-07-09 20:30:55 : Archers Keyword found: any
+2015-07-09 20:30:56 : Donating Archers
+2015-07-09 20:30:59 : Chat Request: 3 orabove dragon
+2015-07-09 20:31:01 : Chat Request: balloon
+2015-07-09 20:31:03 : Func Train 
+2015-07-09 20:31:03 : Checking Army Camp...
+2015-07-09 20:31:04 : $sArmyInfo = 41#135
+2015-07-09 20:31:04 : $CurCamp = 41
+2015-07-09 20:31:04 : $TotalCamp = 135
+2015-07-09 20:31:05 : Total Army Camp capacity: 41/135
+2015-07-09 20:31:05 : $hBitmapFirst made
+2015-07-09 20:31:05 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:31:06 : Dll return $FullTemp :Barbarian|9-20|2#Archer|70-22|10#Giant|134-23|6
+2015-07-09 20:31:06 : $Trooptype split # : 3
+2015-07-09 20:31:06 : Start the Loop
+2015-07-09 20:31:06 : $TroopTypeT[$i] split : 1
+2015-07-09 20:31:06 :  - No. of Barbarians: 2
+2015-07-09 20:31:06 : $TroopTypeT[$i] split : 2
+2015-07-09 20:31:06 :  - No. of Archers: 10
+2015-07-09 20:31:06 : $TroopTypeT[$i] split : 3
+2015-07-09 20:31:06 :  - No. of Giants: 6
+2015-07-09 20:31:06 : Training Troops...
+2015-07-09 20:31:09 : This is not a Barrack
+2015-07-09 20:31:10 : Barrack1 selected
+2015-07-09 20:31:10 : Barrack1 selected
+2015-07-09 20:31:10 : Train: need to make normal troops: True
+2015-07-09 20:31:10 : Train: need to make dark troops: False
+2015-07-09 20:31:10 : Barrack1 selected
+2015-07-09 20:31:11 : Barrack2 selected
+2015-07-09 20:31:11 : Barrack2 selected
+2015-07-09 20:31:12 : Barrack3 selected
+2015-07-09 20:31:12 : Barrack3 selected
+2015-07-09 20:31:12 : This is not a Barrack
+2015-07-09 20:31:13 : This is not a Barrack
+2015-07-09 20:31:13 : This is not a Barrack
+2015-07-09 20:31:13 : This is not a Barrack
+2015-07-09 20:31:13 : This is not a Barrack
+2015-07-09 20:31:14 : Barrack3 selected
+2015-07-09 20:31:14 : AfterAttack: True
+2015-07-09 20:31:18 : Barrack2 selected
+2015-07-09 20:31:18 : AfterAttack: True
+2015-07-09 20:31:25 : Barrack1 selected
+2015-07-09 20:31:25 : AfterAttack: True
+2015-07-09 20:31:31 : This is not a Barrack
+2015-07-09 20:31:31 : ---================================================================---
+2015-07-09 20:31:35 : Requesting Clan Castle Troops
+2015-07-09 20:31:35 : Your Clan Castle is already full or you are not in a clan.
+2015-07-09 20:31:38 : No free builder, Upgrade Walls skipped..
+2015-07-09 20:31:39 : ====== Waiting for full army ======
+2015-07-09 20:31:59 : Func Train 
+2015-07-09 20:31:59 : Checking Army Camp...
+2015-07-09 20:32:01 : $sArmyInfo = 46#135
+2015-07-09 20:32:01 : $CurCamp = 46
+2015-07-09 20:32:01 : $TotalCamp = 135
+2015-07-09 20:32:01 : Total Army Camp capacity: 46/135
+2015-07-09 20:32:01 : $hBitmapFirst made
+2015-07-09 20:32:02 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:32:02 : Dll return $FullTemp :Barbarian|9-20|3#Archer|70-22|13#Giant|134-23|6
+2015-07-09 20:32:02 : $Trooptype split # : 3
+2015-07-09 20:32:02 : Start the Loop
+2015-07-09 20:32:03 : $TroopTypeT[$i] split : 1
+2015-07-09 20:32:03 :  - No. of Barbarians: 3
+2015-07-09 20:32:03 : $TroopTypeT[$i] split : 2
+2015-07-09 20:32:03 :  - No. of Archers: 13
+2015-07-09 20:32:03 : $TroopTypeT[$i] split : 3
+2015-07-09 20:32:03 :  - No. of Giants: 6
+2015-07-09 20:32:03 : Training Troops...
+2015-07-09 20:32:05 : This is not a Barrack
+2015-07-09 20:32:05 : Barrack1 selected
+2015-07-09 20:32:05 : Barrack1 selected
+2015-07-09 20:32:06 : Train: need to make normal troops: True
+2015-07-09 20:32:06 : Train: need to make dark troops: False
+2015-07-09 20:32:06 : Barrack1 selected
+2015-07-09 20:32:07 : Barrack2 selected
+2015-07-09 20:32:07 : Barrack2 selected
+2015-07-09 20:32:08 : Barrack3 selected
+2015-07-09 20:32:08 : Barrack3 selected
+2015-07-09 20:32:08 : This is not a Barrack
+2015-07-09 20:32:09 : This is not a Barrack
+2015-07-09 20:32:09 : This is not a Barrack
+2015-07-09 20:32:09 : This is not a Barrack
+2015-07-09 20:32:09 : This is not a Barrack
+2015-07-09 20:32:10 : Barrack3 selected
+2015-07-09 20:32:10 : AfterAttack: False
+2015-07-09 20:32:13 : Barrack2 selected
+2015-07-09 20:32:13 : AfterAttack: False
+2015-07-09 20:32:15 : Barrack1 selected
+2015-07-09 20:32:15 : AfterAttack: False
+2015-07-09 20:32:17 : This is not a Barrack
+2015-07-09 20:32:17 : ---================================================================---
+2015-07-09 20:32:20 : Time Idle: 00:00:40
+2015-07-09 20:32:20 : ====== Waiting for full army ======
+2015-07-09 20:32:40 : Func Train 
+2015-07-09 20:32:40 : Checking Army Camp...
+2015-07-09 20:32:42 : $sArmyInfo = 48#135
+2015-07-09 20:32:42 : $CurCamp = 48
+2015-07-09 20:32:42 : $TotalCamp = 135
+2015-07-09 20:32:42 : Total Army Camp capacity: 48/135
+2015-07-09 20:32:42 : $hBitmapFirst made
+2015-07-09 20:32:42 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:32:43 : Dll return $FullTemp :Barbarian|9-20|3#Archer|70-22|15#Giant|134-23|6
+2015-07-09 20:32:43 : $Trooptype split # : 3
+2015-07-09 20:32:43 : Start the Loop
+2015-07-09 20:32:43 : $TroopTypeT[$i] split : 1
+2015-07-09 20:32:43 :  - No. of Barbarians: 3
+2015-07-09 20:32:43 : $TroopTypeT[$i] split : 2
+2015-07-09 20:32:43 :  - No. of Archers: 15
+2015-07-09 20:32:44 : $TroopTypeT[$i] split : 3
+2015-07-09 20:32:44 :  - No. of Giants: 6
+2015-07-09 20:32:44 : Training Troops...
+2015-07-09 20:32:46 : This is not a Barrack
+2015-07-09 20:32:46 : Barrack1 selected
+2015-07-09 20:32:46 : Barrack1 selected
+2015-07-09 20:32:47 : Train: need to make normal troops: True
+2015-07-09 20:32:47 : Train: need to make dark troops: False
+2015-07-09 20:32:47 : Barrack1 selected
+2015-07-09 20:32:47 : Barrack2 selected
+2015-07-09 20:32:47 : Barrack2 selected
+2015-07-09 20:32:48 : Barrack3 selected
+2015-07-09 20:32:48 : Barrack3 selected
+2015-07-09 20:32:49 : This is not a Barrack
+2015-07-09 20:32:49 : This is not a Barrack
+2015-07-09 20:32:49 : This is not a Barrack
+2015-07-09 20:32:49 : This is not a Barrack
+2015-07-09 20:32:49 : This is not a Barrack
+2015-07-09 20:32:51 : Barrack3 selected
+2015-07-09 20:32:51 : AfterAttack: False
+2015-07-09 20:32:53 : Barrack2 selected
+2015-07-09 20:32:53 : AfterAttack: False
+2015-07-09 20:32:55 : Barrack1 selected
+2015-07-09 20:32:55 : AfterAttack: False
+2015-07-09 20:32:57 : This is not a Barrack
+2015-07-09 20:32:57 : ---================================================================---
+2015-07-09 20:33:00 : Time Idle: 00:01:20
+2015-07-09 20:33:00 : ====== Waiting for full army ======
+2015-07-09 20:33:21 : Func Train 
+2015-07-09 20:33:21 : Checking Army Camp...
+2015-07-09 20:33:23 : $sArmyInfo = 54#135
+2015-07-09 20:33:23 : $CurCamp = 54
+2015-07-09 20:33:23 : $TotalCamp = 135
+2015-07-09 20:33:23 : Total Army Camp capacity: 54/135
+2015-07-09 20:33:23 : $hBitmapFirst made
+2015-07-09 20:33:24 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:33:24 : Dll return $FullTemp :Barbarian|9-20|3#Archer|70-22|16#Giant|134-23|7
+2015-07-09 20:33:24 : $Trooptype split # : 3
+2015-07-09 20:33:24 : Start the Loop
+2015-07-09 20:33:24 : $TroopTypeT[$i] split : 1
+2015-07-09 20:33:24 :  - No. of Barbarians: 3
+2015-07-09 20:33:25 : $TroopTypeT[$i] split : 2
+2015-07-09 20:33:25 :  - No. of Archers: 16
+2015-07-09 20:33:25 : $TroopTypeT[$i] split : 3
+2015-07-09 20:33:25 :  - No. of Giants: 7
+2015-07-09 20:33:25 : Training Troops...
+2015-07-09 20:33:27 : This is not a Barrack
+2015-07-09 20:33:27 : Barrack1 selected
+2015-07-09 20:33:27 : Barrack1 selected
+2015-07-09 20:33:28 : Train: need to make normal troops: True
+2015-07-09 20:33:28 : Train: need to make dark troops: False
+2015-07-09 20:33:28 : Barrack1 selected
+2015-07-09 20:33:28 : Barrack2 selected
+2015-07-09 20:33:28 : Barrack2 selected
+2015-07-09 20:33:29 : Barrack3 selected
+2015-07-09 20:33:29 : Barrack3 selected
+2015-07-09 20:33:30 : This is not a Barrack
+2015-07-09 20:33:30 : This is not a Barrack
+2015-07-09 20:33:30 : This is not a Barrack
+2015-07-09 20:33:30 : This is not a Barrack
+2015-07-09 20:33:31 : This is not a Barrack
+2015-07-09 20:33:32 : Barrack3 selected
+2015-07-09 20:33:32 : AfterAttack: False
+2015-07-09 20:33:34 : Barrack2 selected
+2015-07-09 20:33:34 : AfterAttack: False
+2015-07-09 20:33:36 : Barrack1 selected
+2015-07-09 20:33:36 : AfterAttack: False
+2015-07-09 20:33:39 : This is not a Barrack
+2015-07-09 20:33:39 : ---================================================================---
+2015-07-09 20:33:42 : Time Idle: 00:02:02
+2015-07-09 20:33:42 : ====== Waiting for full army ======
+2015-07-09 20:34:02 : Func Train 
+2015-07-09 20:34:02 : Checking Army Camp...
+2015-07-09 20:34:03 : $sArmyInfo = 61#135
+2015-07-09 20:34:03 : $CurCamp = 61
+2015-07-09 20:34:03 : $TotalCamp = 135
+2015-07-09 20:34:04 : Total Army Camp capacity: 61/135
+2015-07-09 20:34:04 : $hBitmapFirst made
+2015-07-09 20:34:04 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:34:05 : Dll return $FullTemp :Barbarian|9-20|3#Archer|70-22|18#Giant|134-23|8
+2015-07-09 20:34:05 : $Trooptype split # : 3
+2015-07-09 20:34:05 : Start the Loop
+2015-07-09 20:34:05 : $TroopTypeT[$i] split : 1
+2015-07-09 20:34:05 :  - No. of Barbarians: 3
+2015-07-09 20:34:05 : $TroopTypeT[$i] split : 2
+2015-07-09 20:34:05 :  - No. of Archers: 18
+2015-07-09 20:34:05 : $TroopTypeT[$i] split : 3
+2015-07-09 20:34:05 :  - No. of Giants: 8
+2015-07-09 20:34:05 : Training Troops...
+2015-07-09 20:34:08 : This is not a Barrack
+2015-07-09 20:34:08 : Barrack1 selected
+2015-07-09 20:34:08 : Barrack1 selected
+2015-07-09 20:34:09 : Train: need to make normal troops: True
+2015-07-09 20:34:09 : Train: need to make dark troops: False
+2015-07-09 20:34:09 : Barrack1 selected
+2015-07-09 20:34:09 : Barrack2 selected
+2015-07-09 20:34:10 : Barrack2 selected
+2015-07-09 20:34:10 : Barrack3 selected
+2015-07-09 20:34:10 : Barrack3 selected
+2015-07-09 20:34:11 : This is not a Barrack
+2015-07-09 20:34:11 : This is not a Barrack
+2015-07-09 20:34:11 : This is not a Barrack
+2015-07-09 20:34:11 : This is not a Barrack
+2015-07-09 20:34:12 : This is not a Barrack
+2015-07-09 20:34:13 : Barrack3 selected
+2015-07-09 20:34:13 : AfterAttack: False
+2015-07-09 20:34:15 : Barrack2 selected
+2015-07-09 20:34:15 : AfterAttack: False
+2015-07-09 20:34:17 : Barrack1 selected
+2015-07-09 20:34:17 : AfterAttack: False
+2015-07-09 20:34:20 : This is not a Barrack
+2015-07-09 20:34:20 : ---================================================================---
+2015-07-09 20:34:23 : Time Idle: 00:02:43
+2015-07-09 20:34:23 : ====== Waiting for full army ======
+2015-07-09 20:34:26 : Chat Request: balloon
+2015-07-09 20:34:28 : Chat Request: 3 orabove dragon
+2015-07-09 20:34:47 : Func Train 
+2015-07-09 20:34:47 : Checking Army Camp...
+2015-07-09 20:34:49 : $sArmyInfo = 63#135
+2015-07-09 20:34:49 : $CurCamp = 63
+2015-07-09 20:34:49 : $TotalCamp = 135
+2015-07-09 20:34:49 : Total Army Camp capacity: 63/135
+2015-07-09 20:34:49 : $hBitmapFirst made
+2015-07-09 20:34:50 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:34:50 : Dll return $FullTemp :Barbarian|9-20|3#Archer|70-22|20#Giant|134-23|8
+2015-07-09 20:34:50 : $Trooptype split # : 3
+2015-07-09 20:34:50 : Start the Loop
+2015-07-09 20:34:51 : $TroopTypeT[$i] split : 1
+2015-07-09 20:34:51 :  - No. of Barbarians: 3
+2015-07-09 20:34:51 : $TroopTypeT[$i] split : 2
+2015-07-09 20:34:51 :  - No. of Archers: 20
+2015-07-09 20:34:51 : $TroopTypeT[$i] split : 3
+2015-07-09 20:34:51 :  - No. of Giants: 8
+2015-07-09 20:34:51 : Training Troops...
+2015-07-09 20:34:53 : This is not a Barrack
+2015-07-09 20:34:53 : Barrack1 selected
+2015-07-09 20:34:53 : Barrack1 selected
+2015-07-09 20:34:54 : Train: need to make normal troops: True
+2015-07-09 20:34:54 : Train: need to make dark troops: False
+2015-07-09 20:34:54 : Barrack1 selected
+2015-07-09 20:34:54 : Barrack2 selected
+2015-07-09 20:34:55 : Barrack2 selected
+2015-07-09 20:34:55 : Barrack3 selected
+2015-07-09 20:34:55 : Barrack3 selected
+2015-07-09 20:34:56 : This is not a Barrack
+2015-07-09 20:34:56 : This is not a Barrack
+2015-07-09 20:34:56 : This is not a Barrack
+2015-07-09 20:34:56 : This is not a Barrack
+2015-07-09 20:34:57 : This is not a Barrack
+2015-07-09 20:34:58 : Barrack3 selected
+2015-07-09 20:34:58 : AfterAttack: False
+2015-07-09 20:35:00 : Barrack2 selected
+2015-07-09 20:35:00 : AfterAttack: False
+2015-07-09 20:35:02 : Barrack1 selected
+2015-07-09 20:35:02 : AfterAttack: False
+2015-07-09 20:35:05 : This is not a Barrack
+2015-07-09 20:35:05 : ---================================================================---
+2015-07-09 20:35:08 : Time Idle: 00:03:28
+2015-07-09 20:35:08 : ====== Waiting for full army ======
+2015-07-09 20:35:28 : Func Train 
+2015-07-09 20:35:28 : Checking Army Camp...
+2015-07-09 20:35:29 : $sArmyInfo = 74#135
+2015-07-09 20:35:29 : $CurCamp = 74
+2015-07-09 20:35:29 : $TotalCamp = 135
+2015-07-09 20:35:30 : Total Army Camp capacity: 74/135
+2015-07-09 20:35:30 : $hBitmapFirst made
+2015-07-09 20:35:30 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:35:31 : Dll return $FullTemp :Barbarian|9-20|3#Archer|70-22|21#Giant|134-23|10
+2015-07-09 20:35:31 : $Trooptype split # : 3
+2015-07-09 20:35:31 : Start the Loop
+2015-07-09 20:35:31 : $TroopTypeT[$i] split : 1
+2015-07-09 20:35:31 :  - No. of Barbarians: 3
+2015-07-09 20:35:31 : $TroopTypeT[$i] split : 2
+2015-07-09 20:35:31 :  - No. of Archers: 21
+2015-07-09 20:35:31 : $TroopTypeT[$i] split : 3
+2015-07-09 20:35:31 :  - No. of Giants: 10
+2015-07-09 20:35:31 : Training Troops...
+2015-07-09 20:35:33 : This is not a Barrack
+2015-07-09 20:35:33 : Barrack1 selected
+2015-07-09 20:35:34 : Barrack1 selected
+2015-07-09 20:35:34 : Train: need to make normal troops: True
+2015-07-09 20:35:34 : Train: need to make dark troops: False
+2015-07-09 20:35:34 : Barrack1 selected
+2015-07-09 20:35:35 : Barrack2 selected
+2015-07-09 20:35:35 : Barrack2 selected
+2015-07-09 20:35:35 : Barrack3 selected
+2015-07-09 20:35:36 : Barrack3 selected
+2015-07-09 20:35:36 : This is not a Barrack
+2015-07-09 20:35:36 : This is not a Barrack
+2015-07-09 20:35:37 : This is not a Barrack
+2015-07-09 20:35:37 : This is not a Barrack
+2015-07-09 20:35:37 : This is not a Barrack
+2015-07-09 20:35:38 : Barrack3 selected
+2015-07-09 20:35:38 : AfterAttack: False
+2015-07-09 20:35:40 : Barrack2 selected
+2015-07-09 20:35:40 : AfterAttack: False
+2015-07-09 20:35:43 : Barrack1 selected
+2015-07-09 20:35:43 : AfterAttack: False
+2015-07-09 20:35:45 : This is not a Barrack
+2015-07-09 20:35:45 : ---================================================================---
+2015-07-09 20:35:48 : Time Idle: 00:04:08
+2015-07-09 20:35:48 : ====== Waiting for full army ======
+2015-07-09 20:36:09 : Func Train 
+2015-07-09 20:36:09 : Checking Army Camp...
+2015-07-09 20:36:10 : $sArmyInfo = 76#135
+2015-07-09 20:36:10 : $CurCamp = 76
+2015-07-09 20:36:10 : $TotalCamp = 135
+2015-07-09 20:36:11 : Total Army Camp capacity: 76/135
+2015-07-09 20:36:11 : $hBitmapFirst made
+2015-07-09 20:36:11 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:36:12 : Dll return $FullTemp :Barbarian|9-20|3#Archer|70-22|23#Giant|134-23|10
+2015-07-09 20:36:12 : $Trooptype split # : 3
+2015-07-09 20:36:12 : Start the Loop
+2015-07-09 20:36:12 : $TroopTypeT[$i] split : 1
+2015-07-09 20:36:12 :  - No. of Barbarians: 3
+2015-07-09 20:36:12 : $TroopTypeT[$i] split : 2
+2015-07-09 20:36:12 :  - No. of Archers: 23
+2015-07-09 20:36:12 : $TroopTypeT[$i] split : 3
+2015-07-09 20:36:12 :  - No. of Giants: 10
+2015-07-09 20:36:12 : Training Troops...
+2015-07-09 20:36:14 : This is not a Barrack
+2015-07-09 20:36:15 : Barrack1 selected
+2015-07-09 20:36:15 : Barrack1 selected
+2015-07-09 20:36:15 : Train: need to make normal troops: True
+2015-07-09 20:36:15 : Train: need to make dark troops: False
+2015-07-09 20:36:15 : Barrack1 selected
+2015-07-09 20:36:16 : Barrack2 selected
+2015-07-09 20:36:16 : Barrack2 selected
+2015-07-09 20:36:17 : Barrack3 selected
+2015-07-09 20:36:17 : Barrack3 selected
+2015-07-09 20:36:17 : This is not a Barrack
+2015-07-09 20:36:18 : This is not a Barrack
+2015-07-09 20:36:18 : This is not a Barrack
+2015-07-09 20:36:18 : This is not a Barrack
+2015-07-09 20:36:18 : This is not a Barrack
+2015-07-09 20:36:19 : Barrack3 selected
+2015-07-09 20:36:19 : AfterAttack: False
+2015-07-09 20:36:22 : Barrack2 selected
+2015-07-09 20:36:22 : AfterAttack: False
+2015-07-09 20:36:24 : Barrack1 selected
+2015-07-09 20:36:24 : AfterAttack: False
+2015-07-09 20:36:26 : This is not a Barrack
+2015-07-09 20:36:26 : ---================================================================---
+2015-07-09 20:36:29 : Time Idle: 00:04:49
+2015-07-09 20:36:29 : ====== Waiting for full army ======
+2015-07-09 20:36:49 : Func Train 
+2015-07-09 20:36:49 : Checking Army Camp...
+2015-07-09 20:36:50 : $sArmyInfo = 78#135
+2015-07-09 20:36:50 : $CurCamp = 78
+2015-07-09 20:36:51 : $TotalCamp = 135
+2015-07-09 20:36:51 : Total Army Camp capacity: 78/135
+2015-07-09 20:36:51 : $hBitmapFirst made
+2015-07-09 20:36:51 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:36:52 : Dll return $FullTemp :Barbarian|9-20|3#Archer|70-22|25#Giant|134-23|10
+2015-07-09 20:36:52 : $Trooptype split # : 3
+2015-07-09 20:36:52 : Start the Loop
+2015-07-09 20:36:52 : $TroopTypeT[$i] split : 1
+2015-07-09 20:36:52 :  - No. of Barbarians: 3
+2015-07-09 20:36:52 : $TroopTypeT[$i] split : 2
+2015-07-09 20:36:52 :  - No. of Archers: 25
+2015-07-09 20:36:53 : $TroopTypeT[$i] split : 3
+2015-07-09 20:36:53 :  - No. of Giants: 10
+2015-07-09 20:36:53 : Training Troops...
+2015-07-09 20:36:55 : This is not a Barrack
+2015-07-09 20:36:55 : Barrack1 selected
+2015-07-09 20:36:55 : Barrack1 selected
+2015-07-09 20:36:56 : Train: need to make normal troops: True
+2015-07-09 20:36:56 : Train: need to make dark troops: False
+2015-07-09 20:36:56 : Barrack1 selected
+2015-07-09 20:36:56 : Barrack2 selected
+2015-07-09 20:36:56 : Barrack2 selected
+2015-07-09 20:36:57 : Barrack3 selected
+2015-07-09 20:36:57 : Barrack3 selected
+2015-07-09 20:36:58 : This is not a Barrack
+2015-07-09 20:36:58 : This is not a Barrack
+2015-07-09 20:36:58 : This is not a Barrack
+2015-07-09 20:36:58 : This is not a Barrack
+2015-07-09 20:36:59 : This is not a Barrack
+2015-07-09 20:37:00 : Barrack3 selected
+2015-07-09 20:37:00 : AfterAttack: False
+2015-07-09 20:37:02 : Barrack2 selected
+2015-07-09 20:37:02 : AfterAttack: False
+2015-07-09 20:37:04 : Barrack1 selected
+2015-07-09 20:37:04 : AfterAttack: False
+2015-07-09 20:37:07 : This is not a Barrack
+2015-07-09 20:37:07 : ---================================================================---
+2015-07-09 20:37:10 : Time Idle: 00:05:30
+2015-07-09 20:37:10 : ====== Waiting for full army ======
+2015-07-09 20:37:32 : Func Train 
+2015-07-09 20:37:32 : Checking Army Camp...
+2015-07-09 20:37:33 : $sArmyInfo = 89#135
+2015-07-09 20:37:33 : $CurCamp = 89
+2015-07-09 20:37:33 : $TotalCamp = 135
+2015-07-09 20:37:34 : Total Army Camp capacity: 89/135
+2015-07-09 20:37:34 : $hBitmapFirst made
+2015-07-09 20:37:34 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:37:35 : Dll return $FullTemp :Barbarian|9-20|3#Archer|70-22|26#Giant|134-23|12
+2015-07-09 20:37:35 : $Trooptype split # : 3
+2015-07-09 20:37:35 : Start the Loop
+2015-07-09 20:37:35 : $TroopTypeT[$i] split : 1
+2015-07-09 20:37:35 :  - No. of Barbarians: 3
+2015-07-09 20:37:35 : $TroopTypeT[$i] split : 2
+2015-07-09 20:37:35 :  - No. of Archers: 26
+2015-07-09 20:37:35 : $TroopTypeT[$i] split : 3
+2015-07-09 20:37:35 :  - No. of Giants: 12
+2015-07-09 20:37:35 : Training Troops...
+2015-07-09 20:37:37 : This is not a Barrack
+2015-07-09 20:37:37 : Barrack1 selected
+2015-07-09 20:37:38 : Barrack1 selected
+2015-07-09 20:37:38 : Train: need to make normal troops: True
+2015-07-09 20:37:38 : Train: need to make dark troops: False
+2015-07-09 20:37:38 : Barrack1 selected
+2015-07-09 20:37:39 : Barrack2 selected
+2015-07-09 20:37:39 : Barrack2 selected
+2015-07-09 20:37:39 : Barrack3 selected
+2015-07-09 20:37:39 : Barrack3 selected
+2015-07-09 20:37:40 : This is not a Barrack
+2015-07-09 20:37:40 : This is not a Barrack
+2015-07-09 20:37:40 : This is not a Barrack
+2015-07-09 20:37:41 : This is not a Barrack
+2015-07-09 20:37:41 : This is not a Barrack
+2015-07-09 20:37:42 : Barrack3 selected
+2015-07-09 20:37:42 : AfterAttack: False
+2015-07-09 20:37:44 : Barrack2 selected
+2015-07-09 20:37:44 : AfterAttack: False
+2015-07-09 20:37:47 : Barrack1 selected
+2015-07-09 20:37:47 : AfterAttack: False
+2015-07-09 20:37:49 : This is not a Barrack
+2015-07-09 20:37:49 : ---================================================================---
+2015-07-09 20:37:52 : Time Idle: 00:06:12
+2015-07-09 20:37:52 : ====== Waiting for full army ======
+2015-07-09 20:38:12 : Func Train 
+2015-07-09 20:38:12 : Checking Army Camp...
+2015-07-09 20:38:13 : $sArmyInfo = 95#135
+2015-07-09 20:38:13 : $CurCamp = 95
+2015-07-09 20:38:13 : $TotalCamp = 135
+2015-07-09 20:38:14 : Total Army Camp capacity: 95/135
+2015-07-09 20:38:14 : $hBitmapFirst made
+2015-07-09 20:38:14 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:38:15 : Dll return $FullTemp :Barbarian|9-20|5#Archer|70-22|30#Giant|134-23|12
+2015-07-09 20:38:15 : $Trooptype split # : 3
+2015-07-09 20:38:15 : Start the Loop
+2015-07-09 20:38:15 : $TroopTypeT[$i] split : 1
+2015-07-09 20:38:15 :  - No. of Barbarians: 5
+2015-07-09 20:38:15 : $TroopTypeT[$i] split : 2
+2015-07-09 20:38:15 :  - No. of Archers: 30
+2015-07-09 20:38:15 : $TroopTypeT[$i] split : 3
+2015-07-09 20:38:15 :  - No. of Giants: 12
+2015-07-09 20:38:15 : Training Troops...
+2015-07-09 20:38:18 : This is not a Barrack
+2015-07-09 20:38:18 : Barrack1 selected
+2015-07-09 20:38:18 : Barrack1 selected
+2015-07-09 20:38:18 : Train: need to make normal troops: True
+2015-07-09 20:38:18 : Train: need to make dark troops: False
+2015-07-09 20:38:18 : Barrack1 selected
+2015-07-09 20:38:19 : Barrack2 selected
+2015-07-09 20:38:19 : Barrack2 selected
+2015-07-09 20:38:20 : Barrack3 selected
+2015-07-09 20:38:20 : Barrack3 selected
+2015-07-09 20:38:20 : This is not a Barrack
+2015-07-09 20:38:21 : This is not a Barrack
+2015-07-09 20:38:21 : This is not a Barrack
+2015-07-09 20:38:21 : This is not a Barrack
+2015-07-09 20:38:21 : This is not a Barrack
+2015-07-09 20:38:22 : Barrack3 selected
+2015-07-09 20:38:22 : AfterAttack: False
+2015-07-09 20:38:25 : Barrack2 selected
+2015-07-09 20:38:25 : AfterAttack: False
+2015-07-09 20:38:27 : Barrack1 selected
+2015-07-09 20:38:27 : AfterAttack: False
+2015-07-09 20:38:29 : This is not a Barrack
+2015-07-09 20:38:29 : ---================================================================---
+2015-07-09 20:38:32 : Time Idle: 00:06:52
+2015-07-09 20:38:32 : ====== Waiting for full army ======
+2015-07-09 20:38:52 : Func Train 
+2015-07-09 20:38:52 : Checking Army Camp...
+2015-07-09 20:38:54 : $sArmyInfo = 100#135
+2015-07-09 20:38:54 : $CurCamp = 100
+2015-07-09 20:38:54 : $TotalCamp = 135
+2015-07-09 20:38:54 : Total Army Camp capacity: 100/135
+2015-07-09 20:38:54 : $hBitmapFirst made
+2015-07-09 20:38:55 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:38:55 : Dll return $FullTemp :Barbarian|9-20|7#Archer|70-22|33#Giant|134-23|12
+2015-07-09 20:38:55 : $Trooptype split # : 3
+2015-07-09 20:38:55 : Start the Loop
+2015-07-09 20:38:55 : $TroopTypeT[$i] split : 1
+2015-07-09 20:38:55 :  - No. of Barbarians: 7
+2015-07-09 20:38:56 : $TroopTypeT[$i] split : 2
+2015-07-09 20:38:56 :  - No. of Archers: 33
+2015-07-09 20:38:56 : $TroopTypeT[$i] split : 3
+2015-07-09 20:38:56 :  - No. of Giants: 12
+2015-07-09 20:38:56 : Training Troops...
+2015-07-09 20:38:58 : This is not a Barrack
+2015-07-09 20:38:58 : Barrack1 selected
+2015-07-09 20:38:58 : Barrack1 selected
+2015-07-09 20:38:59 : Train: need to make normal troops: True
+2015-07-09 20:38:59 : Train: need to make dark troops: False
+2015-07-09 20:38:59 : Barrack1 selected
+2015-07-09 20:38:59 : Barrack2 selected
+2015-07-09 20:38:59 : Barrack2 selected
+2015-07-09 20:39:00 : Barrack3 selected
+2015-07-09 20:39:00 : Barrack3 selected
+2015-07-09 20:39:01 : This is not a Barrack
+2015-07-09 20:39:01 : This is not a Barrack
+2015-07-09 20:39:01 : This is not a Barrack
+2015-07-09 20:39:01 : This is not a Barrack
+2015-07-09 20:39:02 : This is not a Barrack
+2015-07-09 20:39:03 : Barrack3 selected
+2015-07-09 20:39:03 : AfterAttack: False
+2015-07-09 20:39:05 : Barrack2 selected
+2015-07-09 20:39:05 : AfterAttack: False
+2015-07-09 20:39:08 : Barrack1 selected
+2015-07-09 20:39:08 : AfterAttack: False
+2015-07-09 20:39:10 : This is not a Barrack
+2015-07-09 20:39:10 : ---================================================================---
+2015-07-09 20:39:13 : Time Idle: 00:07:33
+2015-07-09 20:39:13 : ====== Waiting for full army ======
+2015-07-09 20:39:33 : Func Train 
+2015-07-09 20:39:33 : Checking Army Camp...
+2015-07-09 20:39:34 : $sArmyInfo = 105#135
+2015-07-09 20:39:34 : $CurCamp = 105
+2015-07-09 20:39:34 : $TotalCamp = 135
+2015-07-09 20:39:35 : Total Army Camp capacity: 105/135
+2015-07-09 20:39:35 : $hBitmapFirst made
+2015-07-09 20:39:35 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:39:36 : Dll return $FullTemp :Barbarian|9-20|9#Archer|70-22|36#Giant|134-23|12
+2015-07-09 20:39:36 : $Trooptype split # : 3
+2015-07-09 20:39:36 : Start the Loop
+2015-07-09 20:39:36 : $TroopTypeT[$i] split : 1
+2015-07-09 20:39:36 :  - No. of Barbarians: 9
+2015-07-09 20:39:36 : $TroopTypeT[$i] split : 2
+2015-07-09 20:39:36 :  - No. of Archers: 36
+2015-07-09 20:39:36 : $TroopTypeT[$i] split : 3
+2015-07-09 20:39:36 :  - No. of Giants: 12
+2015-07-09 20:39:37 : Training Troops...
+2015-07-09 20:39:39 : This is not a Barrack
+2015-07-09 20:39:39 : Barrack1 selected
+2015-07-09 20:39:39 : Barrack1 selected
+2015-07-09 20:39:40 : Train: need to make normal troops: True
+2015-07-09 20:39:40 : Train: need to make dark troops: False
+2015-07-09 20:39:40 : Barrack1 selected
+2015-07-09 20:39:40 : Barrack2 selected
+2015-07-09 20:39:40 : Barrack2 selected
+2015-07-09 20:39:41 : Barrack3 selected
+2015-07-09 20:39:41 : Barrack3 selected
+2015-07-09 20:39:42 : This is not a Barrack
+2015-07-09 20:39:42 : This is not a Barrack
+2015-07-09 20:39:42 : This is not a Barrack
+2015-07-09 20:39:42 : This is not a Barrack
+2015-07-09 20:39:42 : This is not a Barrack
+2015-07-09 20:39:44 : Barrack3 selected
+2015-07-09 20:39:44 : AfterAttack: False
+2015-07-09 20:39:46 : Barrack2 selected
+2015-07-09 20:39:46 : AfterAttack: False
+2015-07-09 20:39:48 : Barrack1 selected
+2015-07-09 20:39:48 : AfterAttack: False
+2015-07-09 20:39:50 : This is not a Barrack
+2015-07-09 20:39:50 : ---================================================================---
+2015-07-09 20:39:53 : Time Idle: 00:08:13
+2015-07-09 20:39:53 : ====== Waiting for full army ======
+2015-07-09 20:40:14 : Func Train 
+2015-07-09 20:40:14 : Checking Army Camp...
+2015-07-09 20:40:15 : $sArmyInfo = 110#135
+2015-07-09 20:40:15 : $CurCamp = 110
+2015-07-09 20:40:15 : $TotalCamp = 135
+2015-07-09 20:40:16 : Total Army Camp capacity: 110/135
+2015-07-09 20:40:16 : $hBitmapFirst made
+2015-07-09 20:40:16 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:40:17 : Dll return $FullTemp :Barbarian|9-20|11#Archer|70-22|39#Giant|134-23|12
+2015-07-09 20:40:17 : $Trooptype split # : 3
+2015-07-09 20:40:17 : Start the Loop
+2015-07-09 20:40:17 : $TroopTypeT[$i] split : 1
+2015-07-09 20:40:17 :  - No. of Barbarians: 11
+2015-07-09 20:40:17 : $TroopTypeT[$i] split : 2
+2015-07-09 20:40:17 :  - No. of Archers: 39
+2015-07-09 20:40:17 : $TroopTypeT[$i] split : 3
+2015-07-09 20:40:17 :  - No. of Giants: 12
+2015-07-09 20:40:17 : Training Troops...
+2015-07-09 20:40:19 : This is not a Barrack
+2015-07-09 20:40:19 : Barrack1 selected
+2015-07-09 20:40:20 : Barrack1 selected
+2015-07-09 20:40:20 : Train: need to make normal troops: True
+2015-07-09 20:40:20 : Train: need to make dark troops: False
+2015-07-09 20:40:20 : Barrack1 selected
+2015-07-09 20:40:21 : Barrack2 selected
+2015-07-09 20:40:21 : Barrack2 selected
+2015-07-09 20:40:22 : Barrack3 selected
+2015-07-09 20:40:22 : Barrack3 selected
+2015-07-09 20:40:22 : This is not a Barrack
+2015-07-09 20:40:23 : This is not a Barrack
+2015-07-09 20:40:23 : This is not a Barrack
+2015-07-09 20:40:23 : This is not a Barrack
+2015-07-09 20:40:23 : This is not a Barrack

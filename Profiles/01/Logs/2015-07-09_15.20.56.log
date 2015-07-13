@@ -1,0 +1,89 @@
+2015-07-09 15:20:57 : Starting BlueStacks
+2015-07-09 15:21:04 : BlueStacks Loaded, took 7.09 seconds to begin.
+2015-07-09 15:21:04 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 15:21:04 : Executable running on WIN_81  X64
+2015-07-09 15:21:04 : =================== Bot Start ====================
+2015-07-09 15:21:04 : Trying to locate Main Screen
+2015-07-09 15:21:08 : Waiting for Main Screen
+2015-07-09 15:21:26 : Zooming Out
+2015-07-09 15:21:28 : Main Screen Located
+2015-07-09 15:21:29 : Detecting your Buildings..
+2015-07-09 15:21:30 : Town Hall Position: 430, 237
+2015-07-09 15:21:31 : Taking snapshot for later review
+2015-07-09 15:21:37 : Read building Name String = Town Hall (Level 6)
+2015-07-09 15:21:37 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-09 15:21:37 : 2nd $aString = 2, Level 6, 
+2015-07-09 15:21:37 : 3rd $aString = 2, Level, 6
+2015-07-09 15:21:37 : Your Town Hall is Level: 6
+2015-07-09 15:21:38 : Language setting is English: Correct.
+2015-07-09 15:21:39 : Trying to locate Main Screen
+2015-07-09 15:21:39 : Main Screen Located
+2015-07-09 15:21:41 : Profile Report
+2015-07-09 15:21:41 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 15:21:43 :  [ATKW]: 26 [DEFW]: 2 [TDON]: 218 [TREC]: 211
+2015-07-09 15:21:50 : Village Report
+2015-07-09 15:21:50 : No. of Free/Total Builders: 0/3
+2015-07-09 15:21:50 :  [T]: 1 017
+2015-07-09 15:21:51 :  [G]: 105 030 [E]: 290 671 [GEM]: 632
+2015-07-09 15:21:55 : Unable to read Chat Request!
+2015-07-09 15:21:56 : Chat Request: any
+2015-07-09 15:21:56 : Archers Keyword found: any
+2015-07-09 15:21:57 : Donating Archers
+2015-07-09 15:21:59 : Chat Request: any
+2015-07-09 15:22:00 : Archers Keyword found: any
+2015-07-09 15:22:00 : Donating Archers
+2015-07-09 15:22:03 : Chat Request: 3 orabove dragon
+2015-07-09 15:22:05 : Chat Request: balloon
+2015-07-09 15:22:07 : Func Train 
+2015-07-09 15:22:07 : Checking Army Camp...
+2015-07-09 15:22:09 : $sArmyInfo = 134#135
+2015-07-09 15:22:09 : $CurCamp = 134
+2015-07-09 15:22:09 : $TotalCamp = 135
+2015-07-09 15:22:09 : Total Army Camp capacity: 134/135
+2015-07-09 15:22:09 : Training Troops...
+2015-07-09 15:22:12 : This is not a Barrack
+2015-07-09 15:22:12 : Barrack1 selected
+2015-07-09 15:22:12 : Barrack1 selected
+2015-07-09 15:22:12 : Train: need to make normal troops: True
+2015-07-09 15:22:12 : Train: need to make dark troops: False
+2015-07-09 15:22:12 : Barrack1 selected
+2015-07-09 15:22:13 : Barrack2 selected
+2015-07-09 15:22:13 : Barrack2 selected
+2015-07-09 15:22:14 : Barrack3 selected
+2015-07-09 15:22:14 : Barrack3 selected
+2015-07-09 15:22:14 : This is not a Barrack
+2015-07-09 15:22:14 : This is not a Barrack
+2015-07-09 15:22:15 : This is not a Barrack
+2015-07-09 15:22:15 : This is not a Barrack
+2015-07-09 15:22:15 : This is not a Barrack
+2015-07-09 15:22:16 : Your Army Camps are now Full
+2015-07-09 15:22:16 : RESET AT 0 CurArch
+2015-07-09 15:22:16 : RESET AT 0 CurGiant
+2015-07-09 15:22:16 : RESET AT 0 CurWall
+2015-07-09 15:22:16 : RESET AT 0 CurBarb
+2015-07-09 15:22:16 : RESET AT 0 CurGobl
+2015-07-09 15:22:16 : RESET AT 0 CurHeal
+2015-07-09 15:22:16 : RESET AT 0 CurPekk
+2015-07-09 15:22:16 : RESET AT 0 CurBall
+2015-07-09 15:22:16 : RESET AT 0 CurWiza
+2015-07-09 15:22:16 : RESET AT 0 CurDrag
+2015-07-09 15:22:16 : RESET AT 0 CurMini
+2015-07-09 15:22:16 : RESET AT 0 CurHogs
+2015-07-09 15:22:16 : RESET AT 0 CurValk
+2015-07-09 15:22:16 : RESET AT 0 CurGole
+2015-07-09 15:22:16 : RESET AT 0 CurWitc
+2015-07-09 15:22:16 : RESET AT 0 CurLava
+2015-07-09 15:22:16 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-09 15:22:16 : -- Compute AnotherTroops to train
+2015-07-09 15:22:16 : Need to train (height) GOBL:0 BARB: 68 ARCH: 68 AND 0 other troops space
+2015-07-09 15:22:16 : BARRACKNUM: 3
+2015-07-09 15:22:16 : ArchEBarrack: 22
+2015-07-09 15:22:16 : BarbEBarrack: 22
+2015-07-09 15:22:16 : DARKBARRACKNUM: 1
+2015-07-09 15:22:17 : Barrack3 selected
+2015-07-09 15:22:23 : Barrack2 selected
+2015-07-09 15:22:27 : Barrack1 selected
+2015-07-09 15:22:30 : This is not a Barrack
+2015-07-09 15:22:30 : ---================================================================---
+2015-07-09 15:22:34 : Requesting Clan Castle Troops
+2015-07-09 15:22:35 : Your Clan Castle is already full or you are not in a clan.

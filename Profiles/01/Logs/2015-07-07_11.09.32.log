@@ -1,0 +1,344 @@
+2015-07-07 11:09:33 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-07 11:09:33 : Executable running on WIN_81  X64
+2015-07-07 11:09:33 : =================== Bot Start ====================
+2015-07-07 11:09:33 : Trying to locate Main Screen
+2015-07-07 11:09:33 : Main Screen Located
+2015-07-07 11:09:34 : Detecting your Buildings..
+2015-07-07 11:09:39 : Your Town Hall is Level: 6
+2015-07-07 11:09:45 : Total No. of Dark Barracks: 0
+2015-07-07 11:09:46 : Language setting is English: Correct.
+2015-07-07 11:09:47 : Trying to locate Main Screen
+2015-07-07 11:09:47 : Main Screen Located
+2015-07-07 11:09:49 : Profile Report
+2015-07-07 11:09:49 : Opening Profile page to read atk, def, donated ad received...
+2015-07-07 11:09:50 :  [ATKW]: 1 [DEFW]: 0 [TDON]: 0 [TREC]: 47
+2015-07-07 11:09:54 : Checking if Village needs Rearming..
+2015-07-07 11:10:05 : Village Report
+2015-07-07 11:10:06 : No. of Free/Total Builders: 0/3
+2015-07-07 11:10:06 :  [T]: 1 031
+2015-07-07 11:10:06 :  [G]: 411 430 [E]: 528 810 [GEM]: 617
+2015-07-07 11:10:10 : Chat Request: pekka
+2015-07-07 11:10:12 : Chat Request: Any
+2015-07-07 11:10:14 : Chat Request: 5 above pls
+2015-07-07 11:10:16 : Chat Request: any
+2015-07-07 11:10:18 : Chat Request: hog thx
+2015-07-07 11:10:20 : Checking Army Camp...
+2015-07-07 11:10:22 : Total Army Camp capacity: 37/135
+2015-07-07 11:10:23 :  - No. of Archers: 37
+2015-07-07 11:10:23 : Training Troops...
+2015-07-07 11:10:55 : Requesting Clan Castle Troops
+2015-07-07 11:10:55 : Request has already been made
+2015-07-07 11:10:56 : Checking Troop Upgrade in Laboratory ...
+2015-07-07 11:10:57 : Updating village values [E]: 528810
+2015-07-07 11:10:59 : Healing Spell value read error, close bot and try again!
+2015-07-07 11:11:00 : Checking Upgrade
+2015-07-07 11:11:01 : Updating Village Resource Values
+2015-07-07 11:11:01 : No. of Free/Total Builders: 0/3
+2015-07-07 11:11:01 :  [T]: 1 031
+2015-07-07 11:11:01 :  [G]: 411 430 [E]: 528 810 [GEM]: 617
+2015-07-07 11:11:01 : No builder available for upgrades
+2015-07-07 11:11:02 : No free builder, Upgrade Walls skipped..
+2015-07-07 11:11:03 : ====== Waiting for full army ======
+2015-07-07 11:11:23 : Checking Army Camp...
+2015-07-07 11:11:25 : Total Army Camp capacity: 43/135
+2015-07-07 11:11:26 :  - No. of Archers: 43
+2015-07-07 11:11:27 : Training Troops...
+2015-07-07 11:11:42 : Time Idle: 00:00:38
+2015-07-07 11:11:42 : ====== Waiting for full army ======
+2015-07-07 11:12:02 : Checking Army Camp...
+2015-07-07 11:12:04 : Total Army Camp capacity: 48/135
+2015-07-07 11:12:05 :  - No. of Archers: 48
+2015-07-07 11:12:05 : Training Troops...
+2015-07-07 11:12:20 : Time Idle: 00:01:16
+2015-07-07 11:12:20 : ====== Waiting for full army ======
+2015-07-07 11:12:40 : Checking Army Camp...
+2015-07-07 11:12:42 : Total Army Camp capacity: 52/135
+2015-07-07 11:12:43 :  - No. of Archers: 52
+2015-07-07 11:12:43 : Training Troops...
+2015-07-07 11:12:58 : Time Idle: 00:01:54
+2015-07-07 11:12:58 : ====== Waiting for full army ======
+2015-07-07 11:13:18 : Checking Army Camp...
+2015-07-07 11:13:20 : Total Army Camp capacity: 57/135
+2015-07-07 11:13:21 :  - No. of Archers: 57
+2015-07-07 11:13:21 : Training Troops...
+2015-07-07 11:13:37 : Time Idle: 00:02:33
+2015-07-07 11:13:37 : ====== Waiting for full army ======
+2015-07-07 11:13:57 : Checking Army Camp...
+2015-07-07 11:13:59 : Total Army Camp capacity: 61/135
+2015-07-07 11:14:00 :  - No. of Archers: 61
+2015-07-07 11:14:00 : Training Troops...
+2015-07-07 11:14:16 : Time Idle: 00:03:12
+2015-07-07 11:14:16 : ====== Waiting for full army ======
+2015-07-07 11:14:37 : Checking Army Camp...
+2015-07-07 11:14:39 : Total Army Camp capacity: 63/135
+2015-07-07 11:14:40 :  - No. of Archers: 63
+2015-07-07 11:14:40 : Training Troops...
+2015-07-07 11:14:55 : Time Idle: 00:03:51
+2015-07-07 11:14:55 : ====== Waiting for full army ======
+2015-07-07 11:15:16 : Checking Army Camp...
+2015-07-07 11:15:18 : Total Army Camp capacity: 63/135
+2015-07-07 11:15:19 :  - No. of Archers: 63
+2015-07-07 11:15:19 : Training Troops...
+2015-07-07 11:15:35 : Time Idle: 00:04:31
+2015-07-07 11:15:35 : ====== Waiting for full army ======
+2015-07-07 11:15:55 : Checking Army Camp...
+2015-07-07 11:15:57 : Total Army Camp capacity: 68/135
+2015-07-07 11:15:58 :  - No. of Archers: 63
+2015-07-07 11:15:58 :  - No. of Giants: 1
+2015-07-07 11:15:58 : Training Troops...
+2015-07-07 11:16:13 : Time Idle: 00:05:09
+2015-07-07 11:16:13 : ====== Waiting for full army ======
+2015-07-07 11:16:34 : Checking Army Camp...
+2015-07-07 11:16:36 : Total Army Camp capacity: 78/135
+2015-07-07 11:16:37 :  - No. of Archers: 63
+2015-07-07 11:16:37 :  - No. of Giants: 3
+2015-07-07 11:16:37 : Training Troops...
+2015-07-07 11:16:52 : Time Idle: 00:05:48
+2015-07-07 11:16:52 : ====== Waiting for full army ======
+2015-07-07 11:17:12 : Checking Army Camp...
+2015-07-07 11:17:14 : Total Army Camp capacity: 78/135
+2015-07-07 11:17:15 :  - No. of Archers: 63
+2015-07-07 11:17:15 :  - No. of Giants: 3
+2015-07-07 11:17:15 : Training Troops...
+2015-07-07 11:17:31 : Time Idle: 00:06:26
+2015-07-07 11:17:31 : ====== Waiting for full army ======
+2015-07-07 11:17:51 : Checking Army Camp...
+2015-07-07 11:17:53 : Total Army Camp capacity: 78/135
+2015-07-07 11:17:54 :  - No. of Archers: 63
+2015-07-07 11:17:54 :  - No. of Giants: 3
+2015-07-07 11:17:54 : Training Troops...
+2015-07-07 11:18:09 : Time Idle: 00:07:05
+2015-07-07 11:18:09 : ====== Waiting for full army ======
+2015-07-07 11:18:31 : Checking Army Camp...
+2015-07-07 11:18:33 : Total Army Camp capacity: 96/135
+2015-07-07 11:18:34 :  - No. of Barbarians: 3
+2015-07-07 11:18:34 :  - No. of Archers: 63
+2015-07-07 11:18:34 :  - No. of Giants: 6
+2015-07-07 11:18:34 : Training Troops...
+2015-07-07 11:18:50 : Time Idle: 00:07:45
+2015-07-07 11:18:50 : ====== Waiting for full army ======
+2015-07-07 11:19:10 : Checking Army Camp...
+2015-07-07 11:19:12 : Total Army Camp capacity: 102/135
+2015-07-07 11:19:13 :  - No. of Barbarians: 9
+2015-07-07 11:19:13 :  - No. of Archers: 63
+2015-07-07 11:19:13 :  - No. of Giants: 6
+2015-07-07 11:19:13 : Training Troops...
+2015-07-07 11:19:30 : Time Idle: 00:08:25
+2015-07-07 11:19:30 : ====== Waiting for full army ======
+2015-07-07 11:19:50 : Checking Army Camp...
+2015-07-07 11:19:52 : Total Army Camp capacity: 108/135
+2015-07-07 11:19:53 :  - No. of Barbarians: 15
+2015-07-07 11:19:53 :  - No. of Archers: 63
+2015-07-07 11:19:53 :  - No. of Giants: 6
+2015-07-07 11:19:53 : Training Troops...
+2015-07-07 11:20:09 : Time Idle: 00:09:04
+2015-07-07 11:20:09 : ====== Waiting for full army ======
+2015-07-07 11:20:30 : Checking Army Camp...
+2015-07-07 11:20:32 : Total Army Camp capacity: 114/135
+2015-07-07 11:20:33 :  - No. of Barbarians: 21
+2015-07-07 11:20:33 :  - No. of Archers: 63
+2015-07-07 11:20:33 :  - No. of Giants: 6
+2015-07-07 11:20:33 : Training Troops...
+2015-07-07 11:20:49 : Time Idle: 00:09:44
+2015-07-07 11:20:49 : ====== Waiting for full army ======
+2015-07-07 11:21:10 : Checking Army Camp...
+2015-07-07 11:21:12 : Total Army Camp capacity: 120/135
+2015-07-07 11:21:13 :  - No. of Barbarians: 27
+2015-07-07 11:21:13 :  - No. of Archers: 63
+2015-07-07 11:21:13 :  - No. of Giants: 6
+2015-07-07 11:21:13 : Training Troops...
+2015-07-07 11:21:30 : Time Idle: 00:10:25
+2015-07-07 11:21:30 : ====== Waiting for full army ======
+2015-07-07 11:21:50 : Checking Army Camp...
+2015-07-07 11:21:52 : Total Army Camp capacity: 126/135
+2015-07-07 11:21:53 :  - No. of Barbarians: 33
+2015-07-07 11:21:53 :  - No. of Archers: 63
+2015-07-07 11:21:53 :  - No. of Giants: 6
+2015-07-07 11:21:53 : Training Troops...
+2015-07-07 11:22:12 : Checking Army Camp...
+2015-07-07 11:22:14 : Total Army Camp capacity: 129/135
+2015-07-07 11:22:16 :  - No. of Barbarians: 36
+2015-07-07 11:22:16 :  - No. of Archers: 63
+2015-07-07 11:22:16 :  - No. of Giants: 6
+2015-07-07 11:22:16 : Training Troops...
+2015-07-07 11:22:36 : Checking Army Camp...
+2015-07-07 11:22:38 : Total Army Camp capacity: 133/135
+2015-07-07 11:22:39 :  - No. of Barbarians: 40
+2015-07-07 11:22:39 :  - No. of Archers: 63
+2015-07-07 11:22:39 :  - No. of Giants: 6
+2015-07-07 11:22:39 : Training Troops...
+2015-07-07 11:22:59 : Checking Army Camp...
+2015-07-07 11:23:01 : Total Army Camp capacity: 135/135
+2015-07-07 11:23:01 : Training Troops...
+2015-07-07 11:23:07 : Your Army Camps are now Full
+2015-07-07 11:23:31 : Profile Report
+2015-07-07 11:23:31 : Opening Profile page to read atk, def, donated ad received...
+2015-07-07 11:23:33 :  [ATKW]: 1 [DEFW]: 0 [TDON]: 0 [TREC]: 55
+2015-07-07 11:23:34 : Going to Attack...
+2015-07-07 11:23:40 : ============== Searching For Dead Base ===============
+2015-07-07 11:23:40 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-07 11:23:40 : Meet: Gold + Elixir, Max TH 4-6
+2015-07-07 11:23:40 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-07 11:23:40 : Aim:           [G+E]: 160000 [D]:    0 [T]: 0 [TH]:4-6
+2015-07-07 11:23:40 : ============== Searching For Live Base ===============
+2015-07-07 11:23:40 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-07 11:23:40 : Meet: Gold + Elixir, Max TH 4-6, TH Outside, Enabled after 150 searches
+2015-07-07 11:23:40 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-07 11:23:40 : Aim:           [G+E]: 160000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-07 11:23:40 : ==================================================
+2015-07-07 11:23:42 :   1> [G]:   4505 [E]:  45291 [D]:  N/A [T]:25 [TH]: -, -
+2015-07-07 11:23:46 :   2> [G]:  81614 [E]:  78327 [D]:  N/A [T]:23 [TH]: -, -
+2015-07-07 11:23:50 :   3> [G]:  25250 [E]:  25250 [D]:  N/A [T]:23 [TH]: -, -
+2015-07-07 11:23:53 :   4> [G]:  34388 [E]: 109755 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-07 11:23:59 :   5> [G]:  94507 [E]:  90621 [D]:  107 [T]:21 [TH]: 7, Out
+2015-07-07 11:24:02 :   6> [G]:  76714 [E]:  36185 [D]:  N/A [T]:30 [TH]:4-6, In
+2015-07-07 11:24:10 :   7> [G]:  76498 [E]:  36156 [D]:  N/A [T]:22 [TH]: -, -
+2015-07-07 11:24:14 :   8> [G]:  39618 [E]:  37078 [D]:  N/A [T]:23 [TH]: -, -
+2015-07-07 11:24:16 :   9> [G]:  29934 [E]:  14798 [D]:  N/A [T]:33 [TH]:4-6, In
+2015-07-07 11:24:25 :  10> [G]: 229616 [E]: 195375 [D]:  524 [T]:27 [TH]: -, -
+2015-07-07 11:24:27 :  11> [G]:  81868 [E]:  64184 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-07 11:24:34 :  12> [G]:  45977 [E]:  40620 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-07 11:24:36 :  13> [G]:  54483 [E]:  19848 [D]:  N/A [T]:13 [TH]:4-6, In
+2015-07-07 11:24:44 :  14> [G]:  70427 [E]:  26776 [D]:  N/A [T]:21 [TH]: -, -
+2015-07-07 11:24:48 :  15> [G]:  26868 [E]:   3015 [D]:  263 [T]:25 [TH]: -, -
+2015-07-07 11:24:50 :  16> [G]:  84283 [E]: 108528 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-07 11:24:55 :  17> [G]: 157898 [E]:  39842 [D]:  N/A [T]:34 [TH]: -, -
+2015-07-07 11:24:58 :  18> [G]:  84002 [E]:  89103 [D]:  822 [T]:29 [TH]: 8, In
+2015-07-07 11:25:02 :  19> [G]:  48127 [E]:  85620 [D]:  N/A [T]:19 [TH]: -, -
+2015-07-07 11:25:06 :  20> [G]:  36045 [E]:  16841 [D]:  N/A [T]:17 [TH]: -, -
+2015-07-07 11:25:06 : Aim:           [G+E]: 156000 [D]:    0 [T]: 0 [TH]:4-6
+2015-07-07 11:25:09 :  21> [G]:   7104 [E]:  28800 [D]:  N/A [T]:24 [TH]:4-6, In
+2015-07-07 11:25:17 :  22> [G]:  49091 [E]:  17574 [D]:  679 [T]:12 [TH]: -, -
+2015-07-07 11:25:21 :  23> [G]:  30955 [E]:  45136 [D]:  N/A [T]:22 [TH]: -, -
+2015-07-07 11:25:23 :  24> [G]: 233927 [E]: 195494 [D]:  N/A [T]:34 [TH]:4-6, In
+2015-07-07 11:25:27 :  25> [G]:  56616 [E]:  74260 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-07 11:25:33 :  26> [G]:  36767 [E]:  66661 [D]:  N/A [T]:26 [TH]:4-6, In
+2015-07-07 11:25:36 :  27> [G]:   9741 [E]:  18669 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-07 11:25:43 :  28> [G]:  80690 [E]:  18054 [D]:  N/A [T]:25 [TH]:4-6, In
+2015-07-07 11:25:45 :  29> [G]:  32898 [E]:  35282 [D]:  N/A [T]:25 [TH]:4-6, In
+2015-07-07 11:25:52 :  30> [G]:  26181 [E]:  18989 [D]:  N/A [T]:20 [TH]:4-6, In
+2015-07-07 11:25:55 :  31> [G]:  78546 [E]: 166828 [D]:  309 [T]:27 [TH]: 7, In
+2015-07-07 11:26:02 :  32> [G]:  54765 [E]:  95571 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-07 11:26:05 :  33> [G]:  68138 [E]:  67926 [D]:  N/A [T]:30 [TH]:4-6, In
+2015-07-07 11:26:08 :  34> [G]: 165030 [E]:  95122 [D]:  N/A [T]:23 [TH]:4-6, In
+2015-07-07 11:26:12 :  35> [G]: 108970 [E]:  82442 [D]:  N/A [T]:24 [TH]: -, -
+2015-07-07 11:26:15 :  36> [G]:  80141 [E]:  84645 [D]:  N/A [T]:32 [TH]:4-6, In
+2015-07-07 11:26:15 : ~~~~~~~~~~~~~~~~ Dead Base Found! ~~~~~~~~~~~~~~~~
+2015-07-07 11:26:17 : ================ Search Complete =================
+2015-07-07 11:26:17 : Initiating attack for: Dead Base
+2015-07-07 11:26:21 : -Barbarians 42
+2015-07-07 11:26:21 : -Archers 63
+2015-07-07 11:26:21 : -Giants 6
+2015-07-07 11:26:21 : -Clan Castle 
+2015-07-07 11:26:21 :  ====== Start Attack ====== 
+2015-07-07 11:26:23 : Calculating Smart Attack Strategy
+2015-07-07 11:26:24 : Calculated  (in 1.25 seconds) :
+2015-07-07 11:26:24 : Locating Village Pump & Mines
+2015-07-07 11:26:32 : Located  (in 8 seconds) :
+2015-07-07 11:26:32 : [6] Gold Mines
+2015-07-07 11:26:32 : [6] Elixir Collectors
+2015-07-07 11:26:32 : [0] Dark Elixir Drill/s
+2015-07-07 11:26:32 : Attacking on all sides
+2015-07-07 11:26:34 : Dropping 1  of Giants => on each side (side : 1)
+2015-07-07 11:26:35 : Dropping 2  of Barbarians => on each side (side : 1)
+2015-07-07 11:26:36 : Dropping 3  of Archers => on each side (side : 1)
+2015-07-07 11:26:37 : Dropping 1  of Giants => on each side (side : 2)
+2015-07-07 11:26:37 : Dropping 2  of Barbarians => on each side (side : 2)
+2015-07-07 11:26:38 : Dropping 3  of Archers => on each side (side : 2)
+2015-07-07 11:26:39 : Dropping 1  of Giants => on each side (side : 3)
+2015-07-07 11:26:39 : Dropping 2  of Barbarians => on each side (side : 3)
+2015-07-07 11:26:40 : Dropping 3  of Archers => on each side (side : 3)
+2015-07-07 11:26:41 : Dropping 1  of Giants => on each side (side : 4)
+2015-07-07 11:26:42 : Dropping 2  of Barbarians => on each side (side : 4)
+2015-07-07 11:26:43 : Dropping 3  of Archers => on each side (side : 4)
+2015-07-07 11:26:43 : Dropping 1  of Giants => on each side (side : 5)
+2015-07-07 11:26:44 : Dropping 2  of Barbarians => on each side (side : 5)
+2015-07-07 11:26:45 : Dropping 3  of Archers => on each side (side : 5)
+2015-07-07 11:26:46 : Dropping 1  of Giants => on each side (side : 6)
+2015-07-07 11:26:46 : Dropping 2  of Barbarians => on each side (side : 6)
+2015-07-07 11:26:47 : Dropping 3  of Archers => on each side (side : 6)
+2015-07-07 11:26:48 : Dropping 1  of Giants => on each side (side : 7)
+2015-07-07 11:26:49 : Dropping 2  of Barbarians => on each side (side : 7)
+2015-07-07 11:26:49 : Dropping 3  of Archers => on each side (side : 7)
+2015-07-07 11:26:50 : Dropping 1  of Giants => on each side (side : 8)
+2015-07-07 11:26:51 : Dropping 2  of Barbarians => on each side (side : 8)
+2015-07-07 11:26:51 : Dropping 3  of Archers => on each side (side : 8)
+2015-07-07 11:26:52 : Dropping 1  of Giants => on each side (side : 9)
+2015-07-07 11:26:53 : Dropping 2  of Barbarians => on each side (side : 9)
+2015-07-07 11:26:54 : Dropping 3  of Archers => on each side (side : 9)
+2015-07-07 11:26:55 : Dropping 1  of Giants => on each side (side : 10)
+2015-07-07 11:26:55 : Dropping 2  of Barbarians => on each side (side : 10)
+2015-07-07 11:26:56 : Dropping 3  of Archers => on each side (side : 10)
+2015-07-07 11:26:57 : Dropping 1  of Giants => on each side (side : 11)
+2015-07-07 11:26:58 : Dropping 2  of Barbarians => on each side (side : 11)
+2015-07-07 11:26:58 : Dropping 3  of Archers => on each side (side : 11)
+2015-07-07 11:26:59 : Dropping 1  of Giants => on each side (side : 12)
+2015-07-07 11:27:00 : Dropping 2  of Barbarians => on each side (side : 12)
+2015-07-07 11:27:01 : Dropping 3  of Archers => on each side (side : 12)
+2015-07-07 11:27:02 : Dropping 2  of Barbarians => on each side (side : 1)
+2015-07-07 11:27:03 : Dropping 3  of Archers => on each side (side : 1)
+2015-07-07 11:27:04 : Dropping 2  of Barbarians => on each side (side : 2)
+2015-07-07 11:27:05 : Dropping 3  of Archers => on each side (side : 2)
+2015-07-07 11:27:06 : Dropping 2  of Barbarians => on each side (side : 3)
+2015-07-07 11:27:06 : Dropping 3  of Archers => on each side (side : 3)
+2015-07-07 11:27:07 : Dropping 2  of Barbarians => on each side (side : 4)
+2015-07-07 11:27:08 : Dropping 3  of Archers => on each side (side : 4)
+2015-07-07 11:27:09 : Dropping 2  of Barbarians => on each side (side : 5)
+2015-07-07 11:27:10 : Dropping 3  of Archers => on each side (side : 5)
+2015-07-07 11:27:11 : Dropping 2  of Barbarians => on each side (side : 6)
+2015-07-07 11:27:11 : Dropping 3  of Archers => on each side (side : 6)
+2015-07-07 11:27:12 : Dropping 2  of Barbarians => on each side (side : 7)
+2015-07-07 11:27:13 : Dropping 3  of Archers => on each side (side : 7)
+2015-07-07 11:27:14 : Dropping 2  of Barbarians => on each side (side : 8)
+2015-07-07 11:27:15 : Dropping 3  of Archers => on each side (side : 8)
+2015-07-07 11:27:15 : Dropping 2  of Barbarians => on each side (side : 9)
+2015-07-07 11:27:16 : Dropping 3  of Archers => on each side (side : 9)
+2015-07-07 11:27:17 : Dropping 2  of Barbarians => on each side (side : 10)
+2015-07-07 11:27:18 : Dropping 3  of Archers => on each side (side : 10)
+2015-07-07 11:27:19 : Dropping 2  of Barbarians => on each side (side : 11)
+2015-07-07 11:27:19 : Dropping 3  of Archers => on each side (side : 11)
+2015-07-07 11:27:20 : Dropping 2  of Barbarians => on each side (side : 12)
+2015-07-07 11:27:21 : Dropping 3  of Archers => on each side (side : 12)
+2015-07-07 11:27:23 : Dropping left over troops
+2015-07-07 11:27:23 : Checking remaining unused troops for: Dead Base
+2015-07-07 11:27:26 : -Archers 0
+2015-07-07 11:27:26 : -Clan Castle 
+2015-07-07 11:27:36 : Checking remaining unused troops for: Dead Base
+2015-07-07 11:27:40 : -Archers 0
+2015-07-07 11:27:40 : -Clan Castle 
+2015-07-07 11:27:49 : Finished Attacking, waiting for the battle to end
+2015-07-07 11:27:49 : Checking if the battle has finished
+2015-07-07 11:27:50 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 18.7 sec.
+2015-07-07 11:27:51 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 17.4 sec.
+2015-07-07 11:27:53 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 16.1 sec.
+2015-07-07 11:27:54 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 14.7 sec.
+2015-07-07 11:27:55 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 13.4 sec.
+2015-07-07 11:27:57 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 12.0 sec.
+2015-07-07 11:27:58 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 10.6 sec.
+2015-07-07 11:28:00 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 9.2 sec.
+2015-07-07 11:28:01 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 7.8 sec.
+2015-07-07 11:28:02 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 6.5 sec.
+2015-07-07 11:28:04 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 5.1 sec.
+2015-07-07 11:28:05 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 3.8 sec.
+2015-07-07 11:28:06 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 2.4 sec.
+2015-07-07 11:28:08 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 1.1 sec.
+2015-07-07 11:28:09 : detected [G]: 33593 [E]: 26671 [DE]:  |  Exit in 0.0 sec.
+2015-07-07 11:28:09 : Gold & Elixir & DE no change detected, exit
+2015-07-07 11:28:09 : Returning Home
+2015-07-07 11:28:14 : Loot: [G]: 46 548 [E]: 57 974 [DE]: 57 974 [T]: -18
+2015-07-07 11:28:14 : Stars earned: 0
+2015-07-07 11:28:14 : Taking snapshot of your loot
+2015-07-07 11:28:22 : Trying to locate Main Screen
+2015-07-07 11:28:22 : Main Screen Located
+2015-07-07 11:28:24 : Profile Report
+2015-07-07 11:28:24 : Opening Profile page to read atk, def, donated ad received...
+2015-07-07 11:28:25 :  [ATKW]: 1 [DEFW]: 0 [TDON]: 0 [TREC]: 55
+2015-07-07 11:28:30 : Checking if Village needs Rearming..
+2015-07-07 11:28:41 : Village Report
+2015-07-07 11:28:41 : No. of Free/Total Builders: 0/3
+2015-07-07 11:28:41 :  [T]: 1 013
+2015-07-07 11:28:41 :  [G]: 448 978 [E]: 572 204 [GEM]: 617
+2015-07-07 11:28:45 : Chat Request: pekka
+2015-07-07 11:28:47 : Chat Request: Any
+2015-07-07 11:28:49 : Chat Request: 5 above pls
+2015-07-07 11:28:51 : Chat Request: any

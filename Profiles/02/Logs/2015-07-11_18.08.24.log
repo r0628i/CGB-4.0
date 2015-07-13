@@ -1,0 +1,69 @@
+2015-07-11 18:08:25 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-11 18:08:25 : Au3 Script running on WIN_81  X64
+2015-07-11 18:08:25 : =================== Bot Start ====================
+2015-07-11 18:08:25 : Trying to locate Main Screen
+2015-07-11 18:08:25 : Zooming Out
+2015-07-11 18:08:27 : Main Screen Located
+2015-07-11 18:08:28 : Detecting your Buildings..
+2015-07-11 18:08:29 : Town Hall Position: 433, 308
+2015-07-11 18:08:30 : Taking snapshot for later review
+2015-07-11 18:08:35 : Read building Name String = Town Hall (Level 8)
+2015-07-11 18:08:35 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-11 18:08:35 : 2nd $aString = 2, Level 8, 
+2015-07-11 18:08:35 : 3rd $aString = 2, Level, 8
+2015-07-11 18:08:35 : Your Town Hall is Level: 8
+2015-07-11 18:08:36 : Language setting is English: Correct.
+2015-07-11 18:08:37 : Trying to locate Main Screen
+2015-07-11 18:08:37 : Main Screen Located
+2015-07-11 18:08:38 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-11 18:08:41 : Collecting Resources
+2015-07-11 18:08:48 : Checking if Village needs Rearming..
+2015-07-11 18:08:50 : Taking snapshot for later review
+2015-07-11 18:08:59 : Village Report
+2015-07-11 18:09:00 : No. of Free/Total Builders: 0/5
+2015-07-11 18:09:00 :  [T]: 3 166
+2015-07-11 18:09:00 :  [G]: 408 950 [E]: 5 356 005 [D]: 78 727 [GEM]: 2 021
+2015-07-11 18:09:04 : Chat Request: I need reinforcement troops
+2015-07-11 18:09:06 : Func Train 
+2015-07-11 18:09:06 : Checking Army Camp...
+2015-07-11 18:09:07 : $sArmyInfo = 200#200
+2015-07-11 18:09:07 : $CurCamp = 200
+2015-07-11 18:09:07 : $TotalCamp = 200
+2015-07-11 18:09:08 : Total Army Camp capacity: 200/200
+2015-07-11 18:09:08 : Training Troops...
+2015-07-11 18:09:10 : This is not a Barrack
+2015-07-11 18:09:10 : This is not a Barrack
+2015-07-11 18:09:10 : Barrack1 selected
+2015-07-11 18:09:10 : Barrack1 selected
+2015-07-11 18:09:10 : Barrack1 selected
+2015-07-11 18:09:11 : Barrack2 selected
+2015-07-11 18:09:11 : Barrack2 selected
+2015-07-11 18:09:11 : Barrack3 selected
+2015-07-11 18:09:12 : Barrack3 selected
+2015-07-11 18:09:12 : Barrack4 selected
+2015-07-11 18:09:12 : Barrack4 selected
+2015-07-11 18:09:13 : This is not a Barrack
+2015-07-11 18:09:13 : This is not a Barrack
+2015-07-11 18:09:13 : This is not a Barrack
+2015-07-11 18:09:13 : This is not a Barrack
+2015-07-11 18:09:13 : This is not a Barrack
+2015-07-11 18:09:15 : Barrack4 selected
+2015-07-11 18:09:15 : AfterAttack: True
+2015-07-11 18:09:17 : Barrack3 selected
+2015-07-11 18:09:17 : AfterAttack: True
+2015-07-11 18:09:20 : Barrack2 selected
+2015-07-11 18:09:20 : AfterAttack: True
+2015-07-11 18:09:23 : Barrack1 selected
+2015-07-11 18:09:23 : AfterAttack: True
+2015-07-11 18:09:25 : This is not a Barrack
+2015-07-11 18:09:26 : This is not a Dark Barrack
+2015-07-11 18:09:27 : Dark Barrack2 selected
+2015-07-11 18:09:27 : Dark Barrack2 selected
+2015-07-11 18:09:29 : This is not a Dark Barrack
+2015-07-11 18:09:29 : This is not a Dark Barrack
+2015-07-11 18:09:29 : This is not a Dark Barrack
+2015-07-11 18:09:29 : This is not a Dark Barrack
+2015-07-11 18:09:30 : This is not a Dark Barrack
+2015-07-11 18:09:31 : This is not a Dark Barrack
+2015-07-11 18:09:31 : ---================================================================---
+2015-07-11 18:09:35 : ClashGameBot was Paused!

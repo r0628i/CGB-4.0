@@ -1,0 +1,44 @@
+2015-07-09 23:10:42 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 23:10:42 : Executable running on WIN_81  X64
+2015-07-09 23:10:42 : =================== Bot Start ====================
+2015-07-09 23:10:43 : Trying to locate Main Screen
+2015-07-09 23:10:43 : Main Screen Located
+2015-07-09 23:10:44 : Detecting your Buildings..
+2015-07-09 23:10:44 : Town Hall Position: 430, 237
+2015-07-09 23:10:47 : Taking snapshot for later review
+2015-07-09 23:10:50 : Read building Name String = Town Hall (Level 6)
+2015-07-09 23:10:50 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-09 23:10:50 : 2nd $aString = 2, Level 6, 
+2015-07-09 23:10:50 : 3rd $aString = 2, Level, 6
+2015-07-09 23:10:50 : Your Town Hall is Level: 6
+2015-07-09 23:10:51 : Language setting is English: Correct.
+2015-07-09 23:10:52 : Trying to locate Main Screen
+2015-07-09 23:10:52 : Main Screen Located
+2015-07-09 23:10:54 : Profile Report
+2015-07-09 23:10:54 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 23:10:55 :  [ATKW]: 39 [DEFW]: 2 [TDON]: 302 [TREC]: 326
+2015-07-09 23:11:02 : Village Report
+2015-07-09 23:11:02 : No. of Free/Total Builders: 0/3
+2015-07-09 23:11:03 :  [T]: 1 005
+2015-07-09 23:11:03 :  [G]: 91 512 [E]: 542 298 [GEM]: 672
+2015-07-09 23:11:05 : Donation not Planned, Skipped..
+2015-07-09 23:11:06 : Func Train 
+2015-07-09 23:11:06 : Checking Army Camp...
+2015-07-09 23:11:07 : $sArmyInfo = 74#135
+2015-07-09 23:11:07 : $CurCamp = 74
+2015-07-09 23:11:07 : $TotalCamp = 135
+2015-07-09 23:11:08 : Total Army Camp capacity: 74/135
+2015-07-09 23:11:08 : $hBitmapFirst made
+2015-07-09 23:11:08 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 23:11:09 : Dll return $FullTemp :Archer|8-22|54#Giant|71-23|4
+2015-07-09 23:11:09 : $Trooptype split # : 2
+2015-07-09 23:11:09 : Start the Loop
+2015-07-09 23:11:09 : $TroopTypeT[$i] split : 1
+2015-07-09 23:11:09 :  - No. of Archers: 54
+2015-07-09 23:11:09 : $TroopTypeT[$i] split : 2
+2015-07-09 23:11:09 :  - No. of Giants: 4
+2015-07-09 23:11:09 : Training Troops...
+2015-07-09 23:11:11 : This is not a Barrack
+2015-07-09 23:11:12 : Barrack1 selected
+2015-07-09 23:11:12 : Barrack1 selected
+2015-07-09 23:11:12 : Barrack1 selected

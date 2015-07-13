@@ -1,0 +1,162 @@
+2015-07-07 10:27:35 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-07 10:27:35 : Executable running on WIN_81  X64
+2015-07-07 10:27:35 : =================== Bot Start ====================
+2015-07-07 10:27:35 : Trying to locate Main Screen
+2015-07-07 10:27:35 : Main Screen Located
+2015-07-07 10:27:36 : Detecting your Buildings..
+2015-07-07 10:27:41 : Your Town Hall is Level: 6
+2015-07-07 10:27:47 : Total No. of Dark Barracks: 0
+2015-07-07 10:27:48 : Language setting is English: Correct.
+2015-07-07 10:27:49 : Trying to locate Main Screen
+2015-07-07 10:27:49 : Main Screen Located
+2015-07-07 10:27:53 : Checking if Village needs Rearming..
+2015-07-07 10:28:05 : Village Report
+2015-07-07 10:28:05 : No. of Free/Total Builders: 0/3
+2015-07-07 10:28:05 :  [T]: 1 062
+2015-07-07 10:28:05 :  [G]: 55 017 [E]: 342 433 [GEM]: 617
+2015-07-07 10:28:08 : Checking Army Camp...
+2015-07-07 10:28:10 : Total Army Camp capacity: 135/135
+2015-07-07 10:28:10 : Training Troops...
+2015-07-07 10:28:17 : Your Army Camps are now Full
+2015-07-07 10:28:46 : Requesting Clan Castle Troops
+2015-07-07 10:28:46 : Your Clan Castle is already full or you are not in a clan.
+2015-07-07 10:28:48 : Checking Troop Upgrade in Laboratory ...
+2015-07-07 10:28:48 : Updating village values [E]: 342433
+2015-07-07 10:28:50 : Healing Spell value read error, close bot and try again!
+2015-07-07 10:28:52 : No free builder, Upgrade Walls skipped..
+2015-07-07 10:28:55 : Going to Attack...
+2015-07-07 10:29:01 : ============== Searching For Dead Base ===============
+2015-07-07 10:29:01 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-07 10:29:01 : Meet: Gold + Elixir, Max TH 4-6
+2015-07-07 10:29:01 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-07 10:29:01 : Aim:           [G+E]: 160000 [D]:    0 [T]: 0 [TH]:4-6
+2015-07-07 10:29:01 : ============== Searching For Live Base ===============
+2015-07-07 10:29:01 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-07 10:29:01 : Meet: Gold + Elixir, Max TH 4-6, TH Outside
+2015-07-07 10:29:01 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-07 10:29:01 : Aim:           [G+E]: 200000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-07 10:29:01 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-07-07 10:29:01 : AttackTH, Attack2:Extreme
+2015-07-07 10:29:01 : ==================================================
+2015-07-07 10:29:02 :   1> [G]:  76657 [E]:  19874 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-07 10:29:04 :   2> [G]: 194973 [E]: 113779 [D]:  N/A [T]:26 [TH]:4-6, In
+2015-07-07 10:29:04 : ~~~~~~~~~~~~~~~~ Dead Base Found! ~~~~~~~~~~~~~~~~
+2015-07-07 10:29:06 : ================ Search Complete =================
+2015-07-07 10:29:06 : Initiating attack for: Dead Base
+2015-07-07 10:29:11 : -Archers 90
+2015-07-07 10:29:11 : -Giants 9
+2015-07-07 10:29:11 : -Clan Castle 
+2015-07-07 10:29:11 :  ====== Start Attack ====== 
+2015-07-07 10:29:14 : Calculating Smart Attack Strategy
+2015-07-07 10:29:15 : Calculated  (in 1.24 seconds) :
+2015-07-07 10:29:15 : Locating Village Pump & Mines
+2015-07-07 10:29:21 : Located  (in 5.86 seconds) :
+2015-07-07 10:29:21 : [6] Gold Mines
+2015-07-07 10:29:21 : [6] Elixir Collectors
+2015-07-07 10:29:21 : [0] Dark Elixir Drill/s
+2015-07-07 10:29:21 : Attacking on all sides
+2015-07-07 10:29:24 : Dropping 1  of Giants => on each side (side : 1)
+2015-07-07 10:29:24 : Dropping 4  of Archers => on each side (side : 1)
+2015-07-07 10:29:25 : Dropping 1  of Giants => on each side (side : 2)
+2015-07-07 10:29:26 : Dropping 4  of Archers => on each side (side : 2)
+2015-07-07 10:29:27 : Dropping 1  of Giants => on each side (side : 3)
+2015-07-07 10:29:27 : Dropping 4  of Archers => on each side (side : 3)
+2015-07-07 10:29:28 : Dropping 1  of Giants => on each side (side : 4)
+2015-07-07 10:29:29 : Dropping 4  of Archers => on each side (side : 4)
+2015-07-07 10:29:29 : Dropping 1  of Giants => on each side (side : 5)
+2015-07-07 10:29:30 : Dropping 4  of Archers => on each side (side : 5)
+2015-07-07 10:29:31 : Dropping 1  of Giants => on each side (side : 6)
+2015-07-07 10:29:31 : Dropping 4  of Archers => on each side (side : 6)
+2015-07-07 10:29:32 : Dropping 1  of Giants => on each side (side : 7)
+2015-07-07 10:29:33 : Dropping 4  of Archers => on each side (side : 7)
+2015-07-07 10:29:34 : Dropping 1  of Giants => on each side (side : 8)
+2015-07-07 10:29:34 : Dropping 4  of Archers => on each side (side : 8)
+2015-07-07 10:29:35 : Dropping 1  of Giants => on each side (side : 9)
+2015-07-07 10:29:36 : Dropping 4  of Archers => on each side (side : 9)
+2015-07-07 10:29:36 : Dropping 1  of Giants => on each side (side : 10)
+2015-07-07 10:29:37 : Dropping 4  of Archers => on each side (side : 10)
+2015-07-07 10:29:38 : Dropping 1  of Giants => on each side (side : 11)
+2015-07-07 10:29:38 : Dropping 4  of Archers => on each side (side : 11)
+2015-07-07 10:29:39 : Dropping 1  of Giants => on each side (side : 12)
+2015-07-07 10:29:40 : Dropping 4  of Archers => on each side (side : 12)
+2015-07-07 10:29:42 : Dropping 4  of Archers => on each side (side : 1)
+2015-07-07 10:29:42 : Dropping 4  of Archers => on each side (side : 2)
+2015-07-07 10:29:43 : Dropping 4  of Archers => on each side (side : 3)
+2015-07-07 10:29:44 : Dropping 4  of Archers => on each side (side : 4)
+2015-07-07 10:29:45 : Dropping 4  of Archers => on each side (side : 5)
+2015-07-07 10:29:46 : Dropping 4  of Archers => on each side (side : 6)
+2015-07-07 10:29:46 : Dropping 4  of Archers => on each side (side : 7)
+2015-07-07 10:29:47 : Dropping 4  of Archers => on each side (side : 8)
+2015-07-07 10:29:48 : Dropping 4  of Archers => on each side (side : 9)
+2015-07-07 10:29:49 : Dropping 4  of Archers => on each side (side : 10)
+2015-07-07 10:29:50 : Dropping 4  of Archers => on each side (side : 11)
+2015-07-07 10:29:50 : Dropping 4  of Archers => on each side (side : 12)
+2015-07-07 10:29:53 : Dropping left over troops
+2015-07-07 10:29:53 : Checking remaining unused troops for: Dead Base
+2015-07-07 10:29:56 : -Archers 0
+2015-07-07 10:29:56 : -Clan Castle 
+2015-07-07 10:30:05 : Checking remaining unused troops for: Dead Base
+2015-07-07 10:30:08 : -Archers 0
+2015-07-07 10:30:08 : -Clan Castle 
+2015-07-07 10:30:17 : Finished Attacking, waiting for the battle to end
+2015-07-07 10:30:17 : Checking if the battle has finished
+2015-07-07 10:30:18 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 18.7 sec.
+2015-07-07 10:30:19 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 17.4 sec.
+2015-07-07 10:30:21 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 16.0 sec.
+2015-07-07 10:30:23 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 13.6 sec.
+2015-07-07 10:30:25 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 12.3 sec.
+2015-07-07 10:30:26 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 11.0 sec.
+2015-07-07 10:30:27 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 9.6 sec.
+2015-07-07 10:30:29 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 8.3 sec.
+2015-07-07 10:30:30 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 6.9 sec.
+2015-07-07 10:30:31 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 5.6 sec.
+2015-07-07 10:30:33 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 4.2 sec.
+2015-07-07 10:30:34 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 2.9 sec.
+2015-07-07 10:30:35 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 1.5 sec.
+2015-07-07 10:30:37 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 0.2 sec.
+2015-07-07 10:30:38 : detected [G]: 86620 [E]: 19297 [DE]:  |  Exit in 0.0 sec.
+2015-07-07 10:30:38 : Gold & Elixir & DE no change detected, exit
+2015-07-07 10:30:38 : Returning Home
+2015-07-07 10:30:43 : Loot: [G]: 108 353 [E]: 94 482 [DE]: 94 482 [T]: -22
+2015-07-07 10:30:43 : Stars earned: 0
+2015-07-07 10:30:43 : Taking snapshot of your loot
+2015-07-07 10:30:51 : Trying to locate Main Screen
+2015-07-07 10:30:51 : Main Screen Located
+2015-07-07 10:30:56 : Checking if Village needs Rearming..
+2015-07-07 10:31:07 : Village Report
+2015-07-07 10:31:07 : No. of Free/Total Builders: 0/3
+2015-07-07 10:31:07 :  [T]: 1 040
+2015-07-07 10:31:07 :  [G]: 162 870 [E]: 436 915 [GEM]: 617
+2015-07-07 10:31:10 : Checking Army Camp...
+2015-07-07 10:31:12 : Total Army Camp capacity: 18/135
+2015-07-07 10:31:13 :  - No. of Archers: 18
+2015-07-07 10:31:13 : Training Troops...
+2015-07-07 10:31:30 : Requesting Clan Castle Troops
+2015-07-07 10:31:31 : Your Clan Castle is already full or you are not in a clan.
+2015-07-07 10:31:32 : Checking Troop Upgrade in Laboratory ...
+2015-07-07 10:31:32 : Updating village values [E]: 436915
+2015-07-07 10:31:34 : Healing Spell value read error, close bot and try again!
+2015-07-07 10:31:36 : No free builder, Upgrade Walls skipped..
+2015-07-07 10:31:37 : ====== Waiting for full army ======
+2015-07-07 10:31:57 : Checking Army Camp...
+2015-07-07 10:31:59 : Total Army Camp capacity: 24/135
+2015-07-07 10:32:00 :  - No. of Archers: 24
+2015-07-07 10:32:00 : Training Troops...
+2015-07-07 10:32:15 : Time Idle: 00:00:37
+2015-07-07 10:32:15 : ====== Waiting for full army ======
+2015-07-07 10:32:36 : Checking Army Camp...
+2015-07-07 10:32:38 : Total Army Camp capacity: 27/135
+2015-07-07 10:32:39 :  - No. of Archers: 27
+2015-07-07 10:32:39 : Training Troops...
+2015-07-07 10:32:53 : Time Idle: 00:01:15
+2015-07-07 10:32:53 : ====== Waiting for full army ======
+2015-07-07 10:33:13 : Checking Army Camp...
+2015-07-07 10:33:15 : Total Army Camp capacity: 33/135
+2015-07-07 10:33:16 :  - No. of Archers: 33
+2015-07-07 10:33:16 : Training Troops...
+2015-07-07 10:33:32 : Time Idle: 00:01:54
+2015-07-07 10:33:32 : ====== Waiting for full army ======
+2015-07-07 10:33:52 : Checking Army Camp...
+2015-07-07 10:33:53 : Total Army Camp capacity: 36/135
+2015-07-07 10:33:55 :  - No. of Archers: 36
+2015-07-07 10:33:55 : Training Troops...

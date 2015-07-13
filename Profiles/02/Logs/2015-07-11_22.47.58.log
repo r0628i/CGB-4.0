@@ -1,0 +1,105 @@
+2015-07-11 22:47:59 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-11 22:47:59 : Au3 Script running on WIN_81  X64
+2015-07-11 22:47:59 : =================== Bot Start ====================
+2015-07-11 22:47:59 : Trying to locate Main Screen
+2015-07-11 22:47:59 : Main Screen Located
+2015-07-11 22:47:59 : Click 1,1,1,0 #0166 | Away
+2015-07-11 22:48:00 : Detecting your Buildings..
+2015-07-11 22:48:00 : Click 1,1,2,200 
+2015-07-11 22:48:01 : Town Hall Position: 433, 308
+2015-07-11 22:48:01 : Click 433,313,1,0 
+2015-07-11 22:48:03 : Taking snapshot for later review
+2015-07-11 22:48:07 : Read building Name String = Town Hall (Level 8)
+2015-07-11 22:48:08 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-11 22:48:08 : 2nd $aString = 2, Level 8, 
+2015-07-11 22:48:08 : 3rd $aString = 2, Level, 8
+2015-07-11 22:48:08 : Your Town Hall is Level: 8
+2015-07-11 22:48:08 : Click 1,1,2,200 
+2015-07-11 22:48:08 : Language setting is English: Correct.
+2015-07-11 22:48:09 : Trying to locate Main Screen
+2015-07-11 22:48:09 : Main Screen Located
+2015-07-11 22:48:10 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-11 22:48:13 : Click 1,1,1,0 #0332 | Away
+2015-07-11 22:48:15 : Checking if Village needs Rearming..
+2015-07-11 22:48:15 : Click 1,1,1,0 #0224 | Away
+2015-07-11 22:48:16 : Click 433,313,1,0 #0225 | Rearm - Click Town Hall
+2015-07-11 22:48:17 : Taking snapshot for later review
+2015-07-11 22:48:23 : Click 1,1,1,0 #0234 | Away
+2015-07-11 22:48:26 : PureClick 1,1,1,0 #0319 | Away
+2015-07-11 22:48:26 : Village Report
+2015-07-11 22:48:26 : No. of Free/Total Builders: 0/5
+2015-07-11 22:48:26 :  [T]: 3 166
+2015-07-11 22:48:27 :  [G]: 470 717 [E]: 5 261 047 [D]: 78 816 [GEM]: 2 021
+2015-07-11 22:48:29 : Donation not Planned, Skipped..
+2015-07-11 22:48:30 : Func Train 
+2015-07-11 22:48:30 : Checking Army Camp...
+2015-07-11 22:48:30 : Click 1,1,1,0 #0292 | Away
+2015-07-11 22:48:30 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-11 22:48:31 : $sArmyInfo = 199#200
+2015-07-11 22:48:31 : $CurCamp = 199
+2015-07-11 22:48:31 : $TotalCamp = 200
+2015-07-11 22:48:32 : Total Army Camp capacity: 199/200
+2015-07-11 22:48:32 : Click 1,1,1,0 #0295 | Away
+2015-07-11 22:48:32 : Training Troops...
+2015-07-11 22:48:32 : Click 1,1,1,0 #0268 | Away
+2015-07-11 22:48:32 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-11 22:48:34 : Click 773,337,1,0 #9999
+2015-07-11 22:48:34 : This is not a Barrack
+2015-07-11 22:48:34 : Barrack1 selected
+2015-07-11 22:48:34 : Barrack1 selected
+2015-07-11 22:48:35 : Barrack1 selected
+2015-07-11 22:48:35 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 22:48:35 : Barrack2 selected
+2015-07-11 22:48:35 : Barrack2 selected
+2015-07-11 22:48:35 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 22:48:36 : Barrack3 selected
+2015-07-11 22:48:36 : Barrack3 selected
+2015-07-11 22:48:36 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 22:48:36 : Barrack4 selected
+2015-07-11 22:48:36 : Barrack4 selected
+2015-07-11 22:48:37 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 22:48:37 : This is not a Barrack
+2015-07-11 22:48:37 : This is not a Barrack
+2015-07-11 22:48:37 : This is not a Barrack
+2015-07-11 22:48:38 : This is not a Barrack
+2015-07-11 22:48:38 : This is not a Barrack
+2015-07-11 22:48:38 : Click 84,336,1,0 #0272 | Train - Prev Button 
+2015-07-11 22:48:39 : Barrack4 selected
+2015-07-11 22:48:39 : AfterAttack: True
+2015-07-11 22:48:40 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 22:48:40 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 22:48:41 : Barrack3 selected
+2015-07-11 22:48:41 : AfterAttack: True
+2015-07-11 22:48:42 : Click 331,320,15,10 #0275 | Train - Train Archer
+2015-07-11 22:48:42 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 22:48:42 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 22:48:44 : Barrack2 selected
+2015-07-11 22:48:44 : AfterAttack: True
+2015-07-11 22:48:44 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 22:48:45 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 22:48:46 : Barrack1 selected
+2015-07-11 22:48:46 : AfterAttack: True
+2015-07-11 22:48:47 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 22:48:48 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 22:48:49 : This is not a Barrack
+2015-07-11 22:48:49 : Click 84,336,1,0 #0324
+2015-07-11 22:48:50 : This is not a Dark Barrack
+2015-07-11 22:48:50 : Click 84,336,1,0 #0324
+2015-07-11 22:48:51 : Dark Barrack2 selected
+2015-07-11 22:48:51 : Dark Barrack2 selected
+2015-07-11 22:48:51 : Click 496,197,10,0 #0287 | Train - Remove Troops
+2015-07-11 22:48:52 : Click 496,197,10,0 #0287 | Train - Remove Troops
+2015-07-11 22:48:52 : Click 496,197,10,0 #0287 | Train - Remove Troops
+2015-07-11 22:48:52 : Click 496,197,10,0 #0287 | Train - Remove Troops
+2015-07-11 22:48:53 : Click 220,320,99,100 #0274 | Train - Train Barbarian
+2015-07-11 22:48:58 : Click 331,320,2,100 #0275 | Train - Train Archer
+2015-07-11 22:48:58 : Click 84,336,1,0 #0289 | Train - Prev Button 
+2015-07-11 22:48:59 : This is not a Dark Barrack
+2015-07-11 22:48:59 : This is not a Dark Barrack
+2015-07-11 22:49:00 : This is not a Dark Barrack
+2015-07-11 22:49:00 : This is not a Dark Barrack
+2015-07-11 22:49:00 : This is not a Dark Barrack
+2015-07-11 22:49:01 : This is not a Dark Barrack
+2015-07-11 22:49:01 : ---================================================================---
+2015-07-11 22:49:02 : Click 1,1,2,250 #0291 | Away
+2015-07-11 22:49:05 : Request CC not Planned, Skipped..

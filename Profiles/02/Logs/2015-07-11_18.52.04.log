@@ -1,0 +1,154 @@
+2015-07-11 18:52:06 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-11 18:52:06 : Au3 Script running on WIN_81  X64
+2015-07-11 18:52:06 : =================== Bot Start ====================
+2015-07-11 18:52:07 : Trying to locate Main Screen
+2015-07-11 18:52:07 : Main Screen Located
+2015-07-11 18:52:07 : Click 1,1,1,0 #0166 | Away
+2015-07-11 18:52:08 : Detecting your Buildings..
+2015-07-11 18:52:08 : Click 1,1,2,200 
+2015-07-11 18:52:08 : Town Hall Position: 433, 308
+2015-07-11 18:52:08 : Click 433,313,1,0 
+2015-07-11 18:52:10 : Taking snapshot for later review
+2015-07-11 18:52:15 : Read building Name String = Town Hall (Level 8)
+2015-07-11 18:52:15 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-11 18:52:15 : 2nd $aString = 2, Level 8, 
+2015-07-11 18:52:15 : 3rd $aString = 2, Level, 8
+2015-07-11 18:52:15 : Your Town Hall is Level: 8
+2015-07-11 18:52:15 : Click 1,1,2,200 
+2015-07-11 18:52:16 : Language setting is English: Correct.
+2015-07-11 18:52:17 : Trying to locate Main Screen
+2015-07-11 18:52:17 : Main Screen Located
+2015-07-11 18:52:18 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-11 18:52:20 : Click 1,1,1,0 #0332 | Away
+2015-07-11 18:52:22 : Checking if Village needs Rearming..
+2015-07-11 18:52:22 : Click 1,1,1,0 #0224 | Away
+2015-07-11 18:52:23 : Click 433,313,1,0 #0225 | Rearm - Click Town Hall
+2015-07-11 18:52:25 : Taking snapshot for later review
+2015-07-11 18:52:30 : Click 1,1,1,0 #0234 | Away
+2015-07-11 18:52:33 : PureClick 1,1,1,0 #0319 | Away
+2015-07-11 18:52:33 : Village Report
+2015-07-11 18:52:34 : No. of Free/Total Builders: 0/5
+2015-07-11 18:52:34 :  [T]: 3 166
+2015-07-11 18:52:34 :  [G]: 413 315 [E]: 5 364 402 [D]: 78 829 [GEM]: 2 021
+2015-07-11 18:52:36 : Click 1,1,1,0 #0167 | Away
+2015-07-11 18:52:36 : Click 19,349,1,0 #0168 | Donate - Open Chat
+2015-07-11 18:52:36 : Click 189,24,1,0 #0169 | Donate - Select Clan Tab
+2015-07-11 18:52:38 : Chat Request: any
+2015-07-11 18:52:38 : Custom Donation Keyword found: any
+2015-07-11 18:52:38 : Click 202,175,1,0 #0174 | Donate - Donate Selected Troop
+2015-07-11 18:52:38 : Donating 1 Dragons
+2015-07-11 18:52:38 : Click 319,253,1,50 #0175 | Donate - Donate Selected Troop
+2015-07-11 18:52:38 : Click 1,1,1,0 #0176 | Away
+2015-07-11 18:52:39 : Click 202,175,1,0 #0174 | Donate - Donate Selected Troop
+2015-07-11 18:52:39 : Donating 1 Archers
+2015-07-11 18:52:39 : Click 319,154,1,50 #0175 | Donate - Donate Selected Troop
+2015-07-11 18:52:39 : Click 1,1,1,0 #0176 | Away
+2015-07-11 18:52:39 : Click 202,175,1,0 #0174 | Donate - Donate Selected Troop
+2015-07-11 18:52:40 : Donating 2 Minions
+2015-07-11 18:52:40 : Click 483,253,2,50 #0175 | Donate - Donate Selected Troop
+2015-07-11 18:52:40 : Click 1,1,1,0 #0176 | Away
+2015-07-11 18:52:42 : Chat Request: I need reinforcement troops
+2015-07-11 18:52:42 : Click 1,1,1,0 #0171 | Away
+2015-07-11 18:52:42 : Click 331,330,1,0 #0173 | Donate - Click Chat
+2015-07-11 18:52:44 : Func Train 
+2015-07-11 18:52:44 : Checking Army Camp...
+2015-07-11 18:52:44 : Click 1,1,1,0 #0292 | Away
+2015-07-11 18:52:44 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-11 18:52:45 : $sArmyInfo = 196#200
+2015-07-11 18:52:45 : $CurCamp = 196
+2015-07-11 18:52:45 : $TotalCamp = 200
+2015-07-11 18:52:46 : ClashGameBot was Paused!
+2015-07-11 18:53:12 : ClashGameBot was Resumed.
+2015-07-11 18:53:12 : Total Army Camp capacity: 196/200
+2015-07-11 18:53:12 : Click 1,1,1,0 #0295 | Away
+2015-07-11 18:53:12 : Training Troops...
+2015-07-11 18:53:12 : Click 1,1,1,0 #0268 | Away
+2015-07-11 18:53:13 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-11 18:53:14 : Click 773,337,1,0 #9999
+2015-07-11 18:53:14 : This is not a Barrack
+2015-07-11 18:53:14 : This is not a Barrack
+2015-07-11 18:53:15 : Barrack1 selected
+2015-07-11 18:53:15 : Barrack1 selected
+2015-07-11 18:53:15 : Barrack1 selected
+2015-07-11 18:53:15 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:53:16 : Barrack2 selected
+2015-07-11 18:53:16 : Barrack2 selected
+2015-07-11 18:53:16 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:53:16 : Barrack3 selected
+2015-07-11 18:53:16 : Barrack3 selected
+2015-07-11 18:53:16 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:53:17 : Barrack4 selected
+2015-07-11 18:53:17 : Barrack4 selected
+2015-07-11 18:53:17 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:53:17 : This is not a Barrack
+2015-07-11 18:53:18 : This is not a Barrack
+2015-07-11 18:53:18 : This is not a Barrack
+2015-07-11 18:53:18 : This is not a Barrack
+2015-07-11 18:53:18 : This is not a Barrack
+2015-07-11 18:53:18 : Click 84,336,1,0 #0272 | Train - Prev Button 
+2015-07-11 18:53:19 : Barrack4 selected
+2015-07-11 18:53:19 : AfterAttack: True
+2015-07-11 18:53:20 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:53:20 : False
+2015-07-11 18:53:20 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:53:22 : Barrack3 selected
+2015-07-11 18:53:22 : AfterAttack: True
+2015-07-11 18:53:22 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 18:53:22 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 18:53:22 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 18:53:23 : Click 331,320,15,10 #0275 | Train - Train Archer
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:23 : False
+2015-07-11 18:53:24 : False
+2015-07-11 18:53:24 : False
+2015-07-11 18:53:24 : False
+2015-07-11 18:53:24 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:53:24 : False
+2015-07-11 18:53:24 : False
+2015-07-11 18:53:24 : False
+2015-07-11 18:53:24 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:53:26 : Barrack2 selected
+2015-07-11 18:53:26 : AfterAttack: True
+2015-07-11 18:53:26 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:53:26 : False
+2015-07-11 18:53:27 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:53:28 : Barrack1 selected
+2015-07-11 18:53:28 : AfterAttack: True
+2015-07-11 18:53:28 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:53:28 : False
+2015-07-11 18:53:29 : False
+2015-07-11 18:53:29 : False
+2015-07-11 18:53:29 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:53:30 : This is not a Barrack
+2015-07-11 18:53:30 : Click 84,336,1,0 #0324
+2015-07-11 18:53:31 : This is not a Dark Barrack
+2015-07-11 18:53:31 : Click 84,336,1,0 #0324
+2015-07-11 18:53:32 : Dark Barrack2 selected
+2015-07-11 18:53:32 : Dark Barrack2 selected
+2015-07-11 18:53:33 : Click 331,320,5,5 #0275 | Train - Train Archer
+2015-07-11 18:53:33 : False
+2015-07-11 18:53:33 : False
+2015-07-11 18:53:33 : False
+2015-07-11 18:53:33 : Click 220,320,16,5 #0274 | Train - Train Barbarian
+2015-07-11 18:53:33 : False
+2015-07-11 18:53:33 : False
+2015-07-11 18:53:33 : False
+2015-07-11 18:53:34 : Click 84,336,1,0 #0289 | Train - Prev Button 
+2015-07-11 18:53:35 : This is not a Dark Barrack
+2015-07-11 18:53:35 : This is not a Dark Barrack
+2015-07-11 18:53:35 : This is not a Dark Barrack
+2015-07-11 18:53:35 : This is not a Dark Barrack
+2015-07-11 18:53:36 : This is not a Dark Barrack
+2015-07-11 18:53:37 : This is not a Dark Barrack
+2015-07-11 18:53:37 : ---================================================================---
+2015-07-11 18:53:37 : Click 1,1,2,250 #0291 | Away

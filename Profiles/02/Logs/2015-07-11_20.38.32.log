@@ -1,0 +1,272 @@
+2015-07-11 20:38:33 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-11 20:38:33 : Au3 Script running on WIN_81  X64
+2015-07-11 20:38:33 : =================== Bot Start ====================
+2015-07-11 20:38:33 : Trying to locate Main Screen
+2015-07-11 20:38:33 : Main Screen Located
+2015-07-11 20:38:33 : Click 1,1,1,0 #0166 | Away
+2015-07-11 20:38:34 : Detecting your Buildings..
+2015-07-11 20:38:34 : Click 1,1,2,200 
+2015-07-11 20:38:35 : Town Hall Position: 433, 308
+2015-07-11 20:38:35 : Click 433,313,1,0 
+2015-07-11 20:38:36 : Taking snapshot for later review
+2015-07-11 20:38:41 : Read building Name String = Town Hall (Level 8)
+2015-07-11 20:38:41 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-11 20:38:41 : 2nd $aString = 2, Level 8, 
+2015-07-11 20:38:41 : 3rd $aString = 2, Level, 8
+2015-07-11 20:38:41 : Your Town Hall is Level: 8
+2015-07-11 20:38:41 : Click 1,1,2,200 
+2015-07-11 20:38:42 : Language setting is English: Correct.
+2015-07-11 20:38:43 : Trying to locate Main Screen
+2015-07-11 20:38:43 : Main Screen Located
+2015-07-11 20:38:44 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-11 20:38:47 : Click 1,1,1,0 #0332 | Away
+2015-07-11 20:38:49 : Checking if Village needs Rearming..
+2015-07-11 20:38:49 : Click 1,1,1,0 #0224 | Away
+2015-07-11 20:38:49 : Click 433,313,1,0 #0225 | Rearm - Click Town Hall
+2015-07-11 20:38:51 : Taking snapshot for later review
+2015-07-11 20:38:57 : Click 1,1,1,0 #0234 | Away
+2015-07-11 20:39:00 : PureClick 1,1,1,0 #0319 | Away
+2015-07-11 20:39:00 : Village Report
+2015-07-11 20:39:00 : No. of Free/Total Builders: 0/5
+2015-07-11 20:39:00 :  [T]: 3 166
+2015-07-11 20:39:00 :  [G]: 415 680 [E]: 5 292 162 [D]: 78 834 [GEM]: 2 021
+2015-07-11 20:39:03 : Click 1,1,1,0 #0167 | Away
+2015-07-11 20:39:03 : Click 19,349,1,0 #0168 | Donate - Open Chat
+2015-07-11 20:39:03 : Click 189,24,1,0 #0169 | Donate - Select Clan Tab
+2015-07-11 20:39:04 : Click 331,330,1,0 #0173 | Donate - Click Chat
+2015-07-11 20:39:05 : Func Train 
+2015-07-11 20:39:05 : Checking Army Camp...
+2015-07-11 20:39:05 : Click 1,1,1,0 #0292 | Away
+2015-07-11 20:39:05 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-11 20:39:06 : $sArmyInfo = 200#200
+2015-07-11 20:39:06 : $CurCamp = 200
+2015-07-11 20:39:06 : $TotalCamp = 200
+2015-07-11 20:39:07 : Total Army Camp capacity: 200/200
+2015-07-11 20:39:07 : Click 1,1,1,0 #0295 | Away
+2015-07-11 20:39:07 : Training Troops...
+2015-07-11 20:39:07 : Click 1,1,1,0 #0268 | Away
+2015-07-11 20:39:07 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-11 20:39:09 : Click 773,337,1,0 #9999
+2015-07-11 20:39:09 : This is not a Barrack
+2015-07-11 20:39:09 : Barrack1 selected
+2015-07-11 20:39:09 : Barrack1 selected
+2015-07-11 20:39:10 : Barrack1 selected
+2015-07-11 20:39:10 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 20:39:10 : Barrack2 selected
+2015-07-11 20:39:10 : Barrack2 selected
+2015-07-11 20:39:10 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 20:39:11 : Barrack3 selected
+2015-07-11 20:39:11 : Barrack3 selected
+2015-07-11 20:39:11 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 20:39:11 : Barrack4 selected
+2015-07-11 20:39:11 : Barrack4 selected
+2015-07-11 20:39:11 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 20:39:12 : This is not a Barrack
+2015-07-11 20:39:12 : This is not a Barrack
+2015-07-11 20:39:12 : This is not a Barrack
+2015-07-11 20:39:13 : This is not a Barrack
+2015-07-11 20:39:13 : This is not a Barrack
+2015-07-11 20:39:13 : Click 84,336,1,0 #0272 | Train - Prev Button 
+2015-07-11 20:39:14 : Barrack4 selected
+2015-07-11 20:39:14 : AfterAttack: True
+2015-07-11 20:39:14 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 20:39:15 : Color: E8E8E0
+2015-07-11 20:39:15 : Color: 8F8F8F
+2015-07-11 20:39:15 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 20:39:15 : Color: E8E8E0
+2015-07-11 20:39:16 : Color: 888070
+2015-07-11 20:39:16 : Color: 888070
+2015-07-11 20:39:16 : Color: F0F0E8
+2015-07-11 20:39:16 : Barrack3 selected
+2015-07-11 20:39:16 : AfterAttack: True
+2015-07-11 20:39:16 : Color: F04276
+2015-07-11 20:39:16 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 20:39:16 : Color: E8E8E0
+2015-07-11 20:39:16 : Color: E8E8E0
+2015-07-11 20:39:16 : Color: E8E8E0
+2015-07-11 20:39:16 : Color: E8E8E0
+2015-07-11 20:39:16 : Color: E8E8E0
+2015-07-11 20:39:16 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: F04276
+2015-07-11 20:39:17 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: 625990
+2015-07-11 20:39:17 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: E8E8E0
+2015-07-11 20:39:17 : Color: D1D0C2
+2015-07-11 20:39:19 : Click 331,320,15,10 #0275 | Train - Train Archer
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:19 : Color: E05AD0
+2015-07-11 20:39:19 : Color: FFFFFF
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:19 : Color: E05AD0
+2015-07-11 20:39:19 : Color: FFFFFF
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:19 : Color: FF7EF7
+2015-07-11 20:39:19 : Color: FFFFFF
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:19 : Color: FE76F1
+2015-07-11 20:39:19 : Color: FFFFFF
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:19 : Color: FF79F5
+2015-07-11 20:39:19 : Color: FFFFFF
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:19 : Color: FF79F5
+2015-07-11 20:39:19 : Color: FFFFFF
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:19 : Color: FF79F5
+2015-07-11 20:39:19 : Color: FFFFFF
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:19 : Color: FF79F5
+2015-07-11 20:39:19 : Color: FFFFFF
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:19 : Color: FF79F5
+2015-07-11 20:39:19 : Color: FFFFFF
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:19 : Color: FF7BF6
+2015-07-11 20:39:19 : Color: FFFFFF
+2015-07-11 20:39:19 : Color: E8E8E0
+2015-07-11 20:39:20 : Color: FF79F5
+2015-07-11 20:39:20 : Color: FFFFFF
+2015-07-11 20:39:20 : Color: E8E8E0
+2015-07-11 20:39:20 : Color: FF79F5
+2015-07-11 20:39:20 : Color: FFFFFF
+2015-07-11 20:39:20 : Color: E8E8E0
+2015-07-11 20:39:20 : Color: FF79F5
+2015-07-11 20:39:20 : Color: FFFFFF
+2015-07-11 20:39:20 : Color: E8E8E0
+2015-07-11 20:39:20 : Color: FE76F1
+2015-07-11 20:39:20 : Color: FFFFFF
+2015-07-11 20:39:20 : Color: E8E8E0
+2015-07-11 20:39:20 : Color: FE76F1
+2015-07-11 20:39:20 : Color: FFFFFF
+2015-07-11 20:39:20 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 20:39:20 : Color: E8E8E0
+2015-07-11 20:39:20 : Color: E058D7
+2015-07-11 20:39:20 : Color: FFFFFF
+2015-07-11 20:39:20 : Color: E8E8E0
+2015-07-11 20:39:20 : Color: E058D7
+2015-07-11 20:39:20 : Color: FFFFFF
+2015-07-11 20:39:20 : Color: E8E8E0
+2015-07-11 20:39:20 : Color: FF7BF5
+2015-07-11 20:39:20 : Color: FFFFFF
+2015-07-11 20:39:21 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 20:39:21 : Color: E8E8E0
+2015-07-11 20:39:22 : Color: 888070
+2015-07-11 20:39:22 : Color: F0F0E8
+2015-07-11 20:39:22 : Barrack2 selected
+2015-07-11 20:39:22 : AfterAttack: True
+2015-07-11 20:39:22 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 20:39:22 : Color: E8E8E0
+2015-07-11 20:39:23 : Color: 8F8F8F
+2015-07-11 20:39:23 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 20:39:23 : Color: E8E8E0
+2015-07-11 20:39:24 : Color: F0F0E8
+2015-07-11 20:39:24 : Barrack1 selected
+2015-07-11 20:39:24 : AfterAttack: True
+2015-07-11 20:39:25 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 20:39:25 : Color: E8E8E0
+2015-07-11 20:39:25 : Color: 8F8F8F
+2015-07-11 20:39:25 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 20:39:25 : Color: E8E8E0
+2015-07-11 20:39:27 : Color: 888070
+2015-07-11 20:39:27 : Color: 888070
+2015-07-11 20:39:27 : Color: 888070
+2015-07-11 20:39:27 : Color: 888070
+2015-07-11 20:39:27 : This is not a Barrack
+2015-07-11 20:39:27 : Click 84,336,1,0 #0324
+2015-07-11 20:39:27 : Color: E8E8E0
+2015-07-11 20:39:28 : Color: 6B6964
+2015-07-11 20:39:28 : Color: 888070
+2015-07-11 20:39:28 : This is not a Dark Barrack
+2015-07-11 20:39:28 : Click 84,336,1,0 #0324
+2015-07-11 20:39:28 : Color: E8E8E0
+2015-07-11 20:39:29 : Color: 6B6964
+2015-07-11 20:39:29 : Color: F0F0E8
+2015-07-11 20:39:29 : Dark Barrack2 selected
+2015-07-11 20:39:29 : Color: 6B6964
+2015-07-11 20:39:29 : Color: F0F0E8
+2015-07-11 20:39:29 : Dark Barrack2 selected
+2015-07-11 20:39:29 : Color: D1D0C2
+2015-07-11 20:39:30 : Click 331,320,5,5 #0275 | Train - Train Archer
+2015-07-11 20:39:30 : Color: E8E8E0
+2015-07-11 20:39:30 : Color: 7FD3F7
+2015-07-11 20:39:30 : Click 220,320,16,5 #0274 | Train - Train Barbarian
+2015-07-11 20:39:30 : Color: E8E8E0
+2015-07-11 20:39:30 : Color: 7FD0F7
+2015-07-11 20:39:30 : Click 84,336,1,0 #0289 | Train - Prev Button 
+2015-07-11 20:39:30 : Color: E8E8E0
+2015-07-11 20:39:31 : Color: 6B6964
+2015-07-11 20:39:31 : Color: 888070
+2015-07-11 20:39:31 : This is not a Dark Barrack
+2015-07-11 20:39:31 : Color: 6B6964
+2015-07-11 20:39:31 : Color: 888070
+2015-07-11 20:39:31 : This is not a Dark Barrack
+2015-07-11 20:39:31 : Color: 6B6964
+2015-07-11 20:39:31 : Color: 888070
+2015-07-11 20:39:31 : This is not a Dark Barrack
+2015-07-11 20:39:32 : Color: 6B6964
+2015-07-11 20:39:32 : Color: 888070
+2015-07-11 20:39:32 : This is not a Dark Barrack
+2015-07-11 20:39:32 : Color: 6B6964
+2015-07-11 20:39:32 : Color: 888070
+2015-07-11 20:39:32 : This is not a Dark Barrack
+2015-07-11 20:39:33 : Color: 6B6964
+2015-07-11 20:39:33 : Color: 888070
+2015-07-11 20:39:33 : This is not a Dark Barrack
+2015-07-11 20:39:33 : ---================================================================---
+2015-07-11 20:39:34 : Click 1,1,2,250 #0291 | Away
+2015-07-11 20:39:34 : Color: E8E8E0
+2015-07-11 20:39:34 : Color: 58371F
+2015-07-11 20:39:35 : Color: 42B1CE
+2015-07-11 20:39:35 : Color: 000000
+2015-07-11 20:39:35 : Color: 000000
+2015-07-11 20:39:36 : Color: 42B1CE
+2015-07-11 20:39:36 : Color: 000000
+2015-07-11 20:39:36 : Color: 000000
+2015-07-11 20:39:37 : Color: 42B1CE
+2015-07-11 20:39:37 : Color: 000000
+2015-07-11 20:39:37 : Color: 000000
+2015-07-11 20:39:37 : Requesting Clan Castle Troops
+2015-07-11 20:39:37 : Click 40,525,1,0 #9999
+2015-07-11 20:39:37 : Color: 5A3820
+2015-07-11 20:39:38 : Color: 204264
+2015-07-11 20:39:38 : Color: 8E9294
+2015-07-11 20:39:38 : Color: BC2BD1
+2015-07-11 20:39:38 : Color: D8D8D8
+2015-07-11 20:39:38 : Your Clan Castle is already full or you are not in a clan.
+2015-07-11 20:39:38 : Click 1,1,2,0 #9999
+2015-07-11 20:39:38 : Color: E8E8E0
+2015-07-11 20:39:38 : Color: E8E8E0
+2015-07-11 20:39:39 : Color: 42B1CE
+2015-07-11 20:39:39 : Color: 000000
+2015-07-11 20:39:39 : Color: 000000
+2015-07-11 20:39:40 : Color: 42B1CE
+2015-07-11 20:39:40 : Color: 000000
+2015-07-11 20:39:40 : Color: 000000
+2015-07-11 20:39:41 : Color: 42B1CE
+2015-07-11 20:39:41 : Color: 000000
+2015-07-11 20:39:41 : Color: 000000
+2015-07-11 20:39:41 : No free builder, Upgrade Walls skipped..

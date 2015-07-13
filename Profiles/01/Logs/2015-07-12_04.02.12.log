@@ -1,0 +1,55 @@
+2015-07-12 04:02:13 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 04:02:13 : Au3 Script running on WIN_81  X64
+2015-07-12 04:02:13 : =================== Bot Start ====================
+2015-07-12 04:02:13 : Trying to locate Main Screen
+2015-07-12 04:02:13 : Main Screen Located
+2015-07-12 04:02:14 : Detecting your Buildings..
+2015-07-12 04:02:15 : Town Hall Position: 430, 237
+2015-07-12 04:02:17 : Taking snapshot for later review
+2015-07-12 04:02:19 : Read building Name String = Town Hall (Level 6)
+2015-07-12 04:02:20 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-12 04:02:20 : 2nd $aString = 2, Level 6, 
+2015-07-12 04:02:20 : 3rd $aString = 2, Level, 6
+2015-07-12 04:02:20 : Your Town Hall is Level: 6
+2015-07-12 04:02:20 : Language setting is English: Correct.
+2015-07-12 04:02:21 : Trying to locate Main Screen
+2015-07-12 04:02:21 : Main Screen Located
+2015-07-12 04:02:22 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 04:02:25 : Collecting Resources
+2015-07-12 04:02:32 : Checking if Village needs Rearming..
+2015-07-12 04:02:34 : Taking snapshot for later review
+2015-07-12 04:02:43 : Village Report
+2015-07-12 04:02:44 : No. of Free/Total Builders: 0/3
+2015-07-12 04:02:44 :  [T]: 1 087
+2015-07-12 04:02:44 :  [G]: 1 616 050 [E]: 1 253 926 [GEM]: 672
+2015-07-12 04:02:47 : Func Train 
+2015-07-12 04:02:47 : Checking Army Camp...
+2015-07-12 04:02:48 : $sArmyInfo = 140#140
+2015-07-12 04:02:48 : $CurCamp = 140
+2015-07-12 04:02:48 : $TotalCamp = 200
+2015-07-12 04:02:49 : Total Army Camp capacity: 140/200
+2015-07-12 04:02:49 : $hBitmapFirst made
+2015-07-12 04:02:49 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-12 04:02:50 : Dll return $FullTemp :Barbarian|9-20|32#Archer|70-22|48#Giant|134-23|12
+2015-07-12 04:02:50 : $Trooptype split # : 3
+2015-07-12 04:02:50 : Start the Loop
+2015-07-12 04:02:50 : $TroopTypeT[$i] split : 1
+2015-07-12 04:02:50 :  - No. of Barbarians: 32
+2015-07-12 04:02:50 : $TroopTypeT[$i] split : 2
+2015-07-12 04:02:50 :  - No. of Archers: 48
+2015-07-12 04:02:50 : $TroopTypeT[$i] split : 3
+2015-07-12 04:02:50 :  - No. of Giants: 12
+2015-07-12 04:02:50 : Training Troops...
+2015-07-12 04:02:52 : Barrack #1 is available
+2015-07-12 04:02:53 : Barrack #1 selected
+2015-07-12 04:02:53 : Barrack #1 selected
+2015-07-12 04:02:55 : Barrack #2 is available
+2015-07-12 04:02:56 : Barrack #2 selected
+2015-07-12 04:02:56 : Barrack #2 selected
+2015-07-12 04:02:57 : Barrack #3 is available
+2015-07-12 04:02:58 : Barrack #3 selected
+2015-07-12 04:02:58 : Barrack #3 selected
+2015-07-12 04:03:00 : Barrack #4 is not built
+2015-07-12 04:03:00 : Dark Barrack #1 is not built
+2015-07-12 04:03:00 : Dark Barrack #2 is not built
+2015-07-12 04:03:00 : ---================================================================---

@@ -1,0 +1,590 @@
+2015-07-10 19:25:35 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-10 19:25:35 : Executable running on WIN_81  X64
+2015-07-10 19:25:35 : =================== Bot Start ====================
+2015-07-10 19:25:35 : Trying to locate Main Screen
+2015-07-10 19:25:35 : Main Screen Located
+2015-07-10 19:25:36 : Detecting your Buildings..
+2015-07-10 19:25:38 : Townhall: (433,308)
+2015-07-10 19:25:38 : Town Hall Position: 433, 308
+2015-07-10 19:25:40 : Taking snapshot for later review
+2015-07-10 19:25:45 : Read building Name String = Town Hall (Level 8)
+2015-07-10 19:25:45 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-10 19:25:45 : 2nd $aString = 2, Level 8, 
+2015-07-10 19:25:45 : 3rd $aString = 2, Level, 8
+2015-07-10 19:25:45 : Your Town Hall is Level: 8
+2015-07-10 19:25:53 : Total No. of Barracks: 4
+2015-07-10 19:25:53 : - Barrack 1: (343,429)
+2015-07-10 19:25:53 : - Barrack 2: (379,461)
+2015-07-10 19:25:53 : - Barrack 3: (473,461)
+2015-07-10 19:25:54 : - Barrack 4: (512,429)
+2015-07-10 19:25:57 : Total No. of Dark Barracks: 2
+2015-07-10 19:25:57 : - Dark Barrack 1: (220,222)
+2015-07-10 19:25:58 : - Dark Barrack 2: (634,226)
+2015-07-10 19:25:58 : Locating Army Camp...
+2015-07-10 19:26:15 : Army Camp: (600,319)
+2015-07-10 19:26:21 : $sArmyInfo = 198#200
+2015-07-10 19:26:21 : $aGetArmySize[0]= 2$aGetArmySize[1]= 198$aGetArmySize[2]= 200
+2015-07-10 19:26:21 : $TotalCamp = 200
+2015-07-10 19:26:21 : Locating Clan Castle...
+2015-07-10 19:26:28 : Clan Castle: (430,239)
+2015-07-10 19:26:33 : Total No. of Gold Mines: 6
+2015-07-10 19:26:33 : - Gold Mine 1: (258,204)
+2015-07-10 19:26:33 : - Gold Mine 2: (333,387)
+2015-07-10 19:26:33 : - Gold Mine 3: (521,345)
+2015-07-10 19:26:33 : - Gold Mine 4: (540,204)
+2015-07-10 19:26:33 : - Gold Mine 5: (559,274)
+2015-07-10 19:26:33 : - Gold Mine 6: (656,292)
+2015-07-10 19:26:37 : Total No. of Elixir Collectors: 6
+2015-07-10 19:26:37 : - Elixir Collector 1: (203,279)
+2015-07-10 19:26:37 : - Elixir Collector 2: (297,265)
+2015-07-10 19:26:37 : - Elixir Collector 3: (317,196)
+2015-07-10 19:26:37 : - Elixir Collector 4: (334,336)
+2015-07-10 19:26:37 : - Elixir Collector 5: (522,378)
+2015-07-10 19:26:38 : - Elixir Collector 6: (599,196)
+2015-07-10 19:26:40 : Language setting is English: Correct.
+2015-07-10 19:26:41 : Trying to locate Main Screen
+2015-07-10 19:26:41 : Main Screen Located
+2015-07-10 19:26:42 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-10 19:26:45 : Collecting Resources
+2015-07-10 19:26:53 : Checking if Village needs Rearming..
+2015-07-10 19:26:55 : Taking snapshot for later review
+2015-07-10 19:27:04 : Village Report
+2015-07-10 19:27:04 : No. of Free/Total Builders: 0/5
+2015-07-10 19:27:04 :  [T]: 3 199
+2015-07-10 19:27:04 :  [G]: 218 049 [E]: 5 828 423 [D]: 79 175 [GEM]: 2 021
+2015-07-10 19:27:09 : Func Train 
+2015-07-10 19:27:09 : Checking Army Camp...
+2015-07-10 19:27:10 : $sArmyInfo = 200#200
+2015-07-10 19:27:10 : $CurCamp = 200
+2015-07-10 19:27:10 : $TotalCamp = 200
+2015-07-10 19:27:11 : Total Army Camp capacity: 200/200
+2015-07-10 19:27:11 : Training Troops...
+2015-07-10 19:27:13 : This is not a Barrack
+2015-07-10 19:27:13 : Barrack1 selected
+2015-07-10 19:27:14 : Barrack1 selected
+2015-07-10 19:27:14 : Barrack1 selected
+2015-07-10 19:27:14 : Barrack2 selected
+2015-07-10 19:27:14 : Barrack2 selected
+2015-07-10 19:27:15 : Barrack3 selected
+2015-07-10 19:27:15 : Barrack3 selected
+2015-07-10 19:27:16 : Barrack4 selected
+2015-07-10 19:27:16 : Barrack4 selected
+2015-07-10 19:27:17 : This is not a Barrack
+2015-07-10 19:27:17 : This is not a Barrack
+2015-07-10 19:27:17 : This is not a Barrack
+2015-07-10 19:27:17 : This is not a Barrack
+2015-07-10 19:27:17 : This is not a Barrack
+2015-07-10 19:27:19 : Barrack4 selected
+2015-07-10 19:27:19 : AfterAttack: True
+2015-07-10 19:27:21 : Barrack3 selected
+2015-07-10 19:27:21 : AfterAttack: True
+2015-07-10 19:27:26 : Barrack2 selected
+2015-07-10 19:27:26 : AfterAttack: True
+2015-07-10 19:27:28 : Barrack1 selected
+2015-07-10 19:27:28 : AfterAttack: True
+2015-07-10 19:27:30 : This is not a Barrack
+2015-07-10 19:27:30 : ---================================================================---
+2015-07-10 19:27:35 : Requesting Clan Castle Troops
+2015-07-10 19:27:36 : Request has already been made
+2015-07-10 19:27:37 : Laboratory Location not found!
+2015-07-10 19:27:37 : Locating Laboratory...
+2015-07-10 19:27:42 : Locate Laboratory: (430,507)
+2015-07-10 19:27:43 : Checking Troop Upgrade in Laboratory ...
+2015-07-10 19:27:43 : Updating village values [E]: 5768823 [D]: 79175
+2015-07-10 19:27:44 : ButtonPixel = 483, 565
+2015-07-10 19:27:44 : #1: 050602, #2: 708CB0, #3: 603818, #4: D8FF58
+2015-07-10 19:27:44 : Taking snapshot for later review
+2015-07-10 19:27:45 : Taking snapshot for later review
+2015-07-10 19:27:46 : Taking debug snapshot for later review
+2015-07-10 19:27:46 : Barbarian
+2015-07-10 19:27:46 : _GetPixelColor(+47, +6): DFDFDF
+2015-07-10 19:27:46 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:27:46 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:27:46 : _GetPixelColor(+81, +82): 909090
+2015-07-10 19:27:46 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:27:46 : _GetPixelColor(+79, +78): 7E7E7E
+2015-07-10 19:27:46 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-10 19:27:46 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:27:46 : Taking debug snapshot for later review
+2015-07-10 19:27:46 : Archer
+2015-07-10 19:27:46 : _GetPixelColor(+47, +6): 9D9D9D
+2015-07-10 19:27:46 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:27:46 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:27:46 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:27:47 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-10 19:27:47 : _GetPixelColor(+79, +78): 797979
+2015-07-10 19:27:47 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-10 19:27:47 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:27:47 : Taking debug snapshot for later review
+2015-07-10 19:27:47 : Giant
+2015-07-10 19:27:47 : _GetPixelColor(+47, +6): D2D2D2
+2015-07-10 19:27:47 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:27:47 : _GetPixelColor(+68, +82): FDFDFD
+2015-07-10 19:27:47 : _GetPixelColor(+81, +82): 909090
+2015-07-10 19:27:47 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:27:47 : _GetPixelColor(+79, +78): 7F7F7F
+2015-07-10 19:27:47 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:27:47 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:27:47 : Taking debug snapshot for later review
+2015-07-10 19:27:47 : Goblin
+2015-07-10 19:27:47 : _GetPixelColor(+47, +6): C1C1C1
+2015-07-10 19:27:47 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:27:47 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:27:48 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:27:48 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-10 19:27:48 : _GetPixelColor(+79, +78): 7C7C7C
+2015-07-10 19:27:48 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:27:48 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:27:48 : Taking debug snapshot for later review
+2015-07-10 19:27:48 : Wall Breaker
+2015-07-10 19:27:48 : _GetPixelColor(+47, +6): BEBEBE
+2015-07-10 19:27:48 : _GetPixelColor(+68, +79): EAEAEA
+2015-07-10 19:27:48 : _GetPixelColor(+68, +82): 424242
+2015-07-10 19:27:48 : _GetPixelColor(+81, +82): 8E8E8E
+2015-07-10 19:27:48 : _GetPixelColor(+49, +78): DCDCDC
+2015-07-10 19:27:48 : _GetPixelColor(+79, +78): 7A7A7A
+2015-07-10 19:27:48 : _GetPixelColor(+3, +19): B2B2B2
+2015-07-10 19:27:48 : _GetPixelColor(+8, +59): 292929
+2015-07-10 19:27:48 : Taking debug snapshot for later review
+2015-07-10 19:27:48 : Balloon
+2015-07-10 19:27:49 : _GetPixelColor(+47, +6): 959595
+2015-07-10 19:27:49 : _GetPixelColor(+68, +79): E7E7E7
+2015-07-10 19:27:49 : _GetPixelColor(+68, +82): 3F3F3F
+2015-07-10 19:27:49 : _GetPixelColor(+81, +82): 8E8E8E
+2015-07-10 19:27:49 : _GetPixelColor(+49, +78): D2D2D2
+2015-07-10 19:27:49 : _GetPixelColor(+79, +78): 767676
+2015-07-10 19:27:49 : _GetPixelColor(+3, +19): B3B3B3
+2015-07-10 19:27:49 : _GetPixelColor(+8, +59): 292929
+2015-07-10 19:27:49 : Taking debug snapshot for later review
+2015-07-10 19:27:49 : Wizard
+2015-07-10 19:27:49 : _GetPixelColor(+47, +6): 4F4F4F
+2015-07-10 19:27:49 : _GetPixelColor(+68, +79): 121212
+2015-07-10 19:27:49 : _GetPixelColor(+68, +82): 000000
+2015-07-10 19:27:49 : _GetPixelColor(+81, +82): 171717
+2015-07-10 19:27:49 : _GetPixelColor(+49, +78): 010101
+2015-07-10 19:27:49 : _GetPixelColor(+79, +78): 888888
+2015-07-10 19:27:49 : _GetPixelColor(+3, +19): CCCCCC
+2015-07-10 19:27:49 : _GetPixelColor(+8, +59): A1A1A1
+2015-07-10 19:27:49 : Taking debug snapshot for later review
+2015-07-10 19:27:50 : Healer
+2015-07-10 19:27:50 : _GetPixelColor(+47, +6): FBFBFB
+2015-07-10 19:27:50 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:27:50 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:27:50 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:27:50 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:27:50 : _GetPixelColor(+79, +78): 7A7A7A
+2015-07-10 19:27:50 : _GetPixelColor(+3, +19): CDCDCD
+2015-07-10 19:27:50 : _GetPixelColor(+8, +59): 9F9F9F
+2015-07-10 19:27:50 : Taking debug snapshot for later review
+2015-07-10 19:27:50 : Dragon
+2015-07-10 19:27:50 : _GetPixelColor(+47, +6): D1D1D1
+2015-07-10 19:27:50 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:27:50 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:27:50 : _GetPixelColor(+81, +82): 909090
+2015-07-10 19:27:50 : _GetPixelColor(+49, +78): FAFAFA
+2015-07-10 19:27:50 : _GetPixelColor(+79, +78): 7F7F7F
+2015-07-10 19:27:50 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:27:50 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:27:50 : Taking debug snapshot for later review
+2015-07-10 19:27:51 : Pekka
+2015-07-10 19:27:51 : _GetPixelColor(+47, +6): C1C1C1
+2015-07-10 19:27:51 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:27:51 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:27:51 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:27:51 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:27:51 : _GetPixelColor(+79, +78): 7C7C7C
+2015-07-10 19:27:51 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:27:51 : _GetPixelColor(+8, +59): 373737
+2015-07-10 19:27:51 : Taking debug snapshot for later review
+2015-07-10 19:27:51 : Lightning Spell
+2015-07-10 19:27:51 : _GetPixelColor(+47, +6): BFBFBF
+2015-07-10 19:27:51 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:27:51 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:27:51 : _GetPixelColor(+81, +82): 919191
+2015-07-10 19:27:51 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-10 19:27:51 : _GetPixelColor(+79, +78): 808080
+2015-07-10 19:27:51 : _GetPixelColor(+3, +19): D2D2D2
+2015-07-10 19:27:51 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:27:51 : Taking debug snapshot for later review
+2015-07-10 19:27:52 : Healing Spell
+2015-07-10 19:27:52 : _GetPixelColor(+47, +6): BBBBBB
+2015-07-10 19:27:52 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:27:52 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:27:52 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:27:52 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:27:52 : _GetPixelColor(+79, +78): 7E7E7E
+2015-07-10 19:27:52 : _GetPixelColor(+3, +19): D3D3D3
+2015-07-10 19:27:52 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:27:52 : Barbarian Red text upgrade value = 
+2015-07-10 19:27:52 : Barbarian White text upgrade value = 1500000
+2015-07-10 19:27:52 : Archer Red text upgrade value = 
+2015-07-10 19:27:52 : Archer White text upgrade value = 2250000
+2015-07-10 19:27:52 : Giant Red text upgrade value = 
+2015-07-10 19:27:52 : Giant White text upgrade value = 750000
+2015-07-10 19:27:52 : Goblin Red text upgrade value = 
+2015-07-10 19:27:52 : Goblin White text upgrade value = 750000
+2015-07-10 19:27:52 : Wall Breaker Red text upgrade value = 
+2015-07-10 19:27:52 : Wall Breaker White text upgrade value = 750000
+2015-07-10 19:27:52 : Balloon Red text upgrade value = 
+2015-07-10 19:27:52 : Balloon White text upgrade value = 2500000
+2015-07-10 19:27:52 : Wizard Red text upgrade value = 
+2015-07-10 19:27:52 : Wizard White text upgrade value = 
+2015-07-10 19:27:53 : Healer Red text upgrade value = 
+2015-07-10 19:27:53 : Healer White text upgrade value = 750000
+2015-07-10 19:27:53 : Dragon Red text upgrade value = 
+2015-07-10 19:27:53 : Dragon White text upgrade value = 3000000
+2015-07-10 19:27:53 : Pekka Red text upgrade value = 
+2015-07-10 19:27:53 : Pekka White text upgrade value = 3000000
+2015-07-10 19:27:53 : Lightning Spell Red text upgrade value = 
+2015-07-10 19:27:53 : Lightning Spell White text upgrade value = 2000000
+2015-07-10 19:27:53 : Healing Spell Red text upgrade value = 
+2015-07-10 19:27:53 : Healing Spell White text upgrade value = 2400000
+2015-07-10 19:27:54 : Taking snapshot for later review
+2015-07-10 19:27:56 : Something went wrong with Healing Spell Upgrade, try again.
+2015-07-10 19:27:59 : No free builder, Upgrade Walls skipped..
+2015-07-10 19:28:02 : Trying to locate Main Screen
+2015-07-10 19:28:02 : Main Screen Located
+2015-07-10 19:28:03 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-10 19:28:06 : Collecting Resources
+2015-07-10 19:28:14 : Checking if Village needs Rearming..
+2015-07-10 19:28:16 : Taking snapshot for later review
+2015-07-10 19:28:25 : Village Report
+2015-07-10 19:28:25 : No. of Free/Total Builders: 0/5
+2015-07-10 19:28:25 :  [T]: 3 199
+2015-07-10 19:28:25 :  [G]: 218 049 [E]: 5 768 823 [D]: 79 175 [GEM]: 2 021
+2015-07-10 19:28:30 : Func Train 
+2015-07-10 19:28:30 : Checking Army Camp...
+2015-07-10 19:28:31 : $sArmyInfo = 200#200
+2015-07-10 19:28:31 : $CurCamp = 200
+2015-07-10 19:28:31 : $TotalCamp = 200
+2015-07-10 19:28:32 : Total Army Camp capacity: 200/200
+2015-07-10 19:28:32 : Training Troops...
+2015-07-10 19:28:35 : This is not a Barrack
+2015-07-10 19:28:35 : Barrack1 selected
+2015-07-10 19:28:36 : Barrack1 selected
+2015-07-10 19:28:36 : Barrack1 selected
+2015-07-10 19:28:36 : Barrack2 selected
+2015-07-10 19:28:36 : Barrack2 selected
+2015-07-10 19:28:37 : Barrack3 selected
+2015-07-10 19:28:37 : Barrack3 selected
+2015-07-10 19:28:38 : Barrack4 selected
+2015-07-10 19:28:38 : Barrack4 selected
+2015-07-10 19:28:38 : This is not a Barrack
+2015-07-10 19:28:39 : This is not a Barrack
+2015-07-10 19:28:39 : This is not a Barrack
+2015-07-10 19:28:39 : This is not a Barrack
+2015-07-10 19:28:39 : This is not a Barrack
+2015-07-10 19:28:40 : Barrack4 selected
+2015-07-10 19:28:40 : AfterAttack: False
+2015-07-10 19:28:43 : Barrack3 selected
+2015-07-10 19:28:43 : AfterAttack: False
+2015-07-10 19:28:48 : Barrack2 selected
+2015-07-10 19:28:48 : AfterAttack: False
+2015-07-10 19:28:50 : Barrack1 selected
+2015-07-10 19:28:50 : AfterAttack: False
+2015-07-10 19:28:52 : This is not a Barrack
+2015-07-10 19:28:52 : ---================================================================---
+2015-07-10 19:28:56 : Requesting Clan Castle Troops
+2015-07-10 19:28:57 : Request has already been made
+2015-07-10 19:28:58 : Checking Troop Upgrade in Laboratory ...
+2015-07-10 19:28:58 : Updating village values [E]: 5768823 [D]: 79175
+2015-07-10 19:28:59 : ButtonPixel = 483, 565
+2015-07-10 19:28:59 : #1: 050602, #2: 708CB0, #3: 603818, #4: D8FF58
+2015-07-10 19:28:59 : Taking snapshot for later review
+2015-07-10 19:29:00 : Taking snapshot for later review
+2015-07-10 19:29:01 : Taking debug snapshot for later review
+2015-07-10 19:29:01 : Barbarian
+2015-07-10 19:29:01 : _GetPixelColor(+47, +6): DFDFDF
+2015-07-10 19:29:01 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:29:01 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:29:01 : _GetPixelColor(+81, +82): 909090
+2015-07-10 19:29:01 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:29:01 : _GetPixelColor(+79, +78): 7E7E7E
+2015-07-10 19:29:01 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-10 19:29:01 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:29:01 : Taking debug snapshot for later review
+2015-07-10 19:29:02 : Archer
+2015-07-10 19:29:02 : _GetPixelColor(+47, +6): 9D9D9D
+2015-07-10 19:29:02 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:29:02 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:29:02 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:29:02 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-10 19:29:02 : _GetPixelColor(+79, +78): 797979
+2015-07-10 19:29:02 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-10 19:29:02 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:29:02 : Taking debug snapshot for later review
+2015-07-10 19:29:02 : Giant
+2015-07-10 19:29:02 : _GetPixelColor(+47, +6): D2D2D2
+2015-07-10 19:29:02 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:29:02 : _GetPixelColor(+68, +82): FDFDFD
+2015-07-10 19:29:02 : _GetPixelColor(+81, +82): 909090
+2015-07-10 19:29:02 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:29:02 : _GetPixelColor(+79, +78): 7F7F7F
+2015-07-10 19:29:02 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:29:02 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:29:02 : Taking debug snapshot for later review
+2015-07-10 19:29:03 : Goblin
+2015-07-10 19:29:03 : _GetPixelColor(+47, +6): C1C1C1
+2015-07-10 19:29:03 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:29:03 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:29:03 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:29:03 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-10 19:29:03 : _GetPixelColor(+79, +78): 7C7C7C
+2015-07-10 19:29:03 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:29:03 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:29:03 : Taking debug snapshot for later review
+2015-07-10 19:29:03 : Wall Breaker
+2015-07-10 19:29:03 : _GetPixelColor(+47, +6): BEBEBE
+2015-07-10 19:29:03 : _GetPixelColor(+68, +79): EAEAEA
+2015-07-10 19:29:03 : _GetPixelColor(+68, +82): 424242
+2015-07-10 19:29:03 : _GetPixelColor(+81, +82): 8E8E8E
+2015-07-10 19:29:03 : _GetPixelColor(+49, +78): DCDCDC
+2015-07-10 19:29:03 : _GetPixelColor(+79, +78): 7A7A7A
+2015-07-10 19:29:03 : _GetPixelColor(+3, +19): B2B2B2
+2015-07-10 19:29:03 : _GetPixelColor(+8, +59): 292929
+2015-07-10 19:29:03 : Taking debug snapshot for later review
+2015-07-10 19:29:04 : Balloon
+2015-07-10 19:29:04 : _GetPixelColor(+47, +6): 959595
+2015-07-10 19:29:04 : _GetPixelColor(+68, +79): E7E7E7
+2015-07-10 19:29:04 : _GetPixelColor(+68, +82): 3F3F3F
+2015-07-10 19:29:04 : _GetPixelColor(+81, +82): 8E8E8E
+2015-07-10 19:29:04 : _GetPixelColor(+49, +78): D2D2D2
+2015-07-10 19:29:04 : _GetPixelColor(+79, +78): 767676
+2015-07-10 19:29:04 : _GetPixelColor(+3, +19): B3B3B3
+2015-07-10 19:29:04 : _GetPixelColor(+8, +59): 292929
+2015-07-10 19:29:04 : Taking debug snapshot for later review
+2015-07-10 19:29:04 : Wizard
+2015-07-10 19:29:04 : _GetPixelColor(+47, +6): 4F4F4F
+2015-07-10 19:29:04 : _GetPixelColor(+68, +79): 121212
+2015-07-10 19:29:04 : _GetPixelColor(+68, +82): 000000
+2015-07-10 19:29:04 : _GetPixelColor(+81, +82): 171717
+2015-07-10 19:29:04 : _GetPixelColor(+49, +78): 010101
+2015-07-10 19:29:04 : _GetPixelColor(+79, +78): 888888
+2015-07-10 19:29:04 : _GetPixelColor(+3, +19): CCCCCC
+2015-07-10 19:29:04 : _GetPixelColor(+8, +59): A1A1A1
+2015-07-10 19:29:04 : Taking debug snapshot for later review
+2015-07-10 19:29:05 : Healer
+2015-07-10 19:29:05 : _GetPixelColor(+47, +6): FBFBFB
+2015-07-10 19:29:05 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:29:05 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:29:05 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:29:05 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:29:05 : _GetPixelColor(+79, +78): 7A7A7A
+2015-07-10 19:29:05 : _GetPixelColor(+3, +19): CDCDCD
+2015-07-10 19:29:05 : _GetPixelColor(+8, +59): 9F9F9F
+2015-07-10 19:29:05 : Taking debug snapshot for later review
+2015-07-10 19:29:05 : Dragon
+2015-07-10 19:29:05 : _GetPixelColor(+47, +6): D1D1D1
+2015-07-10 19:29:05 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:29:05 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:29:05 : _GetPixelColor(+81, +82): 909090
+2015-07-10 19:29:05 : _GetPixelColor(+49, +78): FAFAFA
+2015-07-10 19:29:05 : _GetPixelColor(+79, +78): 7F7F7F
+2015-07-10 19:29:05 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:29:05 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:29:05 : Taking debug snapshot for later review
+2015-07-10 19:29:06 : Pekka
+2015-07-10 19:29:06 : _GetPixelColor(+47, +6): C1C1C1
+2015-07-10 19:29:06 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:29:06 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:29:06 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:29:06 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:29:06 : _GetPixelColor(+79, +78): 7C7C7C
+2015-07-10 19:29:06 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:29:06 : _GetPixelColor(+8, +59): 373737
+2015-07-10 19:29:06 : Taking debug snapshot for later review
+2015-07-10 19:29:06 : Lightning Spell
+2015-07-10 19:29:06 : _GetPixelColor(+47, +6): BFBFBF
+2015-07-10 19:29:06 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:29:06 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:29:06 : _GetPixelColor(+81, +82): 919191
+2015-07-10 19:29:06 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-10 19:29:06 : _GetPixelColor(+79, +78): 808080
+2015-07-10 19:29:06 : _GetPixelColor(+3, +19): D2D2D2
+2015-07-10 19:29:06 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:29:06 : Taking debug snapshot for later review
+2015-07-10 19:29:07 : Healing Spell
+2015-07-10 19:29:07 : _GetPixelColor(+47, +6): BBBBBB
+2015-07-10 19:29:07 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:29:07 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:29:07 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:29:07 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:29:07 : _GetPixelColor(+79, +78): 7E7E7E
+2015-07-10 19:29:07 : _GetPixelColor(+3, +19): D3D3D3
+2015-07-10 19:29:07 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:29:08 : Taking snapshot for later review
+2015-07-10 19:29:10 : Something went wrong with Healing Spell Upgrade, try again.
+2015-07-10 19:29:13 : No free builder, Upgrade Walls skipped..
+2015-07-10 19:29:16 : Trying to locate Main Screen
+2015-07-10 19:29:16 : Main Screen Located
+2015-07-10 19:29:17 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-10 19:29:20 : Collecting Resources
+2015-07-10 19:29:28 : Checking if Village needs Rearming..
+2015-07-10 19:29:30 : Taking snapshot for later review
+2015-07-10 19:29:41 : Village Report
+2015-07-10 19:29:41 : No. of Free/Total Builders: 0/5
+2015-07-10 19:29:41 :  [T]: 3 199
+2015-07-10 19:29:41 :  [G]: 218 049 [E]: 5 768 823 [D]: 79 177 [GEM]: 2 021
+2015-07-10 19:29:45 : Func Train 
+2015-07-10 19:29:45 : Checking Army Camp...
+2015-07-10 19:29:47 : $sArmyInfo = 200#200
+2015-07-10 19:29:47 : $CurCamp = 200
+2015-07-10 19:29:47 : $TotalCamp = 200
+2015-07-10 19:29:48 : Total Army Camp capacity: 200/200
+2015-07-10 19:29:48 : Training Troops...
+2015-07-10 19:29:50 : This is not a Barrack
+2015-07-10 19:29:50 : Barrack1 selected
+2015-07-10 19:29:50 : Barrack1 selected
+2015-07-10 19:29:50 : Barrack1 selected
+2015-07-10 19:29:51 : Barrack2 selected
+2015-07-10 19:29:51 : Barrack2 selected
+2015-07-10 19:29:52 : Barrack3 selected
+2015-07-10 19:29:52 : Barrack3 selected
+2015-07-10 19:29:52 : Barrack4 selected
+2015-07-10 19:29:52 : Barrack4 selected
+2015-07-10 19:29:53 : This is not a Barrack
+2015-07-10 19:29:53 : This is not a Barrack
+2015-07-10 19:29:53 : This is not a Barrack
+2015-07-10 19:29:54 : This is not a Barrack
+2015-07-10 19:29:54 : This is not a Barrack
+2015-07-10 19:29:55 : Barrack4 selected
+2015-07-10 19:29:55 : AfterAttack: False
+2015-07-10 19:29:57 : Barrack3 selected
+2015-07-10 19:29:57 : AfterAttack: False
+2015-07-10 19:30:02 : Barrack2 selected
+2015-07-10 19:30:02 : AfterAttack: False
+2015-07-10 19:30:04 : Barrack1 selected
+2015-07-10 19:30:04 : AfterAttack: False
+2015-07-10 19:30:06 : This is not a Barrack
+2015-07-10 19:30:06 : ---================================================================---
+2015-07-10 19:30:10 : Requesting Clan Castle Troops
+2015-07-10 19:30:11 : Request has already been made
+2015-07-10 19:30:12 : Checking Troop Upgrade in Laboratory ...
+2015-07-10 19:30:12 : Updating village values [E]: 5768823 [D]: 79177
+2015-07-10 19:30:13 : ButtonPixel = 483, 565
+2015-07-10 19:30:13 : #1: 050602, #2: 708CB0, #3: 603818, #4: D8FF58
+2015-07-10 19:30:13 : Taking snapshot for later review
+2015-07-10 19:30:15 : Taking snapshot for later review
+2015-07-10 19:30:15 : Taking debug snapshot for later review
+2015-07-10 19:30:15 : Barbarian
+2015-07-10 19:30:15 : _GetPixelColor(+47, +6): DFDFDF
+2015-07-10 19:30:15 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:30:15 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:30:15 : _GetPixelColor(+81, +82): 909090
+2015-07-10 19:30:15 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:30:15 : _GetPixelColor(+79, +78): 7E7E7E
+2015-07-10 19:30:15 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-10 19:30:15 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:30:15 : Taking debug snapshot for later review
+2015-07-10 19:30:16 : Archer
+2015-07-10 19:30:16 : _GetPixelColor(+47, +6): 9D9D9D
+2015-07-10 19:30:16 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:30:16 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:30:16 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:30:16 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-10 19:30:16 : _GetPixelColor(+79, +78): 797979
+2015-07-10 19:30:16 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-10 19:30:16 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:30:16 : Taking debug snapshot for later review
+2015-07-10 19:30:16 : Giant
+2015-07-10 19:30:16 : _GetPixelColor(+47, +6): D2D2D2
+2015-07-10 19:30:16 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:30:16 : _GetPixelColor(+68, +82): FDFDFD
+2015-07-10 19:30:16 : _GetPixelColor(+81, +82): 909090
+2015-07-10 19:30:16 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:30:16 : _GetPixelColor(+79, +78): 7F7F7F
+2015-07-10 19:30:16 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:30:17 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:30:17 : Taking debug snapshot for later review
+2015-07-10 19:30:17 : Goblin
+2015-07-10 19:30:17 : _GetPixelColor(+47, +6): C1C1C1
+2015-07-10 19:30:17 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:30:17 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:30:17 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:30:17 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-10 19:30:17 : _GetPixelColor(+79, +78): 7C7C7C
+2015-07-10 19:30:17 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:30:17 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:30:17 : Taking debug snapshot for later review
+2015-07-10 19:30:17 : Wall Breaker
+2015-07-10 19:30:17 : _GetPixelColor(+47, +6): BEBEBE
+2015-07-10 19:30:17 : _GetPixelColor(+68, +79): EAEAEA
+2015-07-10 19:30:17 : _GetPixelColor(+68, +82): 424242
+2015-07-10 19:30:17 : _GetPixelColor(+81, +82): 8E8E8E
+2015-07-10 19:30:17 : _GetPixelColor(+49, +78): DCDCDC
+2015-07-10 19:30:18 : _GetPixelColor(+79, +78): 7A7A7A
+2015-07-10 19:30:18 : _GetPixelColor(+3, +19): B2B2B2
+2015-07-10 19:30:18 : _GetPixelColor(+8, +59): 292929
+2015-07-10 19:30:18 : Taking debug snapshot for later review
+2015-07-10 19:30:18 : Balloon
+2015-07-10 19:30:18 : _GetPixelColor(+47, +6): 959595
+2015-07-10 19:30:18 : _GetPixelColor(+68, +79): E7E7E7
+2015-07-10 19:30:18 : _GetPixelColor(+68, +82): 3F3F3F
+2015-07-10 19:30:18 : _GetPixelColor(+81, +82): 8E8E8E
+2015-07-10 19:30:18 : _GetPixelColor(+49, +78): D2D2D2
+2015-07-10 19:30:18 : _GetPixelColor(+79, +78): 767676
+2015-07-10 19:30:18 : _GetPixelColor(+3, +19): B3B3B3
+2015-07-10 19:30:18 : _GetPixelColor(+8, +59): 292929
+2015-07-10 19:30:18 : Taking debug snapshot for later review
+2015-07-10 19:30:18 : Wizard
+2015-07-10 19:30:18 : _GetPixelColor(+47, +6): 4F4F4F
+2015-07-10 19:30:18 : _GetPixelColor(+68, +79): 121212
+2015-07-10 19:30:18 : _GetPixelColor(+68, +82): 000000
+2015-07-10 19:30:19 : _GetPixelColor(+81, +82): 171717
+2015-07-10 19:30:19 : _GetPixelColor(+49, +78): 010101
+2015-07-10 19:30:19 : _GetPixelColor(+79, +78): 888888
+2015-07-10 19:30:19 : _GetPixelColor(+3, +19): CCCCCC
+2015-07-10 19:30:19 : _GetPixelColor(+8, +59): A1A1A1
+2015-07-10 19:30:19 : Taking debug snapshot for later review
+2015-07-10 19:30:19 : Healer
+2015-07-10 19:30:19 : _GetPixelColor(+47, +6): FBFBFB
+2015-07-10 19:30:19 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:30:19 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:30:19 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:30:19 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:30:19 : _GetPixelColor(+79, +78): 7A7A7A
+2015-07-10 19:30:19 : _GetPixelColor(+3, +19): CDCDCD
+2015-07-10 19:30:19 : _GetPixelColor(+8, +59): 9F9F9F
+2015-07-10 19:30:19 : Taking debug snapshot for later review
+2015-07-10 19:30:19 : Dragon
+2015-07-10 19:30:19 : _GetPixelColor(+47, +6): D1D1D1
+2015-07-10 19:30:20 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:30:20 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:30:20 : _GetPixelColor(+81, +82): 909090
+2015-07-10 19:30:20 : _GetPixelColor(+49, +78): FAFAFA
+2015-07-10 19:30:20 : _GetPixelColor(+79, +78): 7F7F7F
+2015-07-10 19:30:20 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:30:20 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:30:20 : Taking debug snapshot for later review
+2015-07-10 19:30:20 : Pekka
+2015-07-10 19:30:20 : _GetPixelColor(+47, +6): C1C1C1
+2015-07-10 19:30:20 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:30:20 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:30:20 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:30:20 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:30:20 : _GetPixelColor(+79, +78): 7C7C7C
+2015-07-10 19:30:20 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-10 19:30:20 : _GetPixelColor(+8, +59): 373737
+2015-07-10 19:30:20 : Taking debug snapshot for later review
+2015-07-10 19:30:21 : Lightning Spell
+2015-07-10 19:30:21 : _GetPixelColor(+47, +6): BFBFBF
+2015-07-10 19:30:21 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:30:21 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:30:21 : _GetPixelColor(+81, +82): 919191
+2015-07-10 19:30:21 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-10 19:30:21 : _GetPixelColor(+79, +78): 808080
+2015-07-10 19:30:21 : _GetPixelColor(+3, +19): D2D2D2
+2015-07-10 19:30:21 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:30:21 : Taking debug snapshot for later review
+2015-07-10 19:30:21 : Healing Spell
+2015-07-10 19:30:21 : _GetPixelColor(+47, +6): BBBBBB
+2015-07-10 19:30:21 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-10 19:30:21 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-10 19:30:21 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-10 19:30:21 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-10 19:30:21 : _GetPixelColor(+79, +78): 7E7E7E
+2015-07-10 19:30:21 : _GetPixelColor(+3, +19): D3D3D3
+2015-07-10 19:30:21 : _GetPixelColor(+8, +59): 303030
+2015-07-10 19:30:23 : Taking snapshot for later review
+2015-07-10 19:30:24 : Something went wrong with Healing Spell Upgrade, try again.
+2015-07-10 19:30:27 : No free builder, Upgrade Walls skipped..

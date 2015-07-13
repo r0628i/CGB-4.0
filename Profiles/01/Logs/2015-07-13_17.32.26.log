@@ -1,0 +1,31 @@
+2015-07-13 17:32:28 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-13 17:32:28 : Executable running on WIN_81  X64
+2015-07-13 17:32:28 : =================== Bot Start ====================
+2015-07-13 17:32:28 : Trying to locate Main Screen
+2015-07-13 17:32:28 : Main Screen Located
+2015-07-13 17:32:29 : Detecting your Buildings..
+2015-07-13 17:32:30 : Town Hall Position: 430, 237
+2015-07-13 17:32:31 : Taking snapshot for later review
+2015-07-13 17:32:33 : Read building Name String = 
+2015-07-13 17:32:33 : Your Town Hall Level was not found, please restart the bot6
+2015-07-13 17:32:34 : Language setting is English: Correct.
+2015-07-13 17:32:35 : Trying to locate Main Screen
+2015-07-13 17:32:35 : Main Screen Located
+2015-07-13 17:32:37 : Collecting Resources
+2015-07-13 17:32:45 : Checking if Village needs Rearming..
+2015-07-13 17:32:47 : Taking snapshot for later review
+2015-07-13 17:32:56 : Village Report
+2015-07-13 17:32:56 : Cannot get Free/Total Builders
+2015-07-13 17:32:56 : No. of Free/Total Builders: 0/0
+2015-07-13 17:32:56 :  [T]: 
+2015-07-13 17:32:56 :  [G]:  [E]:  [GEM]: 
+2015-07-13 17:33:00 : Func Train 
+2015-07-13 17:33:00 : Checking Army Camp...
+2015-07-13 17:33:01 : $sArmyInfo = 
+2015-07-13 17:33:03 :  $sArmyInfo = 
+2015-07-13 17:33:05 :  $sArmyInfo = 
+2015-07-13 17:33:07 :  $sArmyInfo = 
+2015-07-13 17:33:09 :  $sArmyInfo = 
+2015-07-13 17:33:11 :  $sArmyInfo = 
+2015-07-13 17:33:11 : Army size read error, Troop numbers can't be trained correctly
+2015-07-13 17:33:15 : Army Camp User input = 0

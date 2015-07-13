@@ -1,0 +1,27 @@
+2015-07-09 23:01:19 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 23:01:19 : Executable running on WIN_81  X64
+2015-07-09 23:01:19 : =================== Bot Start ====================
+2015-07-09 23:01:20 : Trying to locate Main Screen
+2015-07-09 23:01:20 : Main Screen Located
+2015-07-09 23:01:21 : Detecting your Buildings..
+2015-07-09 23:01:21 : Town Hall Position: 430, 237
+2015-07-09 23:01:23 : Taking snapshot for later review
+2015-07-09 23:01:25 : Read building Name String = 
+2015-07-09 23:01:25 : Your Town Hall Level was not found, please restart the bot6
+2015-07-09 23:01:26 : Language setting is English: Correct.
+2015-07-09 23:01:27 : Trying to locate Main Screen
+2015-07-09 23:01:27 : Main Screen Located
+2015-07-09 23:01:29 : Profile Report
+2015-07-09 23:01:29 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 23:01:30 :  [ATKW]:  [DEFW]:  [TDON]:  [TREC]: 
+2015-07-09 23:01:38 : Village Report
+2015-07-09 23:01:38 : Cannot get Free/Total Builders
+2015-07-09 23:01:38 : No. of Free/Total Builders: 0/0
+2015-07-09 23:01:38 :  [T]: 
+2015-07-09 23:01:38 :  [G]:  [E]:  [GEM]: 
+2015-07-09 23:01:40 : Donation not Planned, Skipped..
+2015-07-09 23:01:41 : Func Train 
+2015-07-09 23:01:41 : Checking Army Camp...
+2015-07-09 23:01:42 : $sArmyInfo = 
+2015-07-09 23:01:45 :  $sArmyInfo = 
+2015-07-09 23:01:45 : ClashGameBot was Paused!

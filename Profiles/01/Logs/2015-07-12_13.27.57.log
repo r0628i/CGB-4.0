@@ -1,0 +1,403 @@
+2015-07-12 13:27:58 : Starting BlueStacks
+2015-07-12 13:28:04 : BlueStacks Loaded, took 6.42 seconds to begin.
+2015-07-12 13:28:04 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 13:28:04 : Au3 Script running on WIN_81  X64
+2015-07-12 13:28:04 : =================== Bot Start ====================
+2015-07-12 13:28:05 : Trying to locate Main Screen
+2015-07-12 13:28:08 : Waiting for Main Screen
+2015-07-12 13:28:24 : Zooming Out
+2015-07-12 13:28:26 : Main Screen Located
+2015-07-12 13:28:27 : Detecting your Buildings..
+2015-07-12 13:28:28 : Town Hall Position: 430, 237
+2015-07-12 13:28:29 : Taking snapshot for later review
+2015-07-12 13:28:35 : Read building Name String = Town Hall (Level 6)
+2015-07-12 13:28:35 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-12 13:28:35 : 2nd $aString = 2, Level 6, 
+2015-07-12 13:28:35 : 3rd $aString = 2, Level, 6
+2015-07-12 13:28:35 : Your Town Hall is Level: 6
+2015-07-12 13:28:36 : Language setting is English: Correct.
+2015-07-12 13:28:37 : Trying to locate Main Screen
+2015-07-12 13:28:37 : Main Screen Located
+2015-07-12 13:28:38 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:28:40 : Collecting Resources
+2015-07-12 13:28:48 : Checking if Village needs Rearming..
+2015-07-12 13:28:50 : Taking snapshot for later review
+2015-07-12 13:29:00 : Village Report
+2015-07-12 13:29:00 : No. of Free/Total Builders: 0/3
+2015-07-12 13:29:00 :  [T]: 1 083
+2015-07-12 13:29:00 :  [G]: 1 544 350 [E]: 1 075 291 [GEM]: 672
+2015-07-12 13:29:04 : Func Train 
+2015-07-12 13:29:04 : Checking Army Camp...
+2015-07-12 13:29:05 : $sArmyInfo = 140#140
+2015-07-12 13:29:05 : $CurCamp = 140
+2015-07-12 13:29:05 : $TotalCamp = 140
+2015-07-12 13:29:06 : Total Army Camp capacity: 140/140
+2015-07-12 13:29:06 : Training Troops...
+2015-07-12 13:29:08 : Barrack #1 is available
+2015-07-12 13:29:08 : Barrack #1 selected
+2015-07-12 13:29:08 : Barrack #1 selected
+2015-07-12 13:29:12 : Barrack #2 is available
+2015-07-12 13:29:12 : Barrack #2 selected
+2015-07-12 13:29:12 : Barrack #2 selected
+2015-07-12 13:29:17 : Barrack #3 is available
+2015-07-12 13:29:18 : Barrack #3 selected
+2015-07-12 13:29:18 : Barrack #3 selected
+2015-07-12 13:29:20 : Barrack #4 is not built
+2015-07-12 13:29:20 : Dark Barrack #1 is not built
+2015-07-12 13:29:20 : Dark Barrack #2 is not built
+2015-07-12 13:29:20 : ---================================================================---
+2015-07-12 13:29:24 : Requesting Clan Castle Troops
+2015-07-12 13:29:30 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:29:33 : Trying to locate Main Screen
+2015-07-12 13:29:33 : Main Screen Located
+2015-07-12 13:29:34 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:29:36 : Collecting Resources
+2015-07-12 13:29:43 : Checking if Village needs Rearming..
+2015-07-12 13:29:46 : Taking snapshot for later review
+2015-07-12 13:29:56 : Village Report
+2015-07-12 13:29:56 : No. of Free/Total Builders: 0/3
+2015-07-12 13:29:56 :  [T]: 1 083
+2015-07-12 13:29:56 :  [G]: 1 544 350 [E]: 1 075 291 [GEM]: 672
+2015-07-12 13:29:59 : Func Train 
+2015-07-12 13:29:59 : Checking Army Camp...
+2015-07-12 13:30:01 : $sArmyInfo = 140#140
+2015-07-12 13:30:01 : $CurCamp = 140
+2015-07-12 13:30:01 : $TotalCamp = 140
+2015-07-12 13:30:01 : Total Army Camp capacity: 140/140
+2015-07-12 13:30:01 : Training Troops...
+2015-07-12 13:30:03 : Barrack #1 is available
+2015-07-12 13:30:04 : Barrack #1 selected
+2015-07-12 13:30:04 : Barrack #1 selected
+2015-07-12 13:30:07 : Barrack #2 is available
+2015-07-12 13:30:08 : Barrack #2 selected
+2015-07-12 13:30:08 : Barrack #2 selected
+2015-07-12 13:30:13 : Barrack #3 is available
+2015-07-12 13:30:13 : Barrack #3 selected
+2015-07-12 13:30:13 : Barrack #3 selected
+2015-07-12 13:30:15 : Barrack #4 is not built
+2015-07-12 13:30:15 : Dark Barrack #1 is not built
+2015-07-12 13:30:15 : Dark Barrack #2 is not built
+2015-07-12 13:30:15 : ---================================================================---
+2015-07-12 13:30:19 : Requesting Clan Castle Troops
+2015-07-12 13:30:20 : Request has already been made
+2015-07-12 13:30:23 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:30:26 : Trying to locate Main Screen
+2015-07-12 13:30:26 : Main Screen Located
+2015-07-12 13:30:27 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:30:30 : Collecting Resources
+2015-07-12 13:30:37 : Checking if Village needs Rearming..
+2015-07-12 13:30:39 : Taking snapshot for later review
+2015-07-12 13:30:49 : Village Report
+2015-07-12 13:30:49 : No. of Free/Total Builders: 0/3
+2015-07-12 13:30:49 :  [T]: 1 083
+2015-07-12 13:30:50 :  [G]: 1 544 350 [E]: 1 075 291 [GEM]: 672
+2015-07-12 13:30:53 : Func Train 
+2015-07-12 13:30:53 : Checking Army Camp...
+2015-07-12 13:30:54 : $sArmyInfo = 140#140
+2015-07-12 13:30:54 : $CurCamp = 140
+2015-07-12 13:30:54 : $TotalCamp = 140
+2015-07-12 13:30:55 : Total Army Camp capacity: 140/140
+2015-07-12 13:30:55 : Training Troops...
+2015-07-12 13:30:57 : Barrack #1 is available
+2015-07-12 13:30:58 : Barrack #1 selected
+2015-07-12 13:30:58 : Barrack #1 selected
+2015-07-12 13:31:01 : Barrack #2 is available
+2015-07-12 13:31:02 : Barrack #2 selected
+2015-07-12 13:31:02 : Barrack #2 selected
+2015-07-12 13:31:06 : Barrack #3 is available
+2015-07-12 13:31:07 : Barrack #3 selected
+2015-07-12 13:31:07 : Barrack #3 selected
+2015-07-12 13:31:09 : Barrack #4 is not built
+2015-07-12 13:31:09 : Dark Barrack #1 is not built
+2015-07-12 13:31:09 : Dark Barrack #2 is not built
+2015-07-12 13:31:09 : ---================================================================---
+2015-07-12 13:31:13 : Requesting Clan Castle Troops
+2015-07-12 13:31:13 : Request has already been made
+2015-07-12 13:31:16 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:31:19 : Trying to locate Main Screen
+2015-07-12 13:31:19 : Main Screen Located
+2015-07-12 13:31:20 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:31:23 : Collecting Resources
+2015-07-12 13:31:30 : Checking if Village needs Rearming..
+2015-07-12 13:31:32 : Taking snapshot for later review
+2015-07-12 13:31:43 : Village Report
+2015-07-12 13:31:43 : No. of Free/Total Builders: 0/3
+2015-07-12 13:31:43 :  [T]: 1 083
+2015-07-12 13:31:43 :  [G]: 1 544 350 [E]: 1 075 372 [GEM]: 672
+2015-07-12 13:31:46 : Func Train 
+2015-07-12 13:31:46 : Checking Army Camp...
+2015-07-12 13:31:47 : $sArmyInfo = 140#140
+2015-07-12 13:31:47 : $CurCamp = 140
+2015-07-12 13:31:47 : $TotalCamp = 140
+2015-07-12 13:31:48 : Total Army Camp capacity: 140/140
+2015-07-12 13:31:48 : Training Troops...
+2015-07-12 13:31:50 : Barrack #1 is available
+2015-07-12 13:31:51 : Barrack #1 selected
+2015-07-12 13:31:51 : Barrack #1 selected
+2015-07-12 13:31:54 : Barrack #2 is available
+2015-07-12 13:31:55 : Barrack #2 selected
+2015-07-12 13:31:55 : Barrack #2 selected
+2015-07-12 13:31:59 : Barrack #3 is available
+2015-07-12 13:32:00 : Barrack #3 selected
+2015-07-12 13:32:00 : Barrack #3 selected
+2015-07-12 13:32:02 : Barrack #4 is not built
+2015-07-12 13:32:02 : Dark Barrack #1 is not built
+2015-07-12 13:32:02 : Dark Barrack #2 is not built
+2015-07-12 13:32:02 : ---================================================================---
+2015-07-12 13:32:06 : Requesting Clan Castle Troops
+2015-07-12 13:32:06 : Request has already been made
+2015-07-12 13:32:09 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:32:12 : Trying to locate Main Screen
+2015-07-12 13:32:12 : Main Screen Located
+2015-07-12 13:32:13 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:32:16 : Collecting Resources
+2015-07-12 13:32:24 : Checking if Village needs Rearming..
+2015-07-12 13:32:26 : Taking snapshot for later review
+2015-07-12 13:32:36 : Village Report
+2015-07-12 13:32:36 : No. of Free/Total Builders: 0/3
+2015-07-12 13:32:36 :  [T]: 1 083
+2015-07-12 13:32:36 :  [G]: 1 544 661 [E]: 1 075 420 [GEM]: 672
+2015-07-12 13:32:40 : Func Train 
+2015-07-12 13:32:40 : Checking Army Camp...
+2015-07-12 13:32:41 : $sArmyInfo = 140#140
+2015-07-12 13:32:41 : $CurCamp = 140
+2015-07-12 13:32:41 : $TotalCamp = 140
+2015-07-12 13:32:42 : Total Army Camp capacity: 140/140
+2015-07-12 13:32:42 : Training Troops...
+2015-07-12 13:32:44 : Barrack #1 is available
+2015-07-12 13:32:44 : Barrack #1 selected
+2015-07-12 13:32:44 : Barrack #1 selected
+2015-07-12 13:32:48 : Barrack #2 is available
+2015-07-12 13:32:48 : Barrack #2 selected
+2015-07-12 13:32:48 : Barrack #2 selected
+2015-07-12 13:32:53 : Barrack #3 is available
+2015-07-12 13:32:53 : Barrack #3 selected
+2015-07-12 13:32:53 : Barrack #3 selected
+2015-07-12 13:32:55 : Barrack #4 is not built
+2015-07-12 13:32:55 : Dark Barrack #1 is not built
+2015-07-12 13:32:55 : Dark Barrack #2 is not built
+2015-07-12 13:32:55 : ---================================================================---
+2015-07-12 13:32:59 : Requesting Clan Castle Troops
+2015-07-12 13:32:59 : Request has already been made
+2015-07-12 13:33:03 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:33:06 : Trying to locate Main Screen
+2015-07-12 13:33:06 : Main Screen Located
+2015-07-12 13:33:07 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:33:10 : Collecting Resources
+2015-07-12 13:33:18 : Checking if Village needs Rearming..
+2015-07-12 13:33:20 : Taking snapshot for later review
+2015-07-12 13:33:30 : Village Report
+2015-07-12 13:33:30 : No. of Free/Total Builders: 0/3
+2015-07-12 13:33:30 :  [T]: 1 083
+2015-07-12 13:33:30 :  [G]: 1 544 661 [E]: 1 075 420 [GEM]: 672
+2015-07-12 13:33:33 : Func Train 
+2015-07-12 13:33:33 : Checking Army Camp...
+2015-07-12 13:33:35 : $sArmyInfo = 140#140
+2015-07-12 13:33:35 : $CurCamp = 140
+2015-07-12 13:33:35 : $TotalCamp = 140
+2015-07-12 13:33:35 : Total Army Camp capacity: 140/140
+2015-07-12 13:33:35 : Training Troops...
+2015-07-12 13:33:37 : Barrack #1 is available
+2015-07-12 13:33:38 : Barrack #1 selected
+2015-07-12 13:33:38 : Barrack #1 selected
+2015-07-12 13:33:41 : Barrack #2 is available
+2015-07-12 13:33:42 : Barrack #2 selected
+2015-07-12 13:33:42 : Barrack #2 selected
+2015-07-12 13:33:46 : Barrack #3 is available
+2015-07-12 13:33:47 : Barrack #3 selected
+2015-07-12 13:33:47 : Barrack #3 selected
+2015-07-12 13:33:49 : Barrack #4 is not built
+2015-07-12 13:33:49 : Dark Barrack #1 is not built
+2015-07-12 13:33:49 : Dark Barrack #2 is not built
+2015-07-12 13:33:49 : ---================================================================---
+2015-07-12 13:33:53 : Requesting Clan Castle Troops
+2015-07-12 13:33:53 : Request has already been made
+2015-07-12 13:33:56 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:34:00 : Trying to locate Main Screen
+2015-07-12 13:34:00 : Main Screen Located
+2015-07-12 13:34:00 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:34:03 : Collecting Resources
+2015-07-12 13:34:10 : Checking if Village needs Rearming..
+2015-07-12 13:34:12 : Taking snapshot for later review
+2015-07-12 13:34:23 : Village Report
+2015-07-12 13:34:23 : No. of Free/Total Builders: 0/3
+2015-07-12 13:34:23 :  [T]: 1 083
+2015-07-12 13:34:24 :  [G]: 1 544 661 [E]: 1 075 498 [GEM]: 672
+2015-07-12 13:34:27 : Func Train 
+2015-07-12 13:34:27 : Checking Army Camp...
+2015-07-12 13:34:28 : $sArmyInfo = 140#140
+2015-07-12 13:34:28 : $CurCamp = 140
+2015-07-12 13:34:28 : $TotalCamp = 140
+2015-07-12 13:34:29 : Total Army Camp capacity: 140/140
+2015-07-12 13:34:29 : Training Troops...
+2015-07-12 13:34:31 : Barrack #1 is available
+2015-07-12 13:34:32 : Barrack #1 selected
+2015-07-12 13:34:32 : Barrack #1 selected
+2015-07-12 13:34:35 : Barrack #2 is available
+2015-07-12 13:34:36 : Barrack #2 selected
+2015-07-12 13:34:36 : Barrack #2 selected
+2015-07-12 13:34:40 : Barrack #3 is available
+2015-07-12 13:34:41 : Barrack #3 selected
+2015-07-12 13:34:41 : Barrack #3 selected
+2015-07-12 13:34:42 : Barrack #4 is not built
+2015-07-12 13:34:42 : Dark Barrack #1 is not built
+2015-07-12 13:34:42 : Dark Barrack #2 is not built
+2015-07-12 13:34:42 : ---================================================================---
+2015-07-12 13:34:46 : Requesting Clan Castle Troops
+2015-07-12 13:34:47 : Request has already been made
+2015-07-12 13:34:50 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:34:53 : Trying to locate Main Screen
+2015-07-12 13:34:53 : Main Screen Located
+2015-07-12 13:34:54 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:34:57 : Collecting Resources
+2015-07-12 13:35:04 : Checking if Village needs Rearming..
+2015-07-12 13:35:06 : Taking snapshot for later review
+2015-07-12 13:35:16 : Village Report
+2015-07-12 13:35:16 : No. of Free/Total Builders: 0/3
+2015-07-12 13:35:16 :  [T]: 1 083
+2015-07-12 13:35:16 :  [G]: 1 544 661 [E]: 1 075 498 [GEM]: 672
+2015-07-12 13:35:19 : Func Train 
+2015-07-12 13:35:19 : Checking Army Camp...
+2015-07-12 13:35:21 : $sArmyInfo = 140#140
+2015-07-12 13:35:21 : $CurCamp = 140
+2015-07-12 13:35:21 : $TotalCamp = 140
+2015-07-12 13:35:21 : Total Army Camp capacity: 140/140
+2015-07-12 13:35:22 : Training Troops...
+2015-07-12 13:35:24 : Barrack #1 is available
+2015-07-12 13:35:24 : Barrack #1 selected
+2015-07-12 13:35:24 : Barrack #1 selected
+2015-07-12 13:35:28 : Barrack #2 is available
+2015-07-12 13:35:28 : Barrack #2 selected
+2015-07-12 13:35:28 : Barrack #2 selected
+2015-07-12 13:35:33 : Barrack #3 is available
+2015-07-12 13:35:33 : Barrack #3 selected
+2015-07-12 13:35:33 : Barrack #3 selected
+2015-07-12 13:35:35 : Barrack #4 is not built
+2015-07-12 13:35:35 : Dark Barrack #1 is not built
+2015-07-12 13:35:35 : Dark Barrack #2 is not built
+2015-07-12 13:35:35 : ---================================================================---
+2015-07-12 13:35:39 : Requesting Clan Castle Troops
+2015-07-12 13:35:39 : Request has already been made
+2015-07-12 13:35:43 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:35:46 : Trying to locate Main Screen
+2015-07-12 13:35:46 : Main Screen Located
+2015-07-12 13:35:47 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:35:49 : Collecting Resources
+2015-07-12 13:35:57 : Checking if Village needs Rearming..
+2015-07-12 13:35:59 : Taking snapshot for later review
+2015-07-12 13:36:09 : Village Report
+2015-07-12 13:36:09 : No. of Free/Total Builders: 0/3
+2015-07-12 13:36:09 :  [T]: 1 083
+2015-07-12 13:36:09 :  [G]: 1 544 909 [E]: 1 075 545 [GEM]: 672
+2015-07-12 13:36:12 : Func Train 
+2015-07-12 13:36:12 : Checking Army Camp...
+2015-07-12 13:36:14 : $sArmyInfo = 140#140
+2015-07-12 13:36:14 : $CurCamp = 140
+2015-07-12 13:36:14 : $TotalCamp = 140
+2015-07-12 13:36:14 : Total Army Camp capacity: 140/140
+2015-07-12 13:36:14 : Training Troops...
+2015-07-12 13:36:16 : Barrack #1 is available
+2015-07-12 13:36:18 : Barrack #1 selected
+2015-07-12 13:36:18 : Barrack #1 selected
+2015-07-12 13:36:21 : Barrack #2 is available
+2015-07-12 13:36:22 : Barrack #2 selected
+2015-07-12 13:36:22 : Barrack #2 selected
+2015-07-12 13:36:26 : Barrack #3 is available
+2015-07-12 13:36:27 : Barrack #3 selected
+2015-07-12 13:36:27 : Barrack #3 selected
+2015-07-12 13:36:28 : Barrack #4 is not built
+2015-07-12 13:36:28 : Dark Barrack #1 is not built
+2015-07-12 13:36:29 : Dark Barrack #2 is not built
+2015-07-12 13:36:29 : ---================================================================---
+2015-07-12 13:36:33 : Requesting Clan Castle Troops
+2015-07-12 13:36:33 : Request has already been made
+2015-07-12 13:36:36 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:36:39 : Trying to locate Main Screen
+2015-07-12 13:36:39 : Main Screen Located
+2015-07-12 13:36:40 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:36:43 : Collecting Resources
+2015-07-12 13:36:50 : Checking if Village needs Rearming..
+2015-07-12 13:36:52 : Taking snapshot for later review
+2015-07-12 13:37:02 : Village Report
+2015-07-12 13:37:02 : No. of Free/Total Builders: 0/3
+2015-07-12 13:37:02 :  [T]: 1 083
+2015-07-12 13:37:03 :  [G]: 1 544 981 [E]: 1 075 623 [GEM]: 672
+2015-07-12 13:37:06 : Func Train 
+2015-07-12 13:37:06 : Checking Army Camp...
+2015-07-12 13:37:07 : $sArmyInfo = 140#140
+2015-07-12 13:37:07 : $CurCamp = 140
+2015-07-12 13:37:07 : $TotalCamp = 140
+2015-07-12 13:37:08 : Total Army Camp capacity: 140/140
+2015-07-12 13:37:08 : Training Troops...
+2015-07-12 13:37:10 : Barrack #1 is available
+2015-07-12 13:37:10 : Barrack #1 selected
+2015-07-12 13:37:11 : Barrack #1 selected
+2015-07-12 13:37:14 : Barrack #2 is available
+2015-07-12 13:37:15 : Barrack #2 selected
+2015-07-12 13:37:15 : Barrack #2 selected
+2015-07-12 13:37:20 : Barrack #3 is available
+2015-07-12 13:37:21 : Barrack #3 selected
+2015-07-12 13:37:21 : Barrack #3 selected
+2015-07-12 13:37:22 : Barrack #4 is not built
+2015-07-12 13:37:22 : Dark Barrack #1 is not built
+2015-07-12 13:37:22 : Dark Barrack #2 is not built
+2015-07-12 13:37:22 : ---================================================================---
+2015-07-12 13:37:26 : Requesting Clan Castle Troops
+2015-07-12 13:37:27 : Request has already been made
+2015-07-12 13:37:30 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:37:33 : Trying to locate Main Screen
+2015-07-12 13:37:33 : Main Screen Located
+2015-07-12 13:37:34 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:37:37 : Collecting Resources
+2015-07-12 13:37:44 : Checking if Village needs Rearming..
+2015-07-12 13:37:46 : Taking snapshot for later review
+2015-07-12 13:37:55 : Village Report
+2015-07-12 13:37:55 : No. of Free/Total Builders: 0/3
+2015-07-12 13:37:55 :  [T]: 1 083
+2015-07-12 13:37:56 :  [G]: 1 544 981 [E]: 1 075 623 [GEM]: 672
+2015-07-12 13:37:59 : Func Train 
+2015-07-12 13:37:59 : Checking Army Camp...
+2015-07-12 13:38:00 : $sArmyInfo = 140#140
+2015-07-12 13:38:00 : $CurCamp = 140
+2015-07-12 13:38:00 : $TotalCamp = 140
+2015-07-12 13:38:01 : Total Army Camp capacity: 140/140
+2015-07-12 13:38:01 : Training Troops...
+2015-07-12 13:38:03 : Barrack #1 is available
+2015-07-12 13:38:04 : Barrack #1 selected
+2015-07-12 13:38:04 : Barrack #1 selected
+2015-07-12 13:38:07 : Barrack #2 is available
+2015-07-12 13:38:08 : Barrack #2 selected
+2015-07-12 13:38:08 : Barrack #2 selected
+2015-07-12 13:38:12 : Barrack #3 is available
+2015-07-12 13:38:13 : Barrack #3 selected
+2015-07-12 13:38:13 : Barrack #3 selected
+2015-07-12 13:38:14 : Barrack #4 is not built
+2015-07-12 13:38:14 : Dark Barrack #1 is not built
+2015-07-12 13:38:14 : Dark Barrack #2 is not built
+2015-07-12 13:38:14 : ---================================================================---
+2015-07-12 13:38:19 : Requesting Clan Castle Troops
+2015-07-12 13:38:19 : Request has already been made
+2015-07-12 13:38:22 : No free builder, Upgrade Walls skipped..
+2015-07-12 13:38:25 : Trying to locate Main Screen
+2015-07-12 13:38:25 : Main Screen Located
+2015-07-12 13:38:26 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 13:38:29 : Collecting Resources
+2015-07-12 13:38:36 : Checking if Village needs Rearming..
+2015-07-12 13:38:38 : Taking snapshot for later review
+2015-07-12 13:38:48 : Village Report
+2015-07-12 13:38:48 : No. of Free/Total Builders: 0/3
+2015-07-12 13:38:48 :  [T]: 1 083
+2015-07-12 13:38:48 :  [G]: 1 544 981 [E]: 1 075 623 [GEM]: 672
+2015-07-12 13:38:51 : Func Train 
+2015-07-12 13:38:51 : Checking Army Camp...
+2015-07-12 13:38:53 : $sArmyInfo = 140#140
+2015-07-12 13:38:53 : $CurCamp = 140
+2015-07-12 13:38:53 : $TotalCamp = 140
+2015-07-12 13:38:53 : Total Army Camp capacity: 140/140
+2015-07-12 13:38:53 : Training Troops...
+2015-07-12 13:38:55 : Barrack #1 is available
+2015-07-12 13:38:56 : Barrack #1 selected
+2015-07-12 13:38:56 : Barrack #1 selected
+2015-07-12 13:38:59 : Barrack #2 is available
+2015-07-12 13:39:00 : Barrack #2 selected
+2015-07-12 13:39:00 : Barrack #2 selected

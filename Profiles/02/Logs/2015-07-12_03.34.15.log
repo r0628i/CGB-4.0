@@ -1,0 +1,80 @@
+2015-07-12 03:34:17 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 03:34:17 : Au3 Script running on WIN_81  X64
+2015-07-12 03:34:17 : =================== Bot Start ====================
+2015-07-12 03:34:17 : Trying to locate Main Screen
+2015-07-12 03:34:17 : Zooming Out
+2015-07-12 03:34:17 : Main Screen Located
+2015-07-12 03:34:18 : Click 1,1,1,0 #0166 | Away
+2015-07-12 03:34:19 : Detecting your Buildings..
+2015-07-12 03:34:19 : Click 1,1,2,200 
+2015-07-12 03:34:19 : Town Hall Position: 433, 308
+2015-07-12 03:34:19 : Click 433,313,1,0 
+2015-07-12 03:34:21 : Taking snapshot for later review
+2015-07-12 03:34:26 : Read building Name String = Town Hall (Level 8)
+2015-07-12 03:34:26 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-12 03:34:26 : 2nd $aString = 2, Level 8, 
+2015-07-12 03:34:26 : 3rd $aString = 2, Level, 8
+2015-07-12 03:34:26 : Your Town Hall is Level: 8
+2015-07-12 03:34:26 : Click 1,1,2,200 
+2015-07-12 03:34:26 : Language setting is English: Correct.
+2015-07-12 03:34:28 : Trying to locate Main Screen
+2015-07-12 03:34:28 : Main Screen Located
+2015-07-12 03:34:28 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 03:34:31 : Click 1,1,1,0 #0332 | Away
+2015-07-12 03:34:33 : Checking if Village needs Rearming..
+2015-07-12 03:34:33 : Click 1,1,1,0 #0224 | Away
+2015-07-12 03:34:34 : Click 433,313,1,0 #0225 | Rearm - Click Town Hall
+2015-07-12 03:34:35 : Taking snapshot for later review
+2015-07-12 03:34:41 : Click 1,1,1,0 #0234 | Away
+2015-07-12 03:34:44 : PureClick 1,1,1,0 #0319 | Away
+2015-07-12 03:34:45 : Village Report
+2015-07-12 03:34:45 : No. of Free/Total Builders: 0/5
+2015-07-12 03:34:45 :  [T]: 3 144
+2015-07-12 03:34:45 :  [G]: 292 636 [E]: 5 730 600 [D]: 78 272 [GEM]: 2 027
+2015-07-12 03:34:47 : Donation not Planned, Skipped..
+2015-07-12 03:34:48 : Func Train 
+2015-07-12 03:34:48 : Checking Army Camp...
+2015-07-12 03:34:48 : Click 1,1,1,0 #0292 | Away
+2015-07-12 03:34:48 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-12 03:34:50 : $sArmyInfo = 198#200
+2015-07-12 03:34:50 : $CurCamp = 198
+2015-07-12 03:34:50 : $TotalCamp = 200
+2015-07-12 03:34:50 : Total Army Camp capacity: 198/200
+2015-07-12 03:34:50 : Click 1,1,1,0 #0295 | Away
+2015-07-12 03:34:50 : Training Troops...
+2015-07-12 03:34:50 : Click 1,1,1,0 #0268 | Away
+2015-07-12 03:34:51 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-12 03:34:52 : Barrack #1 is available
+2015-07-12 03:34:52 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:34:53 : Barrack #1selected
+2015-07-12 03:34:53 : Barrack #1selected
+2015-07-12 03:34:53 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:34:55 : Barrack #2 is available
+2015-07-12 03:34:55 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:34:56 : Barrack #2selected
+2015-07-12 03:34:56 : Barrack #2selected
+2015-07-12 03:34:56 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:34:58 : Barrack #3 is available
+2015-07-12 03:34:58 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:34:58 : Barrack #3selected
+2015-07-12 03:34:58 : Barrack #3selected
+2015-07-12 03:34:58 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-12 03:34:58 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-12 03:34:59 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-12 03:34:59 : Click 331,320,15,10 #0275 | Train - Train Archer
+2015-07-12 03:35:00 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:35:01 : Barrack #4 is available
+2015-07-12 03:35:01 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:35:02 : Barrack #4selected
+2015-07-12 03:35:02 : Barrack #4selected
+2015-07-12 03:35:03 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-12 03:35:04 : Dark Barrack #1 is upgrading
+2015-07-12 03:35:04 : Dark Barrack #2 is available
+2015-07-12 03:35:04 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-12 03:35:04 : Dark Barrack #2selected
+2015-07-12 03:35:05 : Dark Barrack #2selected
+2015-07-12 03:35:05 : Click 331,320,99,100 #0275 | Train - Train Archer
+2015-07-12 03:35:07 : Click 220,320,10,100 #0274 | Train - Train Barbarian
+2015-07-12 03:35:08 : ---================================================================---
+2015-07-12 03:35:09 : Click 1,1,2,250 #0291 | Away
+2015-07-12 03:35:10 : ClashGameBot was Paused!

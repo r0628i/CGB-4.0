@@ -1,0 +1,29 @@
+2015-07-08 22:22:25 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-08 22:22:25 : Executable running on WIN_81  X64
+2015-07-08 22:22:25 : =================== Bot Start ====================
+2015-07-08 22:22:26 : Trying to locate Main Screen
+2015-07-08 22:22:26 : Zooming Out
+2015-07-08 22:22:28 : Main Screen Located
+2015-07-08 22:22:29 : Detecting your Buildings..
+2015-07-08 22:22:30 : Town Hall Position: 430, 237
+2015-07-08 22:22:31 : Taking snapshot for later review
+2015-07-08 22:22:36 : Read building Name String = Town Hall (Level 6)
+2015-07-08 22:22:36 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-08 22:22:36 : 2nd $aString = 2, Level 6, 
+2015-07-08 22:22:36 : 3rd $aString = 2, Level, 6
+2015-07-08 22:22:36 : Your Town Hall is Level: 6
+2015-07-08 22:22:37 : Language setting is English: Correct.
+2015-07-08 22:22:38 : Trying to locate Main Screen
+2015-07-08 22:22:38 : Main Screen Located
+2015-07-08 22:22:39 : Halt Attack, Stay Online/Collect...
+2015-07-08 22:22:41 : Profile Report
+2015-07-08 22:22:41 : Opening Profile page to read atk, def, donated ad received...
+2015-07-08 22:22:42 :  [ATKW]: 26 [DEFW]: 0 [TDON]: 218 [TREC]: 191
+2015-07-08 22:22:47 : Checking if Village needs Rearming..
+2015-07-08 22:22:49 : Taking snapshot for later review
+2015-07-08 22:22:58 : Village Report
+2015-07-08 22:22:58 : No. of Free/Total Builders: 0/3
+2015-07-08 22:22:58 :  [T]: 987
+2015-07-08 22:22:58 :  [G]: 91 350 [E]: 699 992 [GEM]: 632
+2015-07-08 22:23:02 : Func Train 
+2015-07-08 22:23:05 : Request CC not Planned, Skipped..

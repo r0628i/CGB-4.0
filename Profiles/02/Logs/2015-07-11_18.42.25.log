@@ -1,0 +1,271 @@
+2015-07-11 18:42:26 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-11 18:42:26 : Au3 Script running on WIN_81  X64
+2015-07-11 18:42:26 : =================== Bot Start ====================
+2015-07-11 18:42:26 : Trying to locate Main Screen
+2015-07-11 18:42:26 : Zooming Out
+2015-07-11 18:42:28 : Main Screen Located
+2015-07-11 18:42:28 : Click 1,1,1,0 #0166 | Away
+2015-07-11 18:42:29 : Detecting your Buildings..
+2015-07-11 18:42:29 : Click 1,1,2,200 
+2015-07-11 18:42:30 : Town Hall Position: 433, 308
+2015-07-11 18:42:30 : Click 433,313,1,0 
+2015-07-11 18:42:32 : Taking snapshot for later review
+2015-07-11 18:42:37 : Read building Name String = Town Hall (Level 8)
+2015-07-11 18:42:37 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-11 18:42:37 : 2nd $aString = 2, Level 8, 
+2015-07-11 18:42:37 : 3rd $aString = 2, Level, 8
+2015-07-11 18:42:37 : Your Town Hall is Level: 8
+2015-07-11 18:42:37 : Click 1,1,2,200 
+2015-07-11 18:42:37 : Language setting is English: Correct.
+2015-07-11 18:42:38 : Trying to locate Main Screen
+2015-07-11 18:42:38 : Main Screen Located
+2015-07-11 18:42:39 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-11 18:42:42 : Click 1,1,1,0 #0332 | Away
+2015-07-11 18:42:44 : Checking if Village needs Rearming..
+2015-07-11 18:42:44 : Click 1,1,1,0 #0224 | Away
+2015-07-11 18:42:45 : Click 433,313,1,0 #0225 | Rearm - Click Town Hall
+2015-07-11 18:42:46 : Taking snapshot for later review
+2015-07-11 18:42:52 : Click 1,1,1,0 #0234 | Away
+2015-07-11 18:42:55 : PureClick 1,1,1,0 #0319 | Away
+2015-07-11 18:42:55 : Village Report
+2015-07-11 18:42:56 : No. of Free/Total Builders: 0/5
+2015-07-11 18:42:56 :  [T]: 3 166
+2015-07-11 18:42:56 :  [G]: 413 315 [E]: 5 366 602 [D]: 78 829 [GEM]: 2 021
+2015-07-11 18:42:58 : Click 1,1,1,0 #0167 | Away
+2015-07-11 18:42:58 : Click 19,349,1,0 #0168 | Donate - Open Chat
+2015-07-11 18:42:58 : Click 189,24,1,0 #0169 | Donate - Select Clan Tab
+2015-07-11 18:43:00 : Chat Request: I need reinforcement troops
+2015-07-11 18:43:00 : Click 1,1,1,0 #0171 | Away
+2015-07-11 18:43:01 : Click 331,330,1,0 #0173 | Donate - Click Chat
+2015-07-11 18:43:02 : Func Train 
+2015-07-11 18:43:02 : Checking Army Camp...
+2015-07-11 18:43:02 : Click 1,1,1,0 #0292 | Away
+2015-07-11 18:43:02 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-11 18:43:03 : $sArmyInfo = 200#200
+2015-07-11 18:43:03 : $CurCamp = 200
+2015-07-11 18:43:03 : $TotalCamp = 200
+2015-07-11 18:43:04 : Total Army Camp capacity: 200/200
+2015-07-11 18:43:04 : Click 1,1,1,0 #0295 | Away
+2015-07-11 18:43:04 : Training Troops...
+2015-07-11 18:43:04 : Click 1,1,1,0 #0268 | Away
+2015-07-11 18:43:04 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-11 18:43:06 : Click 773,337,1,0 #9999
+2015-07-11 18:43:06 : This is not a Barrack
+2015-07-11 18:43:06 : This is not a Barrack
+2015-07-11 18:43:06 : Barrack1 selected
+2015-07-11 18:43:06 : Barrack1 selected
+2015-07-11 18:43:07 : Barrack1 selected
+2015-07-11 18:43:07 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:43:07 : Barrack2 selected
+2015-07-11 18:43:07 : Barrack2 selected
+2015-07-11 18:43:07 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:43:08 : Barrack3 selected
+2015-07-11 18:43:08 : Barrack3 selected
+2015-07-11 18:43:08 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:43:08 : Barrack4 selected
+2015-07-11 18:43:08 : Barrack4 selected
+2015-07-11 18:43:08 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:43:09 : This is not a Barrack
+2015-07-11 18:43:09 : This is not a Barrack
+2015-07-11 18:43:09 : This is not a Barrack
+2015-07-11 18:43:10 : This is not a Barrack
+2015-07-11 18:43:10 : This is not a Barrack
+2015-07-11 18:43:10 : Click 84,336,1,0 #0272 | Train - Prev Button 
+2015-07-11 18:43:11 : Barrack4 selected
+2015-07-11 18:43:11 : AfterAttack: True
+2015-07-11 18:43:11 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:43:12 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:43:13 : Barrack3 selected
+2015-07-11 18:43:13 : AfterAttack: True
+2015-07-11 18:43:13 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 18:43:13 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 18:43:14 : Click 331,320,15,10 #0275 | Train - Train Archer
+2015-07-11 18:43:15 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:43:15 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:43:17 : Barrack2 selected
+2015-07-11 18:43:17 : AfterAttack: True
+2015-07-11 18:43:17 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:43:18 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:43:19 : Barrack1 selected
+2015-07-11 18:43:19 : AfterAttack: True
+2015-07-11 18:43:19 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:43:20 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:43:21 : This is not a Barrack
+2015-07-11 18:43:21 : Click 84,336,1,0 #0324
+2015-07-11 18:43:22 : This is not a Dark Barrack
+2015-07-11 18:43:22 : Click 84,336,1,0 #0324
+2015-07-11 18:43:23 : Dark Barrack2 selected
+2015-07-11 18:43:23 : Dark Barrack2 selected
+2015-07-11 18:43:24 : Click 331,320,5,5 #0275 | Train - Train Archer
+2015-07-11 18:43:24 : Click 220,320,16,5 #0274 | Train - Train Barbarian
+2015-07-11 18:43:25 : Click 84,336,1,0 #0289 | Train - Prev Button 
+2015-07-11 18:43:26 : This is not a Dark Barrack
+2015-07-11 18:43:26 : This is not a Dark Barrack
+2015-07-11 18:43:27 : This is not a Dark Barrack
+2015-07-11 18:43:27 : This is not a Dark Barrack
+2015-07-11 18:43:27 : This is not a Dark Barrack
+2015-07-11 18:43:28 : This is not a Dark Barrack
+2015-07-11 18:43:28 : ---================================================================---
+2015-07-11 18:43:29 : Click 1,1,2,250 #0291 | Away
+2015-07-11 18:43:32 : Requesting Clan Castle Troops
+2015-07-11 18:43:32 : Click 40,525,1,0 #9999
+2015-07-11 18:43:33 : Your Clan Castle is already full or you are not in a clan.
+2015-07-11 18:43:33 : Click 1,1,2,0 #9999
+2015-07-11 18:43:34 : Checking Troop Upgrade in Laboratory ...
+2015-07-11 18:43:34 : Updating village values [E]: 5364402 [D]: 78697
+2015-07-11 18:43:34 : Click 430,507,1,0 #0197
+2015-07-11 18:43:35 : ButtonPixel = 483, 565
+2015-07-11 18:43:35 : #1: 050602, #2: 708CB0, #3: 603818, #4: D8FF58
+2015-07-11 18:43:35 : Taking snapshot for later review
+2015-07-11 18:43:36 : Click 523,590,1,0 #0198
+2015-07-11 18:43:36 : Taking snapshot for later review
+2015-07-11 18:43:37 : Taking debug snapshot for later review
+2015-07-11 18:43:37 : Barbarian
+2015-07-11 18:43:37 : _GetPixelColor(+47, +6): DFDFDF
+2015-07-11 18:43:37 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 18:43:37 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 18:43:37 : _GetPixelColor(+81, +82): 909090
+2015-07-11 18:43:37 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-11 18:43:37 : _GetPixelColor(+79, +78): 7E7E7E
+2015-07-11 18:43:37 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-11 18:43:37 : _GetPixelColor(+8, +59): 303030
+2015-07-11 18:43:37 : Taking debug snapshot for later review
+2015-07-11 18:43:37 : Archer
+2015-07-11 18:43:37 : _GetPixelColor(+47, +6): 9D9D9D
+2015-07-11 18:43:37 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 18:43:37 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 18:43:38 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-11 18:43:38 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-11 18:43:38 : _GetPixelColor(+79, +78): 797979
+2015-07-11 18:43:38 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-11 18:43:38 : _GetPixelColor(+8, +59): 303030
+2015-07-11 18:43:38 : Taking debug snapshot for later review
+2015-07-11 18:43:38 : Giant
+2015-07-11 18:43:38 : _GetPixelColor(+47, +6): D2D2D2
+2015-07-11 18:43:38 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 18:43:38 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 18:43:38 : _GetPixelColor(+81, +82): 909090
+2015-07-11 18:43:38 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-11 18:43:38 : _GetPixelColor(+79, +78): 7F7F7F
+2015-07-11 18:43:38 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-11 18:43:38 : _GetPixelColor(+8, +59): 303030
+2015-07-11 18:43:38 : Taking debug snapshot for later review
+2015-07-11 18:43:38 : Goblin
+2015-07-11 18:43:38 : _GetPixelColor(+47, +6): C1C1C1
+2015-07-11 18:43:38 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 18:43:38 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 18:43:38 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-11 18:43:38 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-11 18:43:38 : _GetPixelColor(+79, +78): 7C7C7C
+2015-07-11 18:43:38 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-11 18:43:38 : _GetPixelColor(+8, +59): 303030
+2015-07-11 18:43:39 : Taking debug snapshot for later review
+2015-07-11 18:43:39 : Wall Breaker
+2015-07-11 18:43:39 : _GetPixelColor(+47, +6): BEBEBE
+2015-07-11 18:43:39 : _GetPixelColor(+68, +79): EAEAEA
+2015-07-11 18:43:39 : _GetPixelColor(+68, +82): 424242
+2015-07-11 18:43:39 : _GetPixelColor(+81, +82): 8E8E8E
+2015-07-11 18:43:39 : _GetPixelColor(+49, +78): DDDDDD
+2015-07-11 18:43:39 : _GetPixelColor(+79, +78): 7A7A7A
+2015-07-11 18:43:39 : _GetPixelColor(+3, +19): B2B2B2
+2015-07-11 18:43:39 : _GetPixelColor(+8, +59): 292929
+2015-07-11 18:43:39 : Taking debug snapshot for later review
+2015-07-11 18:43:39 : Balloon
+2015-07-11 18:43:39 : _GetPixelColor(+47, +6): 959595
+2015-07-11 18:43:39 : _GetPixelColor(+68, +79): E7E7E7
+2015-07-11 18:43:39 : _GetPixelColor(+68, +82): 3F3F3F
+2015-07-11 18:43:39 : _GetPixelColor(+81, +82): 8E8E8E
+2015-07-11 18:43:39 : _GetPixelColor(+49, +78): D3D3D3
+2015-07-11 18:43:39 : _GetPixelColor(+79, +78): 767676
+2015-07-11 18:43:39 : _GetPixelColor(+3, +19): B3B3B3
+2015-07-11 18:43:39 : _GetPixelColor(+8, +59): 292929
+2015-07-11 18:43:39 : Taking debug snapshot for later review
+2015-07-11 18:43:40 : Wizard
+2015-07-11 18:43:40 : _GetPixelColor(+47, +6): 4F4F4F
+2015-07-11 18:43:40 : _GetPixelColor(+68, +79): 121212
+2015-07-11 18:43:40 : _GetPixelColor(+68, +82): 000000
+2015-07-11 18:43:40 : _GetPixelColor(+81, +82): 171717
+2015-07-11 18:43:40 : _GetPixelColor(+49, +78): 000000
+2015-07-11 18:43:40 : _GetPixelColor(+79, +78): 888888
+2015-07-11 18:43:40 : _GetPixelColor(+3, +19): CCCCCC
+2015-07-11 18:43:40 : _GetPixelColor(+8, +59): A1A1A1
+2015-07-11 18:43:40 : Taking debug snapshot for later review
+2015-07-11 18:43:40 : Healer
+2015-07-11 18:43:40 : _GetPixelColor(+47, +6): FBFBFB
+2015-07-11 18:43:40 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 18:43:40 : _GetPixelColor(+68, +82): FFFFFF
+2015-07-11 18:43:40 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-11 18:43:40 : _GetPixelColor(+49, +78): FCFCFC
+2015-07-11 18:43:40 : _GetPixelColor(+79, +78): 7A7A7A
+2015-07-11 18:43:40 : _GetPixelColor(+3, +19): CDCDCD
+2015-07-11 18:43:40 : _GetPixelColor(+8, +59): 9F9F9F
+2015-07-11 18:43:40 : Taking debug snapshot for later review
+2015-07-11 18:43:40 : Dragon
+2015-07-11 18:43:41 : _GetPixelColor(+47, +6): D1D1D1
+2015-07-11 18:43:41 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 18:43:41 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 18:43:41 : _GetPixelColor(+81, +82): 909090
+2015-07-11 18:43:41 : _GetPixelColor(+49, +78): FAFAFA
+2015-07-11 18:43:41 : _GetPixelColor(+79, +78): 7F7F7F
+2015-07-11 18:43:41 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-11 18:43:41 : _GetPixelColor(+8, +59): 303030
+2015-07-11 18:43:41 : Taking debug snapshot for later review
+2015-07-11 18:43:41 : Pekka
+2015-07-11 18:43:41 : _GetPixelColor(+47, +6): C1C1C1
+2015-07-11 18:43:41 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 18:43:41 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 18:43:41 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-11 18:43:41 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-11 18:43:41 : _GetPixelColor(+79, +78): 7C7C7C
+2015-07-11 18:43:41 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-11 18:43:41 : _GetPixelColor(+8, +59): 373737
+2015-07-11 18:43:41 : Taking debug snapshot for later review
+2015-07-11 18:43:41 : Lightning Spell
+2015-07-11 18:43:41 : _GetPixelColor(+47, +6): BFBFBF
+2015-07-11 18:43:41 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 18:43:41 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 18:43:41 : _GetPixelColor(+81, +82): 919191
+2015-07-11 18:43:41 : _GetPixelColor(+49, +78): FAFAFA
+2015-07-11 18:43:42 : _GetPixelColor(+79, +78): 808080
+2015-07-11 18:43:42 : _GetPixelColor(+3, +19): D2D2D2
+2015-07-11 18:43:42 : _GetPixelColor(+8, +59): 303030
+2015-07-11 18:43:42 : Taking debug snapshot for later review
+2015-07-11 18:43:42 : Healing Spell
+2015-07-11 18:43:42 : _GetPixelColor(+47, +6): BBBBBB
+2015-07-11 18:43:42 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 18:43:42 : _GetPixelColor(+68, +82): FFFFFF
+2015-07-11 18:43:42 : _GetPixelColor(+81, +82): 8F8F8F
+2015-07-11 18:43:42 : _GetPixelColor(+49, +78): FBFBFB
+2015-07-11 18:43:42 : _GetPixelColor(+79, +78): 7E7E7E
+2015-07-11 18:43:42 : _GetPixelColor(+3, +19): D3D3D3
+2015-07-11 18:43:42 : _GetPixelColor(+8, +59): 303030
+2015-07-11 18:43:42 : Barbarian Red text upgrade value = 
+2015-07-11 18:43:42 : Barbarian White text upgrade value = 1500000
+2015-07-11 18:43:42 : Archer Red text upgrade value = 
+2015-07-11 18:43:42 : Archer White text upgrade value = 2250000
+2015-07-11 18:43:42 : Giant Red text upgrade value = 
+2015-07-11 18:43:42 : Giant White text upgrade value = 750000
+2015-07-11 18:43:42 : Goblin Red text upgrade value = 
+2015-07-11 18:43:42 : Goblin White text upgrade value = 750000
+2015-07-11 18:43:42 : Wall Breaker Red text upgrade value = 
+2015-07-11 18:43:42 : Wall Breaker White text upgrade value = 750000
+2015-07-11 18:43:42 : Balloon Red text upgrade value = 
+2015-07-11 18:43:42 : Balloon White text upgrade value = 2500000
+2015-07-11 18:43:42 : Wizard Red text upgrade value = 
+2015-07-11 18:43:42 : Wizard White text upgrade value = 
+2015-07-11 18:43:42 : Healer Red text upgrade value = 
+2015-07-11 18:43:42 : Healer White text upgrade value = 750000
+2015-07-11 18:43:43 : Dragon Red text upgrade value = 
+2015-07-11 18:43:43 : Dragon White text upgrade value = 3000000
+2015-07-11 18:43:43 : Pekka Red text upgrade value = 
+2015-07-11 18:43:43 : Pekka White text upgrade value = 3000000
+2015-07-11 18:43:43 : Lightning Spell Red text upgrade value = 
+2015-07-11 18:43:43 : Lightning Spell White text upgrade value = 2000000
+2015-07-11 18:43:43 : Healing Spell Red text upgrade value = 
+2015-07-11 18:43:43 : Healing Spell White text upgrade value = 2400000
+2015-07-11 18:43:43 : Click 697,457,1,0 #0200
+2015-07-11 18:43:44 : Taking snapshot for later review
+2015-07-11 18:43:44 : Click 525,490,1,0 #0202
+2015-07-11 18:43:46 : Something went wrong with Healing Spell Upgrade, try again.
+2015-07-11 18:43:46 : Click 1,1,2,200 
+2015-07-11 18:43:46 : Click 1,1,2,200 

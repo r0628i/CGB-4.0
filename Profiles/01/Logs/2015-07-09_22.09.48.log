@@ -1,0 +1,203 @@
+2015-07-09 22:09:49 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 22:09:49 : Executable running on WIN_81  X64
+2015-07-09 22:09:49 : =================== Bot Start ====================
+2015-07-09 22:09:49 : Trying to locate Main Screen
+2015-07-09 22:09:49 : Main Screen Located
+2015-07-09 22:09:50 : Detecting your Buildings..
+2015-07-09 22:09:51 : Town Hall Position: 430, 237
+2015-07-09 22:09:52 : Taking snapshot for later review
+2015-07-09 22:09:57 : Read building Name String = Town Hall (Level 6)
+2015-07-09 22:09:57 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-09 22:09:57 : 2nd $aString = 2, Level 6, 
+2015-07-09 22:09:57 : 3rd $aString = 2, Level, 6
+2015-07-09 22:09:57 : Your Town Hall is Level: 6
+2015-07-09 22:09:58 : Language setting is English: Correct.
+2015-07-09 22:09:59 : Trying to locate Main Screen
+2015-07-09 22:09:59 : Main Screen Located
+2015-07-09 22:10:01 : Profile Report
+2015-07-09 22:10:01 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 22:10:03 :  [ATKW]: 38 [DEFW]: 2 [TDON]: 302 [TREC]: 306
+2015-07-09 22:10:06 : ClashGameBot was Paused!
+2015-07-09 22:10:12 : ClashGameBot was Resumed.
+2015-07-09 22:10:17 : Village Report
+2015-07-09 22:10:17 : No. of Free/Total Builders: 0/3
+2015-07-09 22:10:17 :  [T]: 1 013
+2015-07-09 22:10:17 :  [G]: 1 343 866 [E]: 1 174 835 [GEM]: 632
+2015-07-09 22:10:19 : Donation not Planned, Skipped..
+2015-07-09 22:10:20 : Func Train 
+2015-07-09 22:10:20 : Checking Army Camp...
+2015-07-09 22:10:22 : $sArmyInfo = 69#135
+2015-07-09 22:10:22 : $CurCamp = 69
+2015-07-09 22:10:22 : $TotalCamp = 135
+2015-07-09 22:10:22 : Total Army Camp capacity: 69/135
+2015-07-09 22:10:22 : $hBitmapFirst made
+2015-07-09 22:10:23 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 22:10:25 : Dll return $FullTemp :Archer|8-22|54#Giant|71-23|3
+2015-07-09 22:10:25 : $Trooptype split # : 2
+2015-07-09 22:10:25 : Start the Loop
+2015-07-09 22:10:25 : $TroopTypeT[$i] split : 1
+2015-07-09 22:10:25 :  - No. of Archers: 54
+2015-07-09 22:10:26 : $TroopTypeT[$i] split : 2
+2015-07-09 22:10:26 :  - No. of Giants: 3
+2015-07-09 22:10:26 : Training Troops...
+2015-07-09 22:10:28 : This is not a Barrack
+2015-07-09 22:10:28 : Barrack1 selected
+2015-07-09 22:10:28 : Barrack1 selected
+2015-07-09 22:10:29 : Train: need to make normal troops: True
+2015-07-09 22:10:29 : Train: need to make dark troops: False
+2015-07-09 22:10:29 : Barrack1 selected
+2015-07-09 22:10:29 : Barrack2 selected
+2015-07-09 22:10:29 : Barrack2 selected
+2015-07-09 22:10:30 : Barrack3 selected
+2015-07-09 22:10:30 : Barrack3 selected
+2015-07-09 22:10:31 : This is not a Barrack
+2015-07-09 22:10:31 : This is not a Barrack
+2015-07-09 22:10:31 : This is not a Barrack
+2015-07-09 22:10:31 : This is not a Barrack
+2015-07-09 22:10:31 : This is not a Barrack
+2015-07-09 22:10:33 : Train: need to make normal troops: True
+2015-07-09 22:10:33 : Train: need to make dark troops: False
+2015-07-09 22:10:33 : Barrack3 selected
+2015-07-09 22:10:33 : This is not a Barrack
+2015-07-09 22:10:34 : This is not a Barrack
+2015-07-09 22:10:34 : This is not a Barrack
+2015-07-09 22:10:34 : This is not a Barrack
+2015-07-09 22:10:34 : This is not a Barrack
+2015-07-09 22:10:34 : This is not a Barrack
+2015-07-09 22:10:35 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-09 22:10:35 : -- AnotherTroops to train:0 + 9*5
+2015-07-09 22:10:35 : Need to train Giant:9
+2015-07-09 22:10:35 : -- AnotherTroops to train:45 + 0*2
+2015-07-09 22:10:35 : -- AnotherTroops to train:45 + 0*14
+2015-07-09 22:10:35 : -- AnotherTroops to train:45 + 0*25
+2015-07-09 22:10:35 : -- AnotherTroops to train:45 + 0*5
+2015-07-09 22:10:36 : -- AnotherTroops to train:45 + 0*4
+2015-07-09 22:10:36 : -- AnotherTroops to train:45 + 0*20
+2015-07-09 22:10:36 : -- AnotherTroops dark to train:45 + 0*2
+2015-07-09 22:10:36 : -- AnotherTroops dark to train:45 + 0*5
+2015-07-09 22:10:36 : -- AnotherTroops dark to train:45 + 0*8
+2015-07-09 22:10:36 : -- AnotherTroops dark to train:45 + 0*30
+2015-07-09 22:10:36 : -- AnotherTroops dark to train:45 + 0*12
+2015-07-09 22:10:36 : -- AnotherTroops dark to train:45 + 0*30
+2015-07-09 22:10:36 : --------------AnotherTroops TOTAL to train:45
+2015-07-09 22:10:36 : Need to train (height) GOBL:0 BARB: 36 ARCH: 0 AND 45 other troops space
+2015-07-09 22:10:36 : BARRACKNUM: 3
+2015-07-09 22:10:36 : GiantEBarrack: 2
+2015-07-09 22:10:36 : BarbEBarrack: 12
+2015-07-09 22:10:36 : DARKBARRACKNUM: 1
+2015-07-09 22:10:36 : Barrack3 selected
+2015-07-09 22:10:37 : Call Func TrainIt for Giant
+2015-07-09 22:10:37 : Func GetGemName 2
+2015-07-09 22:10:37 : Func GetFullName 2
+2015-07-09 22:10:38 : Call Func TrainIt for Barb
+2015-07-09 22:10:38 : Func GetGemName 0
+2015-07-09 22:10:38 : Func GetFullName 0
+2015-07-09 22:10:40 : troopSecondGiant: 2
+2015-07-09 22:10:40 : troopSecondBarb: 12
+2015-07-09 22:10:40 : ###CurGiant = 6 - (2 - 0)
+2015-07-09 22:10:40 : ###CurBarb = 36 - (12 - 0)
+2015-07-09 22:10:40 : BARRACK 0 STATUS: True
+2015-07-09 22:10:41 : Barrack2 selected
+2015-07-09 22:10:41 : Barrack2 selected
+2015-07-09 22:10:42 : Call Func TrainIt for Giant
+2015-07-09 22:10:42 : Func GetGemName 2
+2015-07-09 22:10:42 : Func GetFullName 2
+2015-07-09 22:10:43 : Call Func TrainIt for Barb
+2015-07-09 22:10:43 : Func GetGemName 0
+2015-07-09 22:10:43 : Func GetFullName 0
+2015-07-09 22:10:45 : troopSecondGiant: 2
+2015-07-09 22:10:45 : troopSecondBarb: 12
+2015-07-09 22:10:45 : ###CurGiant = 4 - (2 - 0)
+2015-07-09 22:10:45 : ###CurBarb = 24 - (12 - 0)
+2015-07-09 22:10:45 : BARRACK 1 STATUS: True
+2015-07-09 22:10:46 : Barrack1 selected
+2015-07-09 22:10:46 : Barrack1 selected
+2015-07-09 22:10:47 : Call Func TrainIt for Giant
+2015-07-09 22:10:47 : Func GetGemName 2
+2015-07-09 22:10:47 : Func GetFullName 2
+2015-07-09 22:10:48 : Call Func TrainIt for Barb
+2015-07-09 22:10:48 : Func GetGemName 0
+2015-07-09 22:10:48 : Func GetFullName 0
+2015-07-09 22:10:50 : troopSecondGiant: 2
+2015-07-09 22:10:50 : troopSecondBarb: 12
+2015-07-09 22:10:50 : ###CurGiant = 2 - (2 - 0)
+2015-07-09 22:10:50 : ###CurBarb = 12 - (12 - 0)
+2015-07-09 22:10:50 : BARRACK 2 STATUS: True
+2015-07-09 22:10:51 : This is not a Barrack
+2015-07-09 22:10:51 : This is not a Barrack
+2015-07-09 22:10:51 : This is not a Barrack
+2015-07-09 22:10:52 : This is not a Barrack
+2015-07-09 22:10:52 : This is not a Barrack
+2015-07-09 22:10:52 : ---================================================================---
+2015-07-09 22:10:56 : Request CC not Planned, Skipped..
+2015-07-09 22:11:00 : No free builder, Upgrade Walls skipped..
+2015-07-09 22:11:01 : ====== Waiting for full army ======
+2015-07-09 22:11:01 : Donation not Planned, Skipped..
+2015-07-09 22:11:02 : Donation not Planned, Skipped..
+2015-07-09 22:11:04 : Donation not Planned, Skipped..
+2015-07-09 22:11:05 : Donation not Planned, Skipped..
+2015-07-09 22:11:07 : Donation not Planned, Skipped..
+2015-07-09 22:11:08 : Donation not Planned, Skipped..
+2015-07-09 22:11:10 : Donation not Planned, Skipped..
+2015-07-09 22:11:12 : Donation not Planned, Skipped..
+2015-07-09 22:11:13 : Donation not Planned, Skipped..
+2015-07-09 22:11:15 : Donation not Planned, Skipped..
+2015-07-09 22:11:21 : Func Train 
+2015-07-09 22:11:21 : Checking Army Camp...
+2015-07-09 22:11:22 : $sArmyInfo = 69#135
+2015-07-09 22:11:22 : $CurCamp = 69
+2015-07-09 22:11:22 : $TotalCamp = 135
+2015-07-09 22:11:23 : Total Army Camp capacity: 69/135
+2015-07-09 22:11:23 : $hBitmapFirst made
+2015-07-09 22:11:23 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 22:11:24 : Dll return $FullTemp :Archer|8-22|54#Giant|71-23|3
+2015-07-09 22:11:24 : $Trooptype split # : 2
+2015-07-09 22:11:24 : Start the Loop
+2015-07-09 22:11:24 : $TroopTypeT[$i] split : 1
+2015-07-09 22:11:24 :  - No. of Archers: 54
+2015-07-09 22:11:24 : $TroopTypeT[$i] split : 2
+2015-07-09 22:11:24 :  - No. of Giants: 3
+2015-07-09 22:11:24 : Training Troops...
+2015-07-09 22:11:26 : This is not a Barrack
+2015-07-09 22:11:26 : Barrack1 selected
+2015-07-09 22:11:26 : Barrack1 selected
+2015-07-09 22:11:27 : Train: need to make normal troops: True
+2015-07-09 22:11:27 : Train: need to make dark troops: False
+2015-07-09 22:11:27 : Barrack1 selected
+2015-07-09 22:11:28 : Barrack2 selected
+2015-07-09 22:11:28 : Barrack2 selected
+2015-07-09 22:11:28 : Barrack3 selected
+2015-07-09 22:11:28 : Barrack3 selected
+2015-07-09 22:11:29 : This is not a Barrack
+2015-07-09 22:11:29 : This is not a Barrack
+2015-07-09 22:11:29 : This is not a Barrack
+2015-07-09 22:11:30 : This is not a Barrack
+2015-07-09 22:11:30 : This is not a Barrack
+2015-07-09 22:11:31 : Train: need to make normal troops: True
+2015-07-09 22:11:31 : Train: need to make dark troops: False
+2015-07-09 22:11:31 : Barrack3 selected
+2015-07-09 22:11:32 : This is not a Barrack
+2015-07-09 22:11:32 : This is not a Barrack
+2015-07-09 22:11:32 : This is not a Barrack
+2015-07-09 22:11:32 : This is not a Barrack
+2015-07-09 22:11:32 : This is not a Barrack
+2015-07-09 22:11:33 : This is not a Barrack
+2015-07-09 22:11:34 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-09 22:11:34 : BARRACKNUM: 3
+2015-07-09 22:11:34 : DARKBARRACKNUM: 1
+2015-07-09 22:11:34 : Barrack3 selected
+2015-07-09 22:11:34 : ASSIGN TroopFirst.Giant: 2
+2015-07-09 22:11:34 : ASSIGN TroopFirst.Barb: 12
+2015-07-09 22:11:35 : troopSecondGiant: 2
+2015-07-09 22:11:35 : troopSecondBarb: 12
+2015-07-09 22:11:35 : BARRACK 3 STATUS: True
+2015-07-09 22:11:36 : Barrack2 selected
+2015-07-09 22:11:36 : ---================================================================---
+2015-07-09 22:11:39 : Time Idle: 00:00:37
+2015-07-09 22:11:39 : ====== Waiting for full army ======
+2015-07-09 22:11:39 : Donation not Planned, Skipped..
+2015-07-09 22:11:40 : Donation not Planned, Skipped..
+2015-07-09 22:11:42 : Donation not Planned, Skipped..
+2015-07-09 22:11:43 : Donation not Planned, Skipped..
+2015-07-09 22:11:45 : Donation not Planned, Skipped..
+2015-07-09 22:11:47 : Donation not Planned, Skipped..

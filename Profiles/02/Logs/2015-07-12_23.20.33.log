@@ -1,0 +1,140 @@
+2015-07-12 23:20:34 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 23:20:34 : Au3 Script running on WIN_81  X64
+2015-07-12 23:20:34 : =================== Bot Start ====================
+2015-07-12 23:20:34 : Trying to locate Main Screen
+2015-07-12 23:20:34 : Main Screen Located
+2015-07-12 23:20:35 : Detecting your Buildings..
+2015-07-12 23:20:42 : Your Town Hall is Level: 8
+2015-07-12 23:20:43 : Language setting is English: Correct.
+2015-07-12 23:20:44 : Trying to locate Main Screen
+2015-07-12 23:20:44 : Main Screen Located
+2015-07-12 23:20:46 : Collecting Resources
+2015-07-12 23:20:54 : Checking if Village needs Rearming..
+2015-07-12 23:21:05 : Village Report
+2015-07-12 23:21:05 : No. of Free/Total Builders: 0/5
+2015-07-12 23:21:05 :  [T]: 3 137
+2015-07-12 23:21:05 :  [G]: 1 431 130 [E]: 5 763 463 [D]: 79 747 [GEM]: 2 027
+2015-07-12 23:21:07 : Donation not Planned, Skipped..
+2015-07-12 23:21:08 : Checking Army Camp...
+2015-07-12 23:21:10 : Total Army Camp capacity: 200/200
+2015-07-12 23:21:10 : Training Troops...
+2015-07-12 23:21:30 : Request CC not Planned, Skipped..
+2015-07-12 23:21:32 : Checking Upgrade
+2015-07-12 23:21:32 : Updating Village Resource Values
+2015-07-12 23:21:32 : No. of Free/Total Builders: 0/5
+2015-07-12 23:21:32 :  [T]: 3 137
+2015-07-12 23:21:33 :  [G]: 1 431 130 [E]: 5 763 463 [D]: 79 747 [GEM]: 2 027
+2015-07-12 23:21:33 : No builder available for upgrades
+2015-07-12 23:21:34 : No free builder, Upgrade Walls skipped..
+2015-07-12 23:21:36 : Going to Attack...
+2015-07-12 23:21:41 : ============== Searching For Dead Base ===============
+2015-07-12 23:21:41 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 23:21:41 : Meet: Gold or Elixir, TH Outside
+2015-07-12 23:21:41 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 23:21:41 : Aim: [G]:      0 [E]:      0 [D]:    0 [T]: 0, Out
+2015-07-12 23:21:41 : ============== Searching For Live Base ===============
+2015-07-12 23:21:41 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 23:21:41 : Meet: Gold or Elixir, TH Outside
+2015-07-12 23:21:41 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 23:21:41 : Aim: [G]:      0 [E]:      0 [D]:    0 [T]: 0, Out
+2015-07-12 23:21:41 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-07-12 23:21:41 : THSnipe Combo, 1 Tile(s), AttackTH, Attack2:Extreme
+2015-07-12 23:21:41 : ==================================================
+2015-07-12 23:21:49 :   1> [G]: 121553 [E]: 103924 [D]:  906 [T]:19 [TH]:10, In
+2015-07-12 23:21:58 :   2> [G]:  36589 [E]:  61354 [D]:  396 [T]:13 [TH]:10, In
+2015-07-12 23:22:08 :   3> [G]: 149939 [E]:  25642 [D]: 2613 [T]:33 [TH]:10, In
+2015-07-12 23:22:20 :   4> [G]:  76923 [E]: 141052 [D]:  546 [T]:14 [TH]:10, In
+2015-07-12 23:22:32 :   5> [G]: 320436 [E]: 160733 [D]: 3585 [T]:19 [TH]:10, In
+2015-07-12 23:22:42 :   6> [G]:  51204 [E]: 110224 [D]:  433 [T]: 3 [TH]: 9, In
+2015-07-12 23:22:47 :   7> [G]:  62232 [E]: 130089 [D]: 3046 [T]:26 [TH]:10, In
+2015-07-12 23:22:53 :   8> [G]:  52084 [E]:  39938 [D]:  573 [T]: 1 [TH]: 9, In
+2015-07-12 23:23:04 :   9> [G]: 189444 [E]: 153834 [D]: 1824 [T]:33 [TH]:10, In
+2015-07-12 23:23:09 :  10> [G]:  32865 [E]:  70063 [D]: 1332 [T]:25 [TH]:10, In
+2015-07-12 23:23:16 :  11> [G]: 115509 [E]: 132528 [D]:   10 [T]: 1 [TH]: 9, In
+2015-07-12 23:23:23 :  12> [G]:  11425 [E]:   6506 [D]: 1330 [T]: 1 [TH]: 9, In
+2015-07-12 23:23:35 :  13> [G]: 239438 [E]:  71349 [D]: 1700 [T]:20 [TH]:10, In
+2015-07-12 23:23:45 :  14> [G]: 119636 [E]: 119659 [D]: 3534 [T]:23 [TH]:10, In
+2015-07-12 23:23:52 :  15> [G]: 129427 [E]:  29339 [D]:  506 [T]: 3 [TH]: 9, In
+2015-07-12 23:24:02 :  16> [G]: 187895 [E]:  64728 [D]:  353 [T]:29 [TH]:10, In
+2015-07-12 23:24:12 :  17> [G]:  90452 [E]:  71381 [D]:  512 [T]:21 [TH]:10, In
+2015-07-12 23:24:20 :  18> [G]:  12063 [E]:  74815 [D]:  908 [T]: 3 [TH]: 9, In
+2015-07-12 23:24:27 :  19> [G]:  77788 [E]:  91561 [D]: 1507 [T]: 2 [TH]: 9, In
+2015-07-12 23:24:37 :  20> [G]: 304166 [E]:  83812 [D]: 1377 [T]:30 [TH]:10, In
+2015-07-12 23:24:44 :  21> [G]:  22723 [E]: 111773 [D]:  507 [T]: 3 [TH]: 9, In
+2015-07-12 23:24:49 :  22> [G]:  23311 [E]:  58371 [D]:  161 [T]: 1 [TH]: 9, In
+2015-07-12 23:24:57 :  23> [G]:  56738 [E]:  32378 [D]: 1172 [T]: 1 [TH]: 9, In
+2015-07-12 23:25:06 :  24> [G]: 190770 [E]: 144808 [D]: 1212 [T]: 3 [TH]: 9, In
+2015-07-12 23:25:16 :  25> [G]:  69713 [E]: 101322 [D]: 2398 [T]:19 [TH]:10, In
+2015-07-12 23:25:21 :  26> [G]:  50159 [E]:  96449 [D]:  787 [T]: 1 [TH]: 9, In
+2015-07-12 23:25:28 :  27> [G]:  51579 [E]:  95720 [D]:  515 [T]: 2 [TH]: -, -
+2015-07-12 23:25:37 :  28> [G]: 414452 [E]:  67853 [D]:  771 [T]:18 [TH]:10, In
+2015-07-12 23:25:43 :  29> [G]: 160077 [E]: 149451 [D]: 2102 [T]:32 [TH]:10, In
+2015-07-12 23:25:51 :  30> [G]: 186384 [E]:  70956 [D]:  792 [T]: 6 [TH]: 9, In
+2015-07-12 23:25:57 :  31> [G]: 311905 [E]: 159722 [D]: 1033 [T]: 1 [TH]: 8, Out
+2015-07-12 23:25:57 : No major traps found near TH.
+2015-07-12 23:25:57 : ~~~~~~~~~~~~~~~ TH Outside Found! ~~~~~~~~~~~~~~~~
+2015-07-12 23:25:59 : ================ Search Complete =================
+2015-07-12 23:25:59 : Mode: 2
+2015-07-12 23:25:59 : Initiating attack for: TH Snipe
+2015-07-12 23:26:05 : -Archers 12
+2015-07-12 23:26:05 : -Dragons 9
+2015-07-12 23:26:05 : -Minions 4
+2015-07-12 23:26:05 : -King 
+2015-07-12 23:26:05 : -Jump Spells 2
+2015-07-12 23:26:05 : -Rage Spells 2
+2015-07-12 23:26:05 : -Heal Spells 2
+2015-07-12 23:26:05 :  ====== Start Attack ====== 
+2015-07-12 23:26:07 : Extreme Attacking TH Outside with DAM PULSE!
+2015-07-12 23:26:07 : Dropping first wave of 8 Archers
+2015-07-12 23:26:09 : Deployment of Archers Successful!
+2015-07-12 23:26:52 : Dropping first wave of 6 Minions
+2015-07-12 23:26:55 : Deployment of Minions Successful!
+2015-07-12 23:26:55 : Dropping second wave of 8 Archers
+2015-07-12 23:26:57 : Deployment of Archers Successful!
+2015-07-12 23:26:59 : Townhall has been destroyed!
+2015-07-12 23:27:03 : Checking if the battle has finished
+2015-07-12 23:27:04 : detected [G]:  [E]:  [DE]:  |  Exit in 178.2 sec.
+2015-07-12 23:27:05 : Battle has finished
+2015-07-12 23:27:05 : Returning Home
+2015-07-12 23:27:10 : Loot: [G]: 1 000 [E]: 1 000 [DE]: 1 000 [T]: 0
+2015-07-12 23:27:10 : Bonus [G]: 180 000 [E]: 180 000 [DE]: 1 200
+2015-07-12 23:27:13 : Your league level is: Champion
+2015-07-12 23:27:13 : Stars earned: 1
+2015-07-12 23:27:13 : Taking snapshot of your loot
+2015-07-12 23:27:13 : Pushbullet: Last Raid screenshot has been sent!
+2015-07-12 23:27:27 : Trying to locate Main Screen
+2015-07-12 23:27:27 : Main Screen Located
+2015-07-12 23:27:29 : Collecting Resources
+2015-07-12 23:27:37 : Checking if Village needs Rearming..
+2015-07-12 23:27:48 : Village Report
+2015-07-12 23:27:48 : No. of Free/Total Builders: 0/5
+2015-07-12 23:27:48 :  [T]: 3 138
+2015-07-12 23:27:48 :  [G]: 1 595 285 [E]: 5 944 463 [D]: 80 000 [GEM]: 2 027
+2015-07-12 23:27:50 : Donation not Planned, Skipped..
+2015-07-12 23:27:51 : Checking Army Camp...
+2015-07-12 23:27:53 : Total Army Camp capacity: 200/200
+2015-07-12 23:27:53 : Training Troops...
+2015-07-12 23:28:13 : Request CC not Planned, Skipped..
+2015-07-12 23:28:15 : Checking Upgrade
+2015-07-12 23:28:15 : Updating Village Resource Values
+2015-07-12 23:28:15 : No. of Free/Total Builders: 0/5
+2015-07-12 23:28:15 :  [T]: 3 138
+2015-07-12 23:28:16 :  [G]: 1 595 285 [E]: 5 911 000 [D]: 79 965 [GEM]: 2 027
+2015-07-12 23:28:16 : No builder available for upgrades
+2015-07-12 23:28:17 : No free builder, Upgrade Walls skipped..
+2015-07-12 23:28:19 : Going to Attack...
+2015-07-12 23:28:24 : ============== Searching For Dead Base ===============
+2015-07-12 23:28:24 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 23:28:24 : Meet: Gold or Elixir, TH Outside
+2015-07-12 23:28:24 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 23:28:24 : Aim: [G]:      0 [E]:      0 [D]:    0 [T]: 0, Out, Out
+2015-07-12 23:28:24 : ============== Searching For Live Base ===============
+2015-07-12 23:28:24 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 23:28:24 : Meet: Gold or Elixir, TH Outside
+2015-07-12 23:28:24 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 23:28:24 : Aim: [G]:      0 [E]:      0 [D]:    0 [T]: 0, Out, Out
+2015-07-12 23:28:24 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-07-12 23:28:24 : THSnipe Combo, 1 Tile(s), AttackTH, Attack2:Extreme
+2015-07-12 23:28:24 : ==================================================
+2015-07-12 23:28:34 :   1> [G]:  41647 [E]:  21791 [D]: 1549 [T]:21 [TH]:10, In
+2015-07-12 23:28:37 : ClashGameBot was Paused!

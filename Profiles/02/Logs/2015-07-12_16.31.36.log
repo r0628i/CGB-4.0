@@ -1,0 +1,42 @@
+2015-07-12 16:31:37 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 16:31:37 : Au3 Script running on WIN_81  X64
+2015-07-12 16:31:37 : =================== Bot Start ====================
+2015-07-12 16:31:38 : Trying to locate Main Screen
+2015-07-12 16:31:38 : Main Screen Located
+2015-07-12 16:31:39 : Detecting your Buildings..
+2015-07-12 16:31:45 : Your Town Hall is Level: 8
+2015-07-12 16:31:46 : Language setting is English: Correct.
+2015-07-12 16:31:47 : Trying to locate Main Screen
+2015-07-12 16:31:47 : Main Screen Located
+2015-07-12 16:31:50 : Collecting Resources
+2015-07-12 16:31:57 : Checking if Village needs Rearming..
+2015-07-12 16:32:08 : Village Report
+2015-07-12 16:32:08 : No. of Free/Total Builders: 0/5
+2015-07-12 16:32:08 :  [T]: 3 145
+2015-07-12 16:32:08 :  [G]: 643 678 [E]: 6 000 115 [D]: 80 000 [GEM]: 2 027
+2015-07-12 16:32:12 : Chat Request: I need reinforcement troops
+2015-07-12 16:32:14 : Checking Army Camp...
+2015-07-12 16:32:16 : Total Army Camp capacity: 200/200
+2015-07-12 16:32:16 : Training Troops...
+2015-07-12 16:32:36 : Requesting Clan Castle Troops
+2015-07-12 16:32:36 : Your Clan Castle is already full or you are not in a clan.
+2015-07-12 16:32:38 : Checking Upgrade
+2015-07-12 16:32:39 : Updating Village Resource Values
+2015-07-12 16:32:39 : No. of Free/Total Builders: 0/5
+2015-07-12 16:32:39 :  [T]: 3 145
+2015-07-12 16:32:39 :  [G]: 643 678 [E]: 5 911 000 [D]: 79 965 [GEM]: 2 027
+2015-07-12 16:32:39 : No builder available for upgrades
+2015-07-12 16:32:40 : No free builder, Upgrade Walls skipped..
+2015-07-12 16:32:43 : Going to Attack...
+2015-07-12 16:32:48 : ============== Searching For Live Base ===============
+2015-07-12 16:32:48 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 16:32:48 : Meet: Gold or Elixir, TH Outside
+2015-07-12 16:32:48 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 16:32:48 : Aim: [G]: 100000 [E]:      0 [D]:    0 [T]: 0, Out
+2015-07-12 16:32:48 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-07-12 16:32:48 : THSnipe Combo, 1 Tile(s), AttackTH, Attack2:Extreme
+2015-07-12 16:32:48 : ==================================================
+2015-07-12 16:32:54 :   1> [G]: 150933 [E]: 173529 [D]: 1859 [T]:24 [TH]:10, In
+2015-07-12 16:33:07 :   2> [G]: 407022 [E]: 252154 [D]: 3099 [T]:17 [TH]:10, In
+2015-07-12 16:33:15 :   3> [G]: 190792 [E]: 128981 [D]:  N/A [T]:   [TH]: -, -
+2015-07-12 16:33:19 :   4> [G]:        [E]:        [D]:  N/A [T]:   [TH]: -, -

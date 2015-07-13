@@ -1,0 +1,76 @@
+2015-07-12 04:07:47 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 04:07:47 : Au3 Script running on WIN_81  X64
+2015-07-12 04:07:47 : =================== Bot Start ====================
+2015-07-12 04:07:49 : Trying to locate Main Screen
+2015-07-12 04:07:49 : Main Screen Located
+2015-07-12 04:07:50 : Detecting your Buildings..
+2015-07-12 04:07:50 : Town Hall Position: 430, 237
+2015-07-12 04:07:52 : Taking snapshot for later review
+2015-07-12 04:07:55 : Read building Name String = Town Hall (Level 6)
+2015-07-12 04:07:55 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-12 04:07:55 : 2nd $aString = 2, Level 6, 
+2015-07-12 04:07:55 : 3rd $aString = 2, Level, 6
+2015-07-12 04:07:55 : Your Town Hall is Level: 6
+2015-07-12 04:07:56 : Language setting is English: Correct.
+2015-07-12 04:07:57 : Trying to locate Main Screen
+2015-07-12 04:07:57 : Main Screen Located
+2015-07-12 04:07:57 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 04:08:00 : Collecting Resources
+2015-07-12 04:08:07 : Checking if Village needs Rearming..
+2015-07-12 04:08:09 : Taking snapshot for later review
+2015-07-12 04:08:19 : Village Report
+2015-07-12 04:08:19 : No. of Free/Total Builders: 0/3
+2015-07-12 04:08:19 :  [T]: 1 087
+2015-07-12 04:08:19 :  [G]: 1 616 362 [E]: 1 247 536 [GEM]: 672
+2015-07-12 04:08:22 : Func Train 
+2015-07-12 04:08:22 : Checking Army Camp...
+2015-07-12 04:08:24 : $sArmyInfo = 140#140
+2015-07-12 04:08:24 : $CurCamp = 140
+2015-07-12 04:08:24 : $TotalCamp = 140
+2015-07-12 04:08:24 : Total Army Camp capacity: 140/140
+2015-07-12 04:08:24 : Training Troops...
+2015-07-12 04:08:26 : Barrack #1 is available
+2015-07-12 04:08:27 : Barrack #1 selected
+2015-07-12 04:08:27 : Barrack #1 selected
+2015-07-12 04:08:30 : Barrack #2 is available
+2015-07-12 04:08:31 : Barrack #2 selected
+2015-07-12 04:08:31 : Barrack #2 selected
+2015-07-12 04:08:36 : Barrack #3 is available
+2015-07-12 04:08:36 : Barrack #3 selected
+2015-07-12 04:08:36 : Barrack #3 selected
+2015-07-12 04:08:38 : Barrack #4 is not built
+2015-07-12 04:08:38 : Dark Barrack #1 is not built
+2015-07-12 04:08:38 : Dark Barrack #2 is not built
+2015-07-12 04:08:38 : ---================================================================---
+2015-07-12 04:08:42 : Request CC not Planned, Skipped..
+2015-07-12 04:08:45 : No free builder, Upgrade Walls skipped..
+2015-07-12 04:08:49 : Trying to locate Main Screen
+2015-07-12 04:08:49 : Main Screen Located
+2015-07-12 04:08:49 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-12 04:08:52 : Collecting Resources
+2015-07-12 04:08:59 : Checking if Village needs Rearming..
+2015-07-12 04:09:01 : Taking snapshot for later review
+2015-07-12 04:09:11 : Village Report
+2015-07-12 04:09:11 : No. of Free/Total Builders: 0/3
+2015-07-12 04:09:11 :  [T]: 1 087
+2015-07-12 04:09:11 :  [G]: 1 616 362 [E]: 1 247 582 [GEM]: 672
+2015-07-12 04:09:14 : Func Train 
+2015-07-12 04:09:14 : Checking Army Camp...
+2015-07-12 04:09:16 : $sArmyInfo = 140#140
+2015-07-12 04:09:16 : $CurCamp = 140
+2015-07-12 04:09:16 : $TotalCamp = 140
+2015-07-12 04:09:16 : Total Army Camp capacity: 140/140
+2015-07-12 04:09:16 : Training Troops...
+2015-07-12 04:09:18 : Barrack #1 is available
+2015-07-12 04:09:19 : Barrack #1 selected
+2015-07-12 04:09:19 : Barrack #1 selected
+2015-07-12 04:09:22 : Barrack #2 is available
+2015-07-12 04:09:23 : Barrack #2 selected
+2015-07-12 04:09:23 : Barrack #2 selected
+2015-07-12 04:09:28 : Barrack #3 is available
+2015-07-12 04:09:28 : Barrack #3 selected
+2015-07-12 04:09:28 : Barrack #3 selected
+2015-07-12 04:09:30 : Barrack #4 is not built
+2015-07-12 04:09:30 : Dark Barrack #1 is not built
+2015-07-12 04:09:30 : Dark Barrack #2 is not built
+2015-07-12 04:09:30 : ---================================================================---

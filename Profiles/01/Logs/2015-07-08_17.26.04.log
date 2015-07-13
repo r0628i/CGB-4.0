@@ -1,0 +1,47 @@
+2015-07-08 17:26:05 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-08 17:26:05 : Executable running on WIN_81  X64
+2015-07-08 17:26:05 : =================== Bot Start ====================
+2015-07-08 17:26:06 : Trying to locate Main Screen
+2015-07-08 17:26:06 : Main Screen Located
+2015-07-08 17:26:07 : Detecting your Buildings..
+2015-07-08 17:26:07 : Town Hall Position: 430, 237
+2015-07-08 17:26:09 : Taking snapshot for later review
+2015-07-08 17:26:11 : Read building Name String = 
+2015-07-08 17:26:11 : Your Town Hall Level was not found, please restart the bot6
+2015-07-08 17:26:13 : Total No. of Dark Barracks: 1
+2015-07-08 17:26:13 : - Dark Barrack 1: (239,521)
+2015-07-08 17:26:13 : Language setting is English: Correct.
+2015-07-08 17:26:14 : Trying to locate Main Screen
+2015-07-08 17:26:14 : Main Screen Located
+2015-07-08 17:26:16 : Profile Report
+2015-07-08 17:26:16 : Opening Profile page to read atk, def, donated ad received...
+2015-07-08 17:26:18 :  [ATKW]:  [DEFW]:  [TDON]:  [TREC]: 
+2015-07-08 17:26:19 : ClashGameBot was Paused!
+2015-07-08 17:26:28 : ClashGameBot was Resumed.
+2015-07-08 17:26:32 : Checking if Village needs Rearming..
+2015-07-08 17:26:34 : Taking snapshot for later review
+2015-07-08 17:26:43 : Village Report
+2015-07-08 17:26:43 : Cannot get Free/Total Builders
+2015-07-08 17:26:43 : No. of Free/Total Builders: 0/0
+2015-07-08 17:26:43 :  [T]: 
+2015-07-08 17:26:43 :  [G]:  [E]:  [GEM]: 
+2015-07-08 17:26:48 : Func Train 
+2015-07-08 17:26:48 : Checking Army Camp...
+2015-07-08 17:26:49 : $sArmyInfo = 
+2015-07-08 17:26:51 :  $sArmyInfo = 
+2015-07-08 17:26:53 :  $sArmyInfo = 
+2015-07-08 17:26:55 :  $sArmyInfo = 
+2015-07-08 17:26:57 :  $sArmyInfo = 
+2015-07-08 17:26:59 :  $sArmyInfo = 
+2015-07-08 17:26:59 : Army size read error, Troop numbers can't be trained correctly
+2015-07-08 17:27:17 : Army Camp User input = 0
+2015-07-08 17:27:17 : Total Army Camp capacity: 0/0
+2015-07-08 17:27:17 : Training Troops...
+2015-07-08 17:27:19 : This is not a Barrack
+2015-07-08 17:27:20 : This is not a Barrack
+2015-07-08 17:27:20 : This is not a Barrack
+2015-07-08 17:27:20 : This is not a Barrack
+2015-07-08 17:27:20 : This is not a Barrack
+2015-07-08 17:27:20 : Cannot locate a normal Barrack
+2015-07-08 17:27:20 : Train warning 11
+2015-07-08 17:27:21 : ClashGameBot was Paused!

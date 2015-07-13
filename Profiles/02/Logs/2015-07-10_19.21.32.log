@@ -1,0 +1,109 @@
+2015-07-10 19:21:33 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-10 19:21:33 : Au3 Script running on WIN_81  X64
+2015-07-10 19:21:33 : =================== Bot Start ====================
+2015-07-10 19:21:33 : Trying to locate Main Screen
+2015-07-10 19:21:33 : Main Screen Located
+2015-07-10 19:21:34 : Detecting your Buildings..
+2015-07-10 19:21:35 : Town Hall Position: 430, 237
+2015-07-10 19:21:36 : Taking snapshot for later review
+2015-07-10 19:21:41 : Read building Name String = Clan Castle (Level 4)
+2015-07-10 19:21:41 : 1st $aString = 2, Clan Castle , Level 4)
+2015-07-10 19:21:41 : 2nd $aString = 2, Level 4, 
+2015-07-10 19:21:41 : 3rd $aString = 2, Level, 4
+2015-07-10 19:21:41 : Your Town Hall is Level: 4
+2015-07-10 19:21:42 : Language setting is English: Correct.
+2015-07-10 19:21:43 : Trying to locate Main Screen
+2015-07-10 19:21:43 : Main Screen Located
+2015-07-10 19:21:44 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-10 19:21:47 : Collecting Resources
+2015-07-10 19:21:54 : Checking if Village needs Rearming..
+2015-07-10 19:21:56 : Taking snapshot for later review
+2015-07-10 19:22:06 : Village Report
+2015-07-10 19:22:06 : No. of Free/Total Builders: 0/5
+2015-07-10 19:22:06 :  [T]: 3 199
+2015-07-10 19:22:06 :  [G]: 218 049 [E]: 5 907 223 [D]: 79 171 [GEM]: 2 021
+2015-07-10 19:22:10 : Chat Request: dragon balloon
+2015-07-10 19:22:10 : Custom Donation Keyword found: dragon
+2015-07-10 19:22:10 : Donating 1 Dragons
+2015-07-10 19:22:14 : No Archers available to donate..
+2015-07-10 19:22:19 : No Minions available to donate..
+2015-07-10 19:22:21 : Chat Request: 3 orabove dragon
+2015-07-10 19:22:21 : Custom Donation Keyword found: dragon
+2015-07-10 19:22:21 : Donating 1 Dragons
+2015-07-10 19:22:25 : No Archers available to donate..
+2015-07-10 19:22:29 : No Minions available to donate..
+2015-07-10 19:22:31 : Func Train 
+2015-07-10 19:22:31 : Checking Army Camp...
+2015-07-10 19:22:32 : $sArmyInfo = 190#200
+2015-07-10 19:22:32 : $CurCamp = 190
+2015-07-10 19:22:32 : $TotalCamp = 200
+2015-07-10 19:22:33 : Total Army Camp capacity: 190/200
+2015-07-10 19:22:33 : Training Troops...
+2015-07-10 19:22:35 : This is not a Barrack
+2015-07-10 19:22:35 : Barrack1 selected
+2015-07-10 19:22:36 : Barrack1 selected
+2015-07-10 19:22:36 : Barrack1 selected
+2015-07-10 19:22:36 : Barrack2 selected
+2015-07-10 19:22:36 : Barrack2 selected
+2015-07-10 19:22:37 : Barrack3 selected
+2015-07-10 19:22:37 : Barrack3 selected
+2015-07-10 19:22:37 : Barrack4 selected
+2015-07-10 19:22:39 : Barrack3 selected
+2015-07-10 19:22:39 : AfterAttack: True
+2015-07-10 19:22:42 : Barrack2 selected
+2015-07-10 19:22:42 : AfterAttack: True
+2015-07-10 19:22:44 : Barrack1 selected
+2015-07-10 19:22:44 : AfterAttack: True
+2015-07-10 19:22:46 : This is not a Barrack
+2015-07-10 19:22:46 : ---================================================================---
+2015-07-10 19:22:50 : Requesting Clan Castle Troops
+2015-07-10 19:22:54 : Checking Troop Upgrade in Laboratory ...
+2015-07-10 19:22:54 : Updating village values [E]: 5828823 [D]: 79171
+2015-07-10 19:22:56 : Trouble finding research button, try again...
+2015-07-10 19:22:58 : No free builder, Upgrade Walls skipped..
+2015-07-10 19:23:02 : Trying to locate Main Screen
+2015-07-10 19:23:02 : Main Screen Located
+2015-07-10 19:23:02 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-10 19:23:05 : Collecting Resources
+2015-07-10 19:23:12 : Checking if Village needs Rearming..
+2015-07-10 19:23:14 : Taking snapshot for later review
+2015-07-10 19:23:25 : Village Report
+2015-07-10 19:23:25 : No. of Free/Total Builders: 0/5
+2015-07-10 19:23:25 :  [T]: 3 199
+2015-07-10 19:23:25 :  [G]: 218 049 [E]: 5 828 823 [D]: 79 171 [GEM]: 2 021
+2015-07-10 19:23:30 : Func Train 
+2015-07-10 19:23:30 : Checking Army Camp...
+2015-07-10 19:23:31 : $sArmyInfo = 192#200
+2015-07-10 19:23:31 : $CurCamp = 192
+2015-07-10 19:23:31 : $TotalCamp = 200
+2015-07-10 19:23:32 : Total Army Camp capacity: 192/200
+2015-07-10 19:23:32 : Training Troops...
+2015-07-10 19:23:34 : This is not a Barrack
+2015-07-10 19:23:34 : Barrack1 selected
+2015-07-10 19:23:34 : Barrack1 selected
+2015-07-10 19:23:34 : Barrack1 selected
+2015-07-10 19:23:35 : Barrack2 selected
+2015-07-10 19:23:35 : Barrack2 selected
+2015-07-10 19:23:35 : Barrack3 selected
+2015-07-10 19:23:36 : Barrack3 selected
+2015-07-10 19:23:36 : Barrack4 selected
+2015-07-10 19:23:37 : Barrack3 selected
+2015-07-10 19:23:37 : AfterAttack: False
+2015-07-10 19:23:41 : Barrack2 selected
+2015-07-10 19:23:41 : AfterAttack: False
+2015-07-10 19:23:43 : Barrack1 selected
+2015-07-10 19:23:43 : AfterAttack: False
+2015-07-10 19:23:45 : This is not a Barrack
+2015-07-10 19:23:45 : ---================================================================---
+2015-07-10 19:23:49 : Requesting Clan Castle Troops
+2015-07-10 19:23:49 : Request has already been made
+2015-07-10 19:23:51 : Checking Troop Upgrade in Laboratory ...
+2015-07-10 19:23:51 : Updating village values [E]: 5828423 [D]: 79171
+2015-07-10 19:23:52 : Trouble finding research button, try again...
+2015-07-10 19:23:55 : No free builder, Upgrade Walls skipped..
+2015-07-10 19:23:58 : Trying to locate Main Screen
+2015-07-10 19:23:58 : Main Screen Located
+2015-07-10 19:23:59 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-10 19:24:02 : Collecting Resources
+2015-07-10 19:24:09 : Checking if Village needs Rearming..
+2015-07-10 19:24:11 : Taking snapshot for later review

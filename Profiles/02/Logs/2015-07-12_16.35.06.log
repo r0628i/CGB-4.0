@@ -1,0 +1,53 @@
+2015-07-12 16:35:07 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 16:35:07 : Au3 Script running on WIN_81  X64
+2015-07-12 16:35:07 : =================== Bot Start ====================
+2015-07-12 16:35:07 : Trying to locate Main Screen
+2015-07-12 16:35:07 : Main Screen Located
+2015-07-12 16:35:08 : Detecting your Buildings..
+2015-07-12 16:35:13 : Your Town Hall is Level: 8
+2015-07-12 16:35:14 : Language setting is English: Correct.
+2015-07-12 16:35:15 : Trying to locate Main Screen
+2015-07-12 16:35:15 : Main Screen Located
+2015-07-12 16:35:17 : Collecting Resources
+2015-07-12 16:35:25 : Checking if Village needs Rearming..
+2015-07-12 16:35:36 : Village Report
+2015-07-12 16:35:36 : No. of Free/Total Builders: 0/5
+2015-07-12 16:35:36 :  [T]: 3 145
+2015-07-12 16:35:36 :  [G]: 641 938 [E]: 5 911 000 [D]: 79 992 [GEM]: 2 027
+2015-07-12 16:35:40 : Chat Request: I need reinforcement troops
+2015-07-12 16:35:42 : Checking Army Camp...
+2015-07-12 16:35:44 : Total Army Camp capacity: 200/200
+2015-07-12 16:35:44 : Training Troops...
+2015-07-12 16:36:03 : Requesting Clan Castle Troops
+2015-07-12 16:36:04 : Your Clan Castle is already full or you are not in a clan.
+2015-07-12 16:36:06 : Checking Upgrade
+2015-07-12 16:36:07 : Updating Village Resource Values
+2015-07-12 16:36:07 : No. of Free/Total Builders: 0/5
+2015-07-12 16:36:07 :  [T]: 3 145
+2015-07-12 16:36:07 :  [G]: 641 938 [E]: 5 911 000 [D]: 79 965 [GEM]: 2 027
+2015-07-12 16:36:07 : No builder available for upgrades
+2015-07-12 16:36:08 : No free builder, Upgrade Walls skipped..
+2015-07-12 16:36:10 : Going to Attack...
+2015-07-12 16:36:16 : ============== Searching For Live Base ===============
+2015-07-12 16:36:16 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 16:36:16 : Meet: Gold or Elixir, TH Outside
+2015-07-12 16:36:16 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 16:36:16 : Aim: [G]: 100000 [E]:      0 [D]:    0 [T]: 0, Out, Out
+2015-07-12 16:36:16 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-07-12 16:36:16 : THSnipe Combo, 1 Tile(s), AttackTH, Attack2:Extreme
+2015-07-12 16:36:16 : ==================================================
+2015-07-12 16:36:19 :   1> [G]: 114874 [E]:  64985 [D]:  580 [T]:18 [TH]:10, In
+2015-07-12 16:36:29 :   2> [G]:  45029 [E]: 140189 [D]: 1320 [T]:30 [TH]:10, In
+2015-07-12 16:36:38 :   3> [G]:  59691 [E]:  48634 [D]:  757 [T]:13 [TH]:10, In
+2015-07-12 16:36:52 :   4> [G]:  20161 [E]: 131918 [D]:  913 [T]:21 [TH]:10, In
+2015-07-12 16:37:01 :   5> [G]: 289311 [E]:  94014 [D]: 2292 [T]:15 [TH]:10, In
+2015-07-12 16:37:09 :   6> [G]:  42339 [E]:  98574 [D]:  621 [T]: 2 [TH]: 9, In
+2015-07-12 16:37:14 :   7> [G]: 128477 [E]:  56136 [D]:  533 [T]:14 [TH]:10, In
+2015-07-12 16:37:21 :   8> [G]: 109610 [E]:  40455 [D]: 1343 [T]:14 [TH]:10, In
+2015-07-12 16:37:26 :   9> [G]:  29331 [E]:  65115 [D]:  428 [T]: 1 [TH]: 9, In
+2015-07-12 16:37:31 :  10> [G]:  23824 [E]: 155135 [D]:  734 [T]:13 [TH]:10, In
+2015-07-12 16:37:38 :  11> [G]:  13243 [E]:   3632 [D]:  996 [T]: 1 [TH]: 9, In
+2015-07-12 16:37:47 :  12> [G]:  72755 [E]:  69458 [D]: 1260 [T]:17 [TH]:10, In
+2015-07-12 16:37:53 :  13> [G]:  93681 [E]:  37443 [D]: 1316 [T]: 1 [TH]: 9, In
+2015-07-12 16:38:00 :  14> [G]:  44489 [E]:   6663 [D]:  948 [T]: 1 [TH]: 9, In
+2015-07-12 16:38:05 :  15> [G]: 221961 [E]: 144897 [D]:  892 [T]:25 [TH]:10, In

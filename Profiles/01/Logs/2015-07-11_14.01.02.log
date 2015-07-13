@@ -1,0 +1,587 @@
+2015-07-11 14:01:03 : Starting BlueStacks
+2015-07-11 14:01:10 : BlueStacks Loaded, took 7.2 seconds to begin.
+2015-07-11 14:01:11 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-11 14:01:11 : Executable running on WIN_81  X64
+2015-07-11 14:01:11 : =================== Bot Start ====================
+2015-07-11 14:01:11 : Trying to locate Main Screen
+2015-07-11 14:01:15 : Waiting for Main Screen
+2015-07-11 14:01:32 : Zooming Out
+2015-07-11 14:01:34 : Main Screen Located
+2015-07-11 14:01:36 : Detecting your Buildings..
+2015-07-11 14:01:36 : Town Hall Position: 430, 237
+2015-07-11 14:01:37 : ClashGameBot was Paused!
+2015-07-11 14:02:08 : ClashGameBot was Resumed.
+2015-07-11 14:02:08 : Zooming Out
+2015-07-11 14:02:11 : Taking snapshot for later review
+2015-07-11 14:02:18 : Read building Name String = 
+2015-07-11 14:02:18 : Your Town Hall Level was not found, please restart the bot6
+2015-07-11 14:02:19 : Language setting is English: Correct.
+2015-07-11 14:02:20 : Trying to locate Main Screen
+2015-07-11 14:02:20 : Main Screen Located
+2015-07-11 14:02:23 : Collecting Resources
+2015-07-11 14:02:30 : Checking if Village needs Rearming..
+2015-07-11 14:02:32 : Taking snapshot for later review
+2015-07-11 14:02:43 : Village Report
+2015-07-11 14:02:43 : No. of Free/Total Builders: 0/3
+2015-07-11 14:02:43 :  [T]: 1 111
+2015-07-11 14:02:43 :  [G]: 657 668 [E]: 1 339 765 [GEM]: 672
+2015-07-11 14:02:46 : Func Train 
+2015-07-11 14:02:46 : Checking Army Camp...
+2015-07-11 14:02:48 : $sArmyInfo = 140#140
+2015-07-11 14:02:48 : $CurCamp = 140
+2015-07-11 14:02:48 : $TotalCamp = 140
+2015-07-11 14:02:48 : Total Army Camp capacity: 140/140
+2015-07-11 14:02:48 : Training Troops...
+2015-07-11 14:02:50 : This is not a Barrack
+2015-07-11 14:02:51 : Barrack1 selected
+2015-07-11 14:02:51 : Barrack1 selected
+2015-07-11 14:02:51 : Train: need to make normal troops: True
+2015-07-11 14:02:51 : Train: need to make dark troops: False
+2015-07-11 14:02:51 : Barrack1 selected
+2015-07-11 14:02:52 : Barrack2 selected
+2015-07-11 14:02:52 : Barrack2 selected
+2015-07-11 14:02:52 : Barrack3 selected
+2015-07-11 14:02:52 : Barrack3 selected
+2015-07-11 14:02:53 : This is not a Barrack
+2015-07-11 14:02:53 : This is not a Barrack
+2015-07-11 14:02:54 : This is not a Barrack
+2015-07-11 14:02:54 : This is not a Barrack
+2015-07-11 14:02:54 : This is not a Barrack
+2015-07-11 14:02:55 : Your Army Camps are now Full
+2015-07-11 14:02:55 : RESET AT 0 CurArch
+2015-07-11 14:02:55 : RESET AT 0 CurGiant
+2015-07-11 14:02:55 : RESET AT 0 CurWall
+2015-07-11 14:02:55 : RESET AT 0 CurBarb
+2015-07-11 14:02:55 : RESET AT 0 CurGobl
+2015-07-11 14:02:55 : RESET AT 0 CurHeal
+2015-07-11 14:02:55 : RESET AT 0 CurPekk
+2015-07-11 14:02:55 : RESET AT 0 CurBall
+2015-07-11 14:02:55 : RESET AT 0 CurWiza
+2015-07-11 14:02:55 : RESET AT 0 CurDrag
+2015-07-11 14:02:55 : RESET AT 0 CurMini
+2015-07-11 14:02:55 : RESET AT 0 CurHogs
+2015-07-11 14:02:55 : RESET AT 0 CurValk
+2015-07-11 14:02:55 : RESET AT 0 CurGole
+2015-07-11 14:02:55 : RESET AT 0 CurWitc
+2015-07-11 14:02:55 : RESET AT 0 CurLava
+2015-07-11 14:02:55 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:02:55 : -- Compute AnotherTroops to train
+2015-07-11 14:02:55 : Need to train (height) GOBL:14 BARB: 84 ARCH: 42 AND 0 other troops space
+2015-07-11 14:02:55 : BARRACKNUM: 3
+2015-07-11 14:02:55 : ArchEBarrack: 14
+2015-07-11 14:02:55 : BarbEBarrack: 28
+2015-07-11 14:02:55 : GoblEBarrack: 4
+2015-07-11 14:02:55 : DARKBARRACKNUM: 1
+2015-07-11 14:02:55 : Barrack3 selected
+2015-07-11 14:02:57 : Call Func TrainIt for Arch
+2015-07-11 14:02:57 : Func GetGemName 1
+2015-07-11 14:02:57 : Func GetFullName 1
+2015-07-11 14:02:58 : Call Func TrainIt for Barb
+2015-07-11 14:02:58 : Func GetGemName 0
+2015-07-11 14:02:58 : Func GetFullName 0
+2015-07-11 14:03:01 : Call Func TrainIt for Gobl
+2015-07-11 14:03:01 : Func GetGemName 3
+2015-07-11 14:03:01 : Func GetFullName 3
+2015-07-11 14:03:02 : troopSecondArch: 14
+2015-07-11 14:03:03 : troopSecondBarb: 28
+2015-07-11 14:03:03 : troopSecondGobl: 4
+2015-07-11 14:03:03 : ###CurArch = 42 - (14 - 0)
+2015-07-11 14:03:03 : ###CurBarb = 84 - (28 - 0)
+2015-07-11 14:03:03 : ###CurGobl = 14 - (4 - 0)
+2015-07-11 14:03:03 : BARRACK 0 STATUS: True
+2015-07-11 14:03:03 : Barrack2 selected
+2015-07-11 14:03:03 : Barrack2 selected
+2015-07-11 14:03:05 : Call Func TrainIt for Arch
+2015-07-11 14:03:05 : Func GetGemName 1
+2015-07-11 14:03:05 : Func GetFullName 1
+2015-07-11 14:03:06 : Call Func TrainIt for Barb
+2015-07-11 14:03:06 : Func GetGemName 0
+2015-07-11 14:03:06 : Func GetFullName 0
+2015-07-11 14:03:09 : Call Func TrainIt for Gobl
+2015-07-11 14:03:09 : Func GetGemName 3
+2015-07-11 14:03:09 : Func GetFullName 3
+2015-07-11 14:03:10 : troopSecondArch: 14
+2015-07-11 14:03:11 : troopSecondBarb: 28
+2015-07-11 14:03:11 : troopSecondGobl: 4
+2015-07-11 14:03:11 : ###CurArch = 28 - (14 - 0)
+2015-07-11 14:03:11 : ###CurBarb = 56 - (28 - 0)
+2015-07-11 14:03:11 : ###CurGobl = 10 - (4 - 0)
+2015-07-11 14:03:11 : BARRACK 1 STATUS: True
+2015-07-11 14:03:11 : Barrack1 selected
+2015-07-11 14:03:11 : Barrack1 selected
+2015-07-11 14:03:13 : Call Func TrainIt for Arch
+2015-07-11 14:03:13 : Func GetGemName 1
+2015-07-11 14:03:13 : Func GetFullName 1
+2015-07-11 14:03:14 : Call Func TrainIt for Barb
+2015-07-11 14:03:14 : Func GetGemName 0
+2015-07-11 14:03:14 : Func GetFullName 0
+2015-07-11 14:03:17 : Call Func TrainIt for Gobl
+2015-07-11 14:03:17 : Func GetGemName 3
+2015-07-11 14:03:17 : Func GetFullName 3
+2015-07-11 14:03:18 : troopSecondArch: 14
+2015-07-11 14:03:18 : troopSecondBarb: 28
+2015-07-11 14:03:19 : troopSecondGobl: 4
+2015-07-11 14:03:19 : ###CurArch = 14 - (14 - 0)
+2015-07-11 14:03:19 : ###CurBarb = 28 - (28 - 0)
+2015-07-11 14:03:19 : ###CurGobl = 6 - (4 - 0)
+2015-07-11 14:03:19 : BARRACK 2 STATUS: True
+2015-07-11 14:03:19 : This is not a Barrack
+2015-07-11 14:03:20 : This is not a Barrack
+2015-07-11 14:03:20 : This is not a Barrack
+2015-07-11 14:03:20 : This is not a Barrack
+2015-07-11 14:03:21 : This is not a Barrack
+2015-07-11 14:03:21 : ---================================================================---
+2015-07-11 14:03:25 : Requesting Clan Castle Troops
+2015-07-11 14:03:25 : Your Clan Castle is already full or you are not in a clan.
+2015-07-11 14:03:26 : Checking Troop Upgrade in Laboratory ...
+2015-07-11 14:03:27 : Updating village values [E]: 1333865
+2015-07-11 14:03:28 : ButtonPixel = 483, 565
+2015-07-11 14:03:28 : #1: 050702, #2: 708CB0, #3: 603818, #4: D8FF58
+2015-07-11 14:03:28 : Taking snapshot for later review
+2015-07-11 14:03:29 : Taking snapshot for later review
+2015-07-11 14:03:29 : Taking debug snapshot for later review
+2015-07-11 14:03:30 : Barbarian
+2015-07-11 14:03:30 : _GetPixelColor(+47, +6): DFDFDF
+2015-07-11 14:03:30 : _GetPixelColor(+68, +79): 818181
+2015-07-11 14:03:30 : _GetPixelColor(+68, +82): 000000
+2015-07-11 14:03:30 : _GetPixelColor(+81, +82): A6A6A6
+2015-07-11 14:03:30 : _GetPixelColor(+49, +78): 000000
+2015-07-11 14:03:30 : _GetPixelColor(+79, +78): A6A6A6
+2015-07-11 14:03:30 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-11 14:03:30 : _GetPixelColor(+8, +59): C9C9C9
+2015-07-11 14:03:30 : Taking debug snapshot for later review
+2015-07-11 14:03:30 : Archer
+2015-07-11 14:03:30 : _GetPixelColor(+47, +6): 9C9C9C
+2015-07-11 14:03:30 : _GetPixelColor(+68, +79): 8E8E8E
+2015-07-11 14:03:30 : _GetPixelColor(+68, +82): 000000
+2015-07-11 14:03:30 : _GetPixelColor(+81, +82): 6E6E6E
+2015-07-11 14:03:30 : _GetPixelColor(+49, +78): 000000
+2015-07-11 14:03:30 : _GetPixelColor(+79, +78): 6F6F6F
+2015-07-11 14:03:30 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-11 14:03:30 : _GetPixelColor(+8, +59): 757575
+2015-07-11 14:03:30 : Taking debug snapshot for later review
+2015-07-11 14:03:31 : Giant
+2015-07-11 14:03:31 : _GetPixelColor(+47, +6): FFE1AB
+2015-07-11 14:03:31 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 14:03:31 : _GetPixelColor(+68, +82): FFFFFF
+2015-07-11 14:03:31 : _GetPixelColor(+81, +82): E46AE3
+2015-07-11 14:03:31 : _GetPixelColor(+49, +78): FEFFFF
+2015-07-11 14:03:31 : _GetPixelColor(+79, +78): EE44DE
+2015-07-11 14:03:31 : _GetPixelColor(+3, +19): 98EEF5
+2015-07-11 14:03:31 : _GetPixelColor(+8, +59): 32383C
+2015-07-11 14:03:31 : Taking debug snapshot for later review
+2015-07-11 14:03:31 : Goblin
+2015-07-11 14:03:31 : _GetPixelColor(+47, +6): C1C1C1
+2015-07-11 14:03:31 : _GetPixelColor(+68, +79): 575757
+2015-07-11 14:03:31 : _GetPixelColor(+68, +82): 000000
+2015-07-11 14:03:31 : _GetPixelColor(+81, +82): A4A4A4
+2015-07-11 14:03:31 : _GetPixelColor(+49, +78): 000000
+2015-07-11 14:03:31 : _GetPixelColor(+79, +78): 878787
+2015-07-11 14:03:31 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-11 14:03:31 : _GetPixelColor(+8, +59): 676767
+2015-07-11 14:03:31 : Taking debug snapshot for later review
+2015-07-11 14:03:32 : Wall Breaker
+2015-07-11 14:03:32 : _GetPixelColor(+47, +6): BEBEBE
+2015-07-11 14:03:32 : _GetPixelColor(+68, +79): EAEAEA
+2015-07-11 14:03:32 : _GetPixelColor(+68, +82): 424242
+2015-07-11 14:03:32 : _GetPixelColor(+81, +82): 8E8E8E
+2015-07-11 14:03:32 : _GetPixelColor(+49, +78): DCDCDC
+2015-07-11 14:03:32 : _GetPixelColor(+79, +78): 7A7A7A
+2015-07-11 14:03:32 : _GetPixelColor(+3, +19): B2B2B2
+2015-07-11 14:03:32 : _GetPixelColor(+8, +59): 292929
+2015-07-11 14:03:32 : Taking debug snapshot for later review
+2015-07-11 14:03:32 : Balloon
+2015-07-11 14:03:32 : _GetPixelColor(+47, +6): 777777
+2015-07-11 14:03:32 : _GetPixelColor(+68, +79): 5A5A5A
+2015-07-11 14:03:32 : _GetPixelColor(+68, +82): 292929
+2015-07-11 14:03:32 : _GetPixelColor(+81, +82): 6E6E6E
+2015-07-11 14:03:32 : _GetPixelColor(+49, +78): 000000
+2015-07-11 14:03:32 : _GetPixelColor(+79, +78): 717171
+2015-07-11 14:03:32 : _GetPixelColor(+3, +19): B3B3B3
+2015-07-11 14:03:32 : _GetPixelColor(+8, +59): B3B3B3
+2015-07-11 14:03:32 : Taking debug snapshot for later review
+2015-07-11 14:03:33 : Wizard
+2015-07-11 14:03:33 : _GetPixelColor(+47, +6): 7E7E7E
+2015-07-11 14:03:33 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 14:03:33 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 14:03:33 : _GetPixelColor(+81, +82): 909090
+2015-07-11 14:03:33 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-11 14:03:33 : _GetPixelColor(+79, +78): 7F7F7F
+2015-07-11 14:03:33 : _GetPixelColor(+3, +19): CCCCCC
+2015-07-11 14:03:33 : _GetPixelColor(+8, +59): 303030
+2015-07-11 14:03:33 : Taking debug snapshot for later review
+2015-07-11 14:03:33 : Healer
+2015-07-11 14:03:33 : _GetPixelColor(+47, +6): E8E8E0
+2015-07-11 14:03:33 : _GetPixelColor(+68, +79): BEBEBA
+2015-07-11 14:03:33 : _GetPixelColor(+68, +82): E3E3DF
+2015-07-11 14:03:33 : _GetPixelColor(+81, +82): E3E3DF
+2015-07-11 14:03:33 : _GetPixelColor(+49, +78): CBCBC7
+2015-07-11 14:03:33 : _GetPixelColor(+79, +78): CFCFCB
+2015-07-11 14:03:33 : _GetPixelColor(+3, +19): E8E8E0
+2015-07-11 14:03:33 : _GetPixelColor(+8, +59): E8E8E0
+2015-07-11 14:03:33 : Taking debug snapshot for later review
+2015-07-11 14:03:34 : Dragon
+2015-07-11 14:03:34 : _GetPixelColor(+47, +6): E8E8E0
+2015-07-11 14:03:34 : _GetPixelColor(+68, +79): E7E7DF
+2015-07-11 14:03:34 : _GetPixelColor(+68, +82): E8E8E0
+2015-07-11 14:03:34 : _GetPixelColor(+81, +82): D6D6D2
+2015-07-11 14:03:34 : _GetPixelColor(+49, +78): 9C9C98
+2015-07-11 14:03:34 : _GetPixelColor(+79, +78): D3D3CF
+2015-07-11 14:03:34 : _GetPixelColor(+3, +19): E8E8E0
+2015-07-11 14:03:34 : _GetPixelColor(+8, +59): E8E8E0
+2015-07-11 14:03:34 : Taking debug snapshot for later review
+2015-07-11 14:03:34 : Pekka
+2015-07-11 14:03:34 : _GetPixelColor(+47, +6): E8E8E0
+2015-07-11 14:03:34 : _GetPixelColor(+68, +79): ACACA8
+2015-07-11 14:03:34 : _GetPixelColor(+68, +82): ADADA9
+2015-07-11 14:03:34 : _GetPixelColor(+81, +82): B0B0AC
+2015-07-11 14:03:34 : _GetPixelColor(+49, +78): 969692
+2015-07-11 14:03:34 : _GetPixelColor(+79, +78): B0B0AC
+2015-07-11 14:03:34 : _GetPixelColor(+3, +19): E8E8E0
+2015-07-11 14:03:34 : _GetPixelColor(+8, +59): 93938F
+2015-07-11 14:03:34 : Taking debug snapshot for later review
+2015-07-11 14:03:35 : Lightning Spell
+2015-07-11 14:03:35 : _GetPixelColor(+47, +6): BFBFBF
+2015-07-11 14:03:35 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 14:03:35 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 14:03:35 : _GetPixelColor(+81, +82): 919191
+2015-07-11 14:03:35 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-11 14:03:35 : _GetPixelColor(+79, +78): 808080
+2015-07-11 14:03:35 : _GetPixelColor(+3, +19): D2D2D2
+2015-07-11 14:03:35 : _GetPixelColor(+8, +59): 303030
+2015-07-11 14:03:35 : Taking debug snapshot for later review
+2015-07-11 14:03:35 : Healing Spell
+2015-07-11 14:03:35 : _GetPixelColor(+47, +6): BBBBBB
+2015-07-11 14:03:35 : _GetPixelColor(+68, +79): 8C8C8C
+2015-07-11 14:03:35 : _GetPixelColor(+68, +82): 010101
+2015-07-11 14:03:35 : _GetPixelColor(+81, +82): A6A6A6
+2015-07-11 14:03:35 : _GetPixelColor(+49, +78): 000000
+2015-07-11 14:03:35 : _GetPixelColor(+79, +78): A6A6A6
+2015-07-11 14:03:35 : _GetPixelColor(+3, +19): D3D3D3
+2015-07-11 14:03:35 : _GetPixelColor(+8, +59): 606060
+2015-07-11 14:03:35 : Barbarian Red text upgrade value = 
+2015-07-11 14:03:35 : Barbarian White text upgrade value = 
+2015-07-11 14:03:36 : Archer Red text upgrade value = 
+2015-07-11 14:03:36 : Archer White text upgrade value = 
+2015-07-11 14:03:36 : Giant Red text upgrade value = 
+2015-07-11 14:03:36 : Giant White text upgrade value = 250000
+2015-07-11 14:03:36 : Goblin Red text upgrade value = 
+2015-07-11 14:03:36 : Goblin White text upgrade value = 
+2015-07-11 14:03:36 : Wall Breaker Red text upgrade value = 
+2015-07-11 14:03:36 : Wall Breaker White text upgrade value = 250000
+2015-07-11 14:03:36 : Balloon Red text upgrade value = 
+2015-07-11 14:03:36 : Balloon White text upgrade value = 
+2015-07-11 14:03:36 : Wizard Red text upgrade value = 
+2015-07-11 14:03:36 : Wizard White text upgrade value = 450000
+2015-07-11 14:03:36 : Healer Red text upgrade value = 
+2015-07-11 14:03:36 : Healer White text upgrade value = 
+2015-07-11 14:03:36 : Dragon Red text upgrade value = 
+2015-07-11 14:03:36 : Dragon White text upgrade value = 
+2015-07-11 14:03:36 : Pekka Red text upgrade value = 
+2015-07-11 14:03:36 : Pekka White text upgrade value = 
+2015-07-11 14:03:36 : Lightning Spell Red text upgrade value = 
+2015-07-11 14:03:36 : Lightning Spell White text upgrade value = 1000000
+2015-07-11 14:03:36 : Healing Spell Red text upgrade value = 
+2015-07-11 14:03:36 : Healing Spell White text upgrade value = 
+2015-07-11 14:03:38 : Taking snapshot for later review
+2015-07-11 14:03:40 : Something went wrong with Giant Upgrade, try again.
+2015-07-11 14:03:44 : No free builder, Upgrade Walls skipped..
+2015-07-11 14:03:46 : Going to Attack...
+2015-07-11 14:03:50 : Shield btn clr chk-#1: 000000, #2: 000000, #3: FFFFFF, #4: FEFEFD
+2015-07-11 14:03:50 : ButtonPixel = 441, 374
+2015-07-11 14:03:50 : Pixel color found #1: 000000, #2: 000000, #3: FFFFFF, #4: FEFEFD
+2015-07-11 14:03:51 : ============== Searching For Dead Base ===============
+2015-07-11 14:03:51 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-11 14:03:51 : Meet: Gold and Elixir, Max TH 7
+2015-07-11 14:03:51 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-11 14:03:51 : Aim: [G]: 120000 [E]:  80000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-11 14:03:51 : ============== Searching For Live Base ===============
+2015-07-11 14:03:51 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-11 14:03:51 : Meet: Gold and Elixir, Max TH 4-6, TH Outside
+2015-07-11 14:03:51 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-11 14:03:51 : Aim: [G]: 100000 [E]:  60000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-11 14:03:51 : ==================================================
+2015-07-11 14:03:52 : Loop to clean screen without Clouds , n?:1
+2015-07-11 14:03:53 :   1> [G]: 130209 [E]:  91773 [D]:  N/A [T]:27 [TH]:4-6, In
+2015-07-11 14:03:53 : $ZSExclude :0
+2015-07-11 14:03:54 : ~~~~~~~~~~~~~~~~ Dead Base Found! ~~~~~~~~~~~~~~~~
+2015-07-11 14:03:55 : ================ Search Complete =================
+2015-07-11 14:03:55 : Initiating attack for: Dead Base
+2015-07-11 14:04:01 : -Barbarians 23
+2015-07-11 14:04:01 : -Archers 57
+2015-07-11 14:04:01 : -Giants 12
+2015-07-11 14:04:01 : -Clan Castle 
+2015-07-11 14:04:01 : -Rage Spells 2
+2015-07-11 14:04:01 : -Heal Spells 2
+2015-07-11 14:04:01 :  ====== Start Attack ====== 
+2015-07-11 14:04:03 : Calculating Smart Attack Strategy
+2015-07-11 14:04:05 : Calculated  (in 1.99 seconds) :
+2015-07-11 14:04:05 : Locating Village Pump & Mines
+2015-07-11 14:04:09 : Located  (in 3.65 seconds) :
+2015-07-11 14:04:09 : [6] Gold Mines
+2015-07-11 14:04:09 : [0] Elixir Collectors
+2015-07-11 14:04:09 : [0] Dark Elixir Drill/s
+2015-07-11 14:04:09 : Attacking on all sides
+2015-07-11 14:04:11 : Dropping first wave of Giants 12
+2015-07-11 14:04:17 : Dropping first wave of Barbarians 12
+2015-07-11 14:04:19 : Dropping first wave of Archers 29
+2015-07-11 14:04:23 : Dropping Clan Castle
+2015-07-11 14:04:24 : Dropping second wave of Barbarians 12
+2015-07-11 14:04:26 : Dropping second wave of Archers 29
+2015-07-11 14:04:31 :  CheckHeroesHealth started 
+2015-07-11 14:04:33 : Dropping left over troops
+2015-07-11 14:04:33 : Checking remaining unused troops for: Dead Base
+2015-07-11 14:04:36 : -Archers 0
+2015-07-11 14:04:36 : -Rage Spells 2
+2015-07-11 14:04:36 : -Heal Spells 2
+2015-07-11 14:04:36 :  CheckHeroesHealth started 
+2015-07-11 14:04:37 :  CheckHeroesHealth started 
+2015-07-11 14:04:37 :  CheckHeroesHealth started 
+2015-07-11 14:04:38 :  CheckHeroesHealth started 
+2015-07-11 14:04:39 :  CheckHeroesHealth started 
+2015-07-11 14:04:39 :  CheckHeroesHealth started 
+2015-07-11 14:04:41 :  CheckHeroesHealth started 
+2015-07-11 14:04:41 :  CheckHeroesHealth started 
+2015-07-11 14:04:42 :  CheckHeroesHealth started 
+2015-07-11 14:04:42 :  CheckHeroesHealth started 
+2015-07-11 14:04:43 :  CheckHeroesHealth started 
+2015-07-11 14:04:44 :  CheckHeroesHealth started 
+2015-07-11 14:04:44 :  CheckHeroesHealth started 
+2015-07-11 14:04:45 :  CheckHeroesHealth started 
+2015-07-11 14:04:45 :  CheckHeroesHealth started 
+2015-07-11 14:04:46 :  CheckHeroesHealth started 
+2015-07-11 14:04:47 : Checking remaining unused troops for: Dead Base
+2015-07-11 14:04:50 : -Archers 0
+2015-07-11 14:04:50 : -Rage Spells 2
+2015-07-11 14:04:50 : -Heal Spells 2
+2015-07-11 14:04:50 :  CheckHeroesHealth started 
+2015-07-11 14:04:51 :  CheckHeroesHealth started 
+2015-07-11 14:04:51 :  CheckHeroesHealth started 
+2015-07-11 14:04:52 :  CheckHeroesHealth started 
+2015-07-11 14:04:52 :  CheckHeroesHealth started 
+2015-07-11 14:04:53 :  CheckHeroesHealth started 
+2015-07-11 14:04:54 :  CheckHeroesHealth started 
+2015-07-11 14:04:54 :  CheckHeroesHealth started 
+2015-07-11 14:04:55 :  CheckHeroesHealth started 
+2015-07-11 14:04:55 :  CheckHeroesHealth started 
+2015-07-11 14:04:56 :  CheckHeroesHealth started 
+2015-07-11 14:04:57 :  CheckHeroesHealth started 
+2015-07-11 14:04:57 :  CheckHeroesHealth started 
+2015-07-11 14:04:58 :  CheckHeroesHealth started 
+2015-07-11 14:04:58 :  CheckHeroesHealth started 
+2015-07-11 14:04:59 :  CheckHeroesHealth started 
+2015-07-11 14:05:00 : Finished Attacking, waiting for the battle to end
+2015-07-11 14:05:00 : Checking if the battle has finished
+2015-07-11 14:05:00 :  CheckHeroesHealth started 
+2015-07-11 14:05:01 : detected [G]: 46708 [E]: 37509 [DE]:  |  Exit in 18.7 sec.
+2015-07-11 14:05:01 :  CheckHeroesHealth started 
+2015-07-11 14:05:03 : detected [G]: 46708 [E]: 37509 [DE]:  |  Exit in 17.3 sec.
+2015-07-11 14:05:03 :  CheckHeroesHealth started 
+2015-07-11 14:05:04 : detected [G]: 46708 [E]: 37509 [DE]:  |  Exit in 15.8 sec.
+2015-07-11 14:05:04 :  CheckHeroesHealth started 
+2015-07-11 14:05:05 : detected [G]: 46708 [E]: 37509 [DE]:  |  Exit in 14.5 sec.
+2015-07-11 14:05:05 :  CheckHeroesHealth started 
+2015-07-11 14:05:07 : detected [G]: 46708 [E]: 37509 [DE]:  |  Exit in 13.0 sec.
+2015-07-11 14:05:07 :  CheckHeroesHealth started 
+2015-07-11 14:05:08 : detected [G]: 46708 [E]: 37509 [DE]:  |  Exit in 11.6 sec.
+2015-07-11 14:05:08 :  CheckHeroesHealth started 
+2015-07-11 14:05:10 : detected [G]: 46708 [E]: 33868 [DE]:  |  Exit in 10.2 sec.
+2015-07-11 14:05:10 : Gold1: 46708  Gold2: 46708
+2015-07-11 14:05:10 : Elixir1: 37509  Elixir2: 33868
+2015-07-11 14:05:10 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-11 14:05:10 : Gold & Elixir & DE change detected, waiting...
+2015-07-11 14:05:11 :  CheckHeroesHealth started 
+2015-07-11 14:05:12 : detected [G]: 46708 [E]: 26586 [DE]:  |  Exit in 18.7 sec.
+2015-07-11 14:05:12 : Gold1: 46708  Gold2: 46708
+2015-07-11 14:05:12 : Elixir1: 30227  Elixir2: 26586
+2015-07-11 14:05:12 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-11 14:05:12 : Gold & Elixir & DE change detected, waiting...
+2015-07-11 14:05:14 :  CheckHeroesHealth started 
+2015-07-11 14:05:15 : detected [G]: 46708 [E]: 19304 [DE]:  |  Exit in 18.7 sec.
+2015-07-11 14:05:15 : Gold1: 46708  Gold2: 46708
+2015-07-11 14:05:15 : Elixir1: 22945  Elixir2: 19304
+2015-07-11 14:05:15 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-11 14:05:15 : Gold & Elixir & DE change detected, waiting...
+2015-07-11 14:05:17 :  CheckHeroesHealth started 
+2015-07-11 14:05:18 : detected [G]: 46708 [E]: 15663 [DE]:  |  Exit in 18.7 sec.
+2015-07-11 14:05:18 :  CheckHeroesHealth started 
+2015-07-11 14:05:19 : detected [G]: 46708 [E]: 12021 [DE]:  |  Exit in 17.2 sec.
+2015-07-11 14:05:19 : Gold1: 46708  Gold2: 46708
+2015-07-11 14:05:19 : Elixir1: 15663  Elixir2: 12021
+2015-07-11 14:05:19 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-11 14:05:19 : Gold & Elixir & DE change detected, waiting...
+2015-07-11 14:05:21 :  CheckHeroesHealth started 
+2015-07-11 14:05:22 : detected [G]: 46708 [E]: 10200 [DE]:  |  Exit in 18.7 sec.
+2015-07-11 14:05:22 :  CheckHeroesHealth started 
+2015-07-11 14:05:23 : detected [G]: 43661 [E]: 10200 [DE]:  |  Exit in 17.2 sec.
+2015-07-11 14:05:24 : Gold1: 46708  Gold2: 43661
+2015-07-11 14:05:24 : Elixir1: 10200  Elixir2: 10200
+2015-07-11 14:05:24 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-11 14:05:24 : Gold & Elixir & DE change detected, waiting...
+2015-07-11 14:05:25 :  CheckHeroesHealth started 
+2015-07-11 14:05:26 : detected [G]: 40614 [E]: 10200 [DE]:  |  Exit in 18.7 sec.
+2015-07-11 14:05:26 :  CheckHeroesHealth started 
+2015-07-11 14:05:28 : detected [G]: 37567 [E]: 10200 [DE]:  |  Exit in 17.3 sec.
+2015-07-11 14:05:28 : Gold1: 40614  Gold2: 37567
+2015-07-11 14:05:28 : Elixir1: 10200  Elixir2: 10200
+2015-07-11 14:05:28 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-11 14:05:28 : Gold & Elixir & DE change detected, waiting...
+2015-07-11 14:05:29 :  CheckHeroesHealth started 
+2015-07-11 14:05:30 : detected [G]: 31473 [E]: 10200 [DE]:  |  Exit in 18.7 sec.
+2015-07-11 14:05:30 : Gold1: 34520  Gold2: 31473
+2015-07-11 14:05:30 : Elixir1: 10200  Elixir2: 10200
+2015-07-11 14:05:30 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-11 14:05:30 : Gold & Elixir & DE change detected, waiting...
+2015-07-11 14:05:32 :  CheckHeroesHealth started 
+2015-07-11 14:05:33 : detected [G]: 25378 [E]: 10200 [DE]:  |  Exit in 18.7 sec.
+2015-07-11 14:05:33 : Gold1: 28426  Gold2: 25378
+2015-07-11 14:05:33 : Elixir1: 10200  Elixir2: 10200
+2015-07-11 14:05:33 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-11 14:05:33 : Gold & Elixir & DE change detected, waiting...
+2015-07-11 14:05:35 :  CheckHeroesHealth started 
+2015-07-11 14:05:36 : detected [G]: 23854 [E]: 10200 [DE]:  |  Exit in 18.7 sec.
+2015-07-11 14:05:36 :  CheckHeroesHealth started 
+2015-07-11 14:05:37 : detected [G]: 23854 [E]: 10200 [DE]:  |  Exit in 17.3 sec.
+2015-07-11 14:05:37 :  CheckHeroesHealth started 
+2015-07-11 14:05:39 : detected [G]: 23854 [E]: 10200 [DE]:  |  Exit in 15.9 sec.
+2015-07-11 14:05:39 :  CheckHeroesHealth started 
+2015-07-11 14:05:41 : detected [G]: 23854 [E]: 10200 [DE]:  |  Exit in 13.5 sec.
+2015-07-11 14:05:41 :  CheckHeroesHealth started 
+2015-07-11 14:05:42 : detected [G]: 23854 [E]: 10200 [DE]:  |  Exit in 12.0 sec.
+2015-07-11 14:05:43 :  CheckHeroesHealth started 
+2015-07-11 14:05:44 : detected [G]: 23854 [E]: 6200 [DE]:  |  Exit in 10.6 sec.
+2015-07-11 14:05:44 : Gold1: 23854  Gold2: 23854
+2015-07-11 14:05:44 : Elixir1: 10200  Elixir2: 6200
+2015-07-11 14:05:44 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-11 14:05:44 : Gold & Elixir & DE change detected, waiting...
+2015-07-11 14:05:45 :  CheckHeroesHealth started 
+2015-07-11 14:05:47 : detected [G]: 23854 [E]: 2200 [DE]:  |  Exit in 18.7 sec.
+2015-07-11 14:05:47 : Gold1: 23854  Gold2: 23854
+2015-07-11 14:05:47 : Elixir1: 6200  Elixir2: 2200
+2015-07-11 14:05:47 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-11 14:05:47 : Gold & Elixir & DE change detected, waiting...
+2015-07-11 14:05:48 :  CheckHeroesHealth started 
+2015-07-11 14:05:49 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 18.6 sec.
+2015-07-11 14:05:49 :  CheckHeroesHealth started 
+2015-07-11 14:05:51 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 17.2 sec.
+2015-07-11 14:05:51 :  CheckHeroesHealth started 
+2015-07-11 14:05:52 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 15.8 sec.
+2015-07-11 14:05:52 :  CheckHeroesHealth started 
+2015-07-11 14:05:54 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 14.4 sec.
+2015-07-11 14:05:54 :  CheckHeroesHealth started 
+2015-07-11 14:05:55 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 13.0 sec.
+2015-07-11 14:05:55 :  CheckHeroesHealth started 
+2015-07-11 14:05:56 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 11.6 sec.
+2015-07-11 14:05:56 :  CheckHeroesHealth started 
+2015-07-11 14:05:58 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 10.2 sec.
+2015-07-11 14:05:58 :  CheckHeroesHealth started 
+2015-07-11 14:05:59 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 8.8 sec.
+2015-07-11 14:05:59 :  CheckHeroesHealth started 
+2015-07-11 14:06:01 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 7.4 sec.
+2015-07-11 14:06:01 :  CheckHeroesHealth started 
+2015-07-11 14:06:02 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 6.1 sec.
+2015-07-11 14:06:02 :  CheckHeroesHealth started 
+2015-07-11 14:06:03 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 4.7 sec.
+2015-07-11 14:06:03 :  CheckHeroesHealth started 
+2015-07-11 14:06:05 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 3.3 sec.
+2015-07-11 14:06:05 :  CheckHeroesHealth started 
+2015-07-11 14:06:06 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 1.9 sec.
+2015-07-11 14:06:06 :  CheckHeroesHealth started 
+2015-07-11 14:06:07 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 0.5 sec.
+2015-07-11 14:06:08 :  CheckHeroesHealth started 
+2015-07-11 14:06:09 : detected [G]: 23854 [E]: 1000 [DE]:  |  Exit in 0.0 sec.
+2015-07-11 14:06:09 : Gold & Elixir & DE no change detected, exit
+2015-07-11 14:06:09 : Returning Home
+2015-07-11 14:06:14 : Loot: [G]: 106 355 [E]: 90 773 [DE]: 90 773 [T]: 0
+2015-07-11 14:06:15 : Bonus [G]: 3 000 [E]: 3 000
+2015-07-11 14:06:16 : Your league level is: Silver II
+2015-07-11 14:06:16 : Stars earned: 1
+2015-07-11 14:06:16 : Taking snapshot of your loot
+2015-07-11 14:06:16 : Pushbullet: Last Raid screenshot has been sent!
+2015-07-11 14:06:29 : Trying to locate Main Screen
+2015-07-11 14:06:29 : Main Screen Located
+2015-07-11 14:06:32 : Collecting Resources
+2015-07-11 14:06:40 : Checking if Village needs Rearming..
+2015-07-11 14:06:42 : Taking snapshot for later review
+2015-07-11 14:06:52 : Village Report
+2015-07-11 14:06:52 : No. of Free/Total Builders: 0/3
+2015-07-11 14:06:52 :  [T]: 1 120
+2015-07-11 14:06:53 :  [G]: 767 123 [E]: 1 427 815 [GEM]: 672
+2015-07-11 14:06:56 : Func Train 
+2015-07-11 14:06:56 : Checking Army Camp...
+2015-07-11 14:06:57 : $sArmyInfo = 24#140
+2015-07-11 14:06:57 : $CurCamp = 24
+2015-07-11 14:06:57 : $TotalCamp = 140
+2015-07-11 14:06:58 : Total Army Camp capacity: 24/140
+2015-07-11 14:06:58 : $hBitmapFirst made
+2015-07-11 14:06:58 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:06:59 : Dll return $FullTemp :Archer|8-22|24
+2015-07-11 14:06:59 : $Trooptype split # : 1
+2015-07-11 14:06:59 : Start the Loop
+2015-07-11 14:06:59 : $TroopTypeT[$i] split : 1
+2015-07-11 14:06:59 :  - No. of Archers: 24
+2015-07-11 14:06:59 : Training Troops...
+2015-07-11 14:07:01 : This is not a Barrack
+2015-07-11 14:07:01 : Barrack1 selected
+2015-07-11 14:07:02 : Barrack1 selected
+2015-07-11 14:07:02 : Train: need to make normal troops: True
+2015-07-11 14:07:02 : Train: need to make dark troops: False
+2015-07-11 14:07:02 : Barrack1 selected
+2015-07-11 14:07:03 : Barrack2 selected
+2015-07-11 14:07:03 : Barrack2 selected
+2015-07-11 14:07:04 : Barrack3 selected
+2015-07-11 14:07:04 : Barrack3 selected
+2015-07-11 14:07:04 : This is not a Barrack
+2015-07-11 14:07:05 : This is not a Barrack
+2015-07-11 14:07:05 : This is not a Barrack
+2015-07-11 14:07:05 : This is not a Barrack
+2015-07-11 14:07:05 : This is not a Barrack
+2015-07-11 14:07:06 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:07:06 : BARRACKNUM: 3
+2015-07-11 14:07:06 : DARKBARRACKNUM: 1
+2015-07-11 14:07:07 : Barrack3 selected
+2015-07-11 14:07:07 : ASSIGN TroopFirst.Arch: 6
+2015-07-11 14:07:07 : ASSIGN TroopFirst.Barb: 28
+2015-07-11 14:07:07 : ASSIGN TroopFirst.Gobl: 4
+2015-07-11 14:07:07 : Call Func TrainIt for Gobl
+2015-07-11 14:07:07 : Func GetGemName 3
+2015-07-11 14:07:07 : Func GetFullName 3
+2015-07-11 14:07:08 : troopSecondArch: 6
+2015-07-11 14:07:08 : troopSecondBarb: 28
+2015-07-11 14:07:08 : troopSecondGobl: 5
+2015-07-11 14:07:08 : ###CurGobl = 2 - (5 - 4)
+2015-07-11 14:07:08 : BARRACK 0 STATUS: True
+2015-07-11 14:07:09 : Barrack2 selected
+2015-07-11 14:07:09 : Barrack2 selected
+2015-07-11 14:07:09 : ASSIGN TroopFirst.Arch: 6
+2015-07-11 14:07:09 : ASSIGN TroopFirst.Barb: 28
+2015-07-11 14:07:09 : ASSIGN TroopFirst.Gobl: 4
+2015-07-11 14:07:09 : Call Func TrainIt for Gobl
+2015-07-11 14:07:09 : Func GetGemName 3
+2015-07-11 14:07:09 : Func GetFullName 3
+2015-07-11 14:07:10 : troopSecondArch: 6
+2015-07-11 14:07:10 : troopSecondBarb: 28
+2015-07-11 14:07:10 : troopSecondGobl: 5
+2015-07-11 14:07:11 : ###CurGobl = 1 - (5 - 4)
+2015-07-11 14:07:11 : BARRACK 1 STATUS: True
+2015-07-11 14:07:11 : Barrack1 selected
+2015-07-11 14:07:11 : Barrack1 selected
+2015-07-11 14:07:11 : ASSIGN TroopFirst.Arch: 6
+2015-07-11 14:07:12 : ASSIGN TroopFirst.Barb: 28
+2015-07-11 14:07:12 : ASSIGN TroopFirst.Gobl: 4
+2015-07-11 14:07:12 : troopSecondArch: 5
+2015-07-11 14:07:12 : troopSecondBarb: 28
+2015-07-11 14:07:12 : troopSecondGobl: 4
+2015-07-11 14:07:12 : BARRACK 2 STATUS: True
+2015-07-11 14:07:13 : This is not a Barrack
+2015-07-11 14:07:13 : This is not a Barrack
+2015-07-11 14:07:14 : This is not a Barrack
+2015-07-11 14:07:14 : This is not a Barrack
+2015-07-11 14:07:14 : This is not a Barrack
+2015-07-11 14:07:14 : ---================================================================---
+2015-07-11 14:07:18 : Requesting Clan Castle Troops
+2015-07-11 14:07:22 : Checking Troop Upgrade in Laboratory ...
+2015-07-11 14:07:22 : Updating village values [E]: 1409695
+2015-07-11 14:07:24 : ButtonPixel = 483, 565
+2015-07-11 14:07:24 : #1: 050702, #2: 708CB0, #3: 603818, #4: D8FF58
+2015-07-11 14:07:24 : Taking snapshot for later review

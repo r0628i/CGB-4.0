@@ -1,0 +1,71 @@
+2015-07-11 17:54:09 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-11 17:54:09 : Au3 Script running on WIN_81  X64
+2015-07-11 17:54:09 : =================== Bot Start ====================
+2015-07-11 17:54:10 : Trying to locate Main Screen
+2015-07-11 17:54:10 : Main Screen Located
+2015-07-11 17:54:11 : Detecting your Buildings..
+2015-07-11 17:54:11 : Town Hall Position: 433, 308
+2015-07-11 17:54:13 : Taking snapshot for later review
+2015-07-11 17:54:16 : Read building Name String = Town Hall (Level 8)
+2015-07-11 17:54:16 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-11 17:54:16 : 2nd $aString = 2, Level 8, 
+2015-07-11 17:54:16 : 3rd $aString = 2, Level, 8
+2015-07-11 17:54:16 : Your Town Hall is Level: 8
+2015-07-11 17:54:17 : Language setting is English: Correct.
+2015-07-11 17:54:18 : Trying to locate Main Screen
+2015-07-11 17:54:18 : Main Screen Located
+2015-07-11 17:54:19 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-11 17:54:21 : Collecting Resources
+2015-07-11 17:54:29 : Checking if Village needs Rearming..
+2015-07-11 17:54:31 : Taking snapshot for later review
+2015-07-11 17:54:41 : Village Report
+2015-07-11 17:54:41 : No. of Free/Total Builders: 0/5
+2015-07-11 17:54:41 :  [T]: 3 166
+2015-07-11 17:54:41 :  [G]: 405 333 [E]: 5 352 485 [D]: 78 759 [GEM]: 2 021
+2015-07-11 17:54:45 : Func Train 
+2015-07-11 17:54:45 : Checking Army Camp...
+2015-07-11 17:54:47 : $sArmyInfo = 200#200
+2015-07-11 17:54:47 : $CurCamp = 200
+2015-07-11 17:54:47 : $TotalCamp = 200
+2015-07-11 17:54:47 : Total Army Camp capacity: 200/200
+2015-07-11 17:54:47 : Training Troops...
+2015-07-11 17:54:49 : This is not a Barrack
+2015-07-11 17:54:50 : This is not a Barrack
+2015-07-11 17:54:50 : Barrack1 selected
+2015-07-11 17:54:50 : Barrack1 selected
+2015-07-11 17:54:50 : Barrack1 selected
+2015-07-11 17:54:51 : Barrack2 selected
+2015-07-11 17:54:51 : Barrack2 selected
+2015-07-11 17:54:51 : Barrack3 selected
+2015-07-11 17:54:51 : Barrack3 selected
+2015-07-11 17:54:52 : Barrack4 selected
+2015-07-11 17:54:52 : Barrack4 selected
+2015-07-11 17:54:53 : This is not a Barrack
+2015-07-11 17:54:53 : This is not a Barrack
+2015-07-11 17:54:53 : This is not a Barrack
+2015-07-11 17:54:53 : This is not a Barrack
+2015-07-11 17:54:53 : This is not a Barrack
+2015-07-11 17:54:54 : Barrack4 selected
+2015-07-11 17:54:54 : AfterAttack: False
+2015-07-11 17:54:57 : Barrack3 selected
+2015-07-11 17:54:57 : AfterAttack: False
+2015-07-11 17:55:00 : Barrack2 selected
+2015-07-11 17:55:00 : AfterAttack: False
+2015-07-11 17:55:02 : Barrack1 selected
+2015-07-11 17:55:02 : AfterAttack: False
+2015-07-11 17:55:04 : This is not a Barrack
+2015-07-11 17:55:06 : This is not a Dark Barrack
+2015-07-11 17:55:07 : Dark Barrack2 selected
+2015-07-11 17:55:07 : Dark Barrack2 selected
+2015-07-11 17:55:08 : This is not a Dark Barrack
+2015-07-11 17:55:08 : This is not a Dark Barrack
+2015-07-11 17:55:08 : This is not a Dark Barrack
+2015-07-11 17:55:08 : This is not a Dark Barrack
+2015-07-11 17:55:09 : This is not a Dark Barrack
+2015-07-11 17:55:09 : This is not a Dark Barrack
+2015-07-11 17:55:09 : ---================================================================---
+2015-07-11 17:55:13 : Requesting Clan Castle Troops
+2015-07-11 17:55:13 : Your Clan Castle is already full or you are not in a clan.
+2015-07-11 17:55:14 : Checking Troop Upgrade in Laboratory ...
+2015-07-11 17:55:14 : Updating village values [E]: 5352485 [D]: 78759
+2015-07-11 17:55:15 : ClashGameBot was Paused!

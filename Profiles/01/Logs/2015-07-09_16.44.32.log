@@ -1,0 +1,132 @@
+2015-07-09 16:44:33 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 16:44:33 : Executable running on WIN_81  X64
+2015-07-09 16:44:33 : =================== Bot Start ====================
+2015-07-09 16:44:33 : Trying to locate Main Screen
+2015-07-09 16:44:40 : Waiting for Main Screen
+2015-07-09 16:44:41 : Zooming Out
+2015-07-09 16:44:43 : Main Screen Located
+2015-07-09 16:44:44 : Detecting your Buildings..
+2015-07-09 16:44:44 : Town Hall Position: 430, 237
+2015-07-09 16:44:46 : Taking snapshot for later review
+2015-07-09 16:44:51 : Read building Name String = Town Hall (Level 6)
+2015-07-09 16:44:51 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-09 16:44:51 : 2nd $aString = 2, Level 6, 
+2015-07-09 16:44:51 : 3rd $aString = 2, Level, 6
+2015-07-09 16:44:51 : Your Town Hall is Level: 6
+2015-07-09 16:44:52 : Language setting is English: Correct.
+2015-07-09 16:44:53 : Trying to locate Main Screen
+2015-07-09 16:44:53 : Main Screen Located
+2015-07-09 16:44:55 : Profile Report
+2015-07-09 16:44:55 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 16:44:56 :  [ATKW]: 28 [DEFW]: 2 [TDON]: 248 [TREC]: 211
+2015-07-09 16:45:04 : Village Report
+2015-07-09 16:45:04 : No. of Free/Total Builders: 0/3
+2015-07-09 16:45:04 :  [T]: 1 042
+2015-07-09 16:45:04 :  [G]: 190 688 [E]: 359 891 [GEM]: 632
+2015-07-09 16:45:09 : Chat Request: Any thanks
+2015-07-09 16:45:09 : Archers Keyword found: any
+2015-07-09 16:45:09 : Donating Archers
+2015-07-09 16:45:12 : Chat Request: any
+2015-07-09 16:45:12 : Archers Keyword found: any
+2015-07-09 16:45:15 : No Archers available to donate..
+2015-07-09 16:45:18 : Chat Request: 3 orabove dragon
+2015-07-09 16:45:20 : Chat Request: balloon
+2015-07-09 16:45:22 : Func Train 
+2015-07-09 16:45:22 : Checking Army Camp...
+2015-07-09 16:45:23 : $sArmyInfo = 135#135
+2015-07-09 16:45:23 : $CurCamp = 135
+2015-07-09 16:45:23 : $TotalCamp = 135
+2015-07-09 16:45:24 : Total Army Camp capacity: 135/135
+2015-07-09 16:45:24 : Training Troops...
+2015-07-09 16:45:26 : This is not a Barrack
+2015-07-09 16:45:26 : This is not a Barrack
+2015-07-09 16:45:26 : Barrack1 selected
+2015-07-09 16:45:27 : Barrack1 selected
+2015-07-09 16:45:27 : Train: need to make normal troops: True
+2015-07-09 16:45:27 : Train: need to make dark troops: False
+2015-07-09 16:45:27 : Barrack1 selected
+2015-07-09 16:45:28 : Barrack2 selected
+2015-07-09 16:45:28 : Barrack2 selected
+2015-07-09 16:45:28 : Barrack3 selected
+2015-07-09 16:45:28 : Barrack3 selected
+2015-07-09 16:45:29 : This is not a Barrack
+2015-07-09 16:45:29 : This is not a Barrack
+2015-07-09 16:45:29 : This is not a Barrack
+2015-07-09 16:45:29 : This is not a Barrack
+2015-07-09 16:45:30 : This is not a Barrack
+2015-07-09 16:45:31 : Your Army Camps are now Full
+2015-07-09 16:45:31 : RESET AT 0 CurArch
+2015-07-09 16:45:31 : RESET AT 0 CurGiant
+2015-07-09 16:45:31 : RESET AT 0 CurWall
+2015-07-09 16:45:31 : RESET AT 0 CurBarb
+2015-07-09 16:45:31 : RESET AT 0 CurGobl
+2015-07-09 16:45:31 : RESET AT 0 CurHeal
+2015-07-09 16:45:31 : RESET AT 0 CurPekk
+2015-07-09 16:45:31 : RESET AT 0 CurBall
+2015-07-09 16:45:31 : RESET AT 0 CurWiza
+2015-07-09 16:45:31 : RESET AT 0 CurDrag
+2015-07-09 16:45:31 : RESET AT 0 CurMini
+2015-07-09 16:45:31 : RESET AT 0 CurHogs
+2015-07-09 16:45:31 : RESET AT 0 CurValk
+2015-07-09 16:45:31 : RESET AT 0 CurGole
+2015-07-09 16:45:31 : RESET AT 0 CurWitc
+2015-07-09 16:45:31 : RESET AT 0 CurLava
+2015-07-09 16:45:31 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-09 16:45:31 : -- Compute AnotherTroops to train
+2015-07-09 16:45:31 : Need to train ASSIGN.... CurGiant:9
+2015-07-09 16:45:31 : -- AnotherTroops to train:0 + 9*5
+2015-07-09 16:45:31 : --------------AnotherTroops TOTAL to train:45
+2015-07-09 16:45:31 : Need to train (height) GOBL:0 BARB: 36 ARCH: 54 AND 45 other troops space
+2015-07-09 16:45:31 : BARRACKNUM: 3
+2015-07-09 16:45:31 : ArchEBarrack: 18
+2015-07-09 16:45:31 : GiantEBarrack: 3
+2015-07-09 16:45:31 : BarbEBarrack: 12
+2015-07-09 16:45:31 : DARKBARRACKNUM: 1
+2015-07-09 16:45:31 : Barrack3 selected
+2015-07-09 16:45:37 : Barrack2 selected
+2015-07-09 16:45:42 : Barrack1 selected
+2015-07-09 16:45:46 : This is not a Barrack
+2015-07-09 16:45:46 : ---================================================================---
+2015-07-09 16:45:50 : Requesting Clan Castle Troops
+2015-07-09 16:45:50 : Your Clan Castle is already full or you are not in a clan.
+2015-07-09 16:45:51 : ClashGameBot was Paused!
+2015-07-09 16:46:05 : ClashGameBot was Resumed.
+2015-07-09 16:46:08 : No free builder, Upgrade Walls skipped..
+2015-07-09 16:46:11 : Profile Report
+2015-07-09 16:46:11 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 16:46:12 :  [ATKW]: 28 [DEFW]: 2 [TDON]: 249 [TREC]: 211
+2015-07-09 16:46:13 : Going to Attack...
+2015-07-09 16:46:18 : Shield btn clr chk-#1: A09480, #2: 4A3E30, #3: C7CA4E, #4: 75503A
+2015-07-09 16:46:19 : ============== Searching For Dead Base ===============
+2015-07-09 16:46:19 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-09 16:46:19 : Meet: Gold + Elixir, Max TH 4-6
+2015-07-09 16:46:19 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-09 16:46:19 : Aim:           [G+E]: 160000 [D]:    0 [T]: 0 [TH]:4-6
+2015-07-09 16:46:19 : ============== Searching For Live Base ===============
+2015-07-09 16:46:19 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-09 16:46:19 : Meet: Gold + Elixir, Max TH 4-6, TH Outside
+2015-07-09 16:46:19 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-09 16:46:19 : Aim:           [G+E]: 160000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 16:46:19 : ==================================================
+2015-07-09 16:46:20 :   1> [G]:  91103 [E]:  61250 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-09 16:46:22 : Loop to clean screen without Clouds , n?:1
+2015-07-09 16:46:23 :   2> [G]:  19011 [E]:  25914 [D]:   69 [T]:27 [TH]: 7, In
+2015-07-09 16:46:25 : Loop to clean screen without Clouds , n?:1
+2015-07-09 16:46:25 : Loop to clean screen without Clouds , n?:2
+2015-07-09 16:46:26 : Loop to clean screen without Clouds , n?:3
+2015-07-09 16:46:26 : Loop to clean screen without Clouds , n?:4
+2015-07-09 16:46:27 : Loop to clean screen without Clouds , n?:5
+2015-07-09 16:46:28 : Loop to clean screen without Clouds , n?:6
+2015-07-09 16:46:28 : Loop to clean screen without Clouds , n?:7
+2015-07-09 16:46:29 :   3> [G]:  85693 [E]:  60388 [D]:   12 [T]:26 [TH]: 7, In
+2015-07-09 16:46:31 : Loop to clean screen without Clouds , n?:1
+2015-07-09 16:46:31 : Loop to clean screen without Clouds , n?:2
+2015-07-09 16:46:32 :   4> [G]:  46510 [E]:  64817 [D]:  134 [T]:22 [TH]: 7, In
+2015-07-09 16:46:34 : Loop to clean screen without Clouds , n?:1
+2015-07-09 16:46:36 :   5> [G]:  31026 [E]:  43546 [D]:  N/A [T]:26 [TH]: -, -
+2015-07-09 16:46:38 : Loop to clean screen without Clouds , n?:1
+2015-07-09 16:46:40 :   6> [G]:   2172 [E]:  11090 [D]:  N/A [T]:17 [TH]: -, -
+2015-07-09 16:46:42 : Loop to clean screen without Clouds , n?:1
+2015-07-09 16:46:44 :   7> [G]:  44606 [E]: 129515 [D]:  179 [T]:23 [TH]: -, -
+2015-07-09 16:46:45 : Loop to clean screen without Clouds , n?:1
+2015-07-09 16:46:47 :   8> [G]:  52866 [E]:  77610 [D]:  N/A [T]:23 [TH]: -, -

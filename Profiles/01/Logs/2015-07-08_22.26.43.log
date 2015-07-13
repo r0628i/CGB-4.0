@@ -1,0 +1,83 @@
+2015-07-08 22:26:44 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-08 22:26:44 : Executable running on WIN_81  X64
+2015-07-08 22:26:44 : =================== Bot Start ====================
+2015-07-08 22:26:44 : Trying to locate Main Screen
+2015-07-08 22:26:44 : Main Screen Located
+2015-07-08 22:26:46 : Detecting your Buildings..
+2015-07-08 22:26:46 : Town Hall Position: 430, 237
+2015-07-08 22:26:48 : Taking snapshot for later review
+2015-07-08 22:26:51 : Read building Name String = Town Hall (Level 6)
+2015-07-08 22:26:51 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-08 22:26:51 : 2nd $aString = 2, Level 6, 
+2015-07-08 22:26:51 : 3rd $aString = 2, Level, 6
+2015-07-08 22:26:51 : Your Town Hall is Level: 6
+2015-07-08 22:26:52 : Language setting is English: Correct.
+2015-07-08 22:26:53 : Trying to locate Main Screen
+2015-07-08 22:26:53 : Main Screen Located
+2015-07-08 22:26:55 : Profile Report
+2015-07-08 22:26:55 : Opening Profile page to read atk, def, donated ad received...
+2015-07-08 22:26:56 :  [ATKW]: 26 [DEFW]: 0 [TDON]: 218 [TREC]: 191
+2015-07-08 22:27:03 : Village Report
+2015-07-08 22:27:03 : No. of Free/Total Builders: 0/3
+2015-07-08 22:27:03 :  [T]: 987
+2015-07-08 22:27:04 :  [G]: 91 350 [E]: 699 992 [GEM]: 632
+2015-07-08 22:27:06 : Donation not Planned, Skipped..
+2015-07-08 22:27:07 : Func Train 
+2015-07-08 22:27:07 : Checking Army Camp...
+2015-07-08 22:27:08 : $sArmyInfo = 135#135
+2015-07-08 22:27:08 : $CurCamp = 135
+2015-07-08 22:27:08 : $TotalCamp = 135
+2015-07-08 22:27:09 : Total Army Camp capacity: 135/135
+2015-07-08 22:27:09 : Training Troops...
+2015-07-08 22:27:11 : This is not a Barrack
+2015-07-08 22:27:11 : Barrack1 selected
+2015-07-08 22:27:12 : Barrack1 selected
+2015-07-08 22:27:12 : Train: need to make normal troops: True
+2015-07-08 22:27:12 : Train: need to make dark troops: False
+2015-07-08 22:27:12 : Barrack1 selected
+2015-07-08 22:27:12 : Barrack2 selected
+2015-07-08 22:27:12 : Barrack2 selected
+2015-07-08 22:27:13 : Barrack3 selected
+2015-07-08 22:27:13 : Barrack3 selected
+2015-07-08 22:27:14 : This is not a Barrack
+2015-07-08 22:27:14 : This is not a Barrack
+2015-07-08 22:27:14 : This is not a Barrack
+2015-07-08 22:27:14 : This is not a Barrack
+2015-07-08 22:27:15 : This is not a Barrack
+2015-07-08 22:27:16 : Your Army Camps are now Full
+2015-07-08 22:27:16 : RESET AT 0 CurArch
+2015-07-08 22:27:16 : RESET AT 0 CurGiant
+2015-07-08 22:27:16 : RESET AT 0 CurWall
+2015-07-08 22:27:16 : RESET AT 0 CurBarb
+2015-07-08 22:27:16 : RESET AT 0 CurGobl
+2015-07-08 22:27:16 : RESET AT 0 CurHeal
+2015-07-08 22:27:16 : RESET AT 0 CurPekk
+2015-07-08 22:27:16 : RESET AT 0 CurBall
+2015-07-08 22:27:16 : RESET AT 0 CurWiza
+2015-07-08 22:27:16 : RESET AT 0 CurDrag
+2015-07-08 22:27:16 : RESET AT 0 CurMini
+2015-07-08 22:27:16 : RESET AT 0 CurHogs
+2015-07-08 22:27:16 : RESET AT 0 CurValk
+2015-07-08 22:27:16 : RESET AT 0 CurGole
+2015-07-08 22:27:16 : RESET AT 0 CurWitc
+2015-07-08 22:27:16 : RESET AT 0 CurLava
+2015-07-08 22:27:16 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-08 22:27:16 : -- Compute AnotherTroops to train
+2015-07-08 22:27:16 : Need to train ASSIGN.... CurGiant:15
+2015-07-08 22:27:16 : -- AnotherTroops to train:0 + 15*5
+2015-07-08 22:27:16 : --------------AnotherTroops TOTAL to train:75
+2015-07-08 22:27:16 : Need to train (height) GOBL:0 BARB: 24 ARCH: 36 AND 75 other troops space
+2015-07-08 22:27:16 : BARRACKNUM: 3
+2015-07-08 22:27:16 : ArchEBarrack: 12
+2015-07-08 22:27:16 : GiantEBarrack: 5
+2015-07-08 22:27:16 : BarbEBarrack: 8
+2015-07-08 22:27:16 : DARKBARRACKNUM: 1
+2015-07-08 22:27:16 : Barrack3 selected
+2015-07-08 22:27:21 : Train Giant5
+2015-07-08 22:27:23 : Barrack2 selected
+2015-07-08 22:27:24 : Train Giant5
+2015-07-08 22:27:25 : Barrack1 selected
+2015-07-08 22:27:26 : Train Giant5
+2015-07-08 22:27:28 : This is not a Barrack
+2015-07-08 22:27:28 : ---================================================================---
+2015-07-08 22:27:32 : Request CC not Planned, Skipped..

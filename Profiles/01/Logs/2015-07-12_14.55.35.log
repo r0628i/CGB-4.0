@@ -1,0 +1,252 @@
+2015-07-12 14:55:36 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 14:55:37 : Au3 Script running on WIN_81  X64
+2015-07-12 14:55:37 : =================== Bot Start ====================
+2015-07-12 14:55:37 : Trying to locate Main Screen
+2015-07-12 14:55:37 : Main Screen Located
+2015-07-12 14:55:38 : Detecting your Buildings..
+2015-07-12 14:55:39 : Town Hall Position: 430, 237
+2015-07-12 14:55:40 : Taking snapshot for later review
+2015-07-12 14:55:45 : Read building Name String = Town Hall (Level 6)
+2015-07-12 14:55:45 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-12 14:55:45 : 2nd $aString = 2, Level 6, 
+2015-07-12 14:55:45 : 3rd $aString = 2, Level, 6
+2015-07-12 14:55:45 : Your Town Hall is Level: 6
+2015-07-12 14:55:46 : Language setting is English: Correct.
+2015-07-12 14:55:47 : Trying to locate Main Screen
+2015-07-12 14:55:47 : Main Screen Located
+2015-07-12 14:55:47 : Gold Storages are full!
+2015-07-12 14:55:49 : Collecting Resources
+2015-07-12 14:55:56 : Checking if Village needs Rearming..
+2015-07-12 14:55:59 : Taking snapshot for later review
+2015-07-12 14:56:08 : Village Report
+2015-07-12 14:56:08 : No. of Free/Total Builders: 0/3
+2015-07-12 14:56:08 :  [T]: 1 100
+2015-07-12 14:56:08 :  [G]: 2 001 000 [E]: 1 368 011 [GEM]: 672
+2015-07-12 14:56:11 : Func Train 
+2015-07-12 14:56:11 : Checking Army Camp...
+2015-07-12 14:56:12 : $sArmyInfo = 140#140
+2015-07-12 14:56:12 : $CurCamp = 140
+2015-07-12 14:56:12 : $TotalCamp = 140
+2015-07-12 14:56:13 : Total Army Camp capacity: 140/140
+2015-07-12 14:56:13 : Training Troops...
+2015-07-12 14:56:15 : Barrack #1 is available
+2015-07-12 14:56:16 : Barrack #1 selected
+2015-07-12 14:56:16 : Barrack #1 selected
+2015-07-12 14:56:16 : Barrack #1 selected
+2015-07-12 14:56:19 : Barrack #2 is available
+2015-07-12 14:56:19 : Barrack #2 selected
+2015-07-12 14:56:19 : Barrack #2 selected
+2015-07-12 14:56:19 : Barrack #2 selected
+2015-07-12 14:56:24 : Barrack #3 is available
+2015-07-12 14:56:24 : Barrack #3 selected
+2015-07-12 14:56:24 : Barrack #3 selected
+2015-07-12 14:56:24 : Barrack #3 selected
+2015-07-12 14:56:27 : Barrack #4 is not built
+2015-07-12 14:56:27 : Dark Barrack #1 is not built
+2015-07-12 14:56:27 : Dark Barrack #2 is not built
+2015-07-12 14:56:27 : ---================================================================---
+2015-07-12 14:56:31 : Requesting Clan Castle Troops
+2015-07-12 14:56:37 : No free builder, Upgrade Walls skipped..
+2015-07-12 14:56:39 : Going to Attack...
+2015-07-12 14:56:44 : Shield btn clr chk-#1: 8BB134, #2: 3D2818, #3: C8C852, #4: 8AAB33
+2015-07-12 14:56:45 : ============== Searching For Dead Base ===============
+2015-07-12 14:56:45 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 14:56:45 : Meet: Gold and Elixir, Max TH 7
+2015-07-12 14:56:45 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 14:56:45 : Aim: [G]: 120000 [E]:  80000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-12 14:56:45 : ============== Searching For Live Base ===============
+2015-07-12 14:56:45 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 14:56:45 : Meet: Gold and Elixir, Max TH 4-6, TH Outside
+2015-07-12 14:56:45 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 14:56:45 : Aim: [G]: 100000 [E]:  60000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-12 14:56:45 : ==================================================
+2015-07-12 14:56:46 :   1> [G]:   2852 [E]:   5674 [D]:  N/A [T]:12 [TH]:4-6, In
+2015-07-12 14:56:48 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:56:49 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:56:49 :   2> [G]: 167867 [E]:  62207 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-12 14:56:51 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:56:52 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:56:54 :   3> [G]:   7421 [E]:  36489 [D]:    0 [T]:24 [TH]: 7, In
+2015-07-12 14:56:55 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:56:56 :   4> [G]:  50814 [E]:  45708 [D]:  N/A [T]:14 [TH]:4-6, In
+2015-07-12 14:56:58 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:56:59 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:56:59 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:57:00 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:57:00 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:57:01 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:57:01 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:57:02 : Loop to clean screen without Clouds , n?:8
+2015-07-12 14:57:03 : Loop to clean screen without Clouds , n?:9
+2015-07-12 14:57:04 :   5> [G]:   6934 [E]:  17086 [D]:  181 [T]:30 [TH]: 7, In
+2015-07-12 14:57:06 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:06 :   6> [G]:  17088 [E]:   7903 [D]:  N/A [T]:15 [TH]:4-6, In
+2015-07-12 14:57:08 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:09 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:57:09 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:57:10 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:57:11 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:57:11 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:57:12 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:57:12 : Loop to clean screen without Clouds , n?:8
+2015-07-12 14:57:13 : Loop to clean screen without Clouds , n?:9
+2015-07-12 14:57:14 :   7> [G]:  30942 [E]:  81851 [D]:  N/A [T]:28 [TH]: 7, In
+2015-07-12 14:57:16 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:17 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:57:18 :   8> [G]:  24779 [E]:  16093 [D]:  324 [T]:30 [TH]: 7, In
+2015-07-12 14:57:18 : Aim: [G]: 118000 [E]:  78000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-12 14:57:18 : Aim: [G]:  98000 [E]:  58000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-12 14:57:20 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:20 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:57:21 :   9> [G]:  19816 [E]:  38893 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-12 14:57:23 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:24 :  10> [G]:  91063 [E]:   9135 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-12 14:57:26 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:26 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:57:27 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:57:27 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:57:28 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:57:29 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:57:29 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:57:31 :  11> [G]:   6672 [E]:  11882 [D]:  N/A [T]:24 [TH]: 7, In
+2015-07-12 14:57:33 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:33 :  12> [G]:  22717 [E]:  54201 [D]:  N/A [T]:16 [TH]:4-6, In
+2015-07-12 14:57:36 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:37 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:57:37 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:57:38 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:57:39 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:57:39 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:57:40 :  13> [G]:  52788 [E]:  72858 [D]:  N/A [T]:15 [TH]:4-6, In
+2015-07-12 14:57:42 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:42 :  14> [G]:  29970 [E]:  15560 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-12 14:57:44 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:45 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:57:45 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:57:46 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:57:47 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:57:47 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:57:48 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:57:48 : Loop to clean screen without Clouds , n?:8
+2015-07-12 14:57:49 :  15> [G]:  31035 [E]:  45167 [D]:  N/A [T]:15 [TH]:4-6, In
+2015-07-12 14:57:51 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:51 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:57:53 :  16> [G]:  24491 [E]:  93409 [D]:  291 [T]:34 [TH]: 7, In
+2015-07-12 14:57:53 : Aim: [G]: 116000 [E]:  76000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-12 14:57:53 : Aim: [G]:  96000 [E]:  56000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-12 14:57:55 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:55 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:57:56 :  17> [G]:   6263 [E]:   1194 [D]:  N/A [T]:18 [TH]: 7, In
+2015-07-12 14:57:58 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:57:59 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:58:00 :  18> [G]:  34298 [E]:  50134 [D]:  N/A [T]:34 [TH]:4-6, In
+2015-07-12 14:58:02 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:02 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:58:03 :  19> [G]: 111406 [E]:   5424 [D]:  N/A [T]:28 [TH]:4-6, In
+2015-07-12 14:58:05 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:06 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:58:07 :  20> [G]: 102962 [E]:  58038 [D]:  N/A [T]:33 [TH]:4-6, In
+2015-07-12 14:58:09 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:09 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:58:10 :  21> [G]:   9369 [E]:  11611 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-12 14:58:12 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:13 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:58:13 :  22> [G]:  12854 [E]:  13007 [D]:  N/A [T]:17 [TH]:4-6, In
+2015-07-12 14:58:15 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:16 :  23> [G]:  79335 [E]:  25288 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-12 14:58:18 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:19 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:58:19 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:58:20 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:58:20 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:58:21 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:58:21 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:58:22 : Loop to clean screen without Clouds , n?:8
+2015-07-12 14:58:23 :  24> [G]:  13424 [E]:  29331 [D]:  N/A [T]:18 [TH]:4-6, In
+2015-07-12 14:58:23 : Aim: [G]: 114000 [E]:  74000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-12 14:58:23 : Aim: [G]:  94000 [E]:  54000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-12 14:58:25 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:25 :  25> [G]:  59578 [E]:  29579 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-12 14:58:27 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:28 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:58:28 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:58:29 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:58:29 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:58:30 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:58:31 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:58:31 : Loop to clean screen without Clouds , n?:8
+2015-07-12 14:58:32 : Loop to clean screen without Clouds , n?:9
+2015-07-12 14:58:32 :  26> [G]:  76518 [E]: 105824 [D]:  N/A [T]:16 [TH]:4-6, In
+2015-07-12 14:58:34 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:36 :  27> [G]:  27347 [E]:  10137 [D]:  N/A [T]:34 [TH]:4-6, In
+2015-07-12 14:58:38 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:39 :  28> [G]:  29328 [E]:  39672 [D]:  N/A [T]:31 [TH]:4-6, In
+2015-07-12 14:58:41 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:41 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:58:42 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:58:42 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:58:43 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:58:44 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:58:44 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:58:45 : Loop to clean screen without Clouds , n?:8
+2015-07-12 14:58:45 : Loop to clean screen without Clouds , n?:9
+2015-07-12 14:58:46 :  29> [G]:  27856 [E]:   9525 [D]:  N/A [T]:22 [TH]: 7, In
+2015-07-12 14:58:48 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:49 :  30> [G]:  22415 [E]:  16289 [D]:  N/A [T]:27 [TH]:4-6, In
+2015-07-12 14:58:51 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:58:51 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:58:52 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:58:52 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:58:53 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:58:54 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:58:54 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:58:55 : Loop to clean screen without Clouds , n?:8
+2015-07-12 14:58:55 : Loop to clean screen without Clouds , n?:9
+2015-07-12 14:58:58 :  31> [G]:  70852 [E]:  24670 [D]:  N/A [T]:28 [TH]: -, -
+2015-07-12 14:59:00 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:59:01 :  32> [G]:  42607 [E]:  28913 [D]:  N/A [T]:15 [TH]:4-6, In
+2015-07-12 14:59:01 : Aim: [G]: 112000 [E]:  72000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-12 14:59:01 : Aim: [G]:  92000 [E]:  52000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-12 14:59:03 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:59:03 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:59:04 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:59:04 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:59:05 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:59:06 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:59:06 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:59:07 : Loop to clean screen without Clouds , n?:8
+2015-07-12 14:59:08 :  33> [G]:  82164 [E]:  62559 [D]:  N/A [T]:29 [TH]:4-6, In
+2015-07-12 14:59:10 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:59:11 :  34> [G]:  58122 [E]:  49782 [D]:  N/A [T]:22 [TH]:4-6, In
+2015-07-12 14:59:13 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:59:13 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:59:14 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:59:14 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:59:15 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:59:15 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:59:16 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:59:16 : Loop to clean screen without Clouds , n?:8
+2015-07-12 14:59:17 : Loop to clean screen without Clouds , n?:9
+2015-07-12 14:59:18 :  35> [G]:   6765 [E]:   9747 [D]:  N/A [T]:15 [TH]:4-6, In
+2015-07-12 14:59:20 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:59:20 :  36> [G]:  15754 [E]:  92072 [D]:  N/A [T]:33 [TH]:4-6, In
+2015-07-12 14:59:22 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:59:23 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:59:23 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:59:24 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:59:24 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:59:25 : Loop to clean screen without Clouds , n?:6
+2015-07-12 14:59:26 : Loop to clean screen without Clouds , n?:7
+2015-07-12 14:59:26 : Loop to clean screen without Clouds , n?:8
+2015-07-12 14:59:27 : Loop to clean screen without Clouds , n?:9
+2015-07-12 14:59:27 :  37> [G]:   2652 [E]:  26612 [D]:  N/A [T]:16 [TH]:4-6, In
+2015-07-12 14:59:29 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:59:30 :  38> [G]:  25034 [E]:  10083 [D]:  N/A [T]:24 [TH]: 7, In
+2015-07-12 14:59:32 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:59:33 :  39> [G]:  80504 [E]:  46098 [D]:  N/A [T]:16 [TH]:4-6, In
+2015-07-12 14:59:35 : Loop to clean screen without Clouds , n?:1
+2015-07-12 14:59:36 : Loop to clean screen without Clouds , n?:2
+2015-07-12 14:59:37 : Loop to clean screen without Clouds , n?:3
+2015-07-12 14:59:37 : Loop to clean screen without Clouds , n?:4
+2015-07-12 14:59:38 : Loop to clean screen without Clouds , n?:5
+2015-07-12 14:59:39 : Loop to clean screen without Clouds , n?:6

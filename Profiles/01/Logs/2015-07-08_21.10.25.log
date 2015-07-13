@@ -1,0 +1,86 @@
+2015-07-08 21:10:26 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-08 21:10:26 : Executable running on WIN_81  X64
+2015-07-08 21:10:26 : =================== Bot Start ====================
+2015-07-08 21:10:26 : Trying to locate Main Screen
+2015-07-08 21:10:30 : Waiting for Main Screen
+2015-07-08 21:10:39 : Zooming Out
+2015-07-08 21:10:41 : Main Screen Located
+2015-07-08 21:10:42 : Detecting your Buildings..
+2015-07-08 21:10:43 : Town Hall Position: 430, 237
+2015-07-08 21:10:44 : Taking snapshot for later review
+2015-07-08 21:10:49 : Read building Name String = Town Hall (Level 6)
+2015-07-08 21:10:49 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-08 21:10:49 : 2nd $aString = 2, Level 6, 
+2015-07-08 21:10:49 : 3rd $aString = 2, Level, 6
+2015-07-08 21:10:49 : Your Town Hall is Level: 6
+2015-07-08 21:10:50 : Language setting is English: Correct.
+2015-07-08 21:10:51 : Trying to locate Main Screen
+2015-07-08 21:10:52 : Main Screen Located
+2015-07-08 21:10:54 : Profile Report
+2015-07-08 21:10:54 : Opening Profile page to read atk, def, donated ad received...
+2015-07-08 21:10:55 :  [ATKW]: 26 [DEFW]: 0 [TDON]: 218 [TREC]: 191
+2015-07-08 21:10:59 : Checking if Village needs Rearming..
+2015-07-08 21:11:02 : Taking snapshot for later review
+2015-07-08 21:11:11 : Village Report
+2015-07-08 21:11:12 : No. of Free/Total Builders: 0/3
+2015-07-08 21:11:12 :  [T]: 987
+2015-07-08 21:11:12 :  [G]: 77 437 [E]: 697 202 [GEM]: 632
+2015-07-08 21:11:14 : Donation not Planned, Skipped..
+2015-07-08 21:11:15 : Func Train 
+2015-07-08 21:11:15 : Checking Army Camp...
+2015-07-08 21:11:16 : $sArmyInfo = 135#135
+2015-07-08 21:11:16 : $CurCamp = 135
+2015-07-08 21:11:16 : $TotalCamp = 135
+2015-07-08 21:11:17 : Total Army Camp capacity: 135/135
+2015-07-08 21:11:17 : Training Troops...
+2015-07-08 21:11:19 : This is not a Barrack
+2015-07-08 21:11:19 : Barrack1 selected
+2015-07-08 21:11:20 : Barrack1 selected
+2015-07-08 21:11:20 : Train: need to make normal troops: True
+2015-07-08 21:11:20 : Train: need to make dark troops: False
+2015-07-08 21:11:20 : Barrack1 selected
+2015-07-08 21:11:20 : Barrack2 selected
+2015-07-08 21:11:20 : Barrack2 selected
+2015-07-08 21:11:21 : Barrack3 selected
+2015-07-08 21:11:21 : Barrack3 selected
+2015-07-08 21:11:22 : This is not a Barrack
+2015-07-08 21:11:22 : This is not a Barrack
+2015-07-08 21:11:22 : This is not a Barrack
+2015-07-08 21:11:22 : This is not a Barrack
+2015-07-08 21:11:23 : This is not a Barrack
+2015-07-08 21:11:24 : ClashGameBot was Paused!
+2015-07-08 21:11:25 : ClashGameBot was Resumed.
+2015-07-08 21:11:25 : Your Army Camps are now Full
+2015-07-08 21:11:25 : RESET AT 0 CurArch
+2015-07-08 21:11:25 : RESET AT 0 CurGiant
+2015-07-08 21:11:25 : RESET AT 0 CurWall
+2015-07-08 21:11:25 : RESET AT 0 CurBarb
+2015-07-08 21:11:25 : RESET AT 0 CurGobl
+2015-07-08 21:11:25 : RESET AT 0 CurHeal
+2015-07-08 21:11:25 : RESET AT 0 CurPekk
+2015-07-08 21:11:25 : RESET AT 0 CurBall
+2015-07-08 21:11:25 : RESET AT 0 CurWiza
+2015-07-08 21:11:25 : RESET AT 0 CurDrag
+2015-07-08 21:11:25 : RESET AT 0 CurMini
+2015-07-08 21:11:25 : RESET AT 0 CurHogs
+2015-07-08 21:11:25 : RESET AT 0 CurValk
+2015-07-08 21:11:25 : RESET AT 0 CurGole
+2015-07-08 21:11:26 : RESET AT 0 CurWitc
+2015-07-08 21:11:26 : RESET AT 0 CurLava
+2015-07-08 21:11:26 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-08 21:11:26 : -- Compute AnotherTroops to train
+2015-07-08 21:11:26 : Need to train ASSIGN.... CurGiant:9
+2015-07-08 21:11:26 : -- AnotherTroops to train:0 + 9*5
+2015-07-08 21:11:26 : --------------AnotherTroops TOTAL to train:45
+2015-07-08 21:11:26 : Need to train (height) GOBL:0 BARB: 36 ARCH: 54 AND 45 other troops space
+2015-07-08 21:11:26 : BARRACKNUM: 3
+2015-07-08 21:11:26 : ArchEBarrack: 18
+2015-07-08 21:11:26 : GiantEBarrack: 3
+2015-07-08 21:11:26 : BarbEBarrack: 12
+2015-07-08 21:11:26 : DARKBARRACKNUM: 1
+2015-07-08 21:11:26 : Barrack3 selected
+2015-07-08 21:11:33 : Barrack2 selected
+2015-07-08 21:11:35 : Barrack1 selected
+2015-07-08 21:11:37 : This is not a Barrack
+2015-07-08 21:11:37 : ---================================================================---
+2015-07-08 21:11:39 : ClashGameBot was Paused!

@@ -1,0 +1,87 @@
+2015-07-08 17:29:16 : Starting BlueStacks
+2015-07-08 17:29:22 : BlueStacks Loaded, took 6.37 seconds to begin.
+2015-07-08 17:29:23 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-08 17:29:23 : Executable running on WIN_81  X64
+2015-07-08 17:29:23 : =================== Bot Start ====================
+2015-07-08 17:29:23 : Trying to locate Main Screen
+2015-07-08 17:29:26 : Waiting for Main Screen
+2015-07-08 17:29:44 : Zooming Out
+2015-07-08 17:29:46 : Main Screen Located
+2015-07-08 17:29:47 : Detecting your Buildings..
+2015-07-08 17:29:47 : Town Hall Position: 430, 237
+2015-07-08 17:29:49 : Taking snapshot for later review
+2015-07-08 17:29:55 : Read building Name String = Town Hall (Level 6)
+2015-07-08 17:29:55 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-08 17:29:55 : 2nd $aString = 2, Level 6, 
+2015-07-08 17:29:55 : 3rd $aString = 2, Level, 6
+2015-07-08 17:29:55 : Your Town Hall is Level: 6
+2015-07-08 17:29:56 : Language setting is English: Correct.
+2015-07-08 17:29:57 : Trying to locate Main Screen
+2015-07-08 17:29:57 : Main Screen Located
+2015-07-08 17:29:59 : Profile Report
+2015-07-08 17:29:59 : Opening Profile page to read atk, def, donated ad received...
+2015-07-08 17:30:00 :  [ATKW]: 26 [DEFW]: 0 [TDON]: 194 [TREC]: 171
+2015-07-08 17:30:05 : Checking if Village needs Rearming..
+2015-07-08 17:30:08 : Taking snapshot for later review
+2015-07-08 17:30:18 : Village Report
+2015-07-08 17:30:18 : No. of Free/Total Builders: 0/3
+2015-07-08 17:30:18 :  [T]: 987
+2015-07-08 17:30:18 :  [G]: 77 437 [E]: 699 866 [GEM]: 632
+2015-07-08 17:30:23 : Chat Request: any plz
+2015-07-08 17:30:23 : Archers Keyword found: any
+2015-07-08 17:30:23 : Donating Archers
+2015-07-08 17:30:26 : Func Train 
+2015-07-08 17:30:26 : Checking Army Camp...
+2015-07-08 17:30:28 : $sArmyInfo = 131#135
+2015-07-08 17:30:28 : $CurCamp = 131
+2015-07-08 17:30:28 : $TotalCamp = 135
+2015-07-08 17:30:28 : Total Army Camp capacity: 131/135
+2015-07-08 17:30:28 : $hBitmapFirst made
+2015-07-08 17:30:29 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-08 17:30:32 : Dll return $FullTemp :Barbarian|9-20|31#Archer|70-22|40#Giant|134-23|12
+2015-07-08 17:30:32 : $Trooptype split # : 3
+2015-07-08 17:30:32 : Start the Loop
+2015-07-08 17:30:32 : $TroopTypeT[$i] split : 1
+2015-07-08 17:30:32 :  - No. of Barbarians: 31
+2015-07-08 17:30:32 : $TroopTypeT[$i] split : 2
+2015-07-08 17:30:32 :  - No. of Archers: 40
+2015-07-08 17:30:32 : $TroopTypeT[$i] split : 3
+2015-07-08 17:30:32 :  - No. of Giants: 12
+2015-07-08 17:30:32 : Training Troops...
+2015-07-08 17:30:34 : This is not a Barrack
+2015-07-08 17:30:35 : Barrack1 selected
+2015-07-08 17:30:35 : Barrack1 selected
+2015-07-08 17:30:35 : Train: need to make normal troops: True
+2015-07-08 17:30:35 : Train: need to make dark troops: False
+2015-07-08 17:30:35 : Barrack1 selected
+2015-07-08 17:30:36 : Barrack2 selected
+2015-07-08 17:30:36 : Barrack2 selected
+2015-07-08 17:30:37 : Barrack3 selected
+2015-07-08 17:30:37 : Barrack3 selected
+2015-07-08 17:30:38 : This is not a Barrack
+2015-07-08 17:30:38 : This is not a Barrack
+2015-07-08 17:30:38 : This is not a Barrack
+2015-07-08 17:30:38 : This is not a Barrack
+2015-07-08 17:30:38 : This is not a Barrack
+2015-07-08 17:30:40 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-08 17:30:40 : -- AnotherTroops to train:0 + 9*5
+2015-07-08 17:30:40 : Need to train Giant:9
+2015-07-08 17:30:40 : -- AnotherTroops to train:45 + 0*2
+2015-07-08 17:30:40 : -- AnotherTroops to train:45 + 0*14
+2015-07-08 17:30:40 : -- AnotherTroops to train:45 + 0*25
+2015-07-08 17:30:40 : -- AnotherTroops to train:45 + 0*5
+2015-07-08 17:30:40 : -- AnotherTroops to train:45 + 0*4
+2015-07-08 17:30:40 : -- AnotherTroops to train:45 + 0*20
+2015-07-08 17:30:40 : -- AnotherTroops dark to train:45 + 0*2
+2015-07-08 17:30:40 : -- AnotherTroops dark to train:45 + 0*5
+2015-07-08 17:30:40 : -- AnotherTroops dark to train:45 + 0*8
+2015-07-08 17:30:40 : -- AnotherTroops dark to train:45 + 0*30
+2015-07-08 17:30:40 : -- AnotherTroops dark to train:45 + 0*12
+2015-07-08 17:30:40 : -- AnotherTroops dark to train:45 + 0*30
+2015-07-08 17:30:40 : --------------AnotherTroops TOTAL to train:45
+2015-07-08 17:30:40 : Need to train (height) GOBL:0 BARB: 5 ARCH: 14 AND 45 other troops space
+2015-07-08 17:30:40 : BARRACKNUM: 3
+2015-07-08 17:30:40 : ArchEBarrack: 4
+2015-07-08 17:30:40 : GiantEBarrack: -1
+2015-07-08 17:30:40 : BarbEBarrack: 1
+2015-07-08 17:30:40 : DARKBARRACKNUM: 1

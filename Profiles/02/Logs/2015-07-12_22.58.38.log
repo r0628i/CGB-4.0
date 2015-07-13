@@ -1,0 +1,44 @@
+2015-07-12 22:58:39 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 22:58:39 : Au3 Script running on WIN_81  X64
+2015-07-12 22:58:39 : =================== Bot Start ====================
+2015-07-12 22:58:40 : Trying to locate Main Screen
+2015-07-12 22:58:40 : Zooming Out
+2015-07-12 22:58:40 : Main Screen Located
+2015-07-12 22:58:42 : Detecting your Buildings..
+2015-07-12 22:58:48 : Your Town Hall is Level: 8
+2015-07-12 22:58:49 : Language setting is English: Correct.
+2015-07-12 22:58:50 : Trying to locate Main Screen
+2015-07-12 22:58:50 : Main Screen Located
+2015-07-12 22:58:52 : Collecting Resources
+2015-07-12 22:59:00 : Checking if Village needs Rearming..
+2015-07-12 22:59:11 : Village Report
+2015-07-12 22:59:11 : No. of Free/Total Builders: 0/5
+2015-07-12 22:59:11 :  [T]: 3 137
+2015-07-12 22:59:11 :  [G]: 1 430 374 [E]: 5 817 846 [D]: 79 751 [GEM]: 2 027
+2015-07-12 22:59:13 : Donation not Planned, Skipped..
+2015-07-12 22:59:14 : Checking Army Camp...
+2015-07-12 22:59:17 : Total Army Camp capacity: 200/200
+2015-07-12 22:59:17 : Training Troops...
+2015-07-12 22:59:36 : Request CC not Planned, Skipped..
+2015-07-12 22:59:38 : Checking Upgrade
+2015-07-12 22:59:39 : Updating Village Resource Values
+2015-07-12 22:59:39 : No. of Free/Total Builders: 0/5
+2015-07-12 22:59:39 :  [T]: 3 137
+2015-07-12 22:59:39 :  [G]: 1 430 374 [E]: 5 758 246 [D]: 79 723 [GEM]: 2 027
+2015-07-12 22:59:39 : No builder available for upgrades
+2015-07-12 22:59:40 : No free builder, Upgrade Walls skipped..
+2015-07-12 22:59:43 : Going to Attack...
+2015-07-12 22:59:48 : ============== Searching For Dead Base ===============
+2015-07-12 22:59:48 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 22:59:48 : Meet: Gold or Elixir, TH Outside
+2015-07-12 22:59:48 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 22:59:48 : Aim: [G]:      0 [E]:      0 [D]:    0 [T]: 0, Out
+2015-07-12 22:59:48 : ============== Searching For Live Base ===============
+2015-07-12 22:59:48 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 22:59:48 : Meet: Gold or Elixir, TH Outside
+2015-07-12 22:59:48 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 22:59:48 : Aim: [G]:      0 [E]:      0 [D]:    0 [T]: 0, Out
+2015-07-12 22:59:48 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-07-12 22:59:48 : THSnipe Combo, 1 Tile(s), AttackTH, Attack2:Extreme
+2015-07-12 22:59:48 : ==================================================
+2015-07-12 23:00:34 : ClashGameBot was Paused!

@@ -1,0 +1,121 @@
+2015-07-11 18:29:29 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-11 18:29:29 : Au3 Script running on WIN_81  X64
+2015-07-11 18:29:29 : =================== Bot Start ====================
+2015-07-11 18:29:29 : Trying to locate Main Screen
+2015-07-11 18:29:29 : Main Screen Located
+2015-07-11 18:29:29 : Click 1,1,1,0 #0166 | Away
+2015-07-11 18:29:30 : Detecting your Buildings..
+2015-07-11 18:29:30 : Click 1,1,2,200 
+2015-07-11 18:29:31 : Town Hall Position: 433, 308
+2015-07-11 18:29:31 : Click 433,313,1,0 
+2015-07-11 18:29:32 : Taking snapshot for later review
+2015-07-11 18:29:36 : Read building Name String = Town Hall (Level 8)
+2015-07-11 18:29:36 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-11 18:29:36 : 2nd $aString = 2, Level 8, 
+2015-07-11 18:29:36 : 3rd $aString = 2, Level, 8
+2015-07-11 18:29:36 : Your Town Hall is Level: 8
+2015-07-11 18:29:36 : Click 1,1,2,200 
+2015-07-11 18:29:36 : Language setting is English: Correct.
+2015-07-11 18:29:37 : Trying to locate Main Screen
+2015-07-11 18:29:38 : Main Screen Located
+2015-07-11 18:29:38 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-11 18:29:41 : Click 1,1,1,0 #0332 | Away
+2015-07-11 18:29:43 : Checking if Village needs Rearming..
+2015-07-11 18:29:43 : Click 1,1,1,0 #0224 | Away
+2015-07-11 18:29:44 : Click 433,313,1,0 #0225 | Rearm - Click Town Hall
+2015-07-11 18:29:45 : Taking snapshot for later review
+2015-07-11 18:29:51 : Click 1,1,1,0 #0234 | Away
+2015-07-11 18:29:54 : PureClick 1,1,1,0 #0319 | Away
+2015-07-11 18:29:54 : Village Report
+2015-07-11 18:29:54 : No. of Free/Total Builders: 0/5
+2015-07-11 18:29:54 :  [T]: 3 166
+2015-07-11 18:29:55 :  [G]: 413 315 [E]: 5 359 977 [D]: 78 808 [GEM]: 2 021
+2015-07-11 18:29:58 : Click 1,1,1,0 #0167 | Away
+2015-07-11 18:29:58 : Click 19,349,1,0 #0168 | Donate - Open Chat
+2015-07-11 18:29:58 : Click 189,24,1,0 #0169 | Donate - Select Clan Tab
+2015-07-11 18:30:00 : Chat Request: I need reinforcement troops
+2015-07-11 18:30:00 : Click 1,1,1,0 #0171 | Away
+2015-07-11 18:30:00 : Click 331,330,1,0 #0173 | Donate - Click Chat
+2015-07-11 18:30:01 : Func Train 
+2015-07-11 18:30:01 : Checking Army Camp...
+2015-07-11 18:30:02 : Click 1,1,1,0 #0292 | Away
+2015-07-11 18:30:02 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-11 18:30:03 : $sArmyInfo = 200#200
+2015-07-11 18:30:03 : $CurCamp = 200
+2015-07-11 18:30:03 : $TotalCamp = 200
+2015-07-11 18:30:03 : Total Army Camp capacity: 200/200
+2015-07-11 18:30:03 : Click 1,1,1,0 #0295 | Away
+2015-07-11 18:30:04 : Training Troops...
+2015-07-11 18:30:04 : Click 1,1,1,0 #0268 | Away
+2015-07-11 18:30:04 : Click 40,525,1,0 #0293 | Train - Click Army Camp
+2015-07-11 18:30:05 : Click 773,337,1,0 #9999
+2015-07-11 18:30:06 : This is not a Barrack
+2015-07-11 18:30:06 : This is not a Barrack
+2015-07-11 18:30:06 : Barrack1 selected
+2015-07-11 18:30:06 : Barrack1 selected
+2015-07-11 18:30:06 : Barrack1 selected
+2015-07-11 18:30:06 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:30:07 : Barrack2 selected
+2015-07-11 18:30:07 : Barrack2 selected
+2015-07-11 18:30:07 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:30:07 : Barrack3 selected
+2015-07-11 18:30:08 : Barrack3 selected
+2015-07-11 18:30:08 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:30:08 : Barrack4 selected
+2015-07-11 18:30:08 : Barrack4 selected
+2015-07-11 18:30:08 : Click 773,337,1,0 #0271 | Train - Next Button 
+2015-07-11 18:30:09 : This is not a Barrack
+2015-07-11 18:30:09 : This is not a Barrack
+2015-07-11 18:30:09 : This is not a Barrack
+2015-07-11 18:30:09 : This is not a Barrack
+2015-07-11 18:30:09 : This is not a Barrack
+2015-07-11 18:30:10 : Click 84,336,1,0 #0272 | Train - Prev Button 
+2015-07-11 18:30:11 : Barrack4 selected
+2015-07-11 18:30:11 : AfterAttack: False
+2015-07-11 18:30:11 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:30:12 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:30:13 : ClashGameBot was Paused!
+2015-07-11 18:30:27 : ClashGameBot was Resumed.
+2015-07-11 18:30:27 : Barrack3 selected
+2015-07-11 18:30:27 : AfterAttack: False
+2015-07-11 18:30:27 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 18:30:27 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 18:30:28 : Click 496,197,10,0 #0273 | Train - Remove Troops
+2015-07-11 18:30:28 : Click 331,320,15,10 #0275 | Train - Train Archer
+2015-07-11 18:30:29 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:30:30 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:30:31 : Barrack2 selected
+2015-07-11 18:30:31 : AfterAttack: False
+2015-07-11 18:30:31 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:30:32 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:30:33 : Barrack1 selected
+2015-07-11 18:30:33 : AfterAttack: False
+2015-07-11 18:30:34 : Click 546,425,3,10 #0282 | Train - Train Dragon
+2015-07-11 18:30:34 : Click 84,336,1,0 #0325 | Train - Prev Button 
+2015-07-11 18:30:35 : This is not a Barrack
+2015-07-11 18:30:35 : Click 84,336,1,0 #0324
+2015-07-11 18:30:36 : This is not a Dark Barrack
+2015-07-11 18:30:36 : Click 84,336,1,0 #0324
+2015-07-11 18:30:38 : Dark Barrack2 selected
+2015-07-11 18:30:38 : Dark Barrack2 selected
+2015-07-11 18:30:38 : Click 496,197,10,0 #0287 | Train - Remove Troops
+2015-07-11 18:30:38 : Click 496,197,10,0 #0287 | Train - Remove Troops
+2015-07-11 18:30:39 : Click 331,320,5,50 #0293 | Train - Click Army Camp
+2015-07-11 18:30:39 : Click 220,320,16,50 #0292 | Away
+2015-07-11 18:30:39 : Click 84,336,1,0 #0289 | Train - Prev Button 
+2015-07-11 18:30:40 : This is not a Dark Barrack
+2015-07-11 18:30:40 : This is not a Dark Barrack
+2015-07-11 18:30:40 : This is not a Dark Barrack
+2015-07-11 18:30:41 : This is not a Dark Barrack
+2015-07-11 18:30:41 : This is not a Dark Barrack
+2015-07-11 18:30:42 : This is not a Dark Barrack
+2015-07-11 18:30:42 : ---================================================================---
+2015-07-11 18:30:42 : Click 1,1,2,250 #0291 | Away
+2015-07-11 18:30:46 : Requesting Clan Castle Troops
+2015-07-11 18:30:46 : Click 40,525,1,0 #9999
+2015-07-11 18:30:47 : Your Clan Castle is already full or you are not in a clan.
+2015-07-11 18:30:47 : Click 1,1,2,0 #9999
+2015-07-11 18:30:48 : Checking Troop Upgrade in Laboratory ...
+2015-07-11 18:30:48 : Updating village values [E]: 5359977 [D]: 78829
+2015-07-11 18:30:48 : Click 430,507,1,0 #0197
+2015-07-11 18:30:49 : ClashGameBot was Paused!

@@ -1,0 +1,45 @@
+2015-07-09 22:29:06 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 22:29:06 : Au3 Script running on WIN_81  X64
+2015-07-09 22:29:06 : =================== Bot Start ====================
+2015-07-09 22:29:06 : Trying to locate Main Screen
+2015-07-09 22:29:10 : Waiting for Main Screen
+2015-07-09 22:29:19 : Zooming Out
+2015-07-09 22:29:21 : Main Screen Located
+2015-07-09 22:29:22 : Detecting your Buildings..
+2015-07-09 22:29:22 : Town Hall Position: 430, 237
+2015-07-09 22:29:24 : Taking snapshot for later review
+2015-07-09 22:29:26 : Read building Name String = 
+2015-07-09 22:29:26 : Your Town Hall Level was not found, please restart the bot6
+2015-07-09 22:29:27 : Language setting is English: Correct.
+2015-07-09 22:29:28 : Trying to locate Main Screen
+2015-07-09 22:29:28 : Main Screen Located
+2015-07-09 22:29:30 : Profile Report
+2015-07-09 22:29:30 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 22:29:31 :  [ATKW]:  [DEFW]:  [TDON]:  [TREC]: 
+2015-07-09 22:29:38 : Village Report
+2015-07-09 22:29:39 : Cannot get Free/Total Builders
+2015-07-09 22:29:39 : No. of Free/Total Builders: 0/0
+2015-07-09 22:29:39 :  [T]: 
+2015-07-09 22:29:39 :  [G]:  [E]:  [GEM]: 
+2015-07-09 22:29:41 : Donation not Planned, Skipped..
+2015-07-09 22:29:42 : Func Train 
+2015-07-09 22:29:42 : Checking Army Camp...
+2015-07-09 22:29:43 : $sArmyInfo = 
+2015-07-09 22:29:45 :  $sArmyInfo = 
+2015-07-09 22:29:47 :  $sArmyInfo = 
+2015-07-09 22:29:49 :  $sArmyInfo = 
+2015-07-09 22:29:52 :  $sArmyInfo = 
+2015-07-09 22:29:54 :  $sArmyInfo = 
+2015-07-09 22:29:54 : Army size read error, Troop numbers can't be trained correctly
+2015-07-09 22:29:59 : Army Camp User input = 0
+2015-07-09 22:29:59 : Total Army Camp capacity: 0/0
+2015-07-09 22:29:59 : Training Troops...
+2015-07-09 22:30:01 : This is not a Barrack
+2015-07-09 22:30:01 : This is not a Barrack
+2015-07-09 22:30:02 : This is not a Barrack
+2015-07-09 22:30:02 : This is not a Barrack
+2015-07-09 22:30:02 : This is not a Barrack
+2015-07-09 22:30:02 : Cannot locate a normal Barrack
+2015-07-09 22:30:02 : Train warning 11
+2015-07-09 22:30:02 : This is not a Barrack
+2015-07-09 22:30:03 : This is not a Barrack

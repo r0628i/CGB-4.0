@@ -1,0 +1,1319 @@
+2015-07-11 14:07:43 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-11 14:07:43 : Executable running on WIN_81  X64
+2015-07-11 14:07:43 : =================== Bot Start ====================
+2015-07-11 14:07:44 : Trying to locate Main Screen
+2015-07-11 14:07:44 : Main Screen Located
+2015-07-11 14:07:45 : Detecting your Buildings..
+2015-07-11 14:07:46 : Town Hall Position: 430, 237
+2015-07-11 14:07:47 : Taking snapshot for later review
+2015-07-11 14:07:50 : Read building Name String = Town Hall (Level 6)
+2015-07-11 14:07:50 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-11 14:07:50 : 2nd $aString = 2, Level 6, 
+2015-07-11 14:07:50 : 3rd $aString = 2, Level, 6
+2015-07-11 14:07:50 : Your Town Hall is Level: 6
+2015-07-11 14:07:51 : Language setting is English: Correct.
+2015-07-11 14:07:52 : Trying to locate Main Screen
+2015-07-11 14:07:52 : Main Screen Located
+2015-07-11 14:07:55 : Collecting Resources
+2015-07-11 14:08:02 : Checking if Village needs Rearming..
+2015-07-11 14:08:05 : Taking snapshot for later review
+2015-07-11 14:08:15 : Village Report
+2015-07-11 14:08:15 : No. of Free/Total Builders: 0/3
+2015-07-11 14:08:15 :  [T]: 1 120
+2015-07-11 14:08:15 :  [G]: 767 123 [E]: 1 409 695 [GEM]: 672
+2015-07-11 14:08:18 : Func Train 
+2015-07-11 14:08:18 : Checking Army Camp...
+2015-07-11 14:08:20 : $sArmyInfo = 33#140
+2015-07-11 14:08:20 : $CurCamp = 33
+2015-07-11 14:08:20 : $TotalCamp = 140
+2015-07-11 14:08:20 : Total Army Camp capacity: 33/140
+2015-07-11 14:08:20 : $hBitmapFirst made
+2015-07-11 14:08:21 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:08:21 : Dll return $FullTemp :Archer|8-22|33
+2015-07-11 14:08:21 : $Trooptype split # : 1
+2015-07-11 14:08:21 : Start the Loop
+2015-07-11 14:08:21 : $TroopTypeT[$i] split : 1
+2015-07-11 14:08:21 :  - No. of Archers: 33
+2015-07-11 14:08:21 : Training Troops...
+2015-07-11 14:08:24 : This is not a Barrack
+2015-07-11 14:08:24 : Barrack1 selected
+2015-07-11 14:08:24 : Barrack1 selected
+2015-07-11 14:08:25 : Train: need to make normal troops: True
+2015-07-11 14:08:25 : Train: need to make dark troops: False
+2015-07-11 14:08:25 : Barrack1 selected
+2015-07-11 14:08:25 : Barrack2 selected
+2015-07-11 14:08:25 : Barrack2 selected
+2015-07-11 14:08:26 : Barrack3 selected
+2015-07-11 14:08:26 : Barrack3 selected
+2015-07-11 14:08:27 : This is not a Barrack
+2015-07-11 14:08:27 : This is not a Barrack
+2015-07-11 14:08:27 : This is not a Barrack
+2015-07-11 14:08:27 : This is not a Barrack
+2015-07-11 14:08:27 : This is not a Barrack
+2015-07-11 14:08:29 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:08:29 : -- AnotherTroops to train:0 + 12*5
+2015-07-11 14:08:29 : Need to train Giant:12
+2015-07-11 14:08:29 : -- AnotherTroops to train:60 + 0*2
+2015-07-11 14:08:29 : -- AnotherTroops to train:60 + 0*14
+2015-07-11 14:08:29 : -- AnotherTroops to train:60 + 0*25
+2015-07-11 14:08:29 : -- AnotherTroops to train:60 + 0*5
+2015-07-11 14:08:29 : -- AnotherTroops to train:60 + 0*4
+2015-07-11 14:08:29 : -- AnotherTroops to train:60 + 0*20
+2015-07-11 14:08:29 : -- AnotherTroops dark to train:60 + 0*2
+2015-07-11 14:08:29 : -- AnotherTroops dark to train:60 + 0*5
+2015-07-11 14:08:29 : -- AnotherTroops dark to train:60 + 0*8
+2015-07-11 14:08:29 : -- AnotherTroops dark to train:60 + 0*30
+2015-07-11 14:08:29 : -- AnotherTroops dark to train:60 + 0*12
+2015-07-11 14:08:29 : -- AnotherTroops dark to train:60 + 0*30
+2015-07-11 14:08:29 : --------------AnotherTroops TOTAL to train:60
+2015-07-11 14:08:29 : Need to train (height) GOBL:0 BARB: 32 ARCH: 15 AND 60 other troops space
+2015-07-11 14:08:29 : BARRACKNUM: 3
+2015-07-11 14:08:29 : ArchEBarrack: 5
+2015-07-11 14:08:29 : GiantEBarrack: 4
+2015-07-11 14:08:29 : BarbEBarrack: 10
+2015-07-11 14:08:29 : DARKBARRACKNUM: 1
+2015-07-11 14:08:29 : Barrack3 selected
+2015-07-11 14:08:31 : Call Func TrainIt for Arch
+2015-07-11 14:08:31 : Func GetGemName 1
+2015-07-11 14:08:31 : Func GetFullName 1
+2015-07-11 14:08:32 : Call Func TrainIt for Giant
+2015-07-11 14:08:32 : Func GetGemName 2
+2015-07-11 14:08:32 : Func GetFullName 2
+2015-07-11 14:08:33 : Call Func TrainIt for Barb
+2015-07-11 14:08:33 : Func GetGemName 0
+2015-07-11 14:08:33 : Func GetFullName 0
+2015-07-11 14:08:35 : troopSecondArch: 5
+2015-07-11 14:08:35 : troopSecondGiant: 4
+2015-07-11 14:08:35 : troopSecondBarb: 10
+2015-07-11 14:08:35 : ###CurArch = 15 - (5 - 0)
+2015-07-11 14:08:35 : ###CurGiant = 12 - (4 - 0)
+2015-07-11 14:08:35 : ###CurBarb = 32 - (10 - 0)
+2015-07-11 14:08:35 : BARRACK 0 STATUS: True
+2015-07-11 14:08:36 : Barrack2 selected
+2015-07-11 14:08:36 : Barrack2 selected
+2015-07-11 14:08:38 : Call Func TrainIt for Arch
+2015-07-11 14:08:38 : Func GetGemName 1
+2015-07-11 14:08:38 : Func GetFullName 1
+2015-07-11 14:08:39 : Call Func TrainIt for Giant
+2015-07-11 14:08:39 : Func GetGemName 2
+2015-07-11 14:08:39 : Func GetFullName 2
+2015-07-11 14:08:41 : Call Func TrainIt for Barb
+2015-07-11 14:08:41 : Func GetGemName 0
+2015-07-11 14:08:41 : Func GetFullName 0
+2015-07-11 14:08:43 : troopSecondArch: 5
+2015-07-11 14:08:43 : troopSecondGiant: 4
+2015-07-11 14:08:43 : troopSecondBarb: 10
+2015-07-11 14:08:43 : ###CurArch = 10 - (5 - 0)
+2015-07-11 14:08:43 : ###CurGiant = 8 - (4 - 0)
+2015-07-11 14:08:43 : ###CurBarb = 22 - (10 - 0)
+2015-07-11 14:08:43 : BARRACK 1 STATUS: True
+2015-07-11 14:08:44 : Barrack1 selected
+2015-07-11 14:08:44 : Barrack1 selected
+2015-07-11 14:08:46 : Call Func TrainIt for Arch
+2015-07-11 14:08:46 : Func GetGemName 1
+2015-07-11 14:08:46 : Func GetFullName 1
+2015-07-11 14:08:47 : Call Func TrainIt for Giant
+2015-07-11 14:08:47 : Func GetGemName 2
+2015-07-11 14:08:47 : Func GetFullName 2
+2015-07-11 14:08:48 : Call Func TrainIt for Barb
+2015-07-11 14:08:48 : Func GetGemName 0
+2015-07-11 14:08:48 : Func GetFullName 0
+2015-07-11 14:08:50 : troopSecondArch: 5
+2015-07-11 14:08:50 : troopSecondGiant: 4
+2015-07-11 14:08:50 : troopSecondBarb: 10
+2015-07-11 14:08:50 : ###CurArch = 5 - (5 - 0)
+2015-07-11 14:08:50 : ###CurGiant = 4 - (4 - 0)
+2015-07-11 14:08:50 : ###CurBarb = 12 - (10 - 0)
+2015-07-11 14:08:50 : BARRACK 2 STATUS: True
+2015-07-11 14:08:51 : This is not a Barrack
+2015-07-11 14:08:51 : This is not a Barrack
+2015-07-11 14:08:51 : This is not a Barrack
+2015-07-11 14:08:52 : This is not a Barrack
+2015-07-11 14:08:52 : This is not a Barrack
+2015-07-11 14:08:52 : ---================================================================---
+2015-07-11 14:08:56 : Requesting Clan Castle Troops
+2015-07-11 14:08:57 : Request has already been made
+2015-07-11 14:08:58 : Checking Troop Upgrade in Laboratory ...
+2015-07-11 14:08:58 : Updating village values [E]: 1403695
+2015-07-11 14:08:59 : ButtonPixel = 483, 565
+2015-07-11 14:08:59 : #1: 050702, #2: 708CB0, #3: 603818, #4: D8FF58
+2015-07-11 14:08:59 : Taking snapshot for later review
+2015-07-11 14:09:01 : Taking snapshot for later review
+2015-07-11 14:09:01 : Taking debug snapshot for later review
+2015-07-11 14:09:01 : Barbarian
+2015-07-11 14:09:01 : _GetPixelColor(+47, +6): DFDFDF
+2015-07-11 14:09:01 : _GetPixelColor(+68, +79): 818181
+2015-07-11 14:09:01 : _GetPixelColor(+68, +82): 000000
+2015-07-11 14:09:01 : _GetPixelColor(+81, +82): A6A6A6
+2015-07-11 14:09:01 : _GetPixelColor(+49, +78): 000000
+2015-07-11 14:09:01 : _GetPixelColor(+79, +78): A6A6A6
+2015-07-11 14:09:01 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-11 14:09:01 : _GetPixelColor(+8, +59): C9C9C9
+2015-07-11 14:09:01 : Taking debug snapshot for later review
+2015-07-11 14:09:02 : Archer
+2015-07-11 14:09:02 : _GetPixelColor(+47, +6): 9C9C9C
+2015-07-11 14:09:02 : _GetPixelColor(+68, +79): 8E8E8E
+2015-07-11 14:09:02 : _GetPixelColor(+68, +82): 000000
+2015-07-11 14:09:02 : _GetPixelColor(+81, +82): 6E6E6E
+2015-07-11 14:09:02 : _GetPixelColor(+49, +78): 000000
+2015-07-11 14:09:02 : _GetPixelColor(+79, +78): 6F6F6F
+2015-07-11 14:09:02 : _GetPixelColor(+3, +19): CBCBCB
+2015-07-11 14:09:02 : _GetPixelColor(+8, +59): 757575
+2015-07-11 14:09:02 : Taking debug snapshot for later review
+2015-07-11 14:09:02 : Giant
+2015-07-11 14:09:02 : _GetPixelColor(+47, +6): FFE0A9
+2015-07-11 14:09:02 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 14:09:02 : _GetPixelColor(+68, +82): FFFFFF
+2015-07-11 14:09:02 : _GetPixelColor(+81, +82): E367DF
+2015-07-11 14:09:02 : _GetPixelColor(+49, +78): FEFFFF
+2015-07-11 14:09:02 : _GetPixelColor(+79, +78): ED41DB
+2015-07-11 14:09:02 : _GetPixelColor(+3, +19): 98EEF5
+2015-07-11 14:09:02 : _GetPixelColor(+8, +59): 323639
+2015-07-11 14:09:02 : Taking debug snapshot for later review
+2015-07-11 14:09:03 : Goblin
+2015-07-11 14:09:03 : _GetPixelColor(+47, +6): C1C1C1
+2015-07-11 14:09:03 : _GetPixelColor(+68, +79): 575757
+2015-07-11 14:09:03 : _GetPixelColor(+68, +82): 000000
+2015-07-11 14:09:03 : _GetPixelColor(+81, +82): A4A4A4
+2015-07-11 14:09:03 : _GetPixelColor(+49, +78): 000000
+2015-07-11 14:09:03 : _GetPixelColor(+79, +78): 878787
+2015-07-11 14:09:03 : _GetPixelColor(+3, +19): D5D5D5
+2015-07-11 14:09:03 : _GetPixelColor(+8, +59): 676767
+2015-07-11 14:09:03 : Taking debug snapshot for later review
+2015-07-11 14:09:03 : Wall Breaker
+2015-07-11 14:09:03 : _GetPixelColor(+47, +6): BEBEBE
+2015-07-11 14:09:03 : _GetPixelColor(+68, +79): EAEAEA
+2015-07-11 14:09:03 : _GetPixelColor(+68, +82): 424242
+2015-07-11 14:09:03 : _GetPixelColor(+81, +82): 8E8E8E
+2015-07-11 14:09:03 : _GetPixelColor(+49, +78): DCDCDC
+2015-07-11 14:09:03 : _GetPixelColor(+79, +78): 7A7A7A
+2015-07-11 14:09:03 : _GetPixelColor(+3, +19): B2B2B2
+2015-07-11 14:09:03 : _GetPixelColor(+8, +59): 292929
+2015-07-11 14:09:03 : Taking debug snapshot for later review
+2015-07-11 14:09:04 : Balloon
+2015-07-11 14:09:04 : _GetPixelColor(+47, +6): 777777
+2015-07-11 14:09:04 : _GetPixelColor(+68, +79): 5A5A5A
+2015-07-11 14:09:04 : _GetPixelColor(+68, +82): 292929
+2015-07-11 14:09:04 : _GetPixelColor(+81, +82): 6E6E6E
+2015-07-11 14:09:04 : _GetPixelColor(+49, +78): 000000
+2015-07-11 14:09:04 : _GetPixelColor(+79, +78): 717171
+2015-07-11 14:09:04 : _GetPixelColor(+3, +19): B3B3B3
+2015-07-11 14:09:04 : _GetPixelColor(+8, +59): B3B3B3
+2015-07-11 14:09:04 : Taking debug snapshot for later review
+2015-07-11 14:09:04 : Wizard
+2015-07-11 14:09:04 : _GetPixelColor(+47, +6): 7E7E7E
+2015-07-11 14:09:04 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 14:09:04 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 14:09:04 : _GetPixelColor(+81, +82): 909090
+2015-07-11 14:09:04 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-11 14:09:04 : _GetPixelColor(+79, +78): 7F7F7F
+2015-07-11 14:09:04 : _GetPixelColor(+3, +19): CCCCCC
+2015-07-11 14:09:04 : _GetPixelColor(+8, +59): 303030
+2015-07-11 14:09:04 : Taking debug snapshot for later review
+2015-07-11 14:09:05 : Healer
+2015-07-11 14:09:05 : _GetPixelColor(+47, +6): E8E8E0
+2015-07-11 14:09:05 : _GetPixelColor(+68, +79): BEBEBA
+2015-07-11 14:09:05 : _GetPixelColor(+68, +82): E3E3DF
+2015-07-11 14:09:05 : _GetPixelColor(+81, +82): E3E3DF
+2015-07-11 14:09:05 : _GetPixelColor(+49, +78): CBCBC7
+2015-07-11 14:09:05 : _GetPixelColor(+79, +78): CFCFCB
+2015-07-11 14:09:05 : _GetPixelColor(+3, +19): E8E8E0
+2015-07-11 14:09:05 : _GetPixelColor(+8, +59): E8E8E0
+2015-07-11 14:09:05 : Taking debug snapshot for later review
+2015-07-11 14:09:05 : Dragon
+2015-07-11 14:09:05 : _GetPixelColor(+47, +6): E8E8E0
+2015-07-11 14:09:05 : _GetPixelColor(+68, +79): E7E7DF
+2015-07-11 14:09:05 : _GetPixelColor(+68, +82): E8E8E0
+2015-07-11 14:09:05 : _GetPixelColor(+81, +82): D6D6D2
+2015-07-11 14:09:05 : _GetPixelColor(+49, +78): 9C9C98
+2015-07-11 14:09:05 : _GetPixelColor(+79, +78): D3D3CF
+2015-07-11 14:09:05 : _GetPixelColor(+3, +19): E8E8E0
+2015-07-11 14:09:05 : _GetPixelColor(+8, +59): E8E8E0
+2015-07-11 14:09:05 : Taking debug snapshot for later review
+2015-07-11 14:09:06 : Pekka
+2015-07-11 14:09:06 : _GetPixelColor(+47, +6): E8E8E0
+2015-07-11 14:09:06 : _GetPixelColor(+68, +79): ACACA8
+2015-07-11 14:09:06 : _GetPixelColor(+68, +82): ADADA9
+2015-07-11 14:09:06 : _GetPixelColor(+81, +82): B0B0AC
+2015-07-11 14:09:06 : _GetPixelColor(+49, +78): 969692
+2015-07-11 14:09:06 : _GetPixelColor(+79, +78): B0B0AC
+2015-07-11 14:09:06 : _GetPixelColor(+3, +19): E8E8E0
+2015-07-11 14:09:06 : _GetPixelColor(+8, +59): 93938F
+2015-07-11 14:09:06 : Taking debug snapshot for later review
+2015-07-11 14:09:06 : Lightning Spell
+2015-07-11 14:09:06 : _GetPixelColor(+47, +6): BFBFBF
+2015-07-11 14:09:06 : _GetPixelColor(+68, +79): FFFFFF
+2015-07-11 14:09:06 : _GetPixelColor(+68, +82): FEFEFE
+2015-07-11 14:09:06 : _GetPixelColor(+81, +82): 919191
+2015-07-11 14:09:06 : _GetPixelColor(+49, +78): F9F9F9
+2015-07-11 14:09:06 : _GetPixelColor(+79, +78): 808080
+2015-07-11 14:09:06 : _GetPixelColor(+3, +19): D2D2D2
+2015-07-11 14:09:06 : _GetPixelColor(+8, +59): 303030
+2015-07-11 14:09:06 : Taking debug snapshot for later review
+2015-07-11 14:09:07 : Healing Spell
+2015-07-11 14:09:07 : _GetPixelColor(+47, +6): BBBBBB
+2015-07-11 14:09:07 : _GetPixelColor(+68, +79): 8C8C8C
+2015-07-11 14:09:07 : _GetPixelColor(+68, +82): 010101
+2015-07-11 14:09:07 : _GetPixelColor(+81, +82): A6A6A6
+2015-07-11 14:09:07 : _GetPixelColor(+49, +78): 000000
+2015-07-11 14:09:07 : _GetPixelColor(+79, +78): A6A6A6
+2015-07-11 14:09:07 : _GetPixelColor(+3, +19): D3D3D3
+2015-07-11 14:09:07 : _GetPixelColor(+8, +59): 606060
+2015-07-11 14:09:08 : Taking snapshot for later review
+2015-07-11 14:09:10 : Something went wrong with Giant Upgrade, try again.
+2015-07-11 14:09:13 : No free builder, Upgrade Walls skipped..
+2015-07-11 14:09:14 : ====== Waiting for full army ======
+2015-07-11 14:09:34 : Func Train 
+2015-07-11 14:09:34 : Checking Army Camp...
+2015-07-11 14:09:35 : $sArmyInfo = 41#140
+2015-07-11 14:09:35 : $CurCamp = 41
+2015-07-11 14:09:35 : $TotalCamp = 140
+2015-07-11 14:09:36 : Total Army Camp capacity: 41/140
+2015-07-11 14:09:36 : $hBitmapFirst made
+2015-07-11 14:09:36 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:09:37 : Dll return $FullTemp :Archer|8-22|41
+2015-07-11 14:09:37 : $Trooptype split # : 1
+2015-07-11 14:09:37 : Start the Loop
+2015-07-11 14:09:37 : $TroopTypeT[$i] split : 1
+2015-07-11 14:09:37 :  - No. of Archers: 41
+2015-07-11 14:09:37 : Training Troops...
+2015-07-11 14:09:39 : This is not a Barrack
+2015-07-11 14:09:39 : Barrack1 selected
+2015-07-11 14:09:41 : Barrack1 selected
+2015-07-11 14:09:41 : Train: need to make normal troops: True
+2015-07-11 14:09:41 : Train: need to make dark troops: False
+2015-07-11 14:09:41 : Barrack1 selected
+2015-07-11 14:09:42 : Barrack2 selected
+2015-07-11 14:09:42 : Barrack2 selected
+2015-07-11 14:09:42 : Barrack3 selected
+2015-07-11 14:09:43 : Barrack3 selected
+2015-07-11 14:09:43 : This is not a Barrack
+2015-07-11 14:09:43 : This is not a Barrack
+2015-07-11 14:09:44 : This is not a Barrack
+2015-07-11 14:09:44 : This is not a Barrack
+2015-07-11 14:09:44 : This is not a Barrack
+2015-07-11 14:09:45 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:09:45 : BARRACKNUM: 3
+2015-07-11 14:09:45 : DARKBARRACKNUM: 1
+2015-07-11 14:09:45 : Barrack3 selected
+2015-07-11 14:09:46 : ASSIGN TroopFirst.Arch: 3
+2015-07-11 14:09:46 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:09:46 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:09:46 : Call Func TrainIt for Barb
+2015-07-11 14:09:46 : Func GetGemName 0
+2015-07-11 14:09:46 : Func GetFullName 0
+2015-07-11 14:09:47 : troopSecondArch: 2
+2015-07-11 14:09:47 : troopSecondGiant: 4
+2015-07-11 14:09:47 : troopSecondBarb: 11
+2015-07-11 14:09:47 : ###CurBarb = 2 - (11 - 10)
+2015-07-11 14:09:47 : BARRACK 0 STATUS: True
+2015-07-11 14:09:48 : Barrack2 selected
+2015-07-11 14:09:48 : Barrack2 selected
+2015-07-11 14:09:48 : ASSIGN TroopFirst.Arch: 3
+2015-07-11 14:09:48 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:09:48 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:09:48 : Call Func TrainIt for Barb
+2015-07-11 14:09:48 : Func GetGemName 0
+2015-07-11 14:09:48 : Func GetFullName 0
+2015-07-11 14:09:49 : troopSecondArch: 3
+2015-07-11 14:09:49 : troopSecondGiant: 4
+2015-07-11 14:09:49 : troopSecondBarb: 11
+2015-07-11 14:09:49 : ###CurBarb = 1 - (11 - 10)
+2015-07-11 14:09:49 : BARRACK 1 STATUS: True
+2015-07-11 14:09:50 : Barrack1 selected
+2015-07-11 14:09:50 : Barrack1 selected
+2015-07-11 14:09:50 : ASSIGN TroopFirst.Arch: 3
+2015-07-11 14:09:50 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:09:50 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:09:51 : troopSecondArch: 3
+2015-07-11 14:09:51 : troopSecondGiant: 4
+2015-07-11 14:09:51 : troopSecondBarb: 10
+2015-07-11 14:09:51 : BARRACK 2 STATUS: True
+2015-07-11 14:09:52 : This is not a Barrack
+2015-07-11 14:09:52 : This is not a Barrack
+2015-07-11 14:09:52 : This is not a Barrack
+2015-07-11 14:09:53 : This is not a Barrack
+2015-07-11 14:09:53 : This is not a Barrack
+2015-07-11 14:09:53 : ---================================================================---
+2015-07-11 14:09:56 : Time Idle: 00:00:41
+2015-07-11 14:09:56 : ====== Waiting for full army ======
+2015-07-11 14:10:16 : Func Train 
+2015-07-11 14:10:16 : Checking Army Camp...
+2015-07-11 14:10:17 : $sArmyInfo = 46#140
+2015-07-11 14:10:17 : $CurCamp = 46
+2015-07-11 14:10:17 : $TotalCamp = 140
+2015-07-11 14:10:18 : Total Army Camp capacity: 46/140
+2015-07-11 14:10:18 : $hBitmapFirst made
+2015-07-11 14:10:18 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:10:19 : Dll return $FullTemp :Archer|8-22|46
+2015-07-11 14:10:19 : $Trooptype split # : 1
+2015-07-11 14:10:19 : Start the Loop
+2015-07-11 14:10:19 : $TroopTypeT[$i] split : 1
+2015-07-11 14:10:19 :  - No. of Archers: 46
+2015-07-11 14:10:19 : Training Troops...
+2015-07-11 14:10:21 : This is not a Barrack
+2015-07-11 14:10:21 : Barrack1 selected
+2015-07-11 14:10:22 : Barrack1 selected
+2015-07-11 14:10:22 : Train: need to make normal troops: True
+2015-07-11 14:10:22 : Train: need to make dark troops: False
+2015-07-11 14:10:22 : Barrack1 selected
+2015-07-11 14:10:23 : Barrack2 selected
+2015-07-11 14:10:23 : Barrack2 selected
+2015-07-11 14:10:23 : Barrack3 selected
+2015-07-11 14:10:23 : Barrack3 selected
+2015-07-11 14:10:24 : This is not a Barrack
+2015-07-11 14:10:24 : This is not a Barrack
+2015-07-11 14:10:25 : This is not a Barrack
+2015-07-11 14:10:25 : This is not a Barrack
+2015-07-11 14:10:25 : This is not a Barrack
+2015-07-11 14:10:26 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:10:26 : BARRACKNUM: 3
+2015-07-11 14:10:26 : DARKBARRACKNUM: 1
+2015-07-11 14:10:26 : Barrack3 selected
+2015-07-11 14:10:26 : ASSIGN TroopFirst.Arch: 1
+2015-07-11 14:10:27 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:10:27 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:10:27 : troopSecondArch: 1
+2015-07-11 14:10:27 : troopSecondGiant: 4
+2015-07-11 14:10:27 : troopSecondBarb: 11
+2015-07-11 14:10:27 : BARRACK 0 STATUS: True
+2015-07-11 14:10:28 : Barrack2 selected
+2015-07-11 14:10:28 : Barrack2 selected
+2015-07-11 14:10:28 : ASSIGN TroopFirst.Arch: 1
+2015-07-11 14:10:28 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:10:28 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:10:28 : troopSecondArch: 1
+2015-07-11 14:10:29 : troopSecondGiant: 4
+2015-07-11 14:10:29 : troopSecondBarb: 11
+2015-07-11 14:10:29 : BARRACK 1 STATUS: True
+2015-07-11 14:10:29 : Barrack1 selected
+2015-07-11 14:10:29 : Barrack1 selected
+2015-07-11 14:10:30 : ASSIGN TroopFirst.Arch: 1
+2015-07-11 14:10:30 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:10:30 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:10:30 : troopSecondArch: 1
+2015-07-11 14:10:30 : troopSecondGiant: 4
+2015-07-11 14:10:30 : troopSecondBarb: 10
+2015-07-11 14:10:30 : BARRACK 2 STATUS: True
+2015-07-11 14:10:31 : This is not a Barrack
+2015-07-11 14:10:31 : This is not a Barrack
+2015-07-11 14:10:32 : This is not a Barrack
+2015-07-11 14:10:32 : This is not a Barrack
+2015-07-11 14:10:32 : This is not a Barrack
+2015-07-11 14:10:32 : ---================================================================---
+2015-07-11 14:10:35 : Time Idle: 00:01:21
+2015-07-11 14:10:35 : ====== Waiting for full army ======
+2015-07-11 14:10:56 : Func Train 
+2015-07-11 14:10:56 : Checking Army Camp...
+2015-07-11 14:10:57 : $sArmyInfo = 51#140
+2015-07-11 14:10:57 : $CurCamp = 51
+2015-07-11 14:10:57 : $TotalCamp = 140
+2015-07-11 14:10:58 : Total Army Camp capacity: 51/140
+2015-07-11 14:10:58 : $hBitmapFirst made
+2015-07-11 14:10:58 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:10:59 : Dll return $FullTemp :Archer|8-22|51
+2015-07-11 14:10:59 : $Trooptype split # : 1
+2015-07-11 14:10:59 : Start the Loop
+2015-07-11 14:10:59 : $TroopTypeT[$i] split : 1
+2015-07-11 14:10:59 :  - No. of Archers: 51
+2015-07-11 14:10:59 : Training Troops...
+2015-07-11 14:11:01 : This is not a Barrack
+2015-07-11 14:11:01 : Barrack1 selected
+2015-07-11 14:11:01 : Barrack1 selected
+2015-07-11 14:11:02 : Train: need to make normal troops: True
+2015-07-11 14:11:02 : Train: need to make dark troops: False
+2015-07-11 14:11:02 : Barrack1 selected
+2015-07-11 14:11:02 : Barrack2 selected
+2015-07-11 14:11:02 : Barrack2 selected
+2015-07-11 14:11:03 : Barrack3 selected
+2015-07-11 14:11:03 : Barrack3 selected
+2015-07-11 14:11:04 : This is not a Barrack
+2015-07-11 14:11:04 : This is not a Barrack
+2015-07-11 14:11:04 : This is not a Barrack
+2015-07-11 14:11:04 : This is not a Barrack
+2015-07-11 14:11:04 : This is not a Barrack
+2015-07-11 14:11:06 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:11:06 : BARRACKNUM: 3
+2015-07-11 14:11:06 : DARKBARRACKNUM: 1
+2015-07-11 14:11:06 : Barrack3 selected
+2015-07-11 14:11:06 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:11:06 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:11:07 : troopSecondGiant: 4
+2015-07-11 14:11:07 : troopSecondBarb: 11
+2015-07-11 14:11:07 : BARRACK 0 STATUS: True
+2015-07-11 14:11:08 : Barrack2 selected
+2015-07-11 14:11:08 : Barrack2 selected
+2015-07-11 14:11:08 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:11:08 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:11:09 : troopSecondGiant: 4
+2015-07-11 14:11:09 : troopSecondBarb: 11
+2015-07-11 14:11:09 : BARRACK 1 STATUS: True
+2015-07-11 14:11:09 : Barrack1 selected
+2015-07-11 14:11:09 : Barrack1 selected
+2015-07-11 14:11:10 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:11:10 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:11:10 : troopSecondGiant: 4
+2015-07-11 14:11:11 : troopSecondBarb: 10
+2015-07-11 14:11:11 : BARRACK 2 STATUS: True
+2015-07-11 14:11:11 : This is not a Barrack
+2015-07-11 14:11:12 : This is not a Barrack
+2015-07-11 14:11:12 : This is not a Barrack
+2015-07-11 14:11:12 : This is not a Barrack
+2015-07-11 14:11:13 : This is not a Barrack
+2015-07-11 14:11:13 : ---================================================================---
+2015-07-11 14:11:16 : Time Idle: 00:02:01
+2015-07-11 14:11:16 : ====== Waiting for full army ======
+2015-07-11 14:11:35 : Func Train 
+2015-07-11 14:11:35 : Checking Army Camp...
+2015-07-11 14:11:37 : $sArmyInfo = 51#140
+2015-07-11 14:11:37 : $CurCamp = 51
+2015-07-11 14:11:37 : $TotalCamp = 140
+2015-07-11 14:11:37 : Total Army Camp capacity: 51/140
+2015-07-11 14:11:37 : $hBitmapFirst made
+2015-07-11 14:11:38 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:11:38 : Dll return $FullTemp :Archer|8-22|51
+2015-07-11 14:11:38 : $Trooptype split # : 1
+2015-07-11 14:11:38 : Start the Loop
+2015-07-11 14:11:39 : $TroopTypeT[$i] split : 1
+2015-07-11 14:11:39 :  - No. of Archers: 51
+2015-07-11 14:11:39 : Training Troops...
+2015-07-11 14:11:41 : This is not a Barrack
+2015-07-11 14:11:41 : Barrack1 selected
+2015-07-11 14:11:41 : Barrack1 selected
+2015-07-11 14:11:42 : Train: need to make normal troops: True
+2015-07-11 14:11:42 : Train: need to make dark troops: False
+2015-07-11 14:11:42 : Barrack1 selected
+2015-07-11 14:11:42 : Barrack2 selected
+2015-07-11 14:11:43 : Barrack2 selected
+2015-07-11 14:11:43 : Barrack3 selected
+2015-07-11 14:11:43 : Barrack3 selected
+2015-07-11 14:11:44 : This is not a Barrack
+2015-07-11 14:11:44 : This is not a Barrack
+2015-07-11 14:11:44 : This is not a Barrack
+2015-07-11 14:11:44 : This is not a Barrack
+2015-07-11 14:11:45 : This is not a Barrack
+2015-07-11 14:11:46 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:11:46 : BARRACKNUM: 3
+2015-07-11 14:11:46 : DARKBARRACKNUM: 1
+2015-07-11 14:11:46 : Barrack3 selected
+2015-07-11 14:11:46 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:11:47 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:11:47 : troopSecondGiant: 4
+2015-07-11 14:11:47 : troopSecondBarb: 11
+2015-07-11 14:11:47 : BARRACK 0 STATUS: True
+2015-07-11 14:11:48 : Barrack2 selected
+2015-07-11 14:11:48 : Barrack2 selected
+2015-07-11 14:11:48 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:11:48 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:11:49 : troopSecondGiant: 4
+2015-07-11 14:11:49 : troopSecondBarb: 11
+2015-07-11 14:11:49 : BARRACK 1 STATUS: True
+2015-07-11 14:11:50 : Barrack1 selected
+2015-07-11 14:11:50 : Barrack1 selected
+2015-07-11 14:11:50 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:11:50 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:11:51 : troopSecondGiant: 4
+2015-07-11 14:11:51 : troopSecondBarb: 10
+2015-07-11 14:11:51 : BARRACK 2 STATUS: True
+2015-07-11 14:11:51 : This is not a Barrack
+2015-07-11 14:11:52 : This is not a Barrack
+2015-07-11 14:11:52 : This is not a Barrack
+2015-07-11 14:11:52 : This is not a Barrack
+2015-07-11 14:11:53 : This is not a Barrack
+2015-07-11 14:11:53 : ---================================================================---
+2015-07-11 14:11:56 : Time Idle: 00:02:41
+2015-07-11 14:11:56 : ====== Waiting for full army ======
+2015-07-11 14:12:15 : Func Train 
+2015-07-11 14:12:15 : Checking Army Camp...
+2015-07-11 14:12:17 : $sArmyInfo = 51#140
+2015-07-11 14:12:17 : $CurCamp = 51
+2015-07-11 14:12:17 : $TotalCamp = 140
+2015-07-11 14:12:17 : Total Army Camp capacity: 51/140
+2015-07-11 14:12:17 : $hBitmapFirst made
+2015-07-11 14:12:18 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:12:18 : Dll return $FullTemp :Archer|8-22|51
+2015-07-11 14:12:18 : $Trooptype split # : 1
+2015-07-11 14:12:18 : Start the Loop
+2015-07-11 14:12:19 : $TroopTypeT[$i] split : 1
+2015-07-11 14:12:19 :  - No. of Archers: 51
+2015-07-11 14:12:19 : Training Troops...
+2015-07-11 14:12:21 : This is not a Barrack
+2015-07-11 14:12:21 : Barrack1 selected
+2015-07-11 14:12:21 : Barrack1 selected
+2015-07-11 14:12:22 : Train: need to make normal troops: True
+2015-07-11 14:12:22 : Train: need to make dark troops: False
+2015-07-11 14:12:22 : Barrack1 selected
+2015-07-11 14:12:22 : Barrack2 selected
+2015-07-11 14:12:22 : Barrack2 selected
+2015-07-11 14:12:23 : Barrack3 selected
+2015-07-11 14:12:23 : Barrack3 selected
+2015-07-11 14:12:24 : This is not a Barrack
+2015-07-11 14:12:24 : This is not a Barrack
+2015-07-11 14:12:24 : This is not a Barrack
+2015-07-11 14:12:24 : This is not a Barrack
+2015-07-11 14:12:24 : This is not a Barrack
+2015-07-11 14:12:26 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:12:26 : BARRACKNUM: 3
+2015-07-11 14:12:26 : DARKBARRACKNUM: 1
+2015-07-11 14:12:26 : Barrack3 selected
+2015-07-11 14:12:26 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:12:26 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:12:27 : troopSecondGiant: 4
+2015-07-11 14:12:27 : troopSecondBarb: 11
+2015-07-11 14:12:27 : BARRACK 0 STATUS: True
+2015-07-11 14:12:28 : Barrack2 selected
+2015-07-11 14:12:28 : Barrack2 selected
+2015-07-11 14:12:28 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:12:28 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:12:29 : troopSecondGiant: 4
+2015-07-11 14:12:29 : troopSecondBarb: 11
+2015-07-11 14:12:29 : BARRACK 1 STATUS: True
+2015-07-11 14:12:29 : Barrack1 selected
+2015-07-11 14:12:29 : Barrack1 selected
+2015-07-11 14:12:30 : ASSIGN TroopFirst.Giant: 4
+2015-07-11 14:12:30 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:12:30 : troopSecondGiant: 4
+2015-07-11 14:12:30 : troopSecondBarb: 10
+2015-07-11 14:12:31 : BARRACK 2 STATUS: True
+2015-07-11 14:12:31 : This is not a Barrack
+2015-07-11 14:12:32 : This is not a Barrack
+2015-07-11 14:12:32 : This is not a Barrack
+2015-07-11 14:12:32 : This is not a Barrack
+2015-07-11 14:12:32 : This is not a Barrack
+2015-07-11 14:12:33 : ---================================================================---
+2015-07-11 14:12:36 : Time Idle: 00:03:21
+2015-07-11 14:12:36 : ====== Waiting for full army ======
+2015-07-11 14:12:56 : Func Train 
+2015-07-11 14:12:56 : Checking Army Camp...
+2015-07-11 14:12:57 : $sArmyInfo = 66#140
+2015-07-11 14:12:57 : $CurCamp = 66
+2015-07-11 14:12:57 : $TotalCamp = 140
+2015-07-11 14:12:58 : Total Army Camp capacity: 66/140
+2015-07-11 14:12:58 : $hBitmapFirst made
+2015-07-11 14:12:58 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:12:59 : Dll return $FullTemp :Archer|8-22|51#Giant|71-23|3
+2015-07-11 14:12:59 : $Trooptype split # : 2
+2015-07-11 14:12:59 : Start the Loop
+2015-07-11 14:12:59 : $TroopTypeT[$i] split : 1
+2015-07-11 14:12:59 :  - No. of Archers: 51
+2015-07-11 14:12:59 : $TroopTypeT[$i] split : 2
+2015-07-11 14:12:59 :  - No. of Giants: 3
+2015-07-11 14:12:59 : Training Troops...
+2015-07-11 14:13:01 : This is not a Barrack
+2015-07-11 14:13:01 : Barrack1 selected
+2015-07-11 14:13:02 : Barrack1 selected
+2015-07-11 14:13:02 : Train: need to make normal troops: True
+2015-07-11 14:13:02 : Train: need to make dark troops: False
+2015-07-11 14:13:02 : Barrack1 selected
+2015-07-11 14:13:03 : Barrack2 selected
+2015-07-11 14:13:03 : Barrack2 selected
+2015-07-11 14:13:03 : Barrack3 selected
+2015-07-11 14:13:04 : Barrack3 selected
+2015-07-11 14:13:04 : This is not a Barrack
+2015-07-11 14:13:04 : This is not a Barrack
+2015-07-11 14:13:05 : This is not a Barrack
+2015-07-11 14:13:05 : This is not a Barrack
+2015-07-11 14:13:05 : This is not a Barrack
+2015-07-11 14:13:06 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:13:06 : BARRACKNUM: 3
+2015-07-11 14:13:06 : DARKBARRACKNUM: 1
+2015-07-11 14:13:06 : Barrack3 selected
+2015-07-11 14:13:07 : ASSIGN TroopFirst.Giant: 3
+2015-07-11 14:13:07 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:13:07 : troopSecondGiant: 3
+2015-07-11 14:13:07 : troopSecondBarb: 11
+2015-07-11 14:13:07 : BARRACK 0 STATUS: True
+2015-07-11 14:13:08 : Barrack2 selected
+2015-07-11 14:13:08 : Barrack2 selected
+2015-07-11 14:13:09 : ASSIGN TroopFirst.Giant: 3
+2015-07-11 14:13:09 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:13:09 : troopSecondGiant: 3
+2015-07-11 14:13:09 : troopSecondBarb: 11
+2015-07-11 14:13:09 : BARRACK 1 STATUS: True
+2015-07-11 14:13:10 : Barrack1 selected
+2015-07-11 14:13:10 : Barrack1 selected
+2015-07-11 14:13:10 : ASSIGN TroopFirst.Giant: 3
+2015-07-11 14:13:10 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:13:11 : troopSecondGiant: 3
+2015-07-11 14:13:11 : troopSecondBarb: 10
+2015-07-11 14:13:11 : BARRACK 2 STATUS: True
+2015-07-11 14:13:12 : This is not a Barrack
+2015-07-11 14:13:12 : This is not a Barrack
+2015-07-11 14:13:12 : This is not a Barrack
+2015-07-11 14:13:13 : This is not a Barrack
+2015-07-11 14:13:13 : This is not a Barrack
+2015-07-11 14:13:13 : ---================================================================---
+2015-07-11 14:13:16 : Time Idle: 00:04:01
+2015-07-11 14:13:16 : ====== Waiting for full army ======
+2015-07-11 14:13:36 : Func Train 
+2015-07-11 14:13:36 : Checking Army Camp...
+2015-07-11 14:13:37 : $sArmyInfo = 66#140
+2015-07-11 14:13:37 : $CurCamp = 66
+2015-07-11 14:13:37 : $TotalCamp = 140
+2015-07-11 14:13:38 : Total Army Camp capacity: 66/140
+2015-07-11 14:13:38 : $hBitmapFirst made
+2015-07-11 14:13:38 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:13:39 : Dll return $FullTemp :Archer|8-22|51#Giant|71-23|3
+2015-07-11 14:13:39 : $Trooptype split # : 2
+2015-07-11 14:13:39 : Start the Loop
+2015-07-11 14:13:39 : $TroopTypeT[$i] split : 1
+2015-07-11 14:13:39 :  - No. of Archers: 51
+2015-07-11 14:13:39 : $TroopTypeT[$i] split : 2
+2015-07-11 14:13:39 :  - No. of Giants: 3
+2015-07-11 14:13:39 : Training Troops...
+2015-07-11 14:13:42 : This is not a Barrack
+2015-07-11 14:13:42 : Barrack1 selected
+2015-07-11 14:13:42 : Barrack1 selected
+2015-07-11 14:13:43 : Train: need to make normal troops: True
+2015-07-11 14:13:43 : Train: need to make dark troops: False
+2015-07-11 14:13:43 : Barrack1 selected
+2015-07-11 14:13:43 : Barrack2 selected
+2015-07-11 14:13:43 : Barrack2 selected
+2015-07-11 14:13:44 : Barrack3 selected
+2015-07-11 14:13:44 : Barrack3 selected
+2015-07-11 14:13:45 : This is not a Barrack
+2015-07-11 14:13:45 : This is not a Barrack
+2015-07-11 14:13:45 : This is not a Barrack
+2015-07-11 14:13:45 : This is not a Barrack
+2015-07-11 14:13:45 : This is not a Barrack
+2015-07-11 14:13:47 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:13:47 : BARRACKNUM: 3
+2015-07-11 14:13:47 : DARKBARRACKNUM: 1
+2015-07-11 14:13:47 : Barrack3 selected
+2015-07-11 14:13:47 : ASSIGN TroopFirst.Giant: 3
+2015-07-11 14:13:47 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:13:48 : troopSecondGiant: 3
+2015-07-11 14:13:48 : troopSecondBarb: 11
+2015-07-11 14:13:48 : BARRACK 0 STATUS: True
+2015-07-11 14:13:49 : Barrack2 selected
+2015-07-11 14:13:49 : Barrack2 selected
+2015-07-11 14:13:49 : ASSIGN TroopFirst.Giant: 3
+2015-07-11 14:13:49 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:13:49 : troopSecondGiant: 3
+2015-07-11 14:13:50 : troopSecondBarb: 11
+2015-07-11 14:13:50 : BARRACK 1 STATUS: True
+2015-07-11 14:13:50 : Barrack1 selected
+2015-07-11 14:13:50 : Barrack1 selected
+2015-07-11 14:13:51 : ASSIGN TroopFirst.Giant: 3
+2015-07-11 14:13:51 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:13:51 : troopSecondGiant: 3
+2015-07-11 14:13:51 : troopSecondBarb: 10
+2015-07-11 14:13:51 : BARRACK 2 STATUS: True
+2015-07-11 14:13:52 : This is not a Barrack
+2015-07-11 14:13:52 : This is not a Barrack
+2015-07-11 14:13:53 : This is not a Barrack
+2015-07-11 14:13:53 : This is not a Barrack
+2015-07-11 14:13:53 : This is not a Barrack
+2015-07-11 14:13:54 : ---================================================================---
+2015-07-11 14:13:57 : Time Idle: 00:04:42
+2015-07-11 14:13:57 : ====== Waiting for full army ======
+2015-07-11 14:14:16 : Func Train 
+2015-07-11 14:14:16 : Checking Army Camp...
+2015-07-11 14:14:18 : $sArmyInfo = 66#140
+2015-07-11 14:14:18 : $CurCamp = 66
+2015-07-11 14:14:18 : $TotalCamp = 140
+2015-07-11 14:14:18 : Total Army Camp capacity: 66/140
+2015-07-11 14:14:18 : $hBitmapFirst made
+2015-07-11 14:14:19 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:14:19 : Dll return $FullTemp :Archer|8-22|51#Giant|71-23|3
+2015-07-11 14:14:19 : $Trooptype split # : 2
+2015-07-11 14:14:19 : Start the Loop
+2015-07-11 14:14:19 : $TroopTypeT[$i] split : 1
+2015-07-11 14:14:19 :  - No. of Archers: 51
+2015-07-11 14:14:20 : $TroopTypeT[$i] split : 2
+2015-07-11 14:14:20 :  - No. of Giants: 3
+2015-07-11 14:14:20 : Training Troops...
+2015-07-11 14:14:22 : This is not a Barrack
+2015-07-11 14:14:22 : Barrack1 selected
+2015-07-11 14:14:22 : Barrack1 selected
+2015-07-11 14:14:23 : Train: need to make normal troops: True
+2015-07-11 14:14:23 : Train: need to make dark troops: False
+2015-07-11 14:14:23 : Barrack1 selected
+2015-07-11 14:14:23 : Barrack2 selected
+2015-07-11 14:14:23 : Barrack2 selected
+2015-07-11 14:14:24 : Barrack3 selected
+2015-07-11 14:14:24 : Barrack3 selected
+2015-07-11 14:14:25 : This is not a Barrack
+2015-07-11 14:14:25 : This is not a Barrack
+2015-07-11 14:14:25 : This is not a Barrack
+2015-07-11 14:14:25 : This is not a Barrack
+2015-07-11 14:14:25 : This is not a Barrack
+2015-07-11 14:14:27 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:14:27 : BARRACKNUM: 3
+2015-07-11 14:14:27 : DARKBARRACKNUM: 1
+2015-07-11 14:14:27 : Barrack3 selected
+2015-07-11 14:14:27 : ASSIGN TroopFirst.Giant: 3
+2015-07-11 14:14:27 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:14:28 : troopSecondGiant: 3
+2015-07-11 14:14:28 : troopSecondBarb: 11
+2015-07-11 14:14:28 : BARRACK 0 STATUS: True
+2015-07-11 14:14:28 : Barrack2 selected
+2015-07-11 14:14:28 : Barrack2 selected
+2015-07-11 14:14:29 : ASSIGN TroopFirst.Giant: 3
+2015-07-11 14:14:29 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:14:29 : troopSecondGiant: 3
+2015-07-11 14:14:30 : troopSecondBarb: 11
+2015-07-11 14:14:30 : BARRACK 1 STATUS: True
+2015-07-11 14:14:30 : Barrack1 selected
+2015-07-11 14:14:30 : Barrack1 selected
+2015-07-11 14:14:31 : ASSIGN TroopFirst.Giant: 3
+2015-07-11 14:14:31 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:14:31 : troopSecondGiant: 3
+2015-07-11 14:14:31 : troopSecondBarb: 10
+2015-07-11 14:14:31 : BARRACK 2 STATUS: True
+2015-07-11 14:14:32 : This is not a Barrack
+2015-07-11 14:14:32 : This is not a Barrack
+2015-07-11 14:14:33 : This is not a Barrack
+2015-07-11 14:14:33 : This is not a Barrack
+2015-07-11 14:14:33 : This is not a Barrack
+2015-07-11 14:14:34 : ---================================================================---
+2015-07-11 14:14:37 : Time Idle: 00:05:22
+2015-07-11 14:14:37 : ====== Waiting for full army ======
+2015-07-11 14:14:56 : Func Train 
+2015-07-11 14:14:56 : Checking Army Camp...
+2015-07-11 14:14:57 : $sArmyInfo = 81#140
+2015-07-11 14:14:58 : $CurCamp = 81
+2015-07-11 14:14:58 : $TotalCamp = 140
+2015-07-11 14:14:58 : Total Army Camp capacity: 81/140
+2015-07-11 14:14:58 : $hBitmapFirst made
+2015-07-11 14:14:58 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:14:59 : Dll return $FullTemp :Archer|8-22|51#Giant|71-23|6
+2015-07-11 14:14:59 : $Trooptype split # : 2
+2015-07-11 14:14:59 : Start the Loop
+2015-07-11 14:14:59 : $TroopTypeT[$i] split : 1
+2015-07-11 14:14:59 :  - No. of Archers: 51
+2015-07-11 14:14:59 : $TroopTypeT[$i] split : 2
+2015-07-11 14:14:59 :  - No. of Giants: 6
+2015-07-11 14:14:59 : Training Troops...
+2015-07-11 14:15:02 : This is not a Barrack
+2015-07-11 14:15:02 : Barrack1 selected
+2015-07-11 14:15:02 : Barrack1 selected
+2015-07-11 14:15:02 : Train: need to make normal troops: True
+2015-07-11 14:15:02 : Train: need to make dark troops: False
+2015-07-11 14:15:02 : Barrack1 selected
+2015-07-11 14:15:03 : Barrack2 selected
+2015-07-11 14:15:03 : Barrack2 selected
+2015-07-11 14:15:04 : Barrack3 selected
+2015-07-11 14:15:04 : Barrack3 selected
+2015-07-11 14:15:04 : This is not a Barrack
+2015-07-11 14:15:05 : This is not a Barrack
+2015-07-11 14:15:05 : This is not a Barrack
+2015-07-11 14:15:05 : This is not a Barrack
+2015-07-11 14:15:05 : This is not a Barrack
+2015-07-11 14:15:06 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:15:06 : BARRACKNUM: 3
+2015-07-11 14:15:06 : DARKBARRACKNUM: 1
+2015-07-11 14:15:06 : Barrack3 selected
+2015-07-11 14:15:07 : ASSIGN TroopFirst.Giant: 2
+2015-07-11 14:15:07 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:15:07 : troopSecondGiant: 2
+2015-07-11 14:15:08 : troopSecondBarb: 11
+2015-07-11 14:15:08 : BARRACK 0 STATUS: True
+2015-07-11 14:15:08 : Barrack2 selected
+2015-07-11 14:15:08 : Barrack2 selected
+2015-07-11 14:15:09 : ASSIGN TroopFirst.Giant: 2
+2015-07-11 14:15:09 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:15:09 : troopSecondGiant: 2
+2015-07-11 14:15:09 : troopSecondBarb: 11
+2015-07-11 14:15:09 : BARRACK 1 STATUS: True
+2015-07-11 14:15:10 : Barrack1 selected
+2015-07-11 14:15:10 : Barrack1 selected
+2015-07-11 14:15:10 : ASSIGN TroopFirst.Giant: 2
+2015-07-11 14:15:11 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:15:11 : troopSecondGiant: 2
+2015-07-11 14:15:11 : troopSecondBarb: 10
+2015-07-11 14:15:11 : BARRACK 2 STATUS: True
+2015-07-11 14:15:12 : This is not a Barrack
+2015-07-11 14:15:12 : This is not a Barrack
+2015-07-11 14:15:12 : This is not a Barrack
+2015-07-11 14:15:13 : This is not a Barrack
+2015-07-11 14:15:13 : This is not a Barrack
+2015-07-11 14:15:13 : ---================================================================---
+2015-07-11 14:15:16 : Time Idle: 00:06:01
+2015-07-11 14:15:16 : ====== Waiting for full army ======
+2015-07-11 14:15:36 : Collecting Resources
+2015-07-11 14:15:43 : Func Train 
+2015-07-11 14:15:43 : Checking Army Camp...
+2015-07-11 14:15:45 : $sArmyInfo = 81#140
+2015-07-11 14:15:45 : $CurCamp = 81
+2015-07-11 14:15:45 : $TotalCamp = 140
+2015-07-11 14:15:45 : Total Army Camp capacity: 81/140
+2015-07-11 14:15:45 : $hBitmapFirst made
+2015-07-11 14:15:46 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:15:46 : Dll return $FullTemp :Archer|8-22|51#Giant|71-23|6
+2015-07-11 14:15:46 : $Trooptype split # : 2
+2015-07-11 14:15:46 : Start the Loop
+2015-07-11 14:15:46 : $TroopTypeT[$i] split : 1
+2015-07-11 14:15:46 :  - No. of Archers: 51
+2015-07-11 14:15:47 : $TroopTypeT[$i] split : 2
+2015-07-11 14:15:47 :  - No. of Giants: 6
+2015-07-11 14:15:47 : Training Troops...
+2015-07-11 14:15:49 : This is not a Barrack
+2015-07-11 14:15:49 : Barrack1 selected
+2015-07-11 14:15:49 : Barrack1 selected
+2015-07-11 14:15:50 : Train: need to make normal troops: True
+2015-07-11 14:15:50 : Train: need to make dark troops: False
+2015-07-11 14:15:50 : Barrack1 selected
+2015-07-11 14:15:50 : Barrack2 selected
+2015-07-11 14:15:50 : Barrack2 selected
+2015-07-11 14:15:51 : Barrack3 selected
+2015-07-11 14:15:51 : Barrack3 selected
+2015-07-11 14:15:52 : This is not a Barrack
+2015-07-11 14:15:52 : This is not a Barrack
+2015-07-11 14:15:52 : This is not a Barrack
+2015-07-11 14:15:52 : This is not a Barrack
+2015-07-11 14:15:52 : This is not a Barrack
+2015-07-11 14:15:54 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:15:54 : BARRACKNUM: 3
+2015-07-11 14:15:54 : DARKBARRACKNUM: 1
+2015-07-11 14:15:54 : Barrack3 selected
+2015-07-11 14:15:54 : ASSIGN TroopFirst.Giant: 2
+2015-07-11 14:15:54 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:15:55 : troopSecondGiant: 2
+2015-07-11 14:15:55 : troopSecondBarb: 11
+2015-07-11 14:15:55 : BARRACK 0 STATUS: True
+2015-07-11 14:15:55 : Barrack2 selected
+2015-07-11 14:15:55 : Barrack2 selected
+2015-07-11 14:15:56 : ASSIGN TroopFirst.Giant: 2
+2015-07-11 14:15:56 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:15:56 : troopSecondGiant: 2
+2015-07-11 14:15:57 : troopSecondBarb: 11
+2015-07-11 14:15:57 : BARRACK 1 STATUS: True
+2015-07-11 14:15:57 : Barrack1 selected
+2015-07-11 14:15:57 : Barrack1 selected
+2015-07-11 14:15:58 : ASSIGN TroopFirst.Giant: 2
+2015-07-11 14:15:58 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:15:58 : troopSecondGiant: 2
+2015-07-11 14:15:58 : troopSecondBarb: 10
+2015-07-11 14:15:58 : BARRACK 2 STATUS: True
+2015-07-11 14:15:59 : This is not a Barrack
+2015-07-11 14:15:59 : This is not a Barrack
+2015-07-11 14:16:00 : This is not a Barrack
+2015-07-11 14:16:00 : This is not a Barrack
+2015-07-11 14:16:00 : This is not a Barrack
+2015-07-11 14:16:01 : ---================================================================---
+2015-07-11 14:16:04 : Time Idle: 00:06:49
+2015-07-11 14:16:04 : ====== Waiting for full army ======
+2015-07-11 14:16:23 : Func Train 
+2015-07-11 14:16:23 : Checking Army Camp...
+2015-07-11 14:16:25 : $sArmyInfo = 81#140
+2015-07-11 14:16:25 : $CurCamp = 81
+2015-07-11 14:16:25 : $TotalCamp = 140
+2015-07-11 14:16:25 : Total Army Camp capacity: 81/140
+2015-07-11 14:16:25 : $hBitmapFirst made
+2015-07-11 14:16:26 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:16:26 : Dll return $FullTemp :Archer|8-22|51#Giant|71-23|6
+2015-07-11 14:16:26 : $Trooptype split # : 2
+2015-07-11 14:16:26 : Start the Loop
+2015-07-11 14:16:26 : $TroopTypeT[$i] split : 1
+2015-07-11 14:16:26 :  - No. of Archers: 51
+2015-07-11 14:16:26 : $TroopTypeT[$i] split : 2
+2015-07-11 14:16:27 :  - No. of Giants: 6
+2015-07-11 14:16:27 : Training Troops...
+2015-07-11 14:16:29 : This is not a Barrack
+2015-07-11 14:16:29 : Barrack1 selected
+2015-07-11 14:16:29 : Barrack1 selected
+2015-07-11 14:16:30 : Train: need to make normal troops: True
+2015-07-11 14:16:30 : Train: need to make dark troops: False
+2015-07-11 14:16:30 : Barrack1 selected
+2015-07-11 14:16:30 : Barrack2 selected
+2015-07-11 14:16:30 : Barrack2 selected
+2015-07-11 14:16:31 : Barrack3 selected
+2015-07-11 14:16:31 : Barrack3 selected
+2015-07-11 14:16:32 : This is not a Barrack
+2015-07-11 14:16:32 : This is not a Barrack
+2015-07-11 14:16:32 : This is not a Barrack
+2015-07-11 14:16:32 : This is not a Barrack
+2015-07-11 14:16:32 : This is not a Barrack
+2015-07-11 14:16:34 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:16:34 : BARRACKNUM: 3
+2015-07-11 14:16:34 : DARKBARRACKNUM: 1
+2015-07-11 14:16:34 : Barrack3 selected
+2015-07-11 14:16:34 : ASSIGN TroopFirst.Giant: 2
+2015-07-11 14:16:34 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:16:35 : troopSecondGiant: 2
+2015-07-11 14:16:35 : troopSecondBarb: 11
+2015-07-11 14:16:35 : BARRACK 0 STATUS: True
+2015-07-11 14:16:35 : Barrack2 selected
+2015-07-11 14:16:35 : Barrack2 selected
+2015-07-11 14:16:36 : ASSIGN TroopFirst.Giant: 2
+2015-07-11 14:16:36 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:16:36 : troopSecondGiant: 2
+2015-07-11 14:16:36 : troopSecondBarb: 11
+2015-07-11 14:16:37 : BARRACK 1 STATUS: True
+2015-07-11 14:16:37 : Barrack1 selected
+2015-07-11 14:16:37 : Barrack1 selected
+2015-07-11 14:16:38 : ASSIGN TroopFirst.Giant: 2
+2015-07-11 14:16:38 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:16:38 : troopSecondGiant: 2
+2015-07-11 14:16:38 : troopSecondBarb: 10
+2015-07-11 14:16:38 : BARRACK 2 STATUS: True
+2015-07-11 14:16:39 : This is not a Barrack
+2015-07-11 14:16:39 : This is not a Barrack
+2015-07-11 14:16:40 : This is not a Barrack
+2015-07-11 14:16:41 : This is not a Barrack
+2015-07-11 14:16:41 : This is not a Barrack
+2015-07-11 14:16:41 : ---================================================================---
+2015-07-11 14:16:44 : Time Idle: 00:07:29
+2015-07-11 14:16:44 : ====== Waiting for full army ======
+2015-07-11 14:17:04 : Func Train 
+2015-07-11 14:17:04 : Checking Army Camp...
+2015-07-11 14:17:05 : $sArmyInfo = 96#140
+2015-07-11 14:17:05 : $CurCamp = 96
+2015-07-11 14:17:05 : $TotalCamp = 140
+2015-07-11 14:17:06 : Total Army Camp capacity: 96/140
+2015-07-11 14:17:06 : $hBitmapFirst made
+2015-07-11 14:17:06 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:17:07 : Dll return $FullTemp :Archer|8-22|51#Giant|71-23|9
+2015-07-11 14:17:07 : $Trooptype split # : 2
+2015-07-11 14:17:07 : Start the Loop
+2015-07-11 14:17:07 : $TroopTypeT[$i] split : 1
+2015-07-11 14:17:07 :  - No. of Archers: 51
+2015-07-11 14:17:07 : $TroopTypeT[$i] split : 2
+2015-07-11 14:17:07 :  - No. of Giants: 9
+2015-07-11 14:17:07 : Training Troops...
+2015-07-11 14:17:09 : This is not a Barrack
+2015-07-11 14:17:10 : Barrack1 selected
+2015-07-11 14:17:10 : Barrack1 selected
+2015-07-11 14:17:10 : Train: need to make normal troops: True
+2015-07-11 14:17:10 : Train: need to make dark troops: False
+2015-07-11 14:17:10 : Barrack1 selected
+2015-07-11 14:17:11 : Barrack2 selected
+2015-07-11 14:17:11 : Barrack2 selected
+2015-07-11 14:17:12 : Barrack3 selected
+2015-07-11 14:17:12 : Barrack3 selected
+2015-07-11 14:17:12 : This is not a Barrack
+2015-07-11 14:17:12 : This is not a Barrack
+2015-07-11 14:17:13 : This is not a Barrack
+2015-07-11 14:17:13 : This is not a Barrack
+2015-07-11 14:17:13 : This is not a Barrack
+2015-07-11 14:17:14 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:17:14 : BARRACKNUM: 3
+2015-07-11 14:17:14 : DARKBARRACKNUM: 1
+2015-07-11 14:17:14 : Barrack3 selected
+2015-07-11 14:17:15 : ASSIGN TroopFirst.Giant: 1
+2015-07-11 14:17:15 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:17:15 : troopSecondGiant: 1
+2015-07-11 14:17:15 : troopSecondBarb: 11
+2015-07-11 14:17:15 : BARRACK 0 STATUS: True
+2015-07-11 14:17:16 : Barrack2 selected
+2015-07-11 14:17:16 : Barrack2 selected
+2015-07-11 14:17:17 : ASSIGN TroopFirst.Giant: 1
+2015-07-11 14:17:17 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:17:17 : troopSecondGiant: 1
+2015-07-11 14:17:17 : troopSecondBarb: 11
+2015-07-11 14:17:17 : BARRACK 1 STATUS: True
+2015-07-11 14:17:18 : Barrack1 selected
+2015-07-11 14:17:18 : Barrack1 selected
+2015-07-11 14:17:18 : ASSIGN TroopFirst.Giant: 1
+2015-07-11 14:17:18 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:17:19 : troopSecondGiant: 1
+2015-07-11 14:17:19 : troopSecondBarb: 10
+2015-07-11 14:17:19 : BARRACK 2 STATUS: True
+2015-07-11 14:17:20 : This is not a Barrack
+2015-07-11 14:17:20 : This is not a Barrack
+2015-07-11 14:17:20 : This is not a Barrack
+2015-07-11 14:17:21 : This is not a Barrack
+2015-07-11 14:17:21 : This is not a Barrack
+2015-07-11 14:17:21 : ---================================================================---
+2015-07-11 14:17:24 : Time Idle: 00:08:09
+2015-07-11 14:17:24 : ====== Waiting for full army ======
+2015-07-11 14:17:44 : Func Train 
+2015-07-11 14:17:44 : Checking Army Camp...
+2015-07-11 14:17:45 : $sArmyInfo = 96#140
+2015-07-11 14:17:45 : $CurCamp = 96
+2015-07-11 14:17:45 : $TotalCamp = 140
+2015-07-11 14:17:46 : Total Army Camp capacity: 96/140
+2015-07-11 14:17:46 : $hBitmapFirst made
+2015-07-11 14:17:46 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:17:47 : Dll return $FullTemp :Archer|8-22|51#Giant|71-23|9
+2015-07-11 14:17:47 : $Trooptype split # : 2
+2015-07-11 14:17:47 : Start the Loop
+2015-07-11 14:17:47 : $TroopTypeT[$i] split : 1
+2015-07-11 14:17:47 :  - No. of Archers: 51
+2015-07-11 14:17:47 : $TroopTypeT[$i] split : 2
+2015-07-11 14:17:47 :  - No. of Giants: 9
+2015-07-11 14:17:47 : Training Troops...
+2015-07-11 14:17:49 : This is not a Barrack
+2015-07-11 14:17:50 : Barrack1 selected
+2015-07-11 14:17:50 : Barrack1 selected
+2015-07-11 14:17:50 : Train: need to make normal troops: True
+2015-07-11 14:17:50 : Train: need to make dark troops: False
+2015-07-11 14:17:50 : Barrack1 selected
+2015-07-11 14:17:51 : Barrack2 selected
+2015-07-11 14:17:51 : Barrack2 selected
+2015-07-11 14:17:52 : Barrack3 selected
+2015-07-11 14:17:52 : Barrack3 selected
+2015-07-11 14:17:52 : This is not a Barrack
+2015-07-11 14:17:53 : This is not a Barrack
+2015-07-11 14:17:53 : This is not a Barrack
+2015-07-11 14:17:53 : This is not a Barrack
+2015-07-11 14:17:53 : This is not a Barrack
+2015-07-11 14:17:54 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:17:54 : BARRACKNUM: 3
+2015-07-11 14:17:54 : DARKBARRACKNUM: 1
+2015-07-11 14:17:54 : Barrack3 selected
+2015-07-11 14:17:55 : ASSIGN TroopFirst.Giant: 1
+2015-07-11 14:17:55 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:17:55 : troopSecondGiant: 1
+2015-07-11 14:17:56 : troopSecondBarb: 11
+2015-07-11 14:17:56 : BARRACK 0 STATUS: True
+2015-07-11 14:17:56 : Barrack2 selected
+2015-07-11 14:17:56 : Barrack2 selected
+2015-07-11 14:17:57 : ASSIGN TroopFirst.Giant: 1
+2015-07-11 14:17:57 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:17:57 : troopSecondGiant: 1
+2015-07-11 14:17:57 : troopSecondBarb: 11
+2015-07-11 14:17:57 : BARRACK 1 STATUS: True
+2015-07-11 14:17:58 : Barrack1 selected
+2015-07-11 14:17:58 : Barrack1 selected
+2015-07-11 14:17:58 : ASSIGN TroopFirst.Giant: 1
+2015-07-11 14:17:59 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:17:59 : troopSecondGiant: 1
+2015-07-11 14:17:59 : troopSecondBarb: 10
+2015-07-11 14:17:59 : BARRACK 2 STATUS: True
+2015-07-11 14:18:00 : This is not a Barrack
+2015-07-11 14:18:00 : This is not a Barrack
+2015-07-11 14:18:00 : This is not a Barrack
+2015-07-11 14:18:01 : This is not a Barrack
+2015-07-11 14:18:01 : This is not a Barrack
+2015-07-11 14:18:01 : ---================================================================---
+2015-07-11 14:18:04 : Time Idle: 00:08:49
+2015-07-11 14:18:04 : ====== Waiting for full army ======
+2015-07-11 14:18:24 : Func Train 
+2015-07-11 14:18:24 : Checking Army Camp...
+2015-07-11 14:18:25 : $sArmyInfo = 96#140
+2015-07-11 14:18:25 : $CurCamp = 96
+2015-07-11 14:18:25 : $TotalCamp = 140
+2015-07-11 14:18:26 : Total Army Camp capacity: 96/140
+2015-07-11 14:18:26 : $hBitmapFirst made
+2015-07-11 14:18:26 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:18:27 : Dll return $FullTemp :Archer|8-22|51#Giant|71-23|9
+2015-07-11 14:18:27 : $Trooptype split # : 2
+2015-07-11 14:18:27 : Start the Loop
+2015-07-11 14:18:27 : $TroopTypeT[$i] split : 1
+2015-07-11 14:18:27 :  - No. of Archers: 51
+2015-07-11 14:18:27 : $TroopTypeT[$i] split : 2
+2015-07-11 14:18:27 :  - No. of Giants: 9
+2015-07-11 14:18:27 : Training Troops...
+2015-07-11 14:18:29 : This is not a Barrack
+2015-07-11 14:18:30 : Barrack1 selected
+2015-07-11 14:18:30 : Barrack1 selected
+2015-07-11 14:18:30 : Train: need to make normal troops: True
+2015-07-11 14:18:30 : Train: need to make dark troops: False
+2015-07-11 14:18:30 : Barrack1 selected
+2015-07-11 14:18:31 : Barrack2 selected
+2015-07-11 14:18:31 : Barrack2 selected
+2015-07-11 14:18:32 : Barrack3 selected
+2015-07-11 14:18:32 : Barrack3 selected
+2015-07-11 14:18:32 : This is not a Barrack
+2015-07-11 14:18:33 : This is not a Barrack
+2015-07-11 14:18:33 : This is not a Barrack
+2015-07-11 14:18:33 : This is not a Barrack
+2015-07-11 14:18:33 : This is not a Barrack
+2015-07-11 14:18:34 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:18:34 : BARRACKNUM: 3
+2015-07-11 14:18:34 : DARKBARRACKNUM: 1
+2015-07-11 14:18:34 : Barrack3 selected
+2015-07-11 14:18:35 : ASSIGN TroopFirst.Giant: 1
+2015-07-11 14:18:35 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:18:35 : troopSecondGiant: 1
+2015-07-11 14:18:35 : troopSecondBarb: 11
+2015-07-11 14:18:36 : BARRACK 0 STATUS: True
+2015-07-11 14:18:36 : Barrack2 selected
+2015-07-11 14:18:36 : Barrack2 selected
+2015-07-11 14:18:37 : ASSIGN TroopFirst.Giant: 1
+2015-07-11 14:18:37 : ASSIGN TroopFirst.Barb: 11
+2015-07-11 14:18:37 : troopSecondGiant: 1
+2015-07-11 14:18:37 : troopSecondBarb: 11
+2015-07-11 14:18:37 : BARRACK 1 STATUS: True
+2015-07-11 14:18:38 : Barrack1 selected
+2015-07-11 14:18:38 : Barrack1 selected
+2015-07-11 14:18:38 : ASSIGN TroopFirst.Giant: 1
+2015-07-11 14:18:39 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:18:39 : troopSecondGiant: 1
+2015-07-11 14:18:39 : troopSecondBarb: 10
+2015-07-11 14:18:39 : BARRACK 2 STATUS: True
+2015-07-11 14:18:41 : This is not a Barrack
+2015-07-11 14:18:41 : This is not a Barrack
+2015-07-11 14:18:41 : This is not a Barrack
+2015-07-11 14:18:42 : This is not a Barrack
+2015-07-11 14:18:42 : This is not a Barrack
+2015-07-11 14:18:42 : ---================================================================---
+2015-07-11 14:18:45 : Time Idle: 00:09:30
+2015-07-11 14:18:45 : ====== Waiting for full army ======
+2015-07-11 14:19:05 : Func Train 
+2015-07-11 14:19:05 : Checking Army Camp...
+2015-07-11 14:19:06 : $sArmyInfo = 113#140
+2015-07-11 14:19:06 : $CurCamp = 113
+2015-07-11 14:19:06 : $TotalCamp = 140
+2015-07-11 14:19:07 : Total Army Camp capacity: 113/140
+2015-07-11 14:19:07 : $hBitmapFirst made
+2015-07-11 14:19:07 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:19:08 : Dll return $FullTemp :Barbarian|9-20|2#Archer|70-22|51#Giant|134-23|12
+2015-07-11 14:19:08 : $Trooptype split # : 3
+2015-07-11 14:19:08 : Start the Loop
+2015-07-11 14:19:08 : $TroopTypeT[$i] split : 1
+2015-07-11 14:19:08 :  - No. of Barbarians: 2
+2015-07-11 14:19:08 : $TroopTypeT[$i] split : 2
+2015-07-11 14:19:08 :  - No. of Archers: 51
+2015-07-11 14:19:08 : $TroopTypeT[$i] split : 3
+2015-07-11 14:19:08 :  - No. of Giants: 12
+2015-07-11 14:19:09 : Training Troops...
+2015-07-11 14:19:11 : This is not a Barrack
+2015-07-11 14:19:11 : Barrack1 selected
+2015-07-11 14:19:11 : Barrack1 selected
+2015-07-11 14:19:11 : Train: need to make normal troops: True
+2015-07-11 14:19:11 : Train: need to make dark troops: False
+2015-07-11 14:19:11 : Barrack1 selected
+2015-07-11 14:19:12 : Barrack2 selected
+2015-07-11 14:19:12 : Barrack2 selected
+2015-07-11 14:19:13 : Barrack3 selected
+2015-07-11 14:19:13 : Barrack3 selected
+2015-07-11 14:19:14 : This is not a Barrack
+2015-07-11 14:19:14 : This is not a Barrack
+2015-07-11 14:19:14 : This is not a Barrack
+2015-07-11 14:19:14 : This is not a Barrack
+2015-07-11 14:19:14 : This is not a Barrack
+2015-07-11 14:19:15 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:19:16 : BARRACKNUM: 3
+2015-07-11 14:19:16 : DARKBARRACKNUM: 1
+2015-07-11 14:19:16 : Barrack3 selected
+2015-07-11 14:19:16 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:19:17 : troopSecondBarb: 10
+2015-07-11 14:19:17 : BARRACK 0 STATUS: True
+2015-07-11 14:19:18 : Barrack2 selected
+2015-07-11 14:19:18 : Barrack2 selected
+2015-07-11 14:19:18 : ASSIGN TroopFirst.Barb: 10
+2015-07-11 14:19:19 : troopSecondBarb: 10
+2015-07-11 14:19:19 : BARRACK 1 STATUS: True
+2015-07-11 14:19:20 : Barrack1 selected
+2015-07-11 14:19:20 : Barrack1 selected
+2015-07-11 14:19:20 : ASSIGN TroopFirst.Barb: 9
+2015-07-11 14:19:21 : troopSecondBarb: 9
+2015-07-11 14:19:21 : BARRACK 2 STATUS: True
+2015-07-11 14:19:22 : This is not a Barrack
+2015-07-11 14:19:22 : This is not a Barrack
+2015-07-11 14:19:22 : This is not a Barrack
+2015-07-11 14:19:23 : This is not a Barrack
+2015-07-11 14:19:23 : This is not a Barrack
+2015-07-11 14:19:23 : ---================================================================---
+2015-07-11 14:19:26 : Time Idle: 00:10:11
+2015-07-11 14:19:26 : ====== Waiting for full army ======
+2015-07-11 14:19:47 : Func Train 
+2015-07-11 14:19:47 : Checking Army Camp...
+2015-07-11 14:19:48 : $sArmyInfo = 119#140
+2015-07-11 14:19:48 : $CurCamp = 119
+2015-07-11 14:19:48 : $TotalCamp = 140
+2015-07-11 14:19:49 : Total Army Camp capacity: 119/140
+2015-07-11 14:19:49 : $hBitmapFirst made
+2015-07-11 14:19:49 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:19:50 : Dll return $FullTemp :Barbarian|9-20|8#Archer|70-22|51#Giant|134-23|12
+2015-07-11 14:19:50 : $Trooptype split # : 3
+2015-07-11 14:19:50 : Start the Loop
+2015-07-11 14:19:50 : $TroopTypeT[$i] split : 1
+2015-07-11 14:19:50 :  - No. of Barbarians: 8
+2015-07-11 14:19:50 : $TroopTypeT[$i] split : 2
+2015-07-11 14:19:50 :  - No. of Archers: 51
+2015-07-11 14:19:50 : $TroopTypeT[$i] split : 3
+2015-07-11 14:19:50 :  - No. of Giants: 12
+2015-07-11 14:19:50 : Training Troops...
+2015-07-11 14:19:52 : This is not a Barrack
+2015-07-11 14:19:52 : Barrack1 selected
+2015-07-11 14:19:53 : Barrack1 selected
+2015-07-11 14:19:53 : Train: need to make normal troops: True
+2015-07-11 14:19:53 : Train: need to make dark troops: False
+2015-07-11 14:19:53 : Barrack1 selected
+2015-07-11 14:19:54 : Barrack2 selected
+2015-07-11 14:19:54 : Barrack2 selected
+2015-07-11 14:19:54 : Barrack3 selected
+2015-07-11 14:19:54 : Barrack3 selected
+2015-07-11 14:19:55 : This is not a Barrack
+2015-07-11 14:19:55 : This is not a Barrack
+2015-07-11 14:19:55 : This is not a Barrack
+2015-07-11 14:19:56 : This is not a Barrack
+2015-07-11 14:19:56 : This is not a Barrack
+2015-07-11 14:19:57 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:19:57 : BARRACKNUM: 3
+2015-07-11 14:19:57 : DARKBARRACKNUM: 1
+2015-07-11 14:19:57 : Barrack3 selected
+2015-07-11 14:19:58 : ASSIGN TroopFirst.Barb: 7
+2015-07-11 14:19:58 : troopSecondBarb: 7
+2015-07-11 14:19:58 : BARRACK 0 STATUS: True
+2015-07-11 14:19:59 : Barrack2 selected
+2015-07-11 14:19:59 : Barrack2 selected
+2015-07-11 14:20:00 : ASSIGN TroopFirst.Barb: 8
+2015-07-11 14:20:00 : troopSecondBarb: 8
+2015-07-11 14:20:00 : BARRACK 1 STATUS: True
+2015-07-11 14:20:01 : Barrack1 selected
+2015-07-11 14:20:01 : Barrack1 selected
+2015-07-11 14:20:02 : ASSIGN TroopFirst.Barb: 7
+2015-07-11 14:20:02 : troopSecondBarb: 7
+2015-07-11 14:20:02 : BARRACK 2 STATUS: True
+2015-07-11 14:20:03 : This is not a Barrack
+2015-07-11 14:20:03 : This is not a Barrack
+2015-07-11 14:20:04 : This is not a Barrack
+2015-07-11 14:20:04 : This is not a Barrack
+2015-07-11 14:20:04 : This is not a Barrack
+2015-07-11 14:20:05 : ---================================================================---
+2015-07-11 14:20:08 : Time Idle: 00:10:53
+2015-07-11 14:20:08 : ====== Waiting for full army ======
+2015-07-11 14:20:27 : Func Train 
+2015-07-11 14:20:27 : Checking Army Camp...
+2015-07-11 14:20:29 : $sArmyInfo = 125#140
+2015-07-11 14:20:29 : $CurCamp = 125
+2015-07-11 14:20:29 : $TotalCamp = 140
+2015-07-11 14:20:29 : Total Army Camp capacity: 125/140
+2015-07-11 14:20:29 : $hBitmapFirst made
+2015-07-11 14:20:30 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-11 14:20:30 : Dll return $FullTemp :Barbarian|9-20|14#Archer|70-22|51#Giant|134-23|12
+2015-07-11 14:20:30 : $Trooptype split # : 3
+2015-07-11 14:20:30 : Start the Loop
+2015-07-11 14:20:30 : $TroopTypeT[$i] split : 1
+2015-07-11 14:20:30 :  - No. of Barbarians: 14
+2015-07-11 14:20:31 : $TroopTypeT[$i] split : 2
+2015-07-11 14:20:31 :  - No. of Archers: 51
+2015-07-11 14:20:31 : $TroopTypeT[$i] split : 3
+2015-07-11 14:20:31 :  - No. of Giants: 12
+2015-07-11 14:20:31 : Training Troops...
+2015-07-11 14:20:33 : This is not a Barrack
+2015-07-11 14:20:33 : Barrack1 selected
+2015-07-11 14:20:33 : Barrack1 selected
+2015-07-11 14:20:34 : Train: need to make normal troops: True
+2015-07-11 14:20:34 : Train: need to make dark troops: False
+2015-07-11 14:20:34 : Barrack1 selected
+2015-07-11 14:20:34 : Barrack2 selected
+2015-07-11 14:20:34 : Barrack2 selected
+2015-07-11 14:20:35 : Barrack3 selected
+2015-07-11 14:20:35 : Barrack3 selected
+2015-07-11 14:20:36 : This is not a Barrack
+2015-07-11 14:20:36 : This is not a Barrack
+2015-07-11 14:20:36 : This is not a Barrack
+2015-07-11 14:20:36 : This is not a Barrack
+2015-07-11 14:20:37 : This is not a Barrack
+2015-07-11 14:20:38 : ---------COMPUTE TROOPS TO MAKE------------------------
+2015-07-11 14:20:38 : BARRACKNUM: 3
+2015-07-11 14:20:38 : DARKBARRACKNUM: 1
+2015-07-11 14:20:38 : Barrack3 selected
+2015-07-11 14:20:38 : ASSIGN TroopFirst.Barb: 5
+2015-07-11 14:20:39 : troopSecondBarb: 5
+2015-07-11 14:20:39 : BARRACK 0 STATUS: True
+2015-07-11 14:20:41 : Barrack2 selected
+2015-07-11 14:20:41 : Barrack2 selected
+2015-07-11 14:20:41 : ASSIGN TroopFirst.Barb: 6
+2015-07-11 14:20:42 : troopSecondBarb: 6
+2015-07-11 14:20:42 : BARRACK 1 STATUS: True
+2015-07-11 14:20:43 : Barrack1 selected
+2015-07-11 14:20:43 : Barrack1 selected
+2015-07-11 14:20:44 : ASSIGN TroopFirst.Barb: 5
+2015-07-11 14:20:44 : troopSecondBarb: 5
+2015-07-11 14:20:44 : BARRACK 2 STATUS: True
+2015-07-11 14:20:45 : This is not a Barrack
+2015-07-11 14:20:45 : This is not a Barrack
+2015-07-11 14:20:46 : This is not a Barrack
+2015-07-11 14:20:46 : This is not a Barrack
+2015-07-11 14:20:46 : This is not a Barrack
+2015-07-11 14:20:46 : ---================================================================---
+2015-07-11 14:20:49 : Time Idle: 00:11:34
+2015-07-11 14:20:49 : ====== Waiting for full army ======
+2015-07-11 14:21:05 : ClashGameBot was Paused!

@@ -1,0 +1,198 @@
+2015-07-09 23:15:28 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 23:15:28 : Au3 Script running on WIN_81  X64
+2015-07-09 23:15:28 : =================== Bot Start ====================
+2015-07-09 23:15:28 : Trying to locate Main Screen
+2015-07-09 23:15:30 : Waiting for Main Screen
+2015-07-09 23:15:32 : Main Screen Located
+2015-07-09 23:15:33 : Detecting your Buildings..
+2015-07-09 23:15:34 : Town Hall Position: 430, 237
+2015-07-09 23:15:35 : Taking snapshot for later review
+2015-07-09 23:15:38 : Read building Name String = Town Hall (Level 6)
+2015-07-09 23:15:38 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-09 23:15:38 : 2nd $aString = 2, Level 6, 
+2015-07-09 23:15:38 : 3rd $aString = 2, Level, 6
+2015-07-09 23:15:38 : Your Town Hall is Level: 6
+2015-07-09 23:15:39 : Language setting is English: Correct.
+2015-07-09 23:15:40 : Trying to locate Main Screen
+2015-07-09 23:15:40 : Main Screen Located
+2015-07-09 23:15:42 : Profile Report
+2015-07-09 23:15:42 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 23:15:43 :  [ATKW]: 39 [DEFW]: 2 [TDON]: 302 [TREC]: 326
+2015-07-09 23:15:51 : Village Report
+2015-07-09 23:15:51 : No. of Free/Total Builders: 0/3
+2015-07-09 23:15:51 :  [T]: 1 005
+2015-07-09 23:15:51 :  [G]: 91 512 [E]: 532 758 [GEM]: 672
+2015-07-09 23:15:53 : Donation not Planned, Skipped..
+2015-07-09 23:15:54 : Func Train 
+2015-07-09 23:15:54 : Checking Army Camp...
+2015-07-09 23:15:55 : $sArmyInfo = 118#135
+2015-07-09 23:15:55 : $CurCamp = 118
+2015-07-09 23:15:55 : $TotalCamp = 135
+2015-07-09 23:15:56 : Total Army Camp capacity: 118/135
+2015-07-09 23:15:56 : $hBitmapFirst made
+2015-07-09 23:15:56 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 23:15:57 : Dll return $FullTemp :Barbarian|9-20|19#Archer|70-22|54#Giant|134-23|9
+2015-07-09 23:15:57 : $Trooptype split # : 3
+2015-07-09 23:15:57 : Start the Loop
+2015-07-09 23:15:57 : $TroopTypeT[$i] split : 1
+2015-07-09 23:15:57 :  - No. of Barbarians: 19
+2015-07-09 23:15:57 : $TroopTypeT[$i] split : 2
+2015-07-09 23:15:57 :  - No. of Archers: 54
+2015-07-09 23:15:57 : $TroopTypeT[$i] split : 3
+2015-07-09 23:15:57 :  - No. of Giants: 9
+2015-07-09 23:15:57 : Training Troops...
+2015-07-09 23:15:59 : This is not a Barrack
+2015-07-09 23:15:59 : This is not a Barrack
+2015-07-09 23:16:00 : Barrack1 selected
+2015-07-09 23:16:00 : Barrack1 selected
+2015-07-09 23:16:00 : Barrack1 selected
+2015-07-09 23:16:01 : Barrack2 selected
+2015-07-09 23:16:01 : Barrack2 selected
+2015-07-09 23:16:01 : Barrack3 selected
+2015-07-09 23:16:01 : Barrack3 selected
+2015-07-09 23:16:02 : This is not a Barrack
+2015-07-09 23:16:02 : This is not a Barrack
+2015-07-09 23:16:02 : This is not a Barrack
+2015-07-09 23:16:02 : This is not a Barrack
+2015-07-09 23:16:03 : This is not a Barrack
+2015-07-09 23:16:04 : Barrack3 selected
+2015-07-09 23:16:04 : AfterAttack: False
+2015-07-09 23:16:06 : Barrack2 selected
+2015-07-09 23:16:06 : AfterAttack: False
+2015-07-09 23:16:08 : Barrack1 selected
+2015-07-09 23:16:08 : AfterAttack: False
+2015-07-09 23:16:10 : This is not a Barrack
+2015-07-09 23:16:10 : ---================================================================---
+2015-07-09 23:16:13 : ClashGameBot was Paused!
+2015-07-09 23:16:30 : ClashGameBot was Resumed.
+2015-07-09 23:16:32 : Request CC not Planned, Skipped..
+2015-07-09 23:16:35 : No free builder, Upgrade Walls skipped..
+2015-07-09 23:16:36 : ====== Waiting for full army ======
+2015-07-09 23:16:36 : Donation not Planned, Skipped..
+2015-07-09 23:16:38 : Donation not Planned, Skipped..
+2015-07-09 23:16:39 : Donation not Planned, Skipped..
+2015-07-09 23:16:41 : Donation not Planned, Skipped..
+2015-07-09 23:16:42 : Donation not Planned, Skipped..
+2015-07-09 23:16:44 : Donation not Planned, Skipped..
+2015-07-09 23:16:45 : Donation not Planned, Skipped..
+2015-07-09 23:16:47 : Donation not Planned, Skipped..
+2015-07-09 23:16:48 : Donation not Planned, Skipped..
+2015-07-09 23:16:50 : Donation not Planned, Skipped..
+2015-07-09 23:16:56 : Func Train 
+2015-07-09 23:16:56 : Checking Army Camp...
+2015-07-09 23:16:57 : $sArmyInfo = 126#135
+2015-07-09 23:16:57 : $CurCamp = 126
+2015-07-09 23:16:57 : $TotalCamp = 135
+2015-07-09 23:16:58 : Total Army Camp capacity: 126/135
+2015-07-09 23:16:58 : $hBitmapFirst made
+2015-07-09 23:16:58 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 23:16:59 : Dll return $FullTemp :Barbarian|9-20|22#Archer|70-22|54#Giant|134-23|10
+2015-07-09 23:16:59 : $Trooptype split # : 3
+2015-07-09 23:16:59 : Start the Loop
+2015-07-09 23:16:59 : $TroopTypeT[$i] split : 1
+2015-07-09 23:16:59 :  - No. of Barbarians: 22
+2015-07-09 23:16:59 : $TroopTypeT[$i] split : 2
+2015-07-09 23:16:59 :  - No. of Archers: 54
+2015-07-09 23:16:59 : $TroopTypeT[$i] split : 3
+2015-07-09 23:16:59 :  - No. of Giants: 10
+2015-07-09 23:16:59 : Training Troops...
+2015-07-09 23:17:01 : This is not a Barrack
+2015-07-09 23:17:01 : Barrack1 selected
+2015-07-09 23:17:01 : Barrack1 selected
+2015-07-09 23:17:02 : Barrack1 selected
+2015-07-09 23:17:02 : Barrack2 selected
+2015-07-09 23:17:02 : Barrack2 selected
+2015-07-09 23:17:03 : Barrack3 selected
+2015-07-09 23:17:03 : Barrack3 selected
+2015-07-09 23:17:04 : This is not a Barrack
+2015-07-09 23:17:04 : This is not a Barrack
+2015-07-09 23:17:04 : This is not a Barrack
+2015-07-09 23:17:04 : This is not a Barrack
+2015-07-09 23:17:04 : This is not a Barrack
+2015-07-09 23:17:05 : Barrack3 selected
+2015-07-09 23:17:05 : AfterAttack: False
+2015-07-09 23:17:08 : Barrack2 selected
+2015-07-09 23:17:08 : AfterAttack: False
+2015-07-09 23:17:10 : Barrack1 selected
+2015-07-09 23:17:10 : AfterAttack: False
+2015-07-09 23:17:12 : This is not a Barrack
+2015-07-09 23:17:12 : ---================================================================---
+2015-07-09 23:17:19 : Func Train 
+2015-07-09 23:17:19 : Checking Army Camp...
+2015-07-09 23:17:20 : $sArmyInfo = 132#135
+2015-07-09 23:17:20 : $CurCamp = 132
+2015-07-09 23:17:20 : $TotalCamp = 135
+2015-07-09 23:17:22 : Total Army Camp capacity: 132/135
+2015-07-09 23:17:22 : $hBitmapFirst made
+2015-07-09 23:17:22 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 23:17:23 : Dll return $FullTemp :Barbarian|9-20|23#Archer|70-22|54#Giant|134-23|11
+2015-07-09 23:17:23 : $Trooptype split # : 3
+2015-07-09 23:17:23 : Start the Loop
+2015-07-09 23:17:23 : $TroopTypeT[$i] split : 1
+2015-07-09 23:17:23 :  - No. of Barbarians: 23
+2015-07-09 23:17:23 : $TroopTypeT[$i] split : 2
+2015-07-09 23:17:23 :  - No. of Archers: 54
+2015-07-09 23:17:23 : $TroopTypeT[$i] split : 3
+2015-07-09 23:17:23 :  - No. of Giants: 11
+2015-07-09 23:17:23 : Training Troops...
+2015-07-09 23:17:25 : This is not a Barrack
+2015-07-09 23:17:25 : Barrack1 selected
+2015-07-09 23:17:26 : Barrack1 selected
+2015-07-09 23:17:26 : Barrack1 selected
+2015-07-09 23:17:27 : Barrack2 selected
+2015-07-09 23:17:27 : Barrack2 selected
+2015-07-09 23:17:27 : Barrack3 selected
+2015-07-09 23:17:27 : Barrack3 selected
+2015-07-09 23:17:28 : This is not a Barrack
+2015-07-09 23:17:28 : This is not a Barrack
+2015-07-09 23:17:28 : This is not a Barrack
+2015-07-09 23:17:28 : This is not a Barrack
+2015-07-09 23:17:28 : This is not a Barrack
+2015-07-09 23:17:29 : Barrack3 selected
+2015-07-09 23:17:30 : AfterAttack: False
+2015-07-09 23:17:32 : Barrack2 selected
+2015-07-09 23:17:32 : AfterAttack: False
+2015-07-09 23:17:34 : Barrack1 selected
+2015-07-09 23:17:34 : AfterAttack: False
+2015-07-09 23:17:36 : This is not a Barrack
+2015-07-09 23:17:36 : ---================================================================---
+2015-07-09 23:17:42 : Func Train 
+2015-07-09 23:17:42 : Checking Army Camp...
+2015-07-09 23:17:43 : $sArmyInfo = 133#135
+2015-07-09 23:17:43 : $CurCamp = 133
+2015-07-09 23:17:43 : $TotalCamp = 135
+2015-07-09 23:17:44 : Total Army Camp capacity: 133/135
+2015-07-09 23:17:44 : $hBitmapFirst made
+2015-07-09 23:17:44 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 23:17:45 : Dll return $FullTemp :Barbarian|9-20|24#Archer|70-22|54#Giant|134-23|11
+2015-07-09 23:17:45 : $Trooptype split # : 3
+2015-07-09 23:17:45 : Start the Loop
+2015-07-09 23:17:45 : $TroopTypeT[$i] split : 1
+2015-07-09 23:17:45 :  - No. of Barbarians: 24
+2015-07-09 23:17:45 : $TroopTypeT[$i] split : 2
+2015-07-09 23:17:45 :  - No. of Archers: 54
+2015-07-09 23:17:45 : $TroopTypeT[$i] split : 3
+2015-07-09 23:17:45 :  - No. of Giants: 11
+2015-07-09 23:17:45 : Training Troops...
+2015-07-09 23:17:47 : This is not a Barrack
+2015-07-09 23:17:47 : Barrack1 selected
+2015-07-09 23:17:48 : Barrack1 selected
+2015-07-09 23:17:48 : Barrack1 selected
+2015-07-09 23:17:49 : Barrack2 selected
+2015-07-09 23:17:49 : Barrack2 selected
+2015-07-09 23:17:49 : Barrack3 selected
+2015-07-09 23:17:49 : Barrack3 selected
+2015-07-09 23:17:50 : This is not a Barrack
+2015-07-09 23:17:50 : This is not a Barrack
+2015-07-09 23:17:50 : This is not a Barrack
+2015-07-09 23:17:51 : This is not a Barrack
+2015-07-09 23:17:51 : This is not a Barrack
+2015-07-09 23:17:52 : Barrack3 selected
+2015-07-09 23:17:52 : AfterAttack: False
+2015-07-09 23:17:54 : Barrack2 selected
+2015-07-09 23:17:54 : AfterAttack: False
+2015-07-09 23:17:56 : Barrack1 selected
+2015-07-09 23:17:56 : AfterAttack: False
+2015-07-09 23:17:58 : This is not a Barrack
+2015-07-09 23:17:58 : ---================================================================---
+2015-07-09 23:18:03 : ClashGameBot was Paused!

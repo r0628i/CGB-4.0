@@ -1,0 +1,68 @@
+2015-07-11 18:28:11 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-11 18:28:11 : Au3 Script running on WIN_81  X64
+2015-07-11 18:28:11 : =================== Bot Start ====================
+2015-07-11 18:28:11 : Trying to locate Main Screen
+2015-07-11 18:28:13 : Waiting for Main Screen
+2015-07-11 18:28:15 : Main Screen Located
+2015-07-11 18:28:16 : Detecting your Buildings..
+2015-07-11 18:28:16 : Town Hall Position: 433, 308
+2015-07-11 18:28:18 : Taking snapshot for later review
+2015-07-11 18:28:21 : Read building Name String = Town Hall (Level 8)
+2015-07-11 18:28:21 : 1st $aString = 2, Town Hall , Level 8)
+2015-07-11 18:28:21 : 2nd $aString = 2, Level 8, 
+2015-07-11 18:28:21 : 3rd $aString = 2, Level, 8
+2015-07-11 18:28:21 : Your Town Hall is Level: 8
+2015-07-11 18:28:22 : Language setting is English: Correct.
+2015-07-11 18:28:23 : Trying to locate Main Screen
+2015-07-11 18:28:23 : Main Screen Located
+2015-07-11 18:28:24 : Halt Attack, Stay Online/Train/Collect/Donate...
+2015-07-11 18:28:29 : Checking if Village needs Rearming..
+2015-07-11 18:28:31 : Taking snapshot for later review
+2015-07-11 18:28:40 : Village Report
+2015-07-11 18:28:40 : No. of Free/Total Builders: 0/5
+2015-07-11 18:28:40 :  [T]: 3 166
+2015-07-11 18:28:40 :  [G]: 413 315 [E]: 5 359 977 [D]: 78 895 [GEM]: 2 021
+2015-07-11 18:28:44 : Chat Request: I need reinforcement troops
+2015-07-11 18:28:46 : Func Train 
+2015-07-11 18:28:46 : Checking Army Camp...
+2015-07-11 18:28:47 : $sArmyInfo = 200#200
+2015-07-11 18:28:47 : $CurCamp = 200
+2015-07-11 18:28:47 : $TotalCamp = 200
+2015-07-11 18:28:48 : Total Army Camp capacity: 200/200
+2015-07-11 18:28:48 : Training Troops...
+2015-07-11 18:28:50 : This is not a Barrack
+2015-07-11 18:28:50 : Barrack1 selected
+2015-07-11 18:28:50 : Barrack1 selected
+2015-07-11 18:28:50 : Barrack1 selected
+2015-07-11 18:28:51 : Barrack2 selected
+2015-07-11 18:28:51 : Barrack2 selected
+2015-07-11 18:28:52 : Barrack3 selected
+2015-07-11 18:28:52 : Barrack3 selected
+2015-07-11 18:28:52 : Barrack4 selected
+2015-07-11 18:28:52 : Barrack4 selected
+2015-07-11 18:28:53 : This is not a Barrack
+2015-07-11 18:28:53 : This is not a Barrack
+2015-07-11 18:28:53 : This is not a Barrack
+2015-07-11 18:28:53 : This is not a Barrack
+2015-07-11 18:28:53 : This is not a Barrack
+2015-07-11 18:28:55 : Barrack4 selected
+2015-07-11 18:28:55 : AfterAttack: False
+2015-07-11 18:28:58 : Barrack3 selected
+2015-07-11 18:28:58 : AfterAttack: False
+2015-07-11 18:29:01 : Barrack2 selected
+2015-07-11 18:29:01 : AfterAttack: False
+2015-07-11 18:29:03 : Barrack1 selected
+2015-07-11 18:29:04 : AfterAttack: False
+2015-07-11 18:29:06 : This is not a Barrack
+2015-07-11 18:29:07 : This is not a Dark Barrack
+2015-07-11 18:29:08 : Dark Barrack2 selected
+2015-07-11 18:29:08 : Dark Barrack2 selected
+2015-07-11 18:29:10 : This is not a Dark Barrack
+2015-07-11 18:29:10 : This is not a Dark Barrack
+2015-07-11 18:29:11 : This is not a Dark Barrack
+2015-07-11 18:29:11 : This is not a Dark Barrack
+2015-07-11 18:29:11 : This is not a Dark Barrack
+2015-07-11 18:29:12 : This is not a Dark Barrack
+2015-07-11 18:29:12 : ---================================================================---
+2015-07-11 18:29:16 : Requesting Clan Castle Troops
+2015-07-11 18:29:17 : Your Clan Castle is already full or you are not in a clan.

@@ -1,0 +1,447 @@
+2015-07-09 20:43:03 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-09 20:43:03 : Executable running on WIN_81  X64
+2015-07-09 20:43:03 : =================== Bot Start ====================
+2015-07-09 20:43:03 : Trying to locate Main Screen
+2015-07-09 20:43:03 : Main Screen Located
+2015-07-09 20:43:04 : Detecting your Buildings..
+2015-07-09 20:43:05 : Town Hall Position: 430, 237
+2015-07-09 20:43:06 : Taking snapshot for later review
+2015-07-09 20:43:10 : Read building Name String = Town Hall (Level 6)
+2015-07-09 20:43:10 : 1st $aString = 2, Town Hall , Level 6)
+2015-07-09 20:43:10 : 2nd $aString = 2, Level 6, 
+2015-07-09 20:43:10 : 3rd $aString = 2, Level, 6
+2015-07-09 20:43:10 : Your Town Hall is Level: 6
+2015-07-09 20:43:11 : Language setting is English: Correct.
+2015-07-09 20:43:12 : Trying to locate Main Screen
+2015-07-09 20:43:12 : Main Screen Located
+2015-07-09 20:43:14 : Profile Report
+2015-07-09 20:43:14 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 20:43:15 :  [ATKW]: 36 [DEFW]: 2 [TDON]: 287 [TREC]: 286
+2015-07-09 20:43:23 : Village Report
+2015-07-09 20:43:23 : No. of Free/Total Builders: 0/3
+2015-07-09 20:43:23 :  [T]: 1 070
+2015-07-09 20:43:23 :  [G]: 954 099 [E]: 843 040 [GEM]: 632
+2015-07-09 20:43:27 : Chat Request: balloon
+2015-07-09 20:43:30 : Chat Request: 3 orabove dragon
+2015-07-09 20:43:31 : Func Train 
+2015-07-09 20:43:31 : Checking Army Camp...
+2015-07-09 20:43:33 : $sArmyInfo = 135#135
+2015-07-09 20:43:33 : $CurCamp = 135
+2015-07-09 20:43:33 : $TotalCamp = 135
+2015-07-09 20:43:33 : Total Army Camp capacity: 135/135
+2015-07-09 20:43:33 : Training Troops...
+2015-07-09 20:43:36 : This is not a Barrack
+2015-07-09 20:43:36 : Barrack1 selected
+2015-07-09 20:43:36 : Barrack1 selected
+2015-07-09 20:43:36 : Train: need to make normal troops: True
+2015-07-09 20:43:36 : Train: need to make dark troops: False
+2015-07-09 20:43:36 : Barrack1 selected
+2015-07-09 20:43:37 : Barrack2 selected
+2015-07-09 20:43:37 : Barrack2 selected
+2015-07-09 20:43:37 : Barrack3 selected
+2015-07-09 20:43:38 : Barrack3 selected
+2015-07-09 20:43:38 : This is not a Barrack
+2015-07-09 20:43:38 : This is not a Barrack
+2015-07-09 20:43:39 : This is not a Barrack
+2015-07-09 20:43:39 : This is not a Barrack
+2015-07-09 20:43:39 : This is not a Barrack
+2015-07-09 20:43:40 : Barrack3 selected
+2015-07-09 20:43:40 : AfterAttack: False
+2015-07-09 20:43:43 : Barrack2 selected
+2015-07-09 20:43:43 : AfterAttack: False
+2015-07-09 20:43:50 : Barrack1 selected
+2015-07-09 20:43:50 : AfterAttack: False
+2015-07-09 20:43:55 : This is not a Barrack
+2015-07-09 20:43:55 : ---================================================================---
+2015-07-09 20:43:59 : Requesting Clan Castle Troops
+2015-07-09 20:43:59 : Your Clan Castle is already full or you are not in a clan.
+2015-07-09 20:44:03 : No free builder, Upgrade Walls skipped..
+2015-07-09 20:44:06 : Profile Report
+2015-07-09 20:44:06 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 20:44:07 :  [ATKW]:  [DEFW]:  [TDON]:  [TREC]: 
+2015-07-09 20:44:08 : Going to Attack...
+2015-07-09 20:44:13 : Shield btn clr chk-#1: 9A7718, #2: DDAA91, #3: 9E907F, #4: 2A2C26
+2015-07-09 20:44:14 : ============== Searching For Dead Base ===============
+2015-07-09 20:44:14 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-09 20:44:14 : Meet: Gold + Elixir, Max TH 7
+2015-07-09 20:44:14 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-09 20:44:14 : Aim:           [G+E]: 160000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:44:14 : ============== Searching For Live Base ===============
+2015-07-09 20:44:14 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-09 20:44:14 : Meet: Gold and Elixir, Max TH 4-6, TH Outside, Weak Base(Mortar: 2, WizTower: 2)
+2015-07-09 20:44:14 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-09 20:44:14 : Aim: [G]: 100000 [E]:  60000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:44:14 : ==================================================
+2015-07-09 20:44:15 :   1> [G]:   6964 [E]:  14880 [D]:  N/A [T]:21 [TH]:4-6, In
+2015-07-09 20:44:22 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:44:22 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:44:23 :   2> [G]: 102523 [E]: 147274 [D]:  630 [T]:22 [TH]: 7, Out
+2015-07-09 20:44:27 : $ZSExclude :0
+2015-07-09 20:44:30 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:44:31 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:44:37 :   3> [G]:   1131 [E]:  23854 [D]:  N/A [T]:20 [TH]: -, -
+2015-07-09 20:44:43 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:44:44 :   4> [G]:   2856 [E]:  57447 [D]:  N/A [T]:22 [TH]:4-6, In
+2015-07-09 20:44:47 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:44:48 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:44:48 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:44:49 :   5> [G]:  50555 [E]:  23390 [D]:  160 [T]:34 [TH]: 7, In
+2015-07-09 20:44:55 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:44:56 :   6> [G]:  28784 [E]:  18574 [D]:  N/A [T]:25 [TH]: 7, In
+2015-07-09 20:45:03 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:45:03 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:45:04 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:45:05 : Loop to clean screen without Clouds , n?:4
+2015-07-09 20:45:05 :   7> [G]:  23006 [E]:  26556 [D]:  N/A [T]:19 [TH]:4-6, In
+2015-07-09 20:45:12 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:45:13 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:45:14 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:45:14 : Loop to clean screen without Clouds , n?:4
+2015-07-09 20:45:15 : Loop to clean screen without Clouds , n?:5
+2015-07-09 20:45:15 : Loop to clean screen without Clouds , n?:6
+2015-07-09 20:45:16 : Loop to clean screen without Clouds , n?:7
+2015-07-09 20:45:17 : Loop to clean screen without Clouds , n?:8
+2015-07-09 20:45:17 : Loop to clean screen without Clouds , n?:9
+2015-07-09 20:45:18 : Loop to clean screen without Clouds , n?:10
+2015-07-09 20:45:20 :   8> [G]:  91384 [E]:   9192 [D]:  N/A [T]:28 [TH]: -, -
+2015-07-09 20:45:23 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:45:24 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:45:24 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:45:25 :   9> [G]:  10492 [E]:  72309 [D]:  N/A [T]:22 [TH]:4-6, In
+2015-07-09 20:45:32 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:45:32 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:45:33 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:45:34 : Loop to clean screen without Clouds , n?:4
+2015-07-09 20:45:34 :  10> [G]:  38707 [E]:  50187 [D]:  N/A [T]:23 [TH]:4-6, In
+2015-07-09 20:45:40 : Aim:           [G+E]: 156000 [D]:    0 [T]: 0 [TH]: 7
+2015-07-09 20:45:40 : Aim: [G]:  98000 [E]:  58000 [D]:    0 [T]: 0 [TH]:4-6, Out
+2015-07-09 20:45:42 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:45:43 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:45:43 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:45:44 : Loop to clean screen without Clouds , n?:4
+2015-07-09 20:45:46 :  11> [G]:  87159 [E]:   3719 [D]:  146 [T]:20 [TH]: -, -
+2015-07-09 20:45:53 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:45:53 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:45:54 : Loop to clean screen without Clouds , n?:3
+2015-07-09 20:45:54 : Loop to clean screen without Clouds , n?:4
+2015-07-09 20:45:56 :  12> [G]:  30869 [E]:  82207 [D]:  653 [T]:33 [TH]: -, -
+2015-07-09 20:46:00 : Loop to clean screen without Clouds , n?:1
+2015-07-09 20:46:01 : Loop to clean screen without Clouds , n?:2
+2015-07-09 20:46:02 :  13> [G]:  84352 [E]: 100892 [D]:  483 [T]:22 [TH]: 7, Out
+2015-07-09 20:46:03 : $ZSExclude :0
+2015-07-09 20:46:04 : ~~~~~~~~~~~~~~~~ Dead Base Found! ~~~~~~~~~~~~~~~~
+2015-07-09 20:46:05 : ================ Search Complete =================
+2015-07-09 20:46:05 : Initiating attack for: Dead Base
+2015-07-09 20:46:09 : -Barbarians 20
+2015-07-09 20:46:09 : -Archers 55
+2015-07-09 20:46:09 : -Giants 12
+2015-07-09 20:46:09 : -Clan Castle 
+2015-07-09 20:46:09 : -Rage Spells 2
+2015-07-09 20:46:09 : -Heal Spells 2
+2015-07-09 20:46:09 :  ====== Start Attack ====== 
+2015-07-09 20:46:11 : Calculating Smart Attack Strategy
+2015-07-09 20:46:12 : Calculated  (in 1.41 seconds) :
+2015-07-09 20:46:12 : Locating Village Pump & Mines
+2015-07-09 20:46:20 : Located  (in 7.61 seconds) :
+2015-07-09 20:46:20 : [6] Gold Mines
+2015-07-09 20:46:20 : [6] Elixir Collectors
+2015-07-09 20:46:20 : [0] Dark Elixir Drill/s
+2015-07-09 20:46:20 : Attacking on all sides
+2015-07-09 20:46:23 : Dropping 1  of Giants => on each side (side : 1)
+2015-07-09 20:46:23 : Dropping 1  of Barbarians => on each side (side : 1)
+2015-07-09 20:46:24 : Dropping 2  of Archers => on each side (side : 1)
+2015-07-09 20:46:25 : Dropping 1  of Giants => on each side (side : 2)
+2015-07-09 20:46:25 : Dropping 1  of Barbarians => on each side (side : 2)
+2015-07-09 20:46:26 : Dropping 2  of Archers => on each side (side : 2)
+2015-07-09 20:46:27 : Dropping 1  of Giants => on each side (side : 3)
+2015-07-09 20:46:27 : Dropping 1  of Barbarians => on each side (side : 3)
+2015-07-09 20:46:28 : Dropping 2  of Archers => on each side (side : 3)
+2015-07-09 20:46:29 : Dropping 1  of Giants => on each side (side : 4)
+2015-07-09 20:46:29 : Dropping 1  of Barbarians => on each side (side : 4)
+2015-07-09 20:46:30 : Dropping 2  of Archers => on each side (side : 4)
+2015-07-09 20:46:30 : Dropping 1  of Giants => on each side (side : 5)
+2015-07-09 20:46:31 : Dropping 1  of Barbarians => on each side (side : 5)
+2015-07-09 20:46:32 : Dropping 2  of Archers => on each side (side : 5)
+2015-07-09 20:46:32 : Dropping 1  of Giants => on each side (side : 6)
+2015-07-09 20:46:33 : Dropping 1  of Barbarians => on each side (side : 6)
+2015-07-09 20:46:34 : Dropping 2  of Archers => on each side (side : 6)
+2015-07-09 20:46:34 : Dropping 1  of Giants => on each side (side : 7)
+2015-07-09 20:46:35 : Dropping 1  of Barbarians => on each side (side : 7)
+2015-07-09 20:46:36 : Dropping 2  of Archers => on each side (side : 7)
+2015-07-09 20:46:36 : Dropping 1  of Giants => on each side (side : 8)
+2015-07-09 20:46:37 : Dropping 1  of Barbarians => on each side (side : 8)
+2015-07-09 20:46:37 : Dropping 2  of Archers => on each side (side : 8)
+2015-07-09 20:46:38 : Dropping 1  of Giants => on each side (side : 9)
+2015-07-09 20:46:39 : Dropping 1  of Barbarians => on each side (side : 9)
+2015-07-09 20:46:39 : Dropping 2  of Archers => on each side (side : 9)
+2015-07-09 20:46:40 : Dropping 1  of Giants => on each side (side : 10)
+2015-07-09 20:46:41 : Dropping 1  of Barbarians => on each side (side : 10)
+2015-07-09 20:46:41 : Dropping 2  of Archers => on each side (side : 10)
+2015-07-09 20:46:42 : Dropping 1  of Giants => on each side (side : 11)
+2015-07-09 20:46:42 : Dropping 1  of Barbarians => on each side (side : 11)
+2015-07-09 20:46:43 : Dropping 2  of Archers => on each side (side : 11)
+2015-07-09 20:46:44 : Dropping 1  of Giants => on each side (side : 12)
+2015-07-09 20:46:44 : Dropping 1  of Barbarians => on each side (side : 12)
+2015-07-09 20:46:45 : Dropping 2  of Archers => on each side (side : 12)
+2015-07-09 20:46:46 : Dropping 1  of Barbarians => on each side (side : 1)
+2015-07-09 20:46:47 : Dropping 2  of Archers => on each side (side : 1)
+2015-07-09 20:46:48 : Dropping 1  of Barbarians => on each side (side : 2)
+2015-07-09 20:46:48 : Dropping 2  of Archers => on each side (side : 2)
+2015-07-09 20:46:49 : Dropping 1  of Barbarians => on each side (side : 3)
+2015-07-09 20:46:50 : Dropping 2  of Archers => on each side (side : 3)
+2015-07-09 20:46:50 : Dropping 1  of Barbarians => on each side (side : 4)
+2015-07-09 20:46:51 : Dropping 2  of Archers => on each side (side : 4)
+2015-07-09 20:46:52 : Dropping 1  of Barbarians => on each side (side : 5)
+2015-07-09 20:46:52 : Dropping 2  of Archers => on each side (side : 5)
+2015-07-09 20:46:53 : Dropping 1  of Barbarians => on each side (side : 6)
+2015-07-09 20:46:54 : Dropping 2  of Archers => on each side (side : 6)
+2015-07-09 20:46:54 : Dropping 1  of Barbarians => on each side (side : 7)
+2015-07-09 20:46:55 : Dropping 2  of Archers => on each side (side : 7)
+2015-07-09 20:46:56 : Dropping 1  of Barbarians => on each side (side : 8)
+2015-07-09 20:46:56 : Dropping 2  of Archers => on each side (side : 8)
+2015-07-09 20:46:57 : Dropping 1  of Barbarians => on each side (side : 9)
+2015-07-09 20:46:58 : Dropping 2  of Archers => on each side (side : 9)
+2015-07-09 20:46:58 : Dropping 1  of Barbarians => on each side (side : 10)
+2015-07-09 20:46:59 : Dropping 2  of Archers => on each side (side : 10)
+2015-07-09 20:47:00 : Dropping 1  of Barbarians => on each side (side : 11)
+2015-07-09 20:47:00 : Dropping 2  of Archers => on each side (side : 11)
+2015-07-09 20:47:01 : Dropping 1  of Barbarians => on each side (side : 12)
+2015-07-09 20:47:02 : Dropping 2  of Archers => on each side (side : 12)
+2015-07-09 20:47:02 :  CheckHeroesHealth started 
+2015-07-09 20:47:04 : Dropping last 10  of Giants
+2015-07-09 20:47:06 : Dropping last 7  of Barbarians
+2015-07-09 20:47:07 : Dropping last 29  of Archers
+2015-07-09 20:47:13 : Dropping left over troops
+2015-07-09 20:47:13 : Checking remaining unused troops for: Dead Base
+2015-07-09 20:47:16 : -Archers 0
+2015-07-09 20:47:16 : -Clan Castle 
+2015-07-09 20:47:16 : -Rage Spells 2
+2015-07-09 20:47:16 : -Heal Spells 2
+2015-07-09 20:47:16 :  CheckHeroesHealth started 
+2015-07-09 20:47:17 :  CheckHeroesHealth started 
+2015-07-09 20:47:18 :  CheckHeroesHealth started 
+2015-07-09 20:47:18 :  CheckHeroesHealth started 
+2015-07-09 20:47:19 :  CheckHeroesHealth started 
+2015-07-09 20:47:19 :  CheckHeroesHealth started 
+2015-07-09 20:47:20 :  CheckHeroesHealth started 
+2015-07-09 20:47:21 :  CheckHeroesHealth started 
+2015-07-09 20:47:21 :  CheckHeroesHealth started 
+2015-07-09 20:47:22 :  CheckHeroesHealth started 
+2015-07-09 20:47:22 :  CheckHeroesHealth started 
+2015-07-09 20:47:23 :  CheckHeroesHealth started 
+2015-07-09 20:47:24 :  CheckHeroesHealth started 
+2015-07-09 20:47:24 :  CheckHeroesHealth started 
+2015-07-09 20:47:25 :  CheckHeroesHealth started 
+2015-07-09 20:47:25 :  CheckHeroesHealth started 
+2015-07-09 20:47:26 : Checking remaining unused troops for: Dead Base
+2015-07-09 20:47:29 : -Archers 0
+2015-07-09 20:47:29 : -Clan Castle 
+2015-07-09 20:47:29 : -Rage Spells 2
+2015-07-09 20:47:29 : -Heal Spells 2
+2015-07-09 20:47:29 :  CheckHeroesHealth started 
+2015-07-09 20:47:30 :  CheckHeroesHealth started 
+2015-07-09 20:47:31 :  CheckHeroesHealth started 
+2015-07-09 20:47:31 :  CheckHeroesHealth started 
+2015-07-09 20:47:32 :  CheckHeroesHealth started 
+2015-07-09 20:47:32 :  CheckHeroesHealth started 
+2015-07-09 20:47:33 :  CheckHeroesHealth started 
+2015-07-09 20:47:33 :  CheckHeroesHealth started 
+2015-07-09 20:47:34 :  CheckHeroesHealth started 
+2015-07-09 20:47:35 :  CheckHeroesHealth started 
+2015-07-09 20:47:35 :  CheckHeroesHealth started 
+2015-07-09 20:47:36 :  CheckHeroesHealth started 
+2015-07-09 20:47:36 :  CheckHeroesHealth started 
+2015-07-09 20:47:37 :  CheckHeroesHealth started 
+2015-07-09 20:47:38 :  CheckHeroesHealth started 
+2015-07-09 20:47:38 :  CheckHeroesHealth started 
+2015-07-09 20:47:39 : Finished Attacking, waiting for the battle to end
+2015-07-09 20:47:39 : Checking if the battle has finished
+2015-07-09 20:47:39 :  CheckHeroesHealth started 
+2015-07-09 20:47:40 : detected [G]: 64014 [E]: 33654 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:47:40 : Gold1: 64014  Gold2: 64014
+2015-07-09 20:47:40 : Elixir1: 34774  Elixir2: 33654
+2015-07-09 20:47:40 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:47:40 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:47:42 :  CheckHeroesHealth started 
+2015-07-09 20:47:43 : detected [G]: 63750 [E]: 32086 [DE]:  |  Exit in 18.5 sec.
+2015-07-09 20:47:43 : Gold1: 63882  Gold2: 63750
+2015-07-09 20:47:43 : Elixir1: 32758  Elixir2: 32086
+2015-07-09 20:47:43 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:47:43 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:47:45 :  CheckHeroesHealth started 
+2015-07-09 20:47:46 : detected [G]: 63750 [E]: 31862 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:47:46 :  CheckHeroesHealth started 
+2015-07-09 20:47:47 : detected [G]: 63742 [E]: 31854 [DE]:  |  Exit in 17.3 sec.
+2015-07-09 20:47:47 : Gold1: 63750  Gold2: 63742
+2015-07-09 20:47:47 : Elixir1: 31862  Elixir2: 31854
+2015-07-09 20:47:47 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:47:47 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:47:49 :  CheckHeroesHealth started 
+2015-07-09 20:47:50 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:47:50 : Gold1: 63734  Gold2: 63722
+2015-07-09 20:47:50 : Elixir1: 31842  Elixir2: 31834
+2015-07-09 20:47:50 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:47:50 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:47:51 :  CheckHeroesHealth started 
+2015-07-09 20:47:53 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:47:53 :  CheckHeroesHealth started 
+2015-07-09 20:47:54 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 17.3 sec.
+2015-07-09 20:47:54 :  CheckHeroesHealth started 
+2015-07-09 20:47:55 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 15.9 sec.
+2015-07-09 20:47:56 :  CheckHeroesHealth started 
+2015-07-09 20:47:57 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 14.5 sec.
+2015-07-09 20:47:57 :  CheckHeroesHealth started 
+2015-07-09 20:47:58 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 13.1 sec.
+2015-07-09 20:47:58 :  CheckHeroesHealth started 
+2015-07-09 20:48:00 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 11.7 sec.
+2015-07-09 20:48:00 :  CheckHeroesHealth started 
+2015-07-09 20:48:01 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 10.4 sec.
+2015-07-09 20:48:01 :  CheckHeroesHealth started 
+2015-07-09 20:48:02 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 9.0 sec.
+2015-07-09 20:48:03 :  CheckHeroesHealth started 
+2015-07-09 20:48:04 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 7.6 sec.
+2015-07-09 20:48:04 :  CheckHeroesHealth started 
+2015-07-09 20:48:05 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 6.2 sec.
+2015-07-09 20:48:05 :  CheckHeroesHealth started 
+2015-07-09 20:48:07 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 4.8 sec.
+2015-07-09 20:48:07 :  CheckHeroesHealth started 
+2015-07-09 20:48:08 : detected [G]: 63722 [E]: 31834 [DE]:  |  Exit in 3.4 sec.
+2015-07-09 20:48:08 :  CheckHeroesHealth started 
+2015-07-09 20:48:09 : detected [G]: 62617 [E]: 31834 [DE]:  |  Exit in 2.0 sec.
+2015-07-09 20:48:09 : Gold1: 63722  Gold2: 62617
+2015-07-09 20:48:09 : Elixir1: 31834  Elixir2: 31834
+2015-07-09 20:48:09 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:09 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:11 :  CheckHeroesHealth started 
+2015-07-09 20:48:12 : detected [G]: 60186 [E]: 31834 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:12 : Gold1: 61291  Gold2: 60186
+2015-07-09 20:48:12 : Elixir1: 31834  Elixir2: 31834
+2015-07-09 20:48:12 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:12 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:14 :  CheckHeroesHealth started 
+2015-07-09 20:48:15 : detected [G]: 57970 [E]: 31834 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:15 : Gold1: 59080  Gold2: 57970
+2015-07-09 20:48:15 : Elixir1: 31834  Elixir2: 31834
+2015-07-09 20:48:15 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:15 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:16 :  CheckHeroesHealth started 
+2015-07-09 20:48:18 : detected [G]: 56904 [E]: 31834 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:18 :  CheckHeroesHealth started 
+2015-07-09 20:48:19 : detected [G]: 56904 [E]: 31834 [DE]:  |  Exit in 17.3 sec.
+2015-07-09 20:48:19 :  CheckHeroesHealth started 
+2015-07-09 20:48:20 : detected [G]: 56904 [E]: 30950 [DE]:  |  Exit in 15.9 sec.
+2015-07-09 20:48:21 : Gold1: 56904  Gold2: 56904
+2015-07-09 20:48:21 : Elixir1: 31834  Elixir2: 30950
+2015-07-09 20:48:21 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:21 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:22 :  CheckHeroesHealth started 
+2015-07-09 20:48:23 : detected [G]: 56904 [E]: 29182 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:23 : Gold1: 56904  Gold2: 56904
+2015-07-09 20:48:23 : Elixir1: 29845  Elixir2: 29182
+2015-07-09 20:48:23 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:23 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:25 :  CheckHeroesHealth started 
+2015-07-09 20:48:26 : detected [G]: 56904 [E]: 27633 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:26 : Gold1: 56904  Gold2: 56904
+2015-07-09 20:48:26 : Elixir1: 28519  Elixir2: 27633
+2015-07-09 20:48:26 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:26 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:27 :  CheckHeroesHealth started 
+2015-07-09 20:48:29 : detected [G]: 56904 [E]: 25857 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:29 : Gold1: 56904  Gold2: 56904
+2015-07-09 20:48:29 : Elixir1: 26523  Elixir2: 25857
+2015-07-09 20:48:29 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:29 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:30 :  CheckHeroesHealth started 
+2015-07-09 20:48:31 : detected [G]: 56904 [E]: 24747 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:32 : Gold1: 56904  Gold2: 56904
+2015-07-09 20:48:32 : Elixir1: 24969  Elixir2: 24747
+2015-07-09 20:48:32 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:32 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:33 :  CheckHeroesHealth started 
+2015-07-09 20:48:34 : detected [G]: 55422 [E]: 24747 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:34 : Gold1: 56657  Gold2: 55422
+2015-07-09 20:48:34 : Elixir1: 24747  Elixir2: 24747
+2015-07-09 20:48:34 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:34 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:36 :  CheckHeroesHealth started 
+2015-07-09 20:48:37 : detected [G]: 52952 [E]: 24747 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:37 : Gold1: 54187  Gold2: 52952
+2015-07-09 20:48:37 : Elixir1: 24747  Elixir2: 24747
+2015-07-09 20:48:37 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:37 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:38 :  CheckHeroesHealth started 
+2015-07-09 20:48:40 : detected [G]: 50235 [E]: 24747 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:40 : Gold1: 51470  Gold2: 50235
+2015-07-09 20:48:40 : Elixir1: 24747  Elixir2: 24747
+2015-07-09 20:48:40 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:40 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:41 :  CheckHeroesHealth started 
+2015-07-09 20:48:42 : detected [G]: 49000 [E]: 24747 [DE]:  |  Exit in 18.7 sec.
+2015-07-09 20:48:42 : Gold1: 49247  Gold2: 49000
+2015-07-09 20:48:42 : Elixir1: 24747  Elixir2: 24747
+2015-07-09 20:48:42 : Dark Elixir1: 0  Dark Elixir2: 0
+2015-07-09 20:48:42 : Gold & Elixir & DE change detected, waiting...
+2015-07-09 20:48:44 :  CheckHeroesHealth started 
+2015-07-09 20:48:45 : detected [G]:  [E]:  [DE]:  |  Exit in 18.1 sec.
+2015-07-09 20:48:46 : Battle has finished
+2015-07-09 20:48:46 : Returning Home
+2015-07-09 20:48:51 : Loot: [G]: 31 876 [E]: 45 155 [DE]: 45 155 [T]: 0
+2015-07-09 20:48:51 : Bonus [G]: 3 000 [E]: 3 000
+2015-07-09 20:48:52 : Your league level is: Silver II
+2015-07-09 20:48:52 : Stars earned: 1
+2015-07-09 20:48:52 : Taking snapshot of your loot
+2015-07-09 20:48:52 : Pushbullet: Last Raid screenshot has been sent!
+2015-07-09 20:49:04 : Trying to locate Main Screen
+2015-07-09 20:49:04 : Main Screen Located
+2015-07-09 20:49:06 : Profile Report
+2015-07-09 20:49:06 : Opening Profile page to read atk, def, donated ad received...
+2015-07-09 20:49:07 :  [ATKW]: 37 [DEFW]: 2 [TDON]: 287 [TREC]: 286
+2015-07-09 20:49:16 : Village Report
+2015-07-09 20:49:16 : No. of Free/Total Builders: 0/3
+2015-07-09 20:49:16 :  [T]: 1 078
+2015-07-09 20:49:16 :  [G]: 985 475 [E]: 883 845 [GEM]: 632
+2015-07-09 20:49:21 : Chat Request: balloon
+2015-07-09 20:49:23 : Chat Request: 3 orabove dragon
+2015-07-09 20:49:25 : Func Train 
+2015-07-09 20:49:25 : Checking Army Camp...
+2015-07-09 20:49:26 : $sArmyInfo = 21#135
+2015-07-09 20:49:26 : $CurCamp = 21
+2015-07-09 20:49:26 : $TotalCamp = 135
+2015-07-09 20:49:27 : Total Army Camp capacity: 21/135
+2015-07-09 20:49:27 : $hBitmapFirst made
+2015-07-09 20:49:27 : Calling CGBfunctions.dll/searchIdentifyTroopTrained 
+2015-07-09 20:49:28 : Dll return $FullTemp :Barbarian|9-20|9#Archer|70-22|12
+2015-07-09 20:49:28 : $Trooptype split # : 2
+2015-07-09 20:49:28 : Start the Loop
+2015-07-09 20:49:28 : $TroopTypeT[$i] split : 1
+2015-07-09 20:49:28 :  - No. of Barbarians: 9
+2015-07-09 20:49:28 : $TroopTypeT[$i] split : 2
+2015-07-09 20:49:28 :  - No. of Archers: 12
+2015-07-09 20:49:28 : Training Troops...
+2015-07-09 20:49:30 : This is not a Barrack
+2015-07-09 20:49:30 : Barrack1 selected
+2015-07-09 20:49:31 : Barrack1 selected
+2015-07-09 20:49:31 : Train: need to make normal troops: True
+2015-07-09 20:49:31 : Train: need to make dark troops: False
+2015-07-09 20:49:31 : Barrack1 selected
+2015-07-09 20:49:32 : Barrack2 selected
+2015-07-09 20:49:32 : Barrack2 selected
+2015-07-09 20:49:32 : Barrack3 selected
+2015-07-09 20:49:32 : Barrack3 selected
+2015-07-09 20:49:33 : This is not a Barrack
+2015-07-09 20:49:33 : This is not a Barrack
+2015-07-09 20:49:33 : This is not a Barrack
+2015-07-09 20:49:34 : This is not a Barrack
+2015-07-09 20:49:34 : This is not a Barrack
+2015-07-09 20:49:35 : Barrack3 selected
+2015-07-09 20:49:35 : AfterAttack: True
+2015-07-09 20:49:37 : Barrack2 selected
+2015-07-09 20:49:38 : AfterAttack: True
+2015-07-09 20:49:46 : Barrack1 selected
+2015-07-09 20:49:46 : AfterAttack: True
+2015-07-09 20:49:51 : This is not a Barrack
+2015-07-09 20:49:51 : ---================================================================---
+2015-07-09 20:49:55 : Requesting Clan Castle Troops
+2015-07-09 20:50:01 : No free builder, Upgrade Walls skipped..
+2015-07-09 20:50:02 : ====== Waiting for full army ======

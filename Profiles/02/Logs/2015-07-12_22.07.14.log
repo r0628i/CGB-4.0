@@ -1,0 +1,66 @@
+2015-07-12 22:07:15 : ~~~ Clash Game Bot v4.0 Powered by GameBot.org ~~~
+2015-07-12 22:07:15 : Au3 Script running on WIN_81  X64
+2015-07-12 22:07:15 : =================== Bot Start ====================
+2015-07-12 22:07:15 : Trying to locate Main Screen
+2015-07-12 22:07:15 : Main Screen Located
+2015-07-12 22:07:17 : Detecting your Buildings..
+2015-07-12 22:07:23 : Your Town Hall is Level: 8
+2015-07-12 22:07:24 : Language setting is English: Correct.
+2015-07-12 22:07:25 : Trying to locate Main Screen
+2015-07-12 22:07:25 : Main Screen Located
+2015-07-12 22:07:27 : Collecting Resources
+2015-07-12 22:07:35 : Checking if Village needs Rearming..
+2015-07-12 22:07:46 : Village Report
+2015-07-12 22:07:46 : No. of Free/Total Builders: 0/5
+2015-07-12 22:07:46 :  [T]: 3 136
+2015-07-12 22:07:47 :  [G]: 1 237 976 [E]: 5 624 420 [D]: 78 518 [GEM]: 2 027
+2015-07-12 22:07:49 : Donation not Planned, Skipped..
+2015-07-12 22:07:50 : Checking Army Camp...
+2015-07-12 22:07:52 : Total Army Camp capacity: 200/200
+2015-07-12 22:07:52 : Training Troops...
+2015-07-12 22:08:11 : Request CC not Planned, Skipped..
+2015-07-12 22:08:13 : Checking Upgrade
+2015-07-12 22:08:14 : Updating Village Resource Values
+2015-07-12 22:08:14 : No. of Free/Total Builders: 0/5
+2015-07-12 22:08:14 :  [T]: 3 136
+2015-07-12 22:08:15 :  [G]: 1 237 976 [E]: 5 623 020 [D]: 78 490 [GEM]: 2 027
+2015-07-12 22:08:15 : No builder available for upgrades
+2015-07-12 22:08:16 : No free builder, Upgrade Walls skipped..
+2015-07-12 22:08:18 : Going to Attack...
+2015-07-12 22:08:23 : ============== Searching For Dead Base ===============
+2015-07-12 22:08:23 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 22:08:23 : Meet: Gold or Elixir, TH Outside
+2015-07-12 22:08:23 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 22:08:23 : Aim: [G]:      0 [E]:      0 [D]:    0 [T]: 0, Out
+2015-07-12 22:08:24 : ============== Searching For Live Base ===============
+2015-07-12 22:08:24 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-07-12 22:08:24 : Meet: Gold or Elixir, TH Outside
+2015-07-12 22:08:24 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-07-12 22:08:24 : Aim: [G]:      0 [E]:      0 [D]:    0 [T]: 0, Out
+2015-07-12 22:08:24 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-07-12 22:08:24 : THSnipe Combo, 1 Tile(s), 
+2015-07-12 22:08:24 : ==================================================
+2015-07-12 22:08:33 :   1> [G]: 467216 [E]: 139397 [D]: 2159 [T]:16 [TH]:10, In
+2015-07-12 22:08:43 :   2> [G]: 198588 [E]: 172766 [D]: 2129 [T]:19 [TH]:10, In
+2015-07-12 22:08:54 :   3> [G]:  69828 [E]: 117754 [D]:  921 [T]: 8 [TH]: 9, In
+2015-07-12 22:09:05 :   4> [G]:  63167 [E]:  44503 [D]: 1018 [T]:30 [TH]:10, In
+2015-07-12 22:09:15 :   5> [G]: 399661 [E]: 259280 [D]: 2259 [T]: 4 [TH]: 9, Out
+2015-07-12 22:09:15 : No major traps found near TH.
+2015-07-12 22:09:15 : ~~~~~~~~~~~~~~~~ Live Base Found! ~~~~~~~~~~~~~~~~
+2015-07-12 22:09:17 : ================ Search Complete =================
+2015-07-12 22:09:17 : Mode: 1
+2015-07-12 22:09:17 : Initiating attack for: Live Base
+2015-07-12 22:09:23 : ClashGameBot was Paused!
+2015-07-12 22:09:32 : ClashGameBot was Resumed.
+2015-07-12 22:09:32 : -Archers 22
+2015-07-12 22:09:32 : -Dragons 8
+2015-07-12 22:09:32 : -Minions 9
+2015-07-12 22:09:32 : -King 
+2015-07-12 22:09:32 : -Jump Spells 2
+2015-07-12 22:09:32 : -Rage Spells 2
+2015-07-12 22:09:32 : -Heal Spells 2
+2015-07-12 22:09:32 :  ====== Start Attack ====== 
+2015-07-12 22:09:34 : Attacking on a single side
+2015-07-12 22:09:35 : Dropping first wave of 11 Archers
+2015-07-12 22:09:37 : Dropping only wave of 9 Minions
+2015-07-12 22:09:39 : ClashGameBot was Paused!
